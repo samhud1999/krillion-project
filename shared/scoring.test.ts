@@ -26,6 +26,8 @@ const biscuits: PromptBank = {
     { canonical: 'Scotch Finger', aliases: ['scotch fingers'], tier: 'common' },
     { canonical: 'Gaiety', aliases: ['gaieties', 'gaietys'], tier: 'deep' },
     { canonical: 'Teddy Bear biscuit', aliases: ['teddy bear', 'teddy bears'], tier: 'rare' },
+    // The biscuit sitting on the table in front of everyone.
+    { canonical: 'Butternut Snap', aliases: ['butternut snaps', 'butternut'], tier: 'common', obvious: true },
   ],
 };
 
@@ -162,6 +164,13 @@ describe('tierForRarity', () => {
   it('special answers always hit the top tier', () => {
     expect(tierForRarity({ count: 15, validCount: 20, special: true })).toBe('krillion');
   });
+  it('pins obvious answers to a puddle, even when only one person says them', () => {
+    expect(tierForRarity({ count: 1, validCount: 20, bankTier: 'common', obvious: true })).toBe('puddle');
+    expect(tierForRarity({ count: 1, validCount: 20, bankTier: 'deep', obvious: true })).toBe('puddle');
+    expect(tierForRarity({ count: 2, validCount: 6, obvious: true })).toBe('puddle');
+    // a host special answer still trumps the obvious flag
+    expect(tierForRarity({ count: 1, validCount: 20, obvious: true, special: true })).toBe('krillion');
+  });
   it('is cautious in tiny rooms', () => {
     expect(tierForRarity({ count: 1, validCount: 3, bankTier: 'deep' })).toBe('deepcut');
     expect(tierForRarity({ count: 2, validCount: 3 })).toBe('puddle');
@@ -209,6 +218,23 @@ describe('scoreOpenRound', () => {
     expect(out.results['p1']!.depthAfter).toBe(110);
     // rarest first
     expect(out.groups[0]!.display).toBe('Gaiety');
+  });
+
+  it('pins a lone obvious bank answer to a puddle and tags the group', () => {
+    const out = scoreOpenRound(
+      [
+        { playerId: 'p1', raw: 'butternut snap' },
+        { playerId: 'p2', raw: 'Gaiety' },
+        { playerId: 'p3', raw: 'Kingston' },
+        { playerId: 'p4', raw: 'Monte Carlo' },
+      ],
+      { matcher, depthBefore, playerIds: ['p1', 'p2', 'p3', 'p4'] },
+    );
+    const snap = out.groups.find((g) => g.display === 'Butternut Snap')!;
+    expect(snap.obvious).toBe(true);
+    expect(snap.tier).toBe('puddle'); // alone, but it was on the table in front of everyone
+    expect(out.results['p1']!.points).toBe(10);
+    expect(out.groups.find((g) => g.display === 'Gaiety')!.tier).toBe('krillion'); // untouched
   });
 
   it('honours host rejections and recomputes the denominator', () => {

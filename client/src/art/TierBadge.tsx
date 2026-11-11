@@ -129,8 +129,9 @@ export function TierBadge({ tier, size = 'md', animate = false, className }: Tie
           })}
         </g>
       ) : null}
-      <circle cx={50} cy={50} r={38} fill="#0b1d2a" stroke={c} strokeWidth={4} />
-      <circle cx={50} cy={50} r={32} fill="none" stroke={c} strokeWidth={1} opacity={0.35} />
+      {/* notched pixel-corner frame in place of the old circle */}
+      <path d="M26 12 H74 V26 H88 V74 H74 V88 H26 V74 H12 V26 H26 Z" fill="#0b1d2a" stroke={c} strokeWidth={4} strokeLinejoin="miter" />
+      <path d="M30 18 H70 V30 H82 V70 H70 V82 H30 V70 H18 V30 H30 Z" fill="none" stroke={c} strokeWidth={1} opacity={0.35} />
       <Emblem tier={tier} />
     </svg>
   );

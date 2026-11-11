@@ -146,6 +146,8 @@ export interface MatchResult {
   display: string;
   matched: boolean;
   bankTier?: BankTier;
+  /** the bank flags this as the answer staring everyone in the face */
+  obvious?: boolean;
   /** 'exact' alias/canonical hit, 'singular' after singularising, 'fuzzy' within edit budget */
   via?: 'exact' | 'singular' | 'fuzzy';
 }
@@ -201,6 +203,7 @@ export function buildMatcher(bank: Pick<PromptBank, 'answers'>): Matcher {
       display: entry.canonical,
       matched: true,
       bankTier: entry.tier,
+      obvious: entry.obvious || undefined,
       via,
     };
   }
@@ -278,6 +281,8 @@ export interface RarityInput {
   validCount: number;
   bankTier?: BankTier;
   special?: boolean;
+  /** flagged obvious in the bank: everyone at the table can see it */
+  obvious?: boolean;
   /** the answer is not in the curated bank */
   unverified?: boolean;
   /** the host has vouched for an unverified answer */
@@ -287,6 +292,7 @@ export interface RarityInput {
 /**
  * Live rarity among the people in the room.
  *   special answer                     → krillion, always
+ *   obvious answer (bank-flagged)      → puddle, always — rarity can't save it
  *   count = 1, in the bank             → deepcut, or krillion if the bank calls it a deep cut
  *   count = 1, not in the bank         → rockpool until the host vouches (then deepcut)
  *   count = 2                          → rockpool in a room of 8+, shallows in 5–7, puddle below
@@ -297,9 +303,10 @@ export interface RarityInput {
  * being unique among three people proves little.
  */
 export function tierForRarity(input: RarityInput): TierId {
-  const { count, validCount, bankTier, special, unverified, vouched } = input;
+  const { count, validCount, bankTier, special, obvious, unverified, vouched } = input;
   if (special) return 'krillion';
   if (count <= 0 || validCount <= 0) return 'dry';
+  if (obvious) return 'puddle';
   if (count === 1) {
     if (unverified && !vouched) return 'rockpool';
     if (bankTier === 'deep' && validCount >= 4) return 'krillion';
@@ -380,6 +387,7 @@ export function scoreOpenRound(subs: OpenSubmission[], opts: ScoreOpenOptions): 
         playerIds: [],
         status,
         bankTier: m.bankTier,
+        obvious: m.obvious,
         vouched: status === 'unverified' && accepted.has(m.key) ? true : undefined,
         tier: 'dry',
         points: 0,
@@ -404,6 +412,7 @@ export function scoreOpenRound(subs: OpenSubmission[], opts: ScoreOpenOptions): 
       validCount,
       bankTier: g.bankTier,
       special: g.status === 'special',
+      obvious: g.obvious,
       unverified: g.status === 'unverified',
       vouched: g.vouched,
     });

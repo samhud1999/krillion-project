@@ -229,6 +229,6 @@ Message rate limiting (20 messages a second per socket) and input limits (16-cha
 
 ## Updating prompts and answers
 
-Every prompt is a JSON file in `server/data/bank/`. Add or edit entries, then run `npm run bank:check`. Each answer has a `canonical` name, lowercase `aliases` (misspellings, nicknames, plurals) and a `tier` from `common` to `deep`. A `deep` entry that only one person says scores One in a Krillion. Restart the server to load changes; with Docker Compose the banks are baked into the image, so run `docker compose up --build`.
+Every prompt is a JSON file in `server/data/bank/`. Add or edit entries, then run `npm run bank:check`. Each answer has a `canonical` name, lowercase `aliases` (misspellings, nicknames, plurals) and a `tier` from `common` to `deep`. A `deep` entry that only one person says scores One in a Krillion. Add `"obvious": true` to pin an answer to a puddle (10 m) no matter how few people say it — Lorne, Wye River, Separation Creek and Kennett River ship pinned on both town prompts, because naming the town outside the window is not a dive. Restart the server to load changes; with Docker Compose the banks are baked into the image, so run `docker compose up --build`.
 
 To add a brand-new prompt, copy an existing file, give it a new `id`, set `approved` to `true` if it should appear in the default list, and restart. It will show up in the host's Setup drawer.

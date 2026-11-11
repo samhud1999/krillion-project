@@ -16,12 +16,18 @@ import { log } from './log.js';
 // Schema
 // ---------------------------------------------------------------------------
 
-export const bankAnswerSchema = z.object({
-  canonical: z.string().trim().min(1).max(80),
-  aliases: z.array(z.string().trim().max(80)),
-  tier: z.enum(['common', 'uncommon', 'rare', 'deep']),
-  note: z.string().max(400).optional(),
-});
+export const bankAnswerSchema = z
+  .object({
+    canonical: z.string().trim().min(1).max(80),
+    aliases: z.array(z.string().trim().max(80)),
+    tier: z.enum(['common', 'uncommon', 'rare', 'deep']),
+    /** pinned to a puddle no matter how few say it (the town outside the window) */
+    obvious: z.boolean().optional(),
+    note: z.string().max(400).optional(),
+  })
+  // strict so a misspelled flag ("obvoius": true) fails bank:check loudly
+  // instead of being silently stripped and scoring by rarity anyway.
+  .strict();
 
 export const numericAnswerSchema = z.object({
   answer: z.number().finite(),

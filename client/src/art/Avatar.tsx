@@ -24,6 +24,14 @@ export function badgeColors(base: string): { badge: string; ring: string; shade:
     : { badge: mix(base, '#f4f1e8', 0.66), ring: mix(base, '#0b1d2a', 0.3), shade: mix(base, '#0b1d2a', 0.55) };
 }
 
+/**
+ * Almost-pixel badge: a square with notched "pixel" corners instead of a
+ * circle. Same 100×100 footprint as the old circular badge, so every caller
+ * keeps its sizing.
+ */
+const NOTCH = 18;
+const BADGE_PATH = `M${NOTCH} 3 H${100 - NOTCH} V${NOTCH} H97 V${100 - NOTCH} H${100 - NOTCH} V97 H${NOTCH} V${100 - NOTCH} H3 V${NOTCH} H${NOTCH} Z`;
+
 export function Avatar({ id, size = 48, className, title, ring = true }: AvatarProps) {
   const uid = useId().replace(/[:]/g, '');
   const clipId = `sck-av-${uid}`;
@@ -43,17 +51,17 @@ export function Avatar({ id, size = 48, className, title, ring = true }: AvatarP
       {title ? <title>{title}</title> : null}
       <defs>
         <clipPath id={clipId}>
-          <circle cx={50} cy={50} r={47} />
+          <path d={BADGE_PATH} />
         </clipPath>
       </defs>
       {/* badge */}
-      <circle cx={50} cy={50} r={47} fill={colors.badge} />
+      <path d={BADGE_PATH} fill={colors.badge} />
       {/* soft inner shade at the bottom so the animal sits in a bowl */}
       <ellipse cx={50} cy={78} rx={40} ry={16} fill={colors.shade} opacity={0.18} clipPath={`url(#${clipId})`} />
       <g clipPath={`url(#${clipId})`}>
         <Animal base={info.color} />
       </g>
-      {ring ? <circle cx={50} cy={50} r={47} fill="none" stroke={colors.ring} strokeWidth={3} /> : null}
+      {ring ? <path d={BADGE_PATH} fill="none" stroke={colors.ring} strokeWidth={3} /> : null}
     </svg>
   );
 }

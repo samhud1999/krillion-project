@@ -5,8 +5,9 @@ import { CreekScene } from '../../artApi';
 import { BackdropLayer } from '../../components/BackdropLayer';
 import { Button } from '../../components/Button';
 import { GroupRow } from '../../components/GroupRow';
+import { Leaderboard } from '../../components/Leaderboard';
 import { useKey } from '../../hooks/useKey';
-import { useMediaQuery } from '../../hooks/useMediaQuery';
+import { useMediaQuery, useShortScreen } from '../../hooks/useMediaQuery';
 import { send } from '../../ws';
 
 export function HostReveal({ view }: { view: HostView }) {
@@ -15,6 +16,7 @@ export function HostReveal({ view }: { view: HostView }) {
   // Enter is left to whatever button has focus (Vouch/Reject must never advance the round)
   useKey([' ', 'ArrowRight'], next);
   const wide = useMediaQuery('(min-width: 1536px)');
+  const short = useShortScreen();
 
   // Paint the creek at last round's depths first, then let everyone drop on the big screen.
   const roundIndex = round?.index ?? -1;
@@ -51,8 +53,8 @@ export function HostReveal({ view }: { view: HostView }) {
           <h1 className="display mt-1 truncate text-3xl font-semibold">{round.prompt.text}</h1>
         </div>
         <div className="flex shrink-0 items-center gap-4">
-          <p className="hidden text-xs text-foam-faint lg:block">
-            <kbd className="rounded bg-white/10 px-1.5 py-0.5">Space</kbd> next
+          <p className="pixel hidden text-xs tracking-widest text-tier-krillion animate-pulse-soft lg:block">
+            PRESS SPACE ▶ {isLast ? 'RESULTS' : 'NEXT'}
           </p>
           <Button size="xl" onClick={next}>
             {isLast ? 'Final results' : 'Next prompt'} →
@@ -60,9 +62,9 @@ export function HostReveal({ view }: { view: HostView }) {
         </div>
       </header>
 
-      <div className="grid min-h-0 gap-6 lg:grid-cols-[auto_minmax(0,1fr)]">
+      <div className="grid min-h-0 gap-4 lg:grid-cols-[auto_minmax(0,1fr)_minmax(13rem,15rem)] lg:gap-5">
         <section
-          className="h-[46dvh] min-h-0 overflow-hidden rounded-3xl glass p-2 lg:h-full lg:aspect-[600/1400]"
+          className="h-[46dvh] min-h-0 overflow-hidden rounded-none notch glass p-2 lg:h-full lg:aspect-[600/1400]"
           aria-label="The creek"
         >
           <CreekScene players={scenePlayers} variant="host" showZoneLabels className="h-full" />
@@ -70,7 +72,7 @@ export function HostReveal({ view }: { view: HostView }) {
 
         <section className="flex min-h-0 flex-col gap-3">
           {isNumeric && round.numericAnswer && (
-            <div className="rounded-3xl border border-tier-krillion/40 bg-tier-krillion/10 px-5 py-4">
+            <div className="rounded-none notch-sm border-2 border-tier-krillion/40 bg-tier-krillion/10 px-5 py-4">
               <p className="text-xs font-semibold uppercase tracking-[0.25em] text-tier-krillion">The answer</p>
               <p className="display text-5xl font-bold">
                 {round.numericAnswer.answer.toLocaleString('en-AU')}
@@ -128,9 +130,11 @@ export function HostReveal({ view }: { view: HostView }) {
                 </motion.li>
               ))}
             </AnimatePresence>
-            {groups.length === 0 && <li className="rounded-2xl glass p-6 text-center text-foam-muted">Nobody got an answer in. Brutal.</li>}
+            {groups.length === 0 && <li className="rounded-none notch-sm glass p-6 text-center text-foam-muted">Nobody got an answer in. Brutal.</li>}
           </ol>
         </section>
+
+        <Leaderboard players={scenePlayers} showGains={settled} maxRows={short ? 10 : 20} className="hidden lg:flex" />
       </div>
     </main>
   );

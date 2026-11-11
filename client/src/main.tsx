@@ -1,5 +1,6 @@
 import '@fontsource-variable/fraunces/soft.css';
 import '@fontsource-variable/inter/index.css';
+import '@fontsource-variable/pixelify-sans/index.css';
 import './styles.css';
 
 import { StrictMode } from 'react';

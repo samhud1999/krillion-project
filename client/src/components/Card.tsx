@@ -15,7 +15,7 @@ const TONE = {
 
 export function Card({ children, padding = 'md', tone = 'glass', className = '', ...rest }: CardProps) {
   return (
-    <div className={['rounded-3xl', TONE[tone], PAD[padding], className].join(' ')} {...rest}>
+    <div className={['rounded-none notch', TONE[tone], PAD[padding], className].join(' ')} {...rest}>
       {children}
     </div>
   );

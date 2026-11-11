@@ -140,6 +140,27 @@ function wavePath(y: number, amp: number, wavelength: number, x0: number, x1: nu
   return d;
 }
 
+/**
+ * Almost-pixel band edge: a square-wave top edge (stair steps) from x0 to x1
+ * at yEdge, closed down to yBottom. The signature retro move of the scene.
+ */
+function steppedBandPath(yEdge: number, x0: number, x1: number, yBottom: number, step: number, drop: number): string {
+  let d = `M${x0} ${yEdge.toFixed(1)}`;
+  let x = x0;
+  let down = true;
+  while (x < x1) {
+    const nx = Math.min(x + step, x1);
+    d += ` H${nx.toFixed(1)}`;
+    if (nx < x1) {
+      d += ` v${down ? drop : -drop}`;
+      down = !down;
+    }
+    x = nx;
+  }
+  d += ` V${yBottom.toFixed(1)} H${x0} Z`;
+  return d;
+}
+
 function starPath(cx: number, cy: number, outer: number, inner: number): string {
   const pts: string[] = [];
   for (let i = 0; i < 10; i++) {
@@ -189,7 +210,21 @@ export function CreekScene({
   const yBeach = zY(zone('beach').from);
   const yMouth = zY(zone('mouth').from);
   const yBottom = g.waterBottom;
-  const frac = (m: number) => (zY(m) - g.waterTop) / (yBottom - g.waterTop);
+
+  // The channel outline, fanning out to full width at the mouth. Shared by the
+  // fill and by the clip that keeps the quantized bands inside the water.
+  const waterPath = `M${cl} ${g.waterTop} L${cr} ${g.waterTop} L${cr} ${yBeach + 40 * s} C${cr + 4} ${yMouth - 40 * s} ${cr + 30} ${yMouth} ${W} ${yMouth + 30 * s} L${W} ${H} L0 ${H} L0 ${yMouth + 30 * s} C${cl - 30} ${yMouth} ${cl - 4} ${yMouth - 40 * s} ${cl} ${yBeach + 40 * s} Z`;
+
+  // almost-pixel water: flat zone bands with stair-stepped edges + sparse dither
+  const bandStep = phone ? 26 : 44;
+  const bandDrop = phone ? 5 : 8;
+  const yTrench = yMouth + (yBottom - yMouth) * 0.55;
+  const bands: { y: number; color: string; x0: number }[] = [
+    { y: yRock, color: '#1f3a3f', x0: 0 },
+    { y: yBeach, color: '#2f8f9d', x0: -bandStep / 2 },
+    { y: yMouth, color: '#0f4c5c', x0: 0 },
+    { y: yTrench, color: '#06202b', x0: -bandStep / 2 },
+  ];
 
   const laid = layoutPlayers(players, maxDepth, variant);
   const showAllNames = variant === 'results';
@@ -258,17 +293,7 @@ export function CreekScene({
           <stop offset="0.7" stopColor="#0b1d2a" />
           <stop offset="1" stopColor="#163447" />
         </linearGradient>
-        <linearGradient id={id('water')} gradientUnits="userSpaceOnUse" x1="0" y1={g.waterTop} x2="0" y2={yBottom}>
-          <stop offset="0" stopColor="#7a5128" />
-          <stop offset="0.03" stopColor="#5a3b1e" />
-          <stop offset={frac(zone('rockpools').from) - 0.01} stopColor="#3a2614" />
-          <stop offset={frac(zone('rockpools').from) + 0.005} stopColor="#1f3a3f" />
-          <stop offset={frac(zone('beach').from) - 0.01} stopColor="#244a52" />
-          <stop offset={frac(zone('beach').from) + 0.005} stopColor="#2f8f9d" />
-          <stop offset={frac(zone('mouth').from) - 0.015} stopColor="#1a6f7c" />
-          <stop offset={frac(zone('mouth').from) + 0.005} stopColor="#0f4c5c" />
-          <stop offset="1" stopColor="#06202b" />
-        </linearGradient>
+        {/* almost-pixel: the water is flat quantized bands (see steppedBandPath), not a gradient */}
         <radialGradient id={id('lamp')} cx="0.5" cy="0.5" r="0.5">
           <stop offset="0" stopColor="#ffd27a" stopOpacity="0.85" />
           <stop offset="0.4" stopColor="#ffd27a" stopOpacity="0.28" />
@@ -284,6 +309,9 @@ export function CreekScene({
         </linearGradient>
         <clipPath id={id('channel')}>
           <rect x={cl} y={g.waterTop} width={cw} height={yBottom - g.waterTop} />
+        </clipPath>
+        <clipPath id={id('watershape')}>
+          <path d={waterPath} />
         </clipPath>
         <clipPath id={id('deep')}>
           <rect x={0} y={yMouth} width={W} height={yBottom - yMouth} />
@@ -355,11 +383,23 @@ export function CreekScene({
       <path d={`M0 ${yBeach + 30} L${cl - 6} ${yBeach + 24} M0 ${yBeach + 70} L${cl - 10} ${yBeach + 60}`} stroke="#cdb88e" strokeWidth={2} />
       <path d={`M${W} ${yBeach + 30} L${cr + 6} ${yBeach + 24} M${W} ${yBeach + 70} L${cr + 10} ${yBeach + 60}`} stroke="#cdb88e" strokeWidth={2} />
 
-      {/* ---- water: the channel, fanning out to full width at the mouth ---- */}
-      <path
-        d={`M${cl} ${g.waterTop} L${cr} ${g.waterTop} L${cr} ${yBeach + 40 * s} C${cr + 4} ${yMouth - 40 * s} ${cr + 30} ${yMouth} ${W} ${yMouth + 30 * s} L${W} ${H} L0 ${H} L0 ${yMouth + 30 * s} C${cl - 30} ${yMouth} ${cl - 4} ${yMouth - 40 * s} ${cl} ${yBeach + 40 * s} Z`}
-        fill={`url(#${id('water')})`}
-      />
+      {/* ---- water: tannin base + quantized zone bands with stepped edges ---- */}
+      <path d={waterPath} fill="#5a3b1e" />
+      <g clipPath={`url(#${id('watershape')})`}>
+        {bands.map((b) => (
+          <path key={b.color} d={steppedBandPath(b.y, b.x0, W, H, bandStep, bandDrop)} fill={b.color} />
+        ))}
+        {/* sparse dither squares floating above each band edge */}
+        {bands.map((b, bi) => (
+          <g key={`d${bi}`} fill={b.color}>
+            {Array.from({ length: phone ? 7 : 11 }, (_, i) => {
+              const x = ((i * 83 + bi * 47) % (W + 40)) - 20;
+              const sz = (4 + (i % 2) * 2) * s;
+              return <rect key={i} x={x} y={b.y - (12 + (i % 3) * 7) * s} width={sz} height={sz} />;
+            })}
+          </g>
+        ))}
+      </g>
       {/* drifting caustic ribbons, clipped to the channel */}
       <g clipPath={`url(#${id('channel')})`} opacity={0.5}>
         <path d={wavePath(g.waterTop + 26 * s, 5 * s, 70 * s, cl - 140, cr + 140)} fill="none" stroke="#f4f1e8" strokeWidth={2} opacity={0.16} className="sck-anim-drift" />
@@ -548,11 +588,11 @@ export function CreekScene({
 
       {/* ---- zone labels ---- */}
       {showZoneLabels ? (
-        <g style={{ fontFamily: 'var(--sck-font-ui)' }}>
+        <g style={{ fontFamily: 'var(--sck-font-pixel)' }}>
           {[0, ...ZONES.slice(1).map((z) => z.from), maxDepth].map((m, i) => (
             <g key={i}>
               <line x1={tickX0 - 10 * s} y1={zY(m)} x2={W} y2={zY(m)} stroke="#f4f1e8" strokeWidth={1} opacity={0.35} strokeDasharray={m === 0 || m === maxDepth ? undefined : '3 4'} />
-              <rect x={W - (phone ? 38 : 50)} y={zY(m) - g.labelFont * 0.85} width={phone ? 36 : 48} height={g.labelFont * 1.5} rx={4} fill="rgba(6,32,43,0.78)" />
+              <rect x={W - (phone ? 38 : 50)} y={zY(m) - g.labelFont * 0.85} width={phone ? 36 : 48} height={g.labelFont * 1.5} rx={1} fill="rgba(6,32,43,0.78)" stroke="rgba(244,241,232,0.25)" strokeWidth={1} />
               <text x={W - (phone ? 20 : 26)} y={zY(m) + g.labelFont * 0.3} textAnchor="middle" fontSize={g.labelFont} fontWeight={600} fill="#f4f1e8">
                 {m} m
               </text>
@@ -567,7 +607,7 @@ export function CreekScene({
             const pillLen = label.length * fs * 0.78 + 18;
             return (
               <g key={z.id} transform={`rotate(-90 ${labelX} ${mid})`}>
-                <rect x={labelX - pillLen / 2} y={mid - fs * 0.95} width={pillLen} height={fs * 1.7} rx={fs * 0.85} fill="rgba(6,32,43,0.72)" />
+                <rect x={labelX - pillLen / 2} y={mid - fs * 0.95} width={pillLen} height={fs * 1.7} rx={1} fill="rgba(6,32,43,0.72)" stroke="rgba(244,241,232,0.25)" strokeWidth={1} />
                 <text x={labelX} y={mid + fs * 0.32} textAnchor="middle" fontSize={fs} fontWeight={700} letterSpacing={1.5} fill="#f4f1e8" opacity={0.9}>
                   {label}
                 </text>
@@ -600,8 +640,8 @@ export function CreekScene({
               </g>
               {showName ? (
                 <g transform={`translate(0 ${size / 2 + 6})`}>
-                  <rect x={-nameW / 2} y={0} width={nameW} height={g.labelFont * 1.6} rx={g.labelFont * 0.8} fill="rgba(6,32,43,0.82)" stroke={hl ? '#ffd27a' : 'rgba(244,241,232,0.25)'} strokeWidth={1} />
-                  <text x={0} y={g.labelFont * 1.15} textAnchor="middle" fontSize={g.labelFont} fontWeight={700} fill="#f4f1e8">
+                  <rect x={-nameW / 2} y={0} width={nameW} height={g.labelFont * 1.6} rx={1} fill="rgba(6,32,43,0.82)" stroke={hl ? '#ffd27a' : 'rgba(244,241,232,0.25)'} strokeWidth={1} />
+                  <text x={0} y={g.labelFont * 1.15} textAnchor="middle" fontSize={g.labelFont} fontWeight={700} fill="#f4f1e8" style={{ fontFamily: 'var(--sck-font-pixel)' }}>
                     {player.name}
                   </text>
                 </g>

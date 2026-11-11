@@ -56,4 +56,6 @@
   /* type */
   --font-display: 'Fraunces Variable', 'Iowan Old Style', Georgia, serif;
   --font-ui: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  /* almost-pixel retro display face: headings, numerals, HUD chrome */
+  --font-pixel: 'Pixelify Sans Variable', 'Pixelify Sans', 'Courier New', monospace;
 }

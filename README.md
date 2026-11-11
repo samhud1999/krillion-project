@@ -47,6 +47,8 @@ Taken from a real 20-player game by `node scripts/e2e.cjs` (host at 1920×1080, 
    | High and dry | no dive | no answer, or the host knocked it back | 0 |
 
    One point is one metre. Seven perfect answers reach the creek mouth at 700 m.
+
+   **Obvious answers never score.** Entries flagged `"obvious": true` in the bank (Lorne, Wye River, Separation Creek and Kennett River on the two town prompts — the places you can see from the dinner table or the koala stop two bends south) are pinned to a puddle (10 m) no matter how few people say them, and show a **too obvious** tag on the reveal. A host special answer still trumps the flag.
 5. Answers the game did not recognise are tagged **unverified**. They still score, but a lone unverified answer sits at rock pool (60) until the host taps **Vouch**, which lifts it to deep cut (85); **Reject** sends a wrong or joke answer to zero. Everyone's phone updates live. This is what stops "Lorneeeee" out-scoring eight honest "Lorne"s.
 6. After seven prompts: podium, full leaderboard, a creek cross-section with everyone at their final depth, and a share card for the group chat.
 

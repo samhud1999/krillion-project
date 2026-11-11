@@ -18,7 +18,7 @@ export interface GroupRowProps {
   index?: number;
 }
 
-const TAG = 'shrink-0 rounded-full px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide';
+const TAG = 'pixel shrink-0 rounded-sm px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide';
 
 export function GroupRow({ group, players, highlight, showWho, onModerate, compact, tv, index }: GroupRowProps) {
   const info = TIERS[group.tier];
@@ -37,7 +37,7 @@ export function GroupRow({ group, players, highlight, showWho, onModerate, compa
   return (
     <div
       className={[
-        'flex items-center gap-3 rounded-2xl border transition-colors',
+        'flex items-center gap-3 rounded-none notch-sm border-2 transition-colors',
         pad,
         highlight ? 'border-sun-400/70 bg-sun-500/10' : 'border-white/8 bg-white/4',
         rejected ? 'opacity-45' : '',
@@ -49,6 +49,7 @@ export function GroupRow({ group, players, highlight, showWho, onModerate, compa
         <div className="flex items-baseline gap-2 min-w-0">
           <span className={['truncate font-semibold', nameSize, rejected ? 'line-through' : ''].join(' ')}>{group.display}</span>
           {group.status === 'special' && <span className={`${TAG} bg-tier-krillion/20 font-bold text-tier-krillion`}>special</span>}
+          {group.obvious && group.status === 'bank' && <span className={`${TAG} bg-white/8 text-foam-faint`}>too obvious</span>}
           {unverified && !group.vouched && <span className={`${TAG} bg-white/8 text-foam-faint`}>unverified</span>}
           {unverified && group.vouched && <span className={`${TAG} bg-emerald-500/15 text-emerald-200`}>vouched</span>}
           {rejected && <span className={`${TAG} bg-rose-500/15 text-rose-300`}>rejected</span>}
@@ -60,16 +61,16 @@ export function GroupRow({ group, players, highlight, showWho, onModerate, compa
       {showWho && shown.length > 0 && (
         <div className="hidden sm:flex items-center -space-x-2 shrink-0">
           {shown.map((p) => (
-            <span key={p.id} className="rounded-full ring-2 ring-creek-950">
+            <span key={p.id}>
               <Avatar id={p.avatar} size={compact || tv ? 24 : 30} title={p.name} />
             </span>
           ))}
           {extra > 0 && (
-            <span className="grid size-7 place-items-center rounded-full bg-white/10 text-xs font-semibold ring-2 ring-creek-950">+{extra}</span>
+            <span className="pixel grid size-7 place-items-center rounded-sm bg-white/10 text-xs font-semibold ring-2 ring-creek-950">+{extra}</span>
           )}
         </div>
       )}
-      <div className={['shrink-0 tabular font-bold', pointsSize, rejected ? 'text-foam-faint' : ''].join(' ')}>
+      <div className={['pixel shrink-0 tabular font-bold', pointsSize, rejected ? 'text-foam-faint' : ''].join(' ')}>
         {rejected ? '0' : `+${group.points}`}
         <span className="text-xs font-medium text-foam-faint"> m</span>
       </div>

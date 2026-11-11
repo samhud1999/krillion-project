@@ -23,6 +23,12 @@ export interface BankAnswer {
   canonical: string;
   aliases: string[];
   tier: BankTier;
+  /**
+   * The answer everyone in the room can see out the window (Lorne at a
+   * Separation Creek table). Always scores a puddle (10) no matter how few
+   * people said it — a host special answer still trumps it.
+   */
+  obvious?: boolean;
   note?: string;
 }
 
@@ -179,6 +185,8 @@ export interface AnswerGroup {
   playerIds: string[];
   status: AnswerGroupStatus;
   bankTier?: BankTier;
+  /** flagged obvious in the bank: pinned to a puddle regardless of rarity */
+  obvious?: boolean;
   /**
    * Unverified answers that only one person gave score a rock pool (60) until
    * the host vouches for them with host:moderate accepted=true, which sets

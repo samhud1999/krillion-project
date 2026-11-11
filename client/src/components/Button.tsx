@@ -11,20 +11,21 @@ export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   children: ReactNode;
 }
 
+/* Retro game buttons: chunky bevel (thick bottom border) that presses down on :active. */
 const VARIANTS: Record<Variant, string> = {
   primary:
-    'bg-sun-500 text-ink hover:bg-sun-400 active:bg-sun-600 shadow-[0_8px_30px_-10px_var(--sun-500)] disabled:bg-sun-500/40 disabled:text-ink/60 disabled:shadow-none',
-  secondary: 'bg-white/10 text-foam hover:bg-white/15 active:bg-white/20 border border-white/10 disabled:opacity-40',
-  ghost: 'bg-transparent text-foam-muted hover:text-foam hover:bg-white/8 disabled:opacity-40',
-  danger: 'bg-rose-500/15 text-rose-200 border border-rose-400/30 hover:bg-rose-500/25 disabled:opacity-40',
-  success: 'bg-emerald-500/15 text-emerald-200 border border-emerald-400/30 hover:bg-emerald-500/25 disabled:opacity-40',
+    'bg-sun-500 text-ink border-2 border-sun-600 border-b-4 hover:bg-sun-400 active:bg-sun-600 disabled:bg-sun-500/40 disabled:text-ink/60',
+  secondary: 'bg-white/10 text-foam hover:bg-white/15 active:bg-white/20 border-2 border-white/15 border-b-4 border-b-white/25 disabled:opacity-40',
+  ghost: 'bg-transparent text-foam-muted hover:text-foam hover:bg-white/8 border-2 border-transparent disabled:opacity-40',
+  danger: 'bg-rose-500/15 text-rose-200 border-2 border-rose-400/30 border-b-4 hover:bg-rose-500/25 disabled:opacity-40',
+  success: 'bg-emerald-500/15 text-emerald-200 border-2 border-emerald-400/30 border-b-4 hover:bg-emerald-500/25 disabled:opacity-40',
 };
 
 const SIZES: Record<Size, string> = {
-  sm: 'h-9 px-3 text-sm rounded-xl gap-1.5',
-  md: 'h-11 px-4 text-base rounded-2xl gap-2',
-  lg: 'h-14 px-6 text-lg rounded-2xl gap-2',
-  xl: 'h-16 px-8 text-xl rounded-3xl gap-3',
+  sm: 'h-9 px-3 text-sm rounded-md gap-1.5',
+  md: 'h-11 px-4 text-base rounded-md gap-2',
+  lg: 'h-14 px-6 text-lg rounded-lg gap-2',
+  xl: 'h-16 px-8 text-xl rounded-lg gap-3',
 };
 
 export function Button({ variant = 'primary', size = 'md', block, loading, className = '', children, disabled, type = 'button', ...rest }: ButtonProps) {
@@ -34,7 +35,7 @@ export function Button({ variant = 'primary', size = 'md', block, loading, class
       disabled={disabled || loading}
       aria-busy={loading || undefined}
       className={[
-        'inline-flex items-center justify-center font-semibold select-none transition-[background-color,transform,box-shadow] duration-150 active:scale-[0.98] disabled:cursor-not-allowed disabled:active:scale-100 min-w-[44px]',
+        'pixel inline-flex items-center justify-center font-semibold select-none transition-[background-color,transform,border-width] duration-100 active:translate-y-[2px] active:border-b-2 disabled:cursor-not-allowed disabled:active:translate-y-0 min-w-[44px]',
         VARIANTS[variant],
         SIZES[size],
         block ? 'w-full' : '',

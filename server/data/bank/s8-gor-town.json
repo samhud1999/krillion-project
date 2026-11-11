@@ -121,7 +121,9 @@
         "lourne",
         "lorne vic"
       ],
-      "tier": "common"
+      "tier": "common",
+      "obvious": true,
+      "note": "Too obvious from a Separation Creek dinner table - pinned to a puddle (10 m)."
     },
     {
       "canonical": "Cumberland River",
@@ -143,7 +145,9 @@
         "wye rvr",
         "wye rva"
       ],
-      "tier": "common"
+      "tier": "common",
+      "obvious": true,
+      "note": "Too obvious from a Separation Creek dinner table - pinned to a puddle (10 m)."
     },
     {
       "canonical": "Separation Creek",
@@ -153,10 +157,13 @@
         "separation ck",
         "sep ck",
         "seperation ck",
-        "separation"
+        "separation",
+        "sepo",
+        "seppo"
       ],
       "tier": "uncommon",
-      "note": "Home base for the weekend - expect several to say it, so it will not score as rare in this room."
+      "obvious": true,
+      "note": "Home base for the weekend - pinned to a puddle (10 m) no matter how few say it."
     },
     {
       "canonical": "Kennett River",
@@ -168,7 +175,9 @@
         "kennet rv",
         "kenneth river"
       ],
-      "tier": "common"
+      "tier": "common",
+      "obvious": true,
+      "note": "The koala stop two bends south of the house - pinned to a puddle (10 m)."
     },
     {
       "canonical": "Grey River",

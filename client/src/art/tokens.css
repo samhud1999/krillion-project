@@ -55,6 +55,8 @@
   /* type */
   --sck-font-display: 'Fraunces Variable', 'Fraunces', Georgia, 'Times New Roman', serif;
   --sck-font-ui: 'Inter Variable', 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  /* almost-pixel: retro game headings, scores and HUD numerals */
+  --sck-font-pixel: 'Pixelify Sans Variable', 'Pixelify Sans', 'Courier New', monospace;
 
   /* motion */
   --sck-ease-dive: cubic-bezier(0.22, 0.9, 0.3, 1.2);

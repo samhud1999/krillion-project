@@ -8,6 +8,7 @@
 @theme {
   --font-display: var(--font-display);
   --font-sans: var(--font-ui);
+  --font-pixel: var(--font-pixel);
 
   --color-creek-100: var(--creek-100);
   --color-creek-200: var(--creek-200);
@@ -185,16 +186,42 @@
 @utility tabular {
   font-variant-numeric: tabular-nums;
 }
+/* Almost-pixel retro: big type goes pixel; the serif stays available as `.serif-display`. */
 @utility display {
+  font-family: var(--font-pixel);
+  letter-spacing: 0.02em;
+}
+@utility serif-display {
   font-family: var(--font-display);
   font-variation-settings: 'SOFT' 100, 'WONK' 1;
   letter-spacing: -0.01em;
+}
+@utility pixel {
+  font-family: var(--font-pixel);
+  letter-spacing: 0.02em;
 }
 @utility glass {
   background: rgba(255, 255, 255, 0.06);
   border: 1px solid rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
+}
+/* Notched "pixel corner" panels: pair with rounded-none; borders clip into the notch. */
+@utility notch {
+  clip-path: polygon(
+    0 12px, 12px 12px, 12px 0,
+    calc(100% - 12px) 0, calc(100% - 12px) 12px, 100% 12px,
+    100% calc(100% - 12px), calc(100% - 12px) calc(100% - 12px), calc(100% - 12px) 100%,
+    12px 100%, 12px calc(100% - 12px), 0 calc(100% - 12px)
+  );
+}
+@utility notch-sm {
+  clip-path: polygon(
+    0 7px, 7px 7px, 7px 0,
+    calc(100% - 7px) 0, calc(100% - 7px) 7px, 100% 7px,
+    100% calc(100% - 7px), calc(100% - 7px) calc(100% - 7px), calc(100% - 7px) 100%,
+    7px 100%, 7px calc(100% - 7px), 0 calc(100% - 7px)
+  );
 }
 
 /* confetti burst for the winner — pure CSS, no JS */

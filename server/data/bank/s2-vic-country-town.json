@@ -83,7 +83,9 @@
         "lourne",
         "lorne vic"
       ],
-      "tier": "common"
+      "tier": "common",
+      "obvious": true,
+      "note": "Too obvious from a Separation Creek dinner table - pinned to a puddle (10 m)."
     },
     {
       "canonical": "Wye River",
@@ -95,7 +97,9 @@
         "wye-river",
         "wy river"
       ],
-      "tier": "common"
+      "tier": "common",
+      "obvious": true,
+      "note": "Too obvious from a Separation Creek dinner table - pinned to a puddle (10 m)."
     },
     {
       "canonical": "Separation Creek",
@@ -106,10 +110,12 @@
         "seperation creek",
         "separation ck",
         "sepo",
-        "separation"
+        "separation",
+        "seppo"
       ],
       "tier": "uncommon",
-      "note": "The game's namesake: a gazetted hamlet between Wye River and Kennett River (pop. ~28). Definitely accept"
+      "obvious": true,
+      "note": "The game's namesake (pop. ~28) - but it's home base, so pinned to a puddle (10 m). Definitely accept"
     },
     {
       "canonical": "Kennett River",
@@ -123,7 +129,8 @@
         "kennett rvr"
       ],
       "tier": "common",
-      "note": "Koala spot on the GOR"
+      "obvious": true,
+      "note": "The koala stop two bends south of the house - pinned to a puddle (10 m)."
     },
     {
       "canonical": "Skenes Creek",

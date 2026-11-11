@@ -6,6 +6,8 @@ export { CreekScene, depthToY, metresToY, layoutPlayers, SCENE_GEOMETRY } from '
 export type { CreekSceneProps, SceneVariant, SceneGeometry } from './CreekScene';
 export { DepthMeter, ZONE_COLORS, ZONE_ACCENTS } from './DepthMeter';
 export type { DepthMeterProps } from './DepthMeter';
+export { DescentScene } from './DescentScene';
+export type { DescentSceneProps } from './DescentScene';
 export { TierBadge, TIER_COLORS } from './TierBadge';
 export type { TierBadgeProps } from './TierBadge';
 export { Logo, KrillMark } from './Logo';
