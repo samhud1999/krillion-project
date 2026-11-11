@@ -1,0 +1,264 @@
+/* Separation Creek Krillion — art tokens
+ * Palette, type and shared keyframes. Everything is prefixed `sck`.
+ */
+:root {
+  /* sky & land */
+  --sck-night: #0b1d2a;
+  --sck-night-2: #112b3c;
+  --sck-star: #f4f1e8;
+  --sck-moon: #f6ecc8;
+  --sck-concrete: #cfc6b4;
+  --sck-concrete-shadow: #8f8674;
+  --sck-concrete-deep: #6c6558;
+  --sck-fern: #2f6b45;
+  --sck-fern-deep: #1e4731;
+  --sck-fern-light: #4f9a66;
+  --sck-gum: #b9a58e;
+  --sck-gum-shadow: #7f6d59;
+
+  /* water, top to bottom */
+  --sck-tannin: #5a3b1e;
+  --sck-tannin-deep: #3a2614;
+  --sck-basalt: #2b2f36;
+  --sck-basalt-light: #3f454f;
+  --sck-anemone: #e07a5f;
+  --sck-anemone-light: #f3b19d;
+  --sck-sand: #e9d8b4;
+  --sck-sand-shadow: #cdb88e;
+  --sck-foam: #f4f1e8;
+  --sck-shallow: #2f8f9d;
+  --sck-shallow-light: #4fb1bd;
+  --sck-deep: #0f4c5c;
+  --sck-trench: #06202b;
+  --sck-kelp: #1f5a46;
+  --sck-kelp-light: #3b8a66;
+  --sck-glow: #7ee8fa;
+  --sck-lamp: #ffd27a;
+  --sck-lamp-deep: #e2a93c;
+
+  /* ui */
+  --sck-accent: #ff7a5c;
+  --sck-accent-deep: #d9573a;
+  --sck-text: #f4f1e8;
+  --sck-text-dim: #b8c4c9;
+  --sck-ink: #0b1d2a;
+  --sck-pill: rgba(6, 32, 43, 0.78);
+
+  /* tiers */
+  --sck-tier-dry: #8f8674;
+  --sck-tier-puddle: #9fb7c4;
+  --sck-tier-shallows: #4fb1bd;
+  --sck-tier-rockpool: #e07a5f;
+  --sck-tier-deepcut: #2f6fd1;
+  --sck-tier-krillion: #ffd27a;
+
+  /* type */
+  --sck-font-display: 'Fraunces Variable', 'Fraunces', Georgia, 'Times New Roman', serif;
+  --sck-font-ui: 'Inter Variable', 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  /* motion */
+  --sck-ease-dive: cubic-bezier(0.22, 0.9, 0.3, 1.2);
+  --sck-ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes sck-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+@keyframes sck-shimmer {
+  0%,
+  100% {
+    opacity: 0.35;
+  }
+  50% {
+    opacity: 0.9;
+  }
+}
+
+@keyframes sck-rise {
+  0% {
+    transform: translateY(0) scale(0.6);
+    opacity: 0;
+  }
+  15% {
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateY(-140px) scale(1);
+    opacity: 0;
+  }
+}
+
+@keyframes sck-drift {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-120px);
+  }
+}
+
+@keyframes sck-drift-back {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(120px);
+  }
+}
+
+@keyframes sck-sway {
+  0%,
+  100% {
+    transform: rotate(-3deg);
+  }
+  50% {
+    transform: rotate(3deg);
+  }
+}
+
+@keyframes sck-twinkle {
+  0%,
+  100% {
+    opacity: 0.15;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.25);
+  }
+}
+
+@keyframes sck-pulse-ring {
+  0% {
+    transform: scale(0.85);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+@keyframes sck-pop-in {
+  0% {
+    transform: scale(0.3) rotate(-25deg);
+    opacity: 0;
+  }
+  60% {
+    transform: scale(1.12) rotate(4deg);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1) rotate(0deg);
+    opacity: 1;
+  }
+}
+
+@keyframes sck-glow-pulse {
+  0%,
+  100% {
+    filter: drop-shadow(0 0 4px rgba(126, 232, 250, 0.35));
+  }
+  50% {
+    filter: drop-shadow(0 0 14px rgba(126, 232, 250, 0.9));
+  }
+}
+
+@keyframes sck-rays {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes sck-foam-slide {
+  from {
+    transform: translateX(-40px);
+  }
+  to {
+    transform: translateX(40px);
+  }
+}
+
+/* long-running decorative motion is switched off for people who asked for less motion */
+@media (prefers-reduced-motion: reduce) {
+  .sck-anim-float,
+  .sck-anim-shimmer,
+  .sck-anim-rise,
+  .sck-anim-drift,
+  .sck-anim-sway,
+  .sck-anim-twinkle,
+  .sck-anim-rays,
+  .sck-anim-foam,
+  .sck-anim-glow,
+  .sck-anim-pulse {
+    animation: none !important;
+  }
+  .sck-marker {
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* utility animation classes used by the art components */
+.sck-anim-float {
+  animation: sck-float 4s ease-in-out infinite;
+}
+.sck-anim-shimmer {
+  animation: sck-shimmer 3.2s ease-in-out infinite;
+}
+.sck-anim-rise {
+  animation: sck-rise 7s ease-in infinite;
+}
+.sck-anim-drift {
+  animation: sck-drift 18s linear infinite;
+}
+.sck-anim-drift-back {
+  animation: sck-drift-back 24s linear infinite;
+}
+.sck-anim-sway {
+  animation: sck-sway 6s ease-in-out infinite;
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+}
+.sck-anim-twinkle {
+  animation: sck-twinkle 3s ease-in-out infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.sck-anim-rays {
+  animation: sck-rays 14s linear infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.sck-anim-foam {
+  animation: sck-foam-slide 5s ease-in-out infinite alternate;
+}
+.sck-anim-glow {
+  animation: sck-glow-pulse 2.4s ease-in-out infinite;
+}
+.sck-anim-pulse {
+  animation: sck-pulse-ring 1.6s ease-out infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.sck-anim-pop {
+  animation: sck-pop-in 0.7s var(--sck-ease-out) both;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+.sck-marker {
+  transition: transform 1.6s var(--sck-ease-dive);
+  will-change: transform;
+}
+.sck-meter-marker {
+  transition: transform 1.2s var(--sck-ease-dive);
+}

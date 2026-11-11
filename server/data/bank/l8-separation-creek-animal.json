@@ -1,0 +1,798 @@
+{
+  "id": "l8-separation-creek-animal",
+  "text": "Name an animal you might spot at Separation Creek.",
+  "type": "open",
+  "category": "local",
+  "approved": false,
+  "answers": [
+    {
+      "canonical": "Koala",
+      "aliases": ["koalas", "koala bear", "koala bears", "drop bear", "drop bears"],
+      "tier": "common",
+      "note": "The Kennett River koala colony is five minutes up the road; the single most likely answer in the room."
+    },
+    {
+      "canonical": "Eastern grey kangaroo",
+      "aliases": ["kangaroo", "kangaroos", "roo", "roos", "eastern grey", "eastern greys", "grey kangaroo", "grey roo", "skippy"],
+      "tier": "common",
+      "note": "Mobs are more Anglesea/Apollo Bay than Separation Creek itself, but they occur through the Otways. Accept."
+    },
+    {
+      "canonical": "Wallaby",
+      "aliases": ["wallabies", "wallabys", "wallabee"],
+      "tier": "common",
+      "note": "Generic. The only wallaby here is the swamp wallaby; merge with that entry if the room agrees."
+    },
+    {
+      "canonical": "Swamp wallaby",
+      "aliases": ["swamp wallabies", "black wallaby", "black wallabies", "swampy", "swampies", "black-tailed wallaby"],
+      "tier": "uncommon",
+      "note": "The dark wallaby that bolts across Great Ocean Road at dusk."
+    },
+    {
+      "canonical": "Possum",
+      "aliases": ["possums", "possie"],
+      "tier": "common",
+      "note": "Generic; brushtail and ringtail have their own entries."
+    },
+    {
+      "canonical": "Brushtail possum",
+      "aliases": ["brushtail", "brushtails", "brushtail possums", "brush-tailed possum", "brush tail possum", "brush-tail possum", "common brushtail possum"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Ringtail possum",
+      "aliases": ["ringtail", "ringtails", "ringtail possums", "ring-tailed possum", "ring tail possum", "ring-tail possum", "common ringtail possum"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Echidna",
+      "aliases": ["echidnas", "spiny anteater", "short-beaked echidna"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Wombat",
+      "aliases": ["wombats", "common wombat", "bare-nosed wombat"],
+      "tier": "uncommon",
+      "note": "Present in the Otways (thicker around Cape Otway and Apollo Bay); accept."
+    },
+    {
+      "canonical": "Platypus",
+      "aliases": ["platypuses", "platypi", "duck-billed platypus"],
+      "tier": "uncommon",
+      "note": "Lives in Otway streams (Lake Elizabeth is the famous spot); plausible in the bigger local creeks."
+    },
+    {
+      "canonical": "Sugar glider",
+      "aliases": ["sugar gliders", "glider", "gliders", "yellow-bellied glider", "yellow bellied glider", "feathertail glider"],
+      "tier": "rare",
+      "note": "Any glider other than greater glider groups here. Yellow-bellied gliders are in the Otways too; bump to deep if named."
+    },
+    {
+      "canonical": "Greater glider",
+      "aliases": ["greater gliders", "southern greater glider"],
+      "tier": "deep",
+      "note": "Southern greater gliders live in the Otway tall forests; spotlighting territory."
+    },
+    {
+      "canonical": "Antechinus",
+      "aliases": ["antechinuses", "agile antechinus", "dusky antechinus", "swamp antechinus", "marsupial mouse"],
+      "tier": "deep",
+      "note": "The little marsupial 'mouse' that raids holiday-house pantries."
+    },
+    {
+      "canonical": "Bush rat",
+      "aliases": ["bush rats", "native rat", "native rats", "swamp rat", "rat", "rats", "black rat"],
+      "tier": "rare",
+      "note": "Any rat groups here; the bush rat is the native one you'd actually see in the Otways."
+    },
+    {
+      "canonical": "Rakali",
+      "aliases": ["rakalis", "water rat", "water rats", "native water rat", "australian water rat"],
+      "tier": "deep",
+      "note": "Native water rat; present in Otway creeks and estuaries."
+    },
+    {
+      "canonical": "Southern brown bandicoot",
+      "aliases": ["bandicoot", "bandicoots", "brown bandicoot", "southern brown bandicoots"],
+      "tier": "deep",
+      "note": "Recorded in the Otways; a genuine deep cut."
+    },
+    {
+      "canonical": "Spotted-tailed quoll",
+      "aliases": ["quoll", "quolls", "tiger quoll", "tiger quolls", "spotted-tail quoll", "spotted tailed quoll", "spot-tailed quoll", "spotted-tailed quolls"],
+      "tier": "deep",
+      "note": "Recorded in the Otways (a 2014 sighting ended a 24-year gap). Correct but vanishingly unlikely; full marks."
+    },
+    {
+      "canonical": "Microbat",
+      "aliases": ["bat", "bats", "microbats", "micro bat", "micro bats", "insectivorous bat", "little forest bat", "gould's wattled bat", "chocolate wattled bat"],
+      "tier": "uncommon",
+      "note": "Any small bat at dusk. If someone says fruit bat or flying fox, treat as rare (summer visitors only)."
+    },
+    {
+      "canonical": "Fur seal",
+      "aliases": ["seal", "seals", "fur seals", "australian fur seal", "australian fur seals", "long-nosed fur seal", "new zealand fur seal", "nz fur seal"],
+      "tier": "uncommon",
+      "note": "Colonies are at Marengo and Cape Bridgewater, but seals cruise past and haul out on the rocks here."
+    },
+    {
+      "canonical": "Dolphin",
+      "aliases": ["dolphins", "bottlenose dolphin", "bottlenose dolphins", "bottlenose", "common dolphin", "common dolphins", "porpoise"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Whale",
+      "aliases": ["whales"],
+      "tier": "common",
+      "note": "Generic; southern right, humpback and orca have their own entries."
+    },
+    {
+      "canonical": "Southern right whale",
+      "aliases": ["southern right whales", "southern right", "southern rights", "right whale", "right whales"],
+      "tier": "uncommon",
+      "note": "Winter (June to September) visitor along the Otway coast."
+    },
+    {
+      "canonical": "Humpback whale",
+      "aliases": ["humpback", "humpbacks", "humpback whales"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Orca",
+      "aliases": ["orcas", "killer whale", "killer whales"],
+      "tier": "rare",
+      "note": "Occasionally seen off the Otways; accept."
+    },
+    {
+      "canonical": "Fox",
+      "aliases": ["foxes", "red fox", "red foxes"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Rabbit",
+      "aliases": ["rabbits", "bunny", "bunnies", "european rabbit"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Feral cat",
+      "aliases": ["cat", "cats", "feral cats", "wild cat", "wild cats", "moggy"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Deer",
+      "aliases": ["deers", "feral deer", "wild deer", "red deer", "hog deer"],
+      "tier": "rare",
+      "note": "Four feral deer species are in the Otways; accept any. Sambar and fallow have their own entries."
+    },
+    {
+      "canonical": "Sambar deer",
+      "aliases": ["sambar", "sambars", "sambar deers"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Fallow deer",
+      "aliases": ["fallow", "fallows", "fallow deers"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Feral pig",
+      "aliases": ["pig", "pigs", "feral pigs", "wild pig", "wild pigs", "wild boar", "boar"],
+      "tier": "deep",
+      "note": "Feral pigs are an active control target in the Otways; correct but rarely seen."
+    },
+    {
+      "canonical": "Dog",
+      "aliases": ["dogs", "doggo", "puppy", "pup", "labrador", "kelpie"],
+      "tier": "uncommon",
+      "note": "Dogs on the beach count; the prompt says spot, not native."
+    },
+    {
+      "canonical": "Cow",
+      "aliases": ["cows", "cattle", "bull", "calf", "dairy cow", "beef cattle"],
+      "tier": "rare",
+      "note": "Paddocks sit inland on the ridge; a stretch, but accept."
+    },
+    {
+      "canonical": "Bird",
+      "aliases": ["birds", "birdie", "birdies"],
+      "tier": "uncommon",
+      "note": "Generic lazy answer; accept, groups with nothing else."
+    },
+    {
+      "canonical": "Kookaburra",
+      "aliases": ["kookaburras", "kooka", "kookas", "kookie", "laughing kookaburra"],
+      "tier": "common"
+    },
+    {
+      "canonical": "King parrot",
+      "aliases": ["king parrots", "australian king parrot", "australian king-parrot", "king-parrot", "kingparrot"],
+      "tier": "common",
+      "note": "The Kennett River cafe birds; half the room has had one on their arm."
+    },
+    {
+      "canonical": "Crimson rosella",
+      "aliases": ["rosella", "rosellas", "crimson rosellas", "red rosella", "eastern rosella", "eastern rosellas"],
+      "tier": "common",
+      "note": "Eastern rosella also occurs but is much scarcer here; grouped."
+    },
+    {
+      "canonical": "Sulphur-crested cockatoo",
+      "aliases": ["cockatoo", "cockatoos", "cocky", "cockies", "cockie", "sulphur crested cockatoo", "sulphur-crested cockatoos", "sulfur-crested cockatoo", "sulfur crested cockatoo", "white cockatoo", "white cockatoos", "sulphur crested"],
+      "tier": "common",
+      "note": "Generic cockatoo lands here; black cockatoos are separate."
+    },
+    {
+      "canonical": "Yellow-tailed black cockatoo",
+      "aliases": ["black cockatoo", "black cockatoos", "yellow-tailed black cockatoos", "yellow tailed black cockatoo", "yellow-tailed black-cockatoo", "yellowtail black cockatoo", "black cocky", "black cockies", "ytbc"],
+      "tier": "uncommon",
+      "note": "Wailing flocks over the pines and banksias; very Otways."
+    },
+    {
+      "canonical": "Gang-gang cockatoo",
+      "aliases": ["gang-gang", "gang gang", "gang-gangs", "gang gangs", "ganggang", "gang gang cockatoo", "gang-gang cockatoos"],
+      "tier": "rare",
+      "note": "The creaky-door call in the tall forest; present in the Otways."
+    },
+    {
+      "canonical": "Galah",
+      "aliases": ["galahs", "pink and grey", "pink and grey galah"],
+      "tier": "uncommon",
+      "note": "More a farmland and town bird than wet forest, but common around the Great Ocean Road townships."
+    },
+    {
+      "canonical": "Rainbow lorikeet",
+      "aliases": ["lorikeet", "lorikeets", "rainbow lorikeets", "lorrie", "lorries", "musk lorikeet", "musk lorikeets", "rainbow lori"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Parrot",
+      "aliases": ["parrots", "parrott"],
+      "tier": "uncommon",
+      "note": "Generic."
+    },
+    {
+      "canonical": "Magpie",
+      "aliases": ["magpies", "maggie", "maggies", "maggy", "australian magpie"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Currawong",
+      "aliases": ["currawongs", "pied currawong", "pied currawongs", "grey currawong", "grey currawongs", "curra"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Raven",
+      "aliases": ["ravens", "crow", "crows", "little raven", "little ravens", "australian raven", "forest raven", "forest ravens"],
+      "tier": "uncommon",
+      "note": "Victoria's 'crows' are ravens (little and forest ravens here). Accept crow."
+    },
+    {
+      "canonical": "Wattlebird",
+      "aliases": ["wattlebirds", "red wattlebird", "red wattlebirds", "little wattlebird", "little wattlebirds", "wattle bird", "wattle birds"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "New Holland honeyeater",
+      "aliases": ["new holland honeyeaters", "new holland", "new hollands", "newholland honeyeater"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Honeyeater",
+      "aliases": ["honeyeaters", "honey eater", "honey eaters", "yellow-faced honeyeater", "white-naped honeyeater", "white-eared honeyeater", "crescent honeyeater", "white-plumed honeyeater", "eastern spinebill", "spinebill", "spinebills"],
+      "tier": "rare",
+      "note": "Generic honeyeater or any species other than New Holland; spinebills group here."
+    },
+    {
+      "canonical": "Superb fairy-wren",
+      "aliases": ["fairy-wren", "fairy wren", "fairywren", "fairy-wrens", "fairy wrens", "blue wren", "blue wrens", "superb fairy wren", "superb fairywren", "superb fairy-wrens", "superb blue wren", "wren", "wrens"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Eastern yellow robin",
+      "aliases": ["yellow robin", "yellow robins", "eastern yellow robins", "robin", "robins"],
+      "tier": "rare",
+      "note": "Generic robin lands here; pink robin has its own entry."
+    },
+    {
+      "canonical": "Pink robin",
+      "aliases": ["pink robins"],
+      "tier": "deep",
+      "note": "Otways wet-gully specialist. Scarlet, flame and rose robins also occur; treat them as deep too."
+    },
+    {
+      "canonical": "Grey fantail",
+      "aliases": ["fantail", "fantails", "grey fantails", "gray fantail"],
+      "tier": "rare",
+      "note": "Generic fantail lands here."
+    },
+    {
+      "canonical": "Rufous fantail",
+      "aliases": ["rufous fantails"],
+      "tier": "deep",
+      "note": "Summer migrant to the Otway gullies."
+    },
+    {
+      "canonical": "Willie wagtail",
+      "aliases": ["willie wagtails", "willy wagtail", "willy wagtails", "willie-wagtail", "wagtail", "wagtails"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Magpie-lark",
+      "aliases": ["magpie-larks", "magpie lark", "magpie larks", "peewee", "peewees", "pee wee", "pee wees", "peewit", "mudlark", "mudlarks"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Superb lyrebird",
+      "aliases": ["lyrebird", "lyrebirds", "lyre bird", "lyre birds", "superb lyrebirds"],
+      "tier": "uncommon",
+      "note": "Genuine Otways resident (Kennett River nature walk, Lorne gullies). Heard more than seen."
+    },
+    {
+      "canonical": "Satin bowerbird",
+      "aliases": ["bowerbird", "bowerbirds", "bower bird", "bower birds", "satin bowerbirds"],
+      "tier": "deep",
+      "note": "Present in the Otways; look for blue pegs and bottle tops in a bower."
+    },
+    {
+      "canonical": "Eastern whipbird",
+      "aliases": ["whipbird", "whipbirds", "whip bird", "whip birds", "eastern whipbirds"],
+      "tier": "deep",
+      "note": "The whip-crack call in the gullies; an isolated Otways population."
+    },
+    {
+      "canonical": "Rufous bristlebird",
+      "aliases": ["bristlebird", "bristlebirds", "bristle bird", "rufous bristlebirds"],
+      "tier": "deep",
+      "note": "Signature Otway-coast skulker in the scrub between Lorne and Apollo Bay; the twitcher's deep cut."
+    },
+    {
+      "canonical": "Bronzewing",
+      "aliases": ["bronzewings", "brush bronzewing", "brush bronzewings", "common bronzewing", "bronzewing pigeon", "bronze-wing", "bronze wing", "pigeon", "pigeons", "wonga pigeon", "wonga pigeons", "wonga"],
+      "tier": "deep",
+      "note": "Any native pigeon groups here (brush bronzewing is the coastal one; wonga pigeon also occurs)."
+    },
+    {
+      "canonical": "Wedge-tailed eagle",
+      "aliases": ["wedge-tailed eagles", "wedge tailed eagle", "wedge-tail eagle", "wedge tail", "wedgie", "wedgies", "wedgetail", "wedgetails", "eagle", "eagles"],
+      "tier": "uncommon",
+      "note": "Generic eagle lands here unless they say sea eagle."
+    },
+    {
+      "canonical": "White-bellied sea eagle",
+      "aliases": ["sea eagle", "sea eagles", "sea-eagle", "white-bellied sea eagles", "white bellied sea eagle", "white-bellied sea-eagle"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Peregrine falcon",
+      "aliases": ["peregrine", "peregrines", "peregrine falcons", "falcon", "falcons"],
+      "tier": "rare",
+      "note": "Nests on the coastal cliffs. Kestrel or hobby would also be rare; group under falcon."
+    },
+    {
+      "canonical": "Owl",
+      "aliases": ["owls", "boobook", "boobooks", "southern boobook", "mopoke", "mopokes", "morepork", "powerful owl", "powerful owls", "masked owl", "sooty owl"],
+      "tier": "uncommon",
+      "note": "Any owl. Powerful and sooty owls are real Otway deep cuts; bump to deep if named specifically."
+    },
+    {
+      "canonical": "Tawny frogmouth",
+      "aliases": ["tawny frogmouths", "frogmouth", "frogmouths", "tawny"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Silver gull",
+      "aliases": ["seagull", "seagulls", "sea gull", "sea gulls", "gull", "gulls", "silver gulls"],
+      "tier": "common",
+      "note": "The chip stealer. Pacific gull has its own entry."
+    },
+    {
+      "canonical": "Pacific gull",
+      "aliases": ["pacific gulls", "big gull", "kelp gull", "kelp gulls", "black-backed gull"],
+      "tier": "rare",
+      "note": "The huge black-backed gull with the red-tipped bill; kelp gulls group here too."
+    },
+    {
+      "canonical": "Hooded plover",
+      "aliases": ["hooded plovers", "hoodie", "hoodies", "hoody", "hooded dotterel", "hooded dotterels"],
+      "tier": "rare",
+      "note": "Endangered beach nester with fenced nest sites on local beaches. Correct and very local."
+    },
+    {
+      "canonical": "Masked lapwing",
+      "aliases": ["plover", "plovers", "spur-winged plover", "spur-winged plovers", "spurwing plover", "lapwing", "lapwings", "masked lapwings"],
+      "tier": "uncommon",
+      "note": "The swooping 'plover' of ovals and verges. Hooded plover is separate."
+    },
+    {
+      "canonical": "Sooty oystercatcher",
+      "aliases": ["oystercatcher", "oystercatchers", "oyster catcher", "oyster catchers", "sooty oystercatchers", "pied oystercatcher", "pied oystercatchers"],
+      "tier": "rare",
+      "note": "Black shorebird with the red bill on the rock platforms; pied oystercatcher groups here."
+    },
+    {
+      "canonical": "Cormorant",
+      "aliases": ["cormorants", "shag", "shags", "pied cormorant", "pied cormorants", "little pied cormorant", "great cormorant", "black-faced cormorant", "little black cormorant", "black cormorant"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Australasian gannet",
+      "aliases": ["gannet", "gannets", "australasian gannets", "australian gannet"],
+      "tier": "rare",
+      "note": "Plunge-diving offshore; easy to see from the headland during a bait ball."
+    },
+    {
+      "canonical": "Little penguin",
+      "aliases": ["penguin", "penguins", "little penguins", "fairy penguin", "fairy penguins", "blue penguin", "little blue penguin"],
+      "tier": "rare",
+      "note": "Small colonies along the Otway coast (Apollo Bay, London Bridge); plausible at dusk, a stretch at Separation Creek itself."
+    },
+    {
+      "canonical": "Pelican",
+      "aliases": ["pelicans", "australian pelican", "australian pelicans", "pelly", "pellie"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "White-faced heron",
+      "aliases": ["heron", "herons", "white-faced herons", "white faced heron", "blue crane", "blue cranes", "grey heron", "egret", "egrets", "white heron", "great egret"],
+      "tier": "uncommon",
+      "note": "Any heron or egret groups here."
+    },
+    {
+      "canonical": "Ibis",
+      "aliases": ["ibises", "bin chicken", "bin chickens", "white ibis", "australian white ibis", "straw-necked ibis", "sacred ibis"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Black swan",
+      "aliases": ["swan", "swans", "black swans"],
+      "tier": "rare",
+      "note": "Estuary and lagoon bird (Wye River mouth, Aire River); accept."
+    },
+    {
+      "canonical": "Duck",
+      "aliases": ["ducks", "duckling", "wood duck", "wood ducks", "australian wood duck", "maned duck", "pacific black duck", "black duck", "black ducks", "chestnut teal", "teal"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Albatross",
+      "aliases": ["albatrosses", "albatros", "shy albatross", "black-browed albatross", "mollymawk", "mollymawks"],
+      "tier": "rare",
+      "note": "Shy albatross is routinely seen off Otway headlands in winter; a genuinely good answer."
+    },
+    {
+      "canonical": "Short-tailed shearwater",
+      "aliases": ["shearwater", "shearwaters", "short-tailed shearwaters", "short tailed shearwater", "mutton bird", "mutton birds", "muttonbird", "muttonbirds"],
+      "tier": "rare",
+      "note": "Streams past offshore in spring and summer; dead ones wash up on the beach."
+    },
+    {
+      "canonical": "Kingfisher",
+      "aliases": ["kingfishers", "king fisher", "sacred kingfisher", "sacred kingfishers", "azure kingfisher", "azure kingfishers"],
+      "tier": "rare",
+      "note": "Sacred kingfisher in summer; azure kingfisher along the creeks."
+    },
+    {
+      "canonical": "Snake",
+      "aliases": ["snakes", "snek"],
+      "tier": "common",
+      "note": "Generic."
+    },
+    {
+      "canonical": "Tiger snake",
+      "aliases": ["tiger snakes", "tiger", "tigers"],
+      "tier": "common",
+      "note": "The Otways snake; dark coastal forms are common."
+    },
+    {
+      "canonical": "Copperhead",
+      "aliases": ["copperheads", "lowland copperhead", "lowland copperheads", "copper head", "copper heads"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Eastern brown snake",
+      "aliases": ["brown snake", "brown snakes", "eastern brown", "eastern browns", "eastern brown snakes", "king brown"],
+      "tier": "rare",
+      "note": "Occurs in the drier parts of Colac Otway Shire; far less likely than tiger or copperhead in wet coastal forest. Accept without argument. 'King brown' is a mulga snake (not here); treat as a misnamed brown."
+    },
+    {
+      "canonical": "Lizard",
+      "aliases": ["lizards", "lizzie"],
+      "tier": "uncommon",
+      "note": "Generic."
+    },
+    {
+      "canonical": "Blue-tongue lizard",
+      "aliases": ["blue-tongue", "blue tongue", "bluetongue", "blue-tongues", "blue tongues", "bluey", "blueys", "blue-tongued lizard", "blue tongue lizard", "blue-tongue skink", "blue tongue skink", "blotched blue-tongue", "blotched blue tongue", "eastern blue-tongue"],
+      "tier": "uncommon",
+      "note": "The blotched blue-tongue is the local species."
+    },
+    {
+      "canonical": "Skink",
+      "aliases": ["skinks", "garden skink", "garden skinks", "water skink", "water skinks", "southern water skink", "grass skink", "weasel skink", "metallic skink"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Jacky dragon",
+      "aliases": ["jacky dragons", "jacky lizard", "jacky lizards", "tree dragon", "dragon lizard", "dragon", "dragons", "mountain dragon"],
+      "tier": "deep",
+      "note": "Coastal heath and woodland dragon; present in the Otways. Any dragon lizard groups here."
+    },
+    {
+      "canonical": "Frog",
+      "aliases": ["frogs", "froggy", "froglet", "froglets", "common froglet", "tree frog", "tree frogs", "southern brown tree frog", "brown tree frog", "whistling tree frog", "growling grass frog"],
+      "tier": "uncommon",
+      "note": "Any frog other than the pobblebonk groups here."
+    },
+    {
+      "canonical": "Pobblebonk",
+      "aliases": ["pobblebonks", "pobble bonk", "banjo frog", "banjo frogs", "eastern banjo frog", "bonk frog"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Fish",
+      "aliases": ["fishes", "fishy"],
+      "tier": "uncommon",
+      "note": "Generic."
+    },
+    {
+      "canonical": "Australian salmon",
+      "aliases": ["salmon", "salmons", "australian salmons", "sambo", "sambos", "kahawai"],
+      "tier": "rare",
+      "note": "Surf-beach salmon are the main beach-fishing catch; not the pink sushi kind."
+    },
+    {
+      "canonical": "Snapper",
+      "aliases": ["snappers", "pinkie", "pinkies", "pinky", "red snapper"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Flathead",
+      "aliases": ["flatheads", "flathead fish", "flatty", "flatties", "flattie"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bream",
+      "aliases": ["breams", "black bream", "black breams", "bream fish"],
+      "tier": "rare",
+      "note": "Estuary fish; Wye River mouth."
+    },
+    {
+      "canonical": "Short-finned eel",
+      "aliases": ["eel", "eels", "short-finned eels", "shortfin eel", "short fin eel", "shortfinned eel", "freshwater eel", "freshwater eels"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "River blackfish",
+      "aliases": ["blackfish", "black fish", "river blackfishes", "slippery", "slipperies"],
+      "tier": "deep",
+      "note": "Native freshwater fish of the Otway streams."
+    },
+    {
+      "canonical": "Yabby",
+      "aliases": ["yabbies", "yabbys", "yabbie", "freshwater crayfish", "freshwater cray", "spiny crayfish", "spiny cray"],
+      "tier": "rare",
+      "note": "The Otway creeks have spiny crayfish rather than true yabbies; accept either."
+    },
+    {
+      "canonical": "Burrowing crayfish",
+      "aliases": ["burrowing crayfishes", "burrowing cray", "burrowing crays", "land crayfish", "land cray", "land yabby", "land yabbies"],
+      "tier": "deep",
+      "note": "The little chimney-building crays in boggy Otway gullies; a genuine deep cut."
+    },
+    {
+      "canonical": "Crab",
+      "aliases": ["crabs", "crabby", "shore crab", "shore crabs", "rock crab", "rock crabs", "red rock crab", "sand crab", "sand crabs", "spider crab", "spider crabs"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hermit crab",
+      "aliases": ["hermit crabs", "hermits"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Southern rock lobster",
+      "aliases": ["crayfish", "cray", "crays", "crayfishes", "rock lobster", "rock lobsters", "southern rock lobsters", "southern rock cray", "lobster", "lobsters"],
+      "tier": "rare",
+      "note": "Cray pots and divers all along this coast; 'crayfish' groups here, not with yabby."
+    },
+    {
+      "canonical": "Sea star",
+      "aliases": ["sea stars", "starfish", "starfishes", "star fish"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Sea anemone",
+      "aliases": ["anemone", "anemones", "sea anemones", "waratah anemone", "waratah anemones"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sea urchin",
+      "aliases": ["urchin", "urchins", "sea urchins", "purple urchin"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Octopus",
+      "aliases": ["octopuses", "octopi", "occy", "occies", "maori octopus", "pale octopus"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Blue-ringed octopus",
+      "aliases": ["blue-ringed octopuses", "blue ringed octopus", "blue ring octopus", "blue-ring octopus", "blue-ring", "blue ring", "blue ringed octopi", "blue-ringed octopi"],
+      "tier": "deep",
+      "note": "Genuinely in Victorian rock pools; correct and a good deep cut."
+    },
+    {
+      "canonical": "Cuttlefish",
+      "aliases": ["cuttlefishes", "cuttle fish", "giant cuttlefish", "cuttlebone", "squid", "squids", "calamari"],
+      "tier": "rare",
+      "note": "Cuttlebones on the beach count as spotting one; squid groups here."
+    },
+    {
+      "canonical": "Abalone",
+      "aliases": ["abalones", "ab", "abs", "blacklip abalone", "black lip abalone", "greenlip abalone", "green lip abalone"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mussel",
+      "aliases": ["mussels", "blue mussel", "blue mussels", "pipi", "pipis", "cockle", "cockles", "oyster", "oysters", "bivalve"],
+      "tier": "rare",
+      "note": "Any beach bivalve groups here."
+    },
+    {
+      "canonical": "Limpet",
+      "aliases": ["limpets", "periwinkle", "periwinkles", "winkle", "winkles", "sea snail", "sea snails", "chiton", "chitons", "turban shell", "turban shells", "whelk", "whelks"],
+      "tier": "rare",
+      "note": "Any rock-pool shell critter (limpets, periwinkles, chitons) groups here."
+    },
+    {
+      "canonical": "Jellyfish",
+      "aliases": ["jellyfishes", "jelly fish", "jellies", "jelly", "moon jelly", "moon jellyfish", "lion's mane", "lions mane", "lion's mane jellyfish"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bluebottle",
+      "aliases": ["bluebottles", "blue bottle", "blue bottles", "portuguese man o' war", "portuguese man of war", "man o' war", "man of war", "man-o-war"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Weedy seadragon",
+      "aliases": ["weedy seadragons", "weedy sea dragon", "weedy sea dragons", "sea dragon", "sea dragons", "seadragon", "seadragons", "leafy seadragon", "seahorse", "seahorses", "sea horse"],
+      "tier": "deep",
+      "note": "Victoria's marine emblem lives in the kelp off this coast; you'd need a snorkel. Seahorse groups here."
+    },
+    {
+      "canonical": "Shark",
+      "aliases": ["sharks", "sharky", "noah", "noahs", "noah's ark", "gummy shark", "gummy", "school shark", "flake"],
+      "tier": "uncommon",
+      "note": "Generic, plus gummy and school shark."
+    },
+    {
+      "canonical": "Stingray",
+      "aliases": ["stingrays", "sting ray", "sting rays", "smooth stingray", "smooth ray", "ray", "rays", "eagle ray", "eagle rays", "southern eagle ray", "stingaree", "stingarees"],
+      "tier": "uncommon",
+      "note": "Any ray other than the fiddler ray groups here."
+    },
+    {
+      "canonical": "Fiddler ray",
+      "aliases": ["fiddler rays", "fiddler", "southern fiddler ray", "banjo shark", "banjo sharks", "banjo ray", "banjo rays"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Port Jackson shark",
+      "aliases": ["port jackson", "port jacksons", "port jackson sharks", "pj shark", "pj sharks", "pj", "pjs"],
+      "tier": "rare",
+      "note": "The spiral egg cases wash up on the beach."
+    },
+    {
+      "canonical": "Bronze whaler",
+      "aliases": ["bronze whalers", "bronze whaler shark", "bronzie", "bronzies", "copper shark", "whaler shark", "whaler", "whalers"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Great white shark",
+      "aliases": ["great white", "great whites", "great white sharks", "white shark", "white sharks", "white pointer", "white pointers", "pointer", "pointers"],
+      "tier": "rare",
+      "note": "Present in Bass Strait and tagged off the Otways; correct, but you'd be unlucky to spot one from the beach."
+    },
+    {
+      "canonical": "Spider",
+      "aliases": ["spiders", "spidey", "white-tailed spider", "white-tail spider", "white tail spider", "whitetail", "white tail", "wolf spider", "orb weaver", "garden orb weaver"],
+      "tier": "uncommon",
+      "note": "Generic, plus anything other than huntsman or redback."
+    },
+    {
+      "canonical": "Huntsman",
+      "aliases": ["huntsmans", "huntsmen", "huntsman spider", "huntsman spiders", "hunstman"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Redback",
+      "aliases": ["redbacks", "red back", "red backs", "red-back", "redback spider", "redback spiders", "red-back spider", "red back spider"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mosquito",
+      "aliases": ["mosquitoes", "mosquitos", "mozzie", "mozzies", "mozzy", "mossie", "mossies"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "March fly",
+      "aliases": ["march flies", "march flys", "marchfly", "marchflies", "horse fly", "horse flies", "horsefly", "horseflies"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Blowfly",
+      "aliases": ["blowflies", "blow fly", "blow flies", "blowie", "blowies", "fly", "flies", "bush fly", "bush flies", "bushfly", "bushflies", "housefly", "house fly"],
+      "tier": "uncommon",
+      "note": "Any fly except march fly groups here."
+    },
+    {
+      "canonical": "Bull ant",
+      "aliases": ["bull ants", "bullant", "bullants", "bull-ant", "bulldog ant", "bulldog ants", "inch ant", "inch ants", "ant", "ants", "meat ant", "meat ants", "sugar ant", "sugar ants"],
+      "tier": "uncommon",
+      "note": "Any ant other than jack jumper groups here."
+    },
+    {
+      "canonical": "Jack jumper",
+      "aliases": ["jack jumpers", "jackjumper", "jackjumpers", "jack jumper ant", "jumper ant", "jumper ants", "jumping jack", "jumping jacks", "hopper ant", "hopper ants"],
+      "tier": "rare",
+      "note": "Nasty little hopping ant; very much an Otways thing."
+    },
+    {
+      "canonical": "Leech",
+      "aliases": ["leeches", "leach", "leaches"],
+      "tier": "uncommon",
+      "note": "Every Otways walker has had one; common in the wet gullies."
+    },
+    {
+      "canonical": "Tick",
+      "aliases": ["ticks", "bush tick", "bush ticks"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bee",
+      "aliases": ["bees", "honey bee", "honeybee", "honey bees", "european honey bee", "native bee", "native bees", "blue-banded bee", "blue banded bee"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "European wasp",
+      "aliases": ["wasp", "wasps", "european wasps", "euro wasp", "euro wasps", "yellowjacket", "paper wasp", "paper wasps"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Butterfly",
+      "aliases": ["butterflies", "butterflys", "common brown butterfly", "common brown", "cabbage white", "cabbage white butterfly", "imperial blue", "monarch", "monarch butterfly", "wanderer butterfly", "admiral"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Moth",
+      "aliases": ["moths", "bogong moth", "bogong moths", "bogong", "emperor gum moth", "emperor moth", "case moth"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cicada",
+      "aliases": ["cicadas", "greengrocer", "green grocer", "black prince", "yellow monday", "redeye cicada"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Glow worm",
+      "aliases": ["glow worms", "glowworm", "glowworms", "glow-worm", "glow-worms", "fungus gnat", "fungus gnats", "glow worm larvae"],
+      "tier": "rare",
+      "note": "Famous at Melba Gully and also found around Kennett River; accept."
+    },
+    {
+      "canonical": "Portuguese millipede",
+      "aliases": ["portuguese millipedes", "millipede", "millipedes", "millepede", "black millipede", "black millipedes"],
+      "tier": "deep",
+      "note": "The autumn black-millipede plague; introduced, but you will definitely spot them."
+    },
+    {
+      "canonical": "Velvet worm",
+      "aliases": ["velvet worms", "velvetworm", "peripatus", "onychophoran", "onychophorans"],
+      "tier": "deep",
+      "note": "Living fossil in rotting Otway logs; the biologist-in-the-room deep cut."
+    }
+  ],
+  "hostNotes": "Be generous: the prompt is 'might spot', so introduced animals, dogs on the beach, rock-pool critters, fish and offshore whales all count, and any genuine Otways species not in this list scores as deep. Generic answers (bird, snake, possum, wallaby, shark) are separate entries from the species, so a specific name is the better play. Traps: goanna/lace monitor, emu, dingo, red kangaroo, wallaroo, Tasmanian devil, crocodile and box jellyfish do not occur here (reject or allow a re-answer); 'drop bear' is a koala, 'crow' is a raven, 'crayfish' means rock lobster not yabby, and 'human' or 'bunyip' is the host's call."
+}

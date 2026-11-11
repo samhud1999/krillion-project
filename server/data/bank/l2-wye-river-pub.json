@@ -1,0 +1,424 @@
+{
+  "id": "l2-wye-river-pub",
+  "text": "Name a dish on the menu at the Wye River pub.",
+  "type": "open",
+  "category": "local",
+  "approved": false,
+  "answers": [
+    {
+      "canonical": "Chicken parma",
+      "aliases": ["parma", "parmi", "parmy", "parmas", "chicken parmi", "chicken parmy", "chicken parmigiana", "parmigiana", "parmagiana", "chicken parmagiana", "parma and chips", "parmi and chips", "hawaiian parma", "eggplant parma", "vegetarian parma", "veg parma", "vego parma"],
+      "tier": "common",
+      "note": "Confirmed: $30 on the 2020 menu; reviewers 2015-2025 call it the safe pick ('the parma is elite'). Accept any parma variant."
+    },
+    {
+      "canonical": "Fish and chips",
+      "aliases": ["fish n chips", "fish & chips", "fish 'n' chips", "f&c", "f & c", "fish", "beer battered fish", "beer-battered fish", "battered fish", "battered fish and chips", "beer battered fish and chips", "flathead", "flathead tails", "flake", "battered flake", "grilled fish and chips", "fish and chips with salad", "fish and chips with tartare"],
+      "tier": "common",
+      "note": "Confirmed: beer-battered fish with chips, mixed leaf salad and tartare ($28, 2020); the most-reviewed dish. Bare 'fish' grades here."
+    },
+    {
+      "canonical": "Steak",
+      "aliases": ["sirloin", "sirloin steak", "300g sirloin", "steak and chips", "steak & chips", "steak n chips", "porterhouse", "porterhouse steak", "scotch fillet", "eye fillet", "rump", "rump steak", "t-bone", "steak frites", "surf and turf", "surf n turf", "reef and beef", "steak with garlic butter", "steak with pepper sauce", "steak with mushroom sauce", "steak with peppercorn sauce"],
+      "tier": "common",
+      "note": "Confirmed: sirloin with garlic and herb butter, hand-cut chips and salad ($36, 2020); $42 steak and chips in 2025 reviews. Accept any cut or sauce."
+    },
+    {
+      "canonical": "Beef burger",
+      "aliases": ["burger", "burgers", "hamburger", "cheeseburger", "cheese burger", "the burger", "pub burger", "wye burger", "wye river burger", "burger and chips", "burger & chips", "beef burger and chips", "beef burger with chips", "wagyu burger", "burger with the lot", "lunch burger"],
+      "tier": "common",
+      "note": "Confirmed: 'the famous Wye River pub hamburger' (~$29-30 with chips) in TripAdvisor reviews. Bare 'burger' grades here; chicken/vegan/fish burgers have their own entries."
+    },
+    {
+      "canonical": "Chips",
+      "aliases": ["hand cut chips", "hand-cut chips", "handcut chips", "hot chips", "bowl of chips", "bowl of hot chips", "fries", "chips and aioli", "chips with aioli", "chips and gravy", "chips with gravy", "beer battered chips", "shoestring fries", "side of chips", "chips and tomato sauce"],
+      "tier": "common",
+      "note": "Confirmed: hand cut chips ($10 side, 2020). Accept as its own answer even though it is a side."
+    },
+    {
+      "canonical": "Salt and pepper calamari",
+      "aliases": ["calamari", "calamari rings", "salt & pepper calamari", "salt n pepper calamari", "s&p calamari", "s & p calamari", "squid", "salt and pepper squid", "salt & pepper squid", "s&p squid", "fried calamari", "crispy calamari", "crumbed calamari", "calamari and chips", "calamari salad", "chilli squid"],
+      "tier": "uncommon",
+      "note": "Confirmed: '2x Salt & Pepper Calamari' in a Google review; 'calamari salad' named in a 2015 family blog. Any calamari/squid answer merges here."
+    },
+    {
+      "canonical": "Chicken schnitzel",
+      "aliases": ["schnitzel", "schnitty", "schnitz", "schnit", "schnitty and chips", "chicken schnitty", "chicken schnitz", "schnitzel and chips", "chicken schnitzel and chips", "schnitzel with chips", "pork schnitzel"],
+      "tier": "uncommon",
+      "note": "Generic pub dish — accept. Not seen on the 2020 menu but a near-certain crowd guess."
+    },
+    {
+      "canonical": "Garlic bread",
+      "aliases": ["cheesy garlic bread", "garlic and cheese bread", "garlic & cheese bread", "garlic pizza", "garlic pizza bread", "herb bread", "garlic loaf", "garlic focaccia", "cheese and garlic bread"],
+      "tier": "uncommon",
+      "note": "Generic pub dish — accept. Not confirmed on any Wye Beach Hotel menu we could find."
+    },
+    {
+      "canonical": "Pizza",
+      "aliases": ["pizzas", "margherita", "margarita pizza", "margherita pizza", "pepperoni pizza", "supreme pizza", "hawaiian pizza", "capricciosa", "capricciosa pizza", "meat lovers pizza", "wood fired pizza", "woodfired pizza", "vegetarian pizza", "veg pizza"],
+      "tier": "uncommon",
+      "note": "Generic pub dish — accept. No evidence the Wye pub runs a pizza oven; host may downgrade if the room agrees it is not on the menu."
+    },
+    {
+      "canonical": "Side salad",
+      "aliases": ["salad", "garden salad", "green salad", "mixed leaf salad", "mixed leaves", "leaf salad", "house salad", "side of salad", "greek salad", "rocket salad", "rocket and parmesan salad"],
+      "tier": "uncommon",
+      "note": "Confirmed: mixed leaf salad served with the fish and a side salad named in reviews (one coeliac diner could 'only order a $42 steak or a side salad'). Bare 'salad' grades here."
+    },
+    {
+      "canonical": "Fish of the day",
+      "aliases": ["catch of the day", "market fish", "fish special", "fish of the day on mash", "grilled fish", "pan fried fish", "pan-fried fish", "fresh fish", "fish of the day with mash"],
+      "tier": "uncommon",
+      "note": "Confirmed: 'fish of the day over mash' in a Yelp review. Distinct from battered fish and chips."
+    },
+    {
+      "canonical": "Pan-seared salmon",
+      "aliases": ["salmon", "atlantic salmon", "pan seared salmon", "pan-fried salmon", "pan fried salmon", "grilled salmon", "salmon fillet", "crispy skin salmon", "salmon and salad", "salmon with greens"],
+      "tier": "uncommon",
+      "note": "Confirmed: pan-seared salmon main on the 2020 pub menu. Any salmon answer merges here."
+    },
+    {
+      "canonical": "Risotto",
+      "aliases": ["mushroom risotto", "pumpkin risotto", "seafood risotto", "prawn risotto", "pea risotto", "vegetarian risotto", "veg risotto", "risotto of the day", "risotto special"],
+      "tier": "uncommon",
+      "note": "Confirmed: a TripAdvisor reviewer 'ordered a burger and risotto'. Accept any risotto."
+    },
+    {
+      "canonical": "Curry",
+      "aliases": ["curry of the day", "the curry", "beef curry", "chicken curry", "lamb curry", "thai curry", "green curry", "red curry", "massaman", "massaman curry", "vegetable curry", "veg curry", "vegetarian curry", "curry and rice", "dahl", "dal", "rogan josh"],
+      "tier": "uncommon",
+      "note": "Confirmed: 'the curry' reviewed (July 2024, 'very bland'). Butter chicken has its own entry; Thai duck curry grades to Thai duck."
+    },
+    {
+      "canonical": "Lamb shanks",
+      "aliases": ["lamb", "lamb shank", "braised lamb shank", "braised lamb shanks", "slow cooked lamb shank", "slow-cooked lamb shanks", "lamb shank and mash", "lamb shanks with mash"],
+      "tier": "uncommon",
+      "note": "Confirmed: 'lamb shanks delicious and generous' and 'the lamb meal was outstanding' on TripAdvisor. Bare 'lamb' defaults here; ask the player to specify if two lamb answers clash."
+    },
+    {
+      "canonical": "Kids' chicken nuggets",
+      "aliases": ["nuggets", "chicken nuggets", "nuggets and chips", "nuggets & chips", "chicken nuggets and chips", "kids nuggets", "kids' nuggets", "kids chicken nuggets", "nuggets n chips", "kids nuggets and chips"],
+      "tier": "uncommon",
+      "note": "Generic pub dish — accept. The 2020 kids menu was fish and chips, a fried chicken slider and spaghetti, so nuggets are a guess; parents will say it."
+    },
+    {
+      "canonical": "Kids' fish and chips",
+      "aliases": ["kids fish and chips", "kids fish n chips", "kids fish & chips", "kids' fish & chips", "kids fish", "children's fish and chips", "kids fish and chips with salad", "kids fish and chips with lemon"],
+      "tier": "uncommon",
+      "note": "Confirmed: kids fish and chips with salad and lemon wedge ($14, 2020); 'kids were happy with their kids fish and chips'. Only grade here if the player says 'kids'."
+    },
+    {
+      "canonical": "Ice cream",
+      "aliases": ["icecream", "ice-cream", "kids ice cream", "kids' ice cream", "ice cream with topping", "ice cream with sprinkles", "ice cream sundae", "sundae", "vanilla ice cream", "scoop of ice cream", "kids dessert", "kids' dessert"],
+      "tier": "uncommon",
+      "note": "Confirmed: 'ice cream desserts sealed the deal' for kids in a TripAdvisor review."
+    },
+    {
+      "canonical": "Sticky date pudding",
+      "aliases": ["sticky date", "sticky date pud", "date pudding", "sticky toffee pudding", "sticky toffee", "sticky date with butterscotch sauce", "sticky date and ice cream"],
+      "tier": "uncommon",
+      "note": "Generic pub dessert — accept. Not confirmed at the Wye Beach Hotel."
+    },
+    {
+      "canonical": "Korean fried chicken burger",
+      "aliases": ["kfc burger", "korean chicken burger", "korean fried chicken", "fried chicken burger", "chicken burger", "crispy chicken burger", "southern fried chicken burger", "grilled chicken burger", "chicken burger and chips", "korean burger"],
+      "tier": "rare",
+      "note": "Confirmed: Korean fried chicken burger ($28) on both 2020 menus. Any chicken burger merges here."
+    },
+    {
+      "canonical": "Vegan burger",
+      "aliases": ["veggie burger", "vegie burger", "vegetarian burger", "veg burger", "plant-based burger", "plant based burger", "beyond burger", "mushroom burger", "halloumi burger", "falafel burger"],
+      "tier": "rare",
+      "note": "Confirmed: HappyCow reviewers praise the vegan burger ('bun, cheese, patty and fries were perfect')."
+    },
+    {
+      "canonical": "Oysters",
+      "aliases": ["fried oysters", "oysters natural", "natural oysters", "oysters kilpatrick", "kilpatrick", "half dozen oysters", "dozen oysters", "six oysters", "twelve oysters", "oyster"],
+      "tier": "rare",
+      "note": "Confirmed-ish: Restaurant Guru summary says the kitchen does 'fried oysters'. Natural/kilpatrick are generic pub guesses — accept."
+    },
+    {
+      "canonical": "Lamb chops",
+      "aliases": ["lamb cutlets", "cutlets", "lamb loin chops", "grilled lamb chops", "lamb chops and mash", "chops"],
+      "tier": "rare",
+      "note": "Confirmed: a TripAdvisor diner 'had lamb chops and was happy with them'."
+    },
+    {
+      "canonical": "Lamb shoulder",
+      "aliases": ["slow cooked lamb shoulder", "slow-cooked lamb shoulder", "slow cooked lamb", "slow-cooked lamb", "braised lamb shoulder", "lamb shoulder to share", "pulled lamb"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. 'Slow cooked lamb' appears on a stale directory profile for the venue; not independently verified."
+    },
+    {
+      "canonical": "Snapper",
+      "aliases": ["snapper with thai salad", "snapper and thai salad", "whole snapper", "roasted whole snapper", "roast snapper", "baby snapper", "pan fried snapper", "pan-fried snapper", "grilled snapper", "snapper fillet", "pink snapper"],
+      "tier": "rare",
+      "note": "Confirmed: snapper with Thai salad ($45, 2025 review); $38 snapper in a 2020 review."
+    },
+    {
+      "canonical": "Butter chicken",
+      "aliases": ["butter chicken curry", "butter chicken and rice", "butter chicken with rice", "murgh makhani"],
+      "tier": "rare",
+      "note": "Confirmed: 'decent but overpriced butter chicken' in a 2025 TripAdvisor review."
+    },
+    {
+      "canonical": "Seasoned wedges",
+      "aliases": ["wedges", "potato wedges", "wedges with sour cream", "wedges with sour cream and sweet chilli", "sweet chilli wedges", "bowl of wedges", "wedges and sour cream"],
+      "tier": "rare",
+      "note": "Confirmed: seasoned wedges ($14 side, 2020)."
+    },
+    {
+      "canonical": "Kids' spaghetti napoli",
+      "aliases": ["spaghetti napoli", "spaghetti napolitana", "napoli pasta", "kids spaghetti", "kids' spaghetti", "kids pasta", "kids' pasta", "kids napoli", "children's pasta", "kids spag bol", "kids spaghetti bolognese"],
+      "tier": "rare",
+      "note": "Confirmed: spaghetti napoli on the 2020 kids menu ($14). Adult pasta answers grade to 'Pasta'."
+    },
+    {
+      "canonical": "Roast of the day",
+      "aliases": ["roast", "the roast", "sunday roast", "roast dinner", "roast special", "roast lamb", "roast beef", "roast pork", "roast chicken", "roast of the week", "roast and veg"],
+      "tier": "rare",
+      "note": "Confirmed-ish: a reviewer saw locals ordering a roast that was an unlisted special ('no signs to say roast was a special'). Accept any roast."
+    },
+    {
+      "canonical": "Soup of the day",
+      "aliases": ["soup", "soup du jour", "pumpkin soup", "tomato soup", "minestrone", "chowder", "seafood chowder", "fish soup", "mauritian fish soup", "soup and bread", "soup of the day with bread"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. 'Mauritian fish soup' sits on a stale directory profile for the venue and is unverified; it merges here. Celeriac and sage soup has its own deep entry."
+    },
+    {
+      "canonical": "Pasta",
+      "aliases": ["pasta of the day", "spaghetti", "spaghetti bolognese", "spag bol", "bolognese", "carbonara", "penne", "penne arrabbiata", "gnocchi", "linguine", "prawn linguine", "seafood pasta", "seafood linguine", "fettuccine", "lasagne", "lasagna", "vegetarian lasagne", "pasta special", "ravioli"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Specific pastas confirmed at the venue are kids' spaghetti napoli and vegan cannelloni (own entries)."
+    },
+    {
+      "canonical": "Caesar salad",
+      "aliases": ["caesar", "chicken caesar", "chicken caesar salad", "ceasar salad", "ceaser salad", "caesar salad with chicken", "prawn caesar"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed at the Wye Beach Hotel."
+    },
+    {
+      "canonical": "Chocolate brownie",
+      "aliases": ["brownie", "choc brownie", "warm brownie", "brownie with ice cream", "chocolate brownie with ice cream", "brownie and ice cream", "choc brownie and ice cream"],
+      "tier": "rare",
+      "note": "Generic pub dessert — accept. Not confirmed."
+    },
+    {
+      "canonical": "Pavlova",
+      "aliases": ["pav", "mini pavlova", "pavlova with berries", "pavlova with cream and berries", "pav with cream", "eton mess"],
+      "tier": "rare",
+      "note": "Generic pub dessert — accept. Not confirmed."
+    },
+    {
+      "canonical": "Cheesecake",
+      "aliases": ["baked cheesecake", "lemon cheesecake", "new york cheesecake", "berry cheesecake", "cheese cake", "passionfruit cheesecake"],
+      "tier": "rare",
+      "note": "Generic pub dessert — accept. Not confirmed."
+    },
+    {
+      "canonical": "Nachos",
+      "aliases": ["beef nachos", "loaded nachos", "vegetarian nachos", "veg nachos", "nachos supreme", "chicken nachos", "pulled pork nachos", "nacho"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Fish tacos",
+      "aliases": ["tacos", "taco", "fish taco", "soft shell tacos", "soft tacos", "prawn tacos", "pulled pork tacos", "beef tacos", "chicken tacos", "baja fish tacos"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Pork belly",
+      "aliases": ["crispy pork belly", "roast pork belly", "pork belly bites", "twice cooked pork belly", "twice-cooked pork belly", "pork", "pork belly with crackling", "crackling pork belly"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed (the only pork dishes seen were a banh mi and a pork bao, own entries)."
+    },
+    {
+      "canonical": "Garlic prawns",
+      "aliases": ["prawns", "prawn", "king prawns", "chilli prawns", "chilli garlic prawns", "prawn cocktail", "grilled prawns", "bbq prawns", "salt and pepper prawns", "tiger prawns", "garlic prawns and rice", "prawn skewers"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Mussels",
+      "aliases": ["pot of mussels", "mussel pot", "chilli mussels", "mussels in white wine", "white wine mussels", "steamed mussels", "portarlington mussels", "moules", "mussels and chips", "mussels with bread", "tomato mussels"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Seafood platter",
+      "aliases": ["seafood basket", "fisherman's basket", "fishermans basket", "fisherman basket", "seafood plate", "seafood share platter", "seafood share plate", "mixed seafood", "seafood tasting plate", "share platter"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Steak sandwich",
+      "aliases": ["steak sanga", "steak sambo", "steak sanger", "minute steak sandwich", "steak sandwich and chips", "open steak sandwich", "steak sanga and chips"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Chicken wings",
+      "aliases": ["wings", "buffalo wings", "hot wings", "bbq wings", "korean wings", "korean fried chicken wings", "sticky wings", "chicken wingettes", "wings and ranch"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Arancini",
+      "aliases": ["arancini balls", "mushroom arancini", "pumpkin arancini", "risotto balls", "arancini ball", "arancini with aioli"],
+      "tier": "rare",
+      "note": "Generic Victorian pub starter — accept. Not confirmed."
+    },
+    {
+      "canonical": "Bruschetta",
+      "aliases": ["tomato bruschetta", "bruchetta", "brushetta", "bruschetta with balsamic"],
+      "tier": "rare",
+      "note": "Generic pub starter — accept. Not confirmed."
+    },
+    {
+      "canonical": "Dips and bread",
+      "aliases": ["dips", "dip plate", "house dips", "bread and dips", "trio of dips", "dips with bread", "dips with flatbread", "flatbread and dips", "hummus", "hummus and bread", "dip and bread", "bread and oil"],
+      "tier": "rare",
+      "note": "Generic pub starter — accept. Not confirmed."
+    },
+    {
+      "canonical": "Onion rings",
+      "aliases": ["beer battered onion rings", "beer-battered onion rings", "onion ring", "crispy onion rings"],
+      "tier": "rare",
+      "note": "Generic pub side — accept. Not confirmed."
+    },
+    {
+      "canonical": "Sweet potato fries",
+      "aliases": ["sweet potato chips", "sweet potato wedges", "sweet potato fries with aioli", "sweet potato chips with aioli", "sweet potato"],
+      "tier": "rare",
+      "note": "Generic pub side — accept. Not confirmed."
+    },
+    {
+      "canonical": "Scallops",
+      "aliases": ["seared scallops", "scallops in the shell", "scallop", "pan seared scallops", "scallops with cauliflower puree", "half shell scallops"],
+      "tier": "rare",
+      "note": "Generic pub seafood — accept. Not confirmed."
+    },
+    {
+      "canonical": "Fish burger",
+      "aliases": ["fish burger and chips", "crumbed fish burger", "battered fish burger", "fish sandwich", "fish sanga", "fish sambo", "grilled fish burger"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Beef pie",
+      "aliases": ["pie", "meat pie", "chicken pie", "beef and guinness pie", "beef and ale pie", "pie and chips", "pie and mash", "steak pie", "chunky beef pie", "pie of the day", "pie floater", "pot pie"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Bangers and mash",
+      "aliases": ["sausages and mash", "sausage and mash", "snags and mash", "bangers n mash", "sausages with mash", "pork sausages and mash", "bangers & mash"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. Not confirmed."
+    },
+    {
+      "canonical": "Thai beef salad",
+      "aliases": ["thai salad", "beef salad", "thai beef", "thai chicken salad", "thai prawn salad", "asian salad", "asian slaw"],
+      "tier": "rare",
+      "note": "Generic pub dish — accept. A Thai salad is confirmed only as the side to the snapper; a standalone Thai beef salad is unverified."
+    },
+    {
+      "canonical": "Thai duck with bok choy",
+      "aliases": ["thai duck", "duck", "duck with bok choy", "roast duck", "crispy duck", "crispy skin duck", "duck breast", "duck curry", "red duck curry", "thai red duck curry", "duck and bok choy"],
+      "tier": "deep",
+      "note": "Confirmed: 'Thai duck with bok choy' in a Yelp review. Any duck answer merges here."
+    },
+    {
+      "canonical": "Banh mi",
+      "aliases": ["bahn mi", "pork banh mi", "banh mi roll", "vietnamese roll", "vietnamese pork roll", "pork roll", "banh mi baguette"],
+      "tier": "deep",
+      "note": "Confirmed: $25 banh mi ('one piece of fatty pork') in an October 2024 TripAdvisor review."
+    },
+    {
+      "canonical": "Pakoras",
+      "aliases": ["pakora", "fish pakoras", "fish pakora", "vegetable pakoras", "veg pakoras", "onion pakoras", "pakoras with chutney", "indian fritters"],
+      "tier": "deep",
+      "note": "Confirmed: fish pakoras (2021 review) and pakoras at $18 for five (October 2024 review)."
+    },
+    {
+      "canonical": "Korean BBQ pork bao",
+      "aliases": ["pork bao", "bao", "baos", "bao buns", "bao bun", "bbq pork bao", "korean pork bao", "korean bbq bao", "steamed buns", "pork buns", "steamed pork buns", "pork belly bao"],
+      "tier": "deep",
+      "note": "Confirmed: 'Korean BBQ Pork Bao' shared and praised in a 2021 TripAdvisor review."
+    },
+    {
+      "canonical": "Celeriac and sage soup",
+      "aliases": ["celeriac soup", "celeriac & sage soup", "celeriac sage soup", "sage and celeriac soup", "celeriac"],
+      "tier": "deep",
+      "note": "Confirmed: 'celeriac & sage soup ... delicious' in a 2021 TripAdvisor review. Generic soup guesses grade to Soup of the day."
+    },
+    {
+      "canonical": "Marsala beef rib",
+      "aliases": ["beef rib", "beef ribs", "braised beef rib", "marsala beef ribs", "beef short rib", "short rib", "short ribs", "slow cooked beef rib", "beef rib in marsala", "marsala beef"],
+      "tier": "deep",
+      "note": "Confirmed: a 'Marsala beef rib dish' described in a TripAdvisor review."
+    },
+    {
+      "canonical": "Toasted freekeh",
+      "aliases": ["freekeh", "freekeh salad", "toasted freekeh salad", "freekah", "freekeh bowl", "grain salad", "ancient grain salad"],
+      "tier": "deep",
+      "note": "Confirmed: 'Toasted Freekeh' light dish ($18) led both 2020 menus. Genuine deep cut."
+    },
+    {
+      "canonical": "Poached asparagus",
+      "aliases": ["asparagus", "asparagus with harissa", "asparagus and egg", "asparagus with 63 degree egg", "asparagus with poached egg", "harissa asparagus", "asparagus and sourdough"],
+      "tier": "deep",
+      "note": "Confirmed: poached asparagus with harissa, 63C egg, coriander and sourdough croute ($16, 2020 dine-in menu)."
+    },
+    {
+      "canonical": "Fennel salad",
+      "aliases": ["shaved fennel salad", "fennel & orange salad", "fennel and orange salad", "fennel slaw", "fennel", "shaved fennel"],
+      "tier": "deep",
+      "note": "Confirmed: fennel salad ($8 side, 2020)."
+    },
+    {
+      "canonical": "Wye fried cauliflower",
+      "aliases": ["fried cauliflower", "cauliflower", "crispy cauliflower", "wye fried cauli", "fried cauli", "cauliflower bites", "cauliflower wings", "kfc cauliflower", "korean fried cauliflower", "cauliflower popcorn", "crispy cauli"],
+      "tier": "deep",
+      "note": "Confirmed: 'Wye fried cauliflower' ($14 side, 2020) and still listed as a vegan option on HappyCow. The pub's signature pun dish — top deep cut."
+    },
+    {
+      "canonical": "Vegan cannelloni",
+      "aliases": ["cannelloni", "handmade vegan cannelloni", "handmade cannelloni", "spinach and ricotta cannelloni", "spinach cannelloni", "canneloni", "vegan canneloni"],
+      "tier": "deep",
+      "note": "Confirmed: 'handmade vegan cannelloni' listed among six vegan items on HappyCow."
+    },
+    {
+      "canonical": "Mac and cheese",
+      "aliases": ["vegan mac and cheese", "mac n cheese", "mac & cheese", "macaroni cheese", "macaroni and cheese", "mac cheese", "truffle mac and cheese", "mac and cheese bites"],
+      "tier": "deep",
+      "note": "Confirmed: vegan mac and cheese listed on HappyCow. Accept any mac and cheese."
+    },
+    {
+      "canonical": "Fried oyster mushrooms",
+      "aliases": ["oyster mushrooms", "crispy oyster mushrooms", "fried mushrooms", "crispy mushrooms", "king oyster mushrooms", "mushroom bites", "fried oyster mushroom"],
+      "tier": "deep",
+      "note": "Confirmed: 'fried oyster mushrooms' listed as a vegan dish on HappyCow. Do not confuse with the shellfish oysters entry."
+    },
+    {
+      "canonical": "Kids' fried chicken slider",
+      "aliases": ["fried chicken slider", "chicken slider", "kids slider", "kids' slider", "kids chicken slider", "slider", "sliders", "chicken sliders", "kids burger", "kids' burger", "kids cheeseburger", "kids hamburger", "children's burger", "mini burger"],
+      "tier": "deep",
+      "note": "Confirmed: fried chicken slider on the 2020 kids menu ($14); a 'kids burger the size of a fifty cent piece' in a review. Any kids' burger grades here."
+    },
+    {
+      "canonical": "Passionfruit mousse",
+      "aliases": ["passion fruit mousse", "mousse", "chocolate mousse", "choc mousse", "passionfruit dessert", "passionfruit"],
+      "tier": "deep",
+      "note": "Confirmed: passionfruit mousse is the dessert that appears in several TripAdvisor snippets. Generic 'chocolate mousse' guesses merge here — accept."
+    },
+    {
+      "canonical": "Charred lamb salad",
+      "aliases": ["lamb salad", "warm lamb salad", "charred lamb", "grilled lamb salad", "lamb and halloumi salad", "lamb salads"],
+      "tier": "deep",
+      "note": "Confirmed: 'charred lamb salad' praised on TripAdvisor and 'lamb salads' in the Restaurant Guru summary."
+    }
+  ],
+  "hostNotes": "No current Wye Beach Hotel menu is online; confirmed dishes come from the Sept-2020 printed menus plus 2015-2025 reviews, so accept any plausible pub dish (entries marked 'generic — accept') and save the deep tier for things actually documented at the pub (Wye fried cauliflower, freekeh, bao, pakoras, banh mi, Thai duck, passionfruit mousse). Bare 'lamb', 'fish' and 'burger' default to lamb shanks, fish and chips and beef burger; if two players clash on a bare word, ask each to specify. Traps: the Wye River General Store (eggs benedict, coffee, pies) is the cafe not the pub, and the Wye Fry fish shop is also not the pub; and 'oysters' (shellfish) and 'oyster mushrooms' are different entries."
+}

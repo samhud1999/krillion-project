@@ -1,0 +1,15 @@
+{
+  "id": "n3-racv-torquay-golf-holes",
+  "text": "How many holes of golf are there at RACV Torquay?",
+  "type": "numeric",
+  "category": "closest",
+  "approved": false,
+  "numeric": {
+    "answer": 18,
+    "unit": "holes",
+    "source": "https://www.racv.com.au/travel-experiences/resorts/torquay/golf.html",
+    "asOf": "2026-11-01",
+    "alternatives": "RACV Torquay Resort's own golf page describes an 18-hole, par-71 links-style course overlooking Jan Juc and Torquay beaches, redesigned by Ogilvy Clayton (Geoff Ogilvy and Mike Clayton); it is also the home course of Torquay Golf Club. No mini-golf course at RACV Torquay could be confirmed from the resort site or search results; the Torquay mini-golf that guides mention belongs to The Sands Torquay, a separate resort. Some third-party hotel listings wrongly credit Stuart Appleby with the RACV course design (that is The Sands)."
+  },
+  "hostNotes": "RACV Torquay has an 18-hole, par-71 links course overlooking Jan Juc and Torquay beaches, redesigned by former US Open champion Geoff Ogilvy and Mike Clayton. If anyone said 36 hoping for a mini-golf bonus, bad luck, the putt-putt in Torquay is at The Sands, not RACV."
+}

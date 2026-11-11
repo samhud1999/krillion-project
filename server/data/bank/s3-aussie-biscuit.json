@@ -1,0 +1,394 @@
+{
+  "id": "s3-aussie-biscuit",
+  "text": "Name a classic Aussie biscuit.",
+  "type": "open",
+  "category": "starter",
+  "approved": true,
+  "answers": [
+    {
+      "canonical": "Tim Tam",
+      "aliases": ["tim tams", "timtam", "timtams", "tim-tam", "tim-tams", "tim tam original", "tim tam double coat", "double coat tim tam", "double coat", "tim tam chewy caramel", "dark tim tam", "white tim tam", "tim tam dark", "arnott's tim tam", "arnotts tim tam"],
+      "tier": "common",
+      "note": "Arnott's, 1964. Any flavour variant (Double Coat, Chewy Caramel, Dark) collapses to Tim Tam."
+    },
+    {
+      "canonical": "Anzac Biscuit",
+      "aliases": ["anzac", "anzacs", "anzac biscuits", "anzac bikkie", "anzac bikkies", "anzac cookie", "anzac cookies", "anzak", "anzak biscuit", "unibic anzac", "unibic anzacs"],
+      "tier": "common",
+      "note": "Generic oat-and-golden-syrup biscuit from WWI home front. Unibic is the supermarket brand; accept 'Unibic' alone if context is clear."
+    },
+    {
+      "canonical": "Iced VoVo",
+      "aliases": ["iced vovo", "iced vovos", "iced vo vo", "iced vo-vo", "iced vo vos", "vovo", "vovos", "vo vo", "vo-vo", "ice vovo", "ice vo vo", "iced vo vo biscuit", "arnott's iced vovo"],
+      "tier": "common",
+      "note": "Arnott's, 1906. Pink fondant, raspberry jam, coconut. Kevin Rudd's 2007 election-night biscuit."
+    },
+    {
+      "canonical": "Monte Carlo",
+      "aliases": ["monte carlos", "montecarlo", "montecarlos", "monte-carlo", "monte", "montes", "monte carlo biscuit", "arnott's monte carlo"],
+      "tier": "common",
+      "note": "Arnott's, 1926. Coconut biscuits with jam and vanilla cream. Not to be confused with Chocolate Monte."
+    },
+    {
+      "canonical": "Kingston",
+      "aliases": ["kingstons", "kingston biscuit", "kingston biscuits", "arnott's kingston", "kingstone"],
+      "tier": "common",
+      "note": "Arnott's oat-coconut biscuits with chocolate cream. Regularly tops 'best Arnott's biscuit' polls."
+    },
+    {
+      "canonical": "Scotch Finger",
+      "aliases": ["scotch fingers", "scotchfinger", "scotchfingers", "scotch finger biscuit", "scotch finger biscuits", "arnott's scotch finger", "scotch fingers biscuits"],
+      "tier": "common",
+      "note": "Arnott's shortbread finger, snaps in half. Plain 'shortbread' is NOT this by default (see Shortbread Cream)."
+    },
+    {
+      "canonical": "Mint Slice",
+      "aliases": ["mint slices", "choc mint slice", "chocolate mint slice", "mintslice", "mint slice biscuit", "arnott's mint slice", "mint slice biscuits"],
+      "tier": "common",
+      "note": "Arnott's, 1962. Chocolate biscuit, peppermint cream, chocolate coat."
+    },
+    {
+      "canonical": "Shapes",
+      "aliases": ["arnott's shapes", "arnotts shapes", "shape", "barbecue shapes", "bbq shapes", "barbeque shapes", "pizza shapes", "chicken crimpy", "chicken crimpys", "chicken crimpies", "chicken crimpy shapes", "savoury shapes", "cheese and bacon shapes", "cheddar shapes", "nacho cheese shapes", "cheese & bacon shapes"],
+      "tier": "common",
+      "note": "Arnott's savoury biscuit, 1954. Any flavour (BBQ, Pizza, Chicken Crimpy) collapses to Shapes."
+    },
+    {
+      "canonical": "Tiny Teddy",
+      "aliases": ["tiny teddies", "tiny teddys", "tiny teddy biscuits", "tiny teddy biscuit", "choc chip tiny teddies", "honey tiny teddies", "chocolate tiny teddies", "arnott's tiny teddy", "tiny teddie"],
+      "tier": "common",
+      "note": "Arnott's, 1991. Lunchbox staple. Not the same as the larger Teddy Bear biscuit."
+    },
+    {
+      "canonical": "Jatz",
+      "aliases": ["jatz cracker", "jatz crackers", "jatz biscuit", "jatz biscuits", "jats", "jaz", "jatzs", "arnott's jatz", "jatz original"],
+      "tier": "common",
+      "note": "Arnott's round savoury cracker (NSW name; Victorians know the same biscuit as Savoy). Accept; crackers count."
+    },
+    {
+      "canonical": "Milk Arrowroot",
+      "aliases": ["arrowroot", "arrowroots", "milk arrowroots", "arrowroot biscuit", "arrowroot biscuits", "milk arrow root", "milk arrowroot biscuit", "arnott's milk arrowroot", "arrow root"],
+      "tier": "uncommon",
+      "note": "Arnott's plain biscuit, 1880s. Teething biscuit for generations of Aussie kids."
+    },
+    {
+      "canonical": "Choc Ripple",
+      "aliases": ["chocolate ripple", "choc ripples", "chocolate ripples", "choc ripple biscuit", "choc ripple biscuits", "chocolate ripple biscuit", "ripple", "ripples", "arnott's choc ripple", "choc-ripple"],
+      "tier": "uncommon",
+      "note": "Arnott's plain chocolate biscuit; the Choc Ripple Cake biscuit. Do not merge with 'Chocolate Royals'."
+    },
+    {
+      "canonical": "Wagon Wheel",
+      "aliases": ["wagon wheels", "wagonwheel", "wagonwheels", "wagon-wheel", "wagon-wheels", "westons wagon wheels", "weston's wagon wheels", "wagon wheel biscuit", "arnott's wagon wheels"],
+      "tier": "uncommon",
+      "note": "Marshmallow and jam between biscuits, chocolate coated. Originally Westons, now Arnott's."
+    },
+    {
+      "canonical": "Chocolate Royals",
+      "aliases": ["choc royals", "royals", "royal", "chocolate royal", "choc royal", "arnott's royals", "arnott's chocolate royals", "chocolate royals biscuit", "royals biscuit"],
+      "tier": "uncommon",
+      "note": "Arnott's marshmallow dome on a biscuit base with jam, chocolate coated. Milk and dark varieties both count."
+    },
+    {
+      "canonical": "Shortbread Cream",
+      "aliases": ["shortbread creams", "shortbread", "shortbreads", "short bread cream", "shortbread cream biscuit", "shortbread cream biscuits", "arnott's shortbread cream", "shortbread biscuit"],
+      "tier": "uncommon",
+      "note": "Arnott's cream sandwich. Plain 'shortbread' lands here unless they clarify Scotch Finger."
+    },
+    {
+      "canonical": "Nice",
+      "aliases": ["nice biscuit", "nice biscuits", "arnott's nice", "arnotts nice", "coconut nice", "nice coconut biscuit", "nices", "niece biscuit"],
+      "tier": "uncommon",
+      "note": "Arnott's coconut-sugar-topped plain biscuit, British origin but an Aussie pantry staple. Pronounced 'neece'."
+    },
+    {
+      "canonical": "Ginger Nut",
+      "aliases": ["gingernut", "gingernuts", "ginger nuts", "ginger nut biscuit", "ginger nut biscuits", "arnott's ginger nut", "ginger snap", "ginger snaps", "gingersnap", "gingersnaps"],
+      "tier": "uncommon",
+      "note": "Arnott's; famously baked to different recipes in different states (the Qld one is hardest). 'Ginger snap' folded in here."
+    },
+    {
+      "canonical": "Butternut Snap",
+      "aliases": ["butternut snaps", "butternut snap cookie", "butternut snap cookies", "butternut snap biscuit", "butternut", "butternuts", "butternut cookie", "butternut cookies", "arnott's butternut snap"],
+      "tier": "uncommon",
+      "note": "Arnott's oat-coconut-golden syrup crunchy biscuit; the cheesecake-base biscuit."
+    },
+    {
+      "canonical": "SAO",
+      "aliases": ["saos", "sao biscuit", "sao biscuits", "s.a.o.", "s.a.o", "sayo", "arnott's sao", "sao crackers", "sao cracker"],
+      "tier": "uncommon",
+      "note": "Arnott's, 1904. Large flaky savoury biscuit; butter-and-Vegemite worm trick. Accept (savoury biscuits count)."
+    },
+    {
+      "canonical": "Salada",
+      "aliases": ["saladas", "salada biscuit", "salada biscuits", "salada crackers", "salada cracker", "arnott's salada", "saladda"],
+      "tier": "uncommon",
+      "note": "Arnott's large perforated cracker sheet. Accept."
+    },
+    {
+      "canonical": "Savoy",
+      "aliases": ["savoys", "savoy biscuit", "savoy biscuits", "savoy cracker", "savoy crackers", "brockhoff savoy", "arnott's savoy", "brockhoff"],
+      "tier": "uncommon",
+      "note": "Brockhoff's Melbourne-made twin of Jatz; Victorians often say Savoy. Keep separate from Jatz for scoring unless the host rules otherwise."
+    },
+    {
+      "canonical": "TeeVee Snacks",
+      "aliases": ["tee vee snacks", "teevee snacks", "tv snacks", "tv snack", "teevee snack", "teevees", "tee vees", "teevee", "tee vee", "arnott's teevee snacks", "malt sticks"],
+      "tier": "uncommon",
+      "note": "Arnott's chocolate-coated malt sticks; Original and Malt Sticks both count."
+    },
+    {
+      "canonical": "Hundreds & Thousands",
+      "aliases": ["hundreds and thousands", "hundreds & thousands biscuit", "hundreds and thousands biscuit", "hundreds and thousands biscuits", "100s and 1000s", "100s & 1000s", "100's and 1000's", "hundreds n thousands", "arnott's hundreds and thousands", "hundreds and thousands bikkies"],
+      "tier": "uncommon",
+      "note": "Arnott's pink-iced biscuit with sprinkles. Home-made fairy bread is NOT a biscuit."
+    },
+    {
+      "canonical": "Orange Slice",
+      "aliases": ["orange slices", "orange slice biscuit", "orange slice biscuits", "arnott's orange slice", "orange cream"],
+      "tier": "uncommon",
+      "note": "Arnott's orange cream biscuit, mainstay of the Assorted Creams pack."
+    },
+    {
+      "canonical": "Marie",
+      "aliases": ["marie biscuit", "marie biscuits", "maries", "arnott's marie", "arnotts marie", "marie biccies", "mary biscuit"],
+      "tier": "uncommon",
+      "note": "Arnott's plain biscuit, British origin but long-standing Aussie classic."
+    },
+    {
+      "canonical": "Chocolate Wheaten",
+      "aliases": ["choc wheaten", "wheaten", "wheatens", "chocolate wheatens", "choc wheatens", "milk chocolate wheaten", "wheaten biscuit", "wheaten biscuits", "arnott's chocolate wheaten", "choc wheatens biscuit"],
+      "tier": "uncommon",
+      "note": "Arnott's half-coated wheatmeal biscuit. Not the same as Shredded Wheatmeal or Digestive."
+    },
+    {
+      "canonical": "Caramel Crown",
+      "aliases": ["caramel crowns", "caramel crown biscuit", "caramel crown biscuits", "arnott's caramel crown", "carmel crown"],
+      "tier": "uncommon",
+      "note": "Arnott's caramel-filled chocolate-coated biscuit."
+    },
+    {
+      "canonical": "Yo-Yo",
+      "aliases": ["yoyo", "yo yo", "yoyos", "yo-yos", "yo yos", "yo-yo biscuit", "yoyo biscuit", "yo yo biscuit", "yoyo biscuits", "yo-yo biscuits"],
+      "tier": "uncommon",
+      "note": "Classic Aussie bakery/CWA biscuit: two custard-powder shortbreads sandwiched with icing. Melting Moments are near-identical; keep separate."
+    },
+    {
+      "canonical": "Melting Moment",
+      "aliases": ["melting moments", "melting moment biscuit", "melting moment biscuits", "melting-moment", "meltingmoments"],
+      "tier": "uncommon",
+      "note": "Classic Aussie/NZ CWA biscuit, close cousin of the Yo-Yo. Accept."
+    },
+    {
+      "canonical": "Jam Drop",
+      "aliases": ["jam drops", "jam drop biscuit", "jam drop biscuits", "jam drop cookie", "jam drop cookies", "jamdrop", "jamdrops", "thumbprint biscuit"],
+      "tier": "uncommon",
+      "note": "Classic Aussie home-bake / CWA biscuit."
+    },
+    {
+      "canonical": "Vita-Weat",
+      "aliases": ["vita weat", "vitaweat", "vita-weats", "vita weats", "vitaweats", "vita wheat", "vita wheats", "vitawheat", "vita-wheat", "arnott's vita-weat", "vita-weat slims"],
+      "tier": "uncommon",
+      "note": "Arnott's crispbread; the Vegemite-worm biscuit. Accept (Arnott's classes it as a biscuit)."
+    },
+    {
+      "canonical": "Choc Chip Cookie",
+      "aliases": ["choc chip", "choc chips", "choc chip cookies", "chocolate chip cookie", "chocolate chip cookies", "choc chip biscuit", "choc chip biscuits", "chocolate chip biscuit", "arnott's choc chip", "premier choc chip", "chocolate chip"],
+      "tier": "uncommon",
+      "note": "Generic worldwide, but Arnott's Choc Chip is a supermarket staple. Accept, but it is a weak 'Aussie classic'."
+    },
+    {
+      "canonical": "Teddy Bear",
+      "aliases": ["teddy bear biscuit", "teddy bear biscuits", "teddy bears", "arnott's teddy bear", "chocolate teddy bear", "choc teddy bear", "teddy bears biscuit", "teddy"],
+      "tier": "uncommon",
+      "note": "Arnott's full-size Teddy Bear biscuit (plain or chocolate). Distinct from Tiny Teddy."
+    },
+    {
+      "canonical": "Tic Toc",
+      "aliases": ["tic tocs", "tic toc biscuit", "tic toc biscuits", "tictoc", "tictocs", "tic tock", "tic-toc", "tik tok biscuit", "arnott's tic toc"],
+      "tier": "uncommon",
+      "note": "Arnott's iced kids' biscuit shaped like a clock face."
+    },
+    {
+      "canonical": "Delta Cream",
+      "aliases": ["delta creams", "delta cream biscuit", "delta cream biscuits", "arnott's delta cream", "delta"],
+      "tier": "rare",
+      "note": "Arnott's chocolate biscuit with vanilla cream (Australia's own Oreo)."
+    },
+    {
+      "canonical": "Raspberry Shortcake",
+      "aliases": ["raspberry shortcakes", "raspberry short cake", "raspberry shortcake biscuit", "raspberry shortcake biscuits", "arnott's raspberry shortcake", "rasberry shortcake"],
+      "tier": "rare",
+      "note": "Arnott's jam-topped shortcake; staple of the old Classic Assorted pack."
+    },
+    {
+      "canonical": "Venetian",
+      "aliases": ["venetians", "venetian biscuit", "venetian biscuits", "arnott's venetian", "venetion"],
+      "tier": "rare",
+      "note": "Arnott's rectangular biscuit with chocolate chips, from the Family Assorted pack."
+    },
+    {
+      "canonical": "Lemon Crisp",
+      "aliases": ["lemon crisps", "lemon crisp biscuit", "lemon crisp biscuits", "arnott's lemon crisp", "lemon crisps biscuit"],
+      "tier": "rare",
+      "note": "Arnott's lemon cream sandwich with a salted crackly top."
+    },
+    {
+      "canonical": "Full O' Fruit",
+      "aliases": ["full o fruit", "full of fruit", "full-o-fruit", "fullofruit", "full o' fruits", "full o fruits", "arnott's full o' fruit", "full-o'-fruit"],
+      "tier": "rare",
+      "note": "Arnott's fruit-filled biscuit."
+    },
+    {
+      "canonical": "Spicy Fruit Roll",
+      "aliases": ["spicy fruit rolls", "spicy fruit roll biscuit", "spicy fruit roll biscuits", "fruit roll", "fruit rolls", "arnott's spicy fruit roll", "spicey fruit roll"],
+      "tier": "rare",
+      "note": "Arnott's spiced fruit-filled biscuit; a nan's-biscuit-tin classic."
+    },
+    {
+      "canonical": "Milk Coffee",
+      "aliases": ["milk coffee biscuit", "milk coffee biscuits", "milk coffees", "arnott's milk coffee", "milkcoffee"],
+      "tier": "rare",
+      "note": "Arnott's plain biscuit, sweet with a coffee-ish malt note; sold in packs and assortments."
+    },
+    {
+      "canonical": "Granita",
+      "aliases": ["granitas", "granita biscuit", "granita biscuits", "arnott's granita", "granitta"],
+      "tier": "rare",
+      "note": "Arnott's wheatmeal plain biscuit; cheesecake-base favourite."
+    },
+    {
+      "canonical": "Honey Jumble",
+      "aliases": ["honey jumbles", "honey jumble biscuit", "honey jumble biscuits", "arnott's honey jumbles", "honey jumbles biscuit"],
+      "tier": "rare",
+      "note": "Arnott's pink-and-white iced spiced biscuit. Discontinued in 2021, still a correct classic."
+    },
+    {
+      "canonical": "Gaiety",
+      "aliases": ["gaieties", "gaietys", "gaiety biscuit", "gaiety biscuits", "gaity", "gayety", "gaiety's", "arnott's gaiety"],
+      "tier": "rare",
+      "note": "Arnott's chocolate-coated biscuit with hard-set caramel cream."
+    },
+    {
+      "canonical": "Chocolate Monte",
+      "aliases": ["choc monte", "chocolate montes", "choc montes", "choc monte biscuit", "chocolate monte biscuit", "arnott's chocolate monte", "choc montes biscuits"],
+      "tier": "rare",
+      "note": "Arnott's chocolate-topped Monte-style biscuit. Separate from Monte Carlo; if they just say 'Monte' it defaults to Monte Carlo."
+    },
+    {
+      "canonical": "Lattice",
+      "aliases": ["lattice biscuit", "lattice biscuits", "lattices", "arnott's lattice", "lattice biscuit for vanilla slice"],
+      "tier": "rare",
+      "note": "Arnott's flaky lattice-pattern biscuit, the vanilla-slice base. Vanilla slice itself is not a biscuit."
+    },
+    {
+      "canonical": "Jam Fancies",
+      "aliases": ["jam fancy", "jam fancie", "jam fancies biscuit", "jam fancies biscuits", "arnott's jam fancies"],
+      "tier": "rare",
+      "note": "Arnott's iced biscuit with a jam centre."
+    },
+    {
+      "canonical": "Digestive",
+      "aliases": ["digestives", "digestive biscuit", "digestive biscuits", "chocolate digestive", "chocolate digestives", "milk chocolate digestive", "choc digestive", "arnott's digestive", "arnott's milk chocolate digestives"],
+      "tier": "rare",
+      "note": "British origin, but Arnott's bakes Milk Chocolate Digestives here. Accept at the host's discretion."
+    },
+    {
+      "canonical": "Cheds",
+      "aliases": ["ched", "cheds biscuit", "cheds biscuits", "cheds crackers", "cheds cracker", "arnott's cheds", "chedds"],
+      "tier": "rare",
+      "note": "Arnott's cheese-flavoured round savoury biscuit."
+    },
+    {
+      "canonical": "Clix",
+      "aliases": ["clix biscuit", "clix biscuits", "clix crackers", "clix cracker", "arnott's clix", "clicks", "clicks biscuit"],
+      "tier": "rare",
+      "note": "Arnott's small savoury cracker."
+    },
+    {
+      "canonical": "Country Cheese",
+      "aliases": ["country cheese biscuit", "country cheese biscuits", "country cheese crackers", "country cheese cracker", "arnott's country cheese"],
+      "tier": "rare",
+      "note": "Arnott's cheese-flavoured savoury biscuit."
+    },
+    {
+      "canonical": "Water Cracker",
+      "aliases": ["water crackers", "arnott's water cracker", "arnott's water crackers", "water biscuit", "water biscuits", "arnotts water crackers"],
+      "tier": "rare",
+      "note": "Generic, but Arnott's Water Crackers are the Aussie cheese-platter default. Accept, borderline."
+    },
+    {
+      "canonical": "Cruskits",
+      "aliases": ["cruskit", "cruskits crispbread", "arnott's cruskits", "crusskits", "cruskets", "cruskits biscuit"],
+      "tier": "rare",
+      "note": "Arnott's light rice/wheat crispbread. Accept (Arnott's classes crispbreads as biscuits)."
+    },
+    {
+      "canonical": "Farmbake",
+      "aliases": ["farmbake cookies", "farmbake cookie", "farm bake", "farm bake cookies", "arnott's farmbake", "farmbake choc chip", "farmbake peanut brownie", "peanut brownie", "peanut brownies"],
+      "tier": "rare",
+      "note": "Arnott's Farmbake cookie range (Choc Chip, Peanut Brownie, Crunchy Oat). Any variety counts."
+    },
+    {
+      "canonical": "Snack Right",
+      "aliases": ["snack right fruit slice", "snackright", "snack rights", "fruit slice", "fruit slice biscuit", "arnott's snack right", "snack right biscuit"],
+      "tier": "rare",
+      "note": "Arnott's Snack Right fruit-slice biscuit, lunchbox staple of the 90s and 2000s."
+    },
+    {
+      "canonical": "Cornflake Cookie",
+      "aliases": ["cornflake cookies", "cornflake biscuit", "cornflake biscuits", "corn flake cookie", "corn flake cookies", "cornflake crunchies", "cornflake crunchie", "cornflake cookies biscuit"],
+      "tier": "rare",
+      "note": "Classic Aussie home-bake / school-fete biscuit. Accept. Not Chocolate Crackles (not a biscuit)."
+    },
+    {
+      "canonical": "Brandy Snap",
+      "aliases": ["brandy snaps", "brandysnap", "brandysnaps", "brandy snap biscuit", "brandy snap biscuits"],
+      "tier": "rare",
+      "note": "British origin but a long-standing Aussie bakery and CWA item. Accept at the host's discretion."
+    },
+    {
+      "canonical": "Iced Marie",
+      "aliases": ["iced maries", "iced marie biscuit", "iced marie biscuits", "arnott's iced marie"],
+      "tier": "rare",
+      "note": "Arnott's iced version of the Marie; possibly discontinued, still a correct classic."
+    },
+    {
+      "canonical": "Adora Cream Wafer",
+      "aliases": ["adora", "adoras", "adora cream wafers", "adora wafers", "adora wafer", "cream wafer", "cream wafers", "arnott's wafers", "arnott's adora", "wafer biscuit", "wafer biscuits"],
+      "tier": "rare",
+      "note": "Arnott's cream wafers (vanilla, chocolate, strawberry). Any wafer answer lands here."
+    },
+    {
+      "canonical": "Shredded Wheatmeal",
+      "aliases": ["shredded wheatmeal biscuit", "shredded wheatmeal biscuits", "wheatmeal", "wheatmeals", "wheatmeal biscuit", "arnott's shredded wheatmeal", "shreaded wheatmeal"],
+      "tier": "deep",
+      "note": "Arnott's plain wheatmeal biscuit, a 1920s-era line still on shelves. Distinct from Chocolate Wheaten."
+    },
+    {
+      "canonical": "Bush Biscuit",
+      "aliases": ["bush biscuits", "arnott's bush biscuit", "arnott's bush biscuits", "bush bikkie", "bush bikkies"],
+      "tier": "deep",
+      "note": "Arnott's big plain biscuit, a Queensland and outback favourite; discontinued in the 2000s. Genuine deep cut."
+    },
+    {
+      "canonical": "Byron Bay Cookie",
+      "aliases": ["byron bay cookies", "byron bay cookie company", "byron bay", "byron cookie", "byron cookies", "byron bay white choc macadamia"],
+      "tier": "deep",
+      "note": "Cafe-counter cookie brand from Byron Bay (1990). Accept as a modern Aussie classic."
+    },
+    {
+      "canonical": "Paradise Cottage Cookies",
+      "aliases": ["cottage cookies", "cottage cookie", "paradise cookies", "paradise biscuits", "paradise cottage cookie", "paradise vive", "vive biscuits"],
+      "tier": "deep",
+      "note": "Paradise Food Industries supermarket cookies (Cottage Cookies, Vive). Accept."
+    },
+    {
+      "canonical": "Arnott's Obsession",
+      "aliases": ["obsession", "obsessions", "arnotts obsession", "obsession biscuit", "obsession biscuits", "arnott's obsession biscuit"],
+      "tier": "deep",
+      "note": "Arnott's premium chocolate biscuit range (2010s). Accept, but it is a stretch as a 'classic'."
+    }
+  ],
+  "hostNotes": "Accept any Arnott's line, savoury crackers and crispbreads included (Arnott's calls them all biscuits), plus classic bakery/CWA biscuits like Anzac, Yo-Yo, Melting Moment and Jam Drop. Flavour variants collapse to the parent (Double Coat -> Tim Tam, Chicken Crimpy -> Shapes); a bare 'Monte' or 'shortbread' means Monte Carlo and Shortbread Cream respectively unless the player clarifies; Savoy and Jatz are the same biscuit under different state names but are scored separately unless the host rules otherwise. Traps: Lamingtons, Vanilla Slice, Chocolate Crackles, Honey Joys and Fairy Bread are not biscuits; Afghans, Toffee Pops, Squiggles, Mallowpuffs and Griffin's are New Zealand; Oreo, Hobnob, Custard Cream and Jammie Dodger are not Aussie; 'Assorted Creams' or 'Family Assorted' is a pack, so ask the player to name one biscuit from it."
+}

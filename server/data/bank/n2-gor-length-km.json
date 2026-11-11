@@ -1,0 +1,15 @@
+{
+  "id": "n2-gor-length-km",
+  "text": "How many kilometres long is the Great Ocean Road?",
+  "type": "numeric",
+  "category": "closest",
+  "approved": false,
+  "numeric": {
+    "answer": 243,
+    "unit": "km",
+    "source": "https://en.wikipedia.org/wiki/Great_Ocean_Road",
+    "asOf": "2026-11-01",
+    "alternatives": "243 km (Torquay to Allansford, near Warrnambool) is the figure used by Wikipedia, Visit Victoria captions and most travel guides. Some sources round to 240 km or say 'about 250 km', and 244 km occasionally appears. The full B100 route is about 258 km because it also includes the Surf Coast Highway from Belmont (Geelong) to Torquay, which is not officially part of the Great Ocean Road."
+  },
+  "hostNotes": "The Great Ocean Road officially runs 243 kilometres from Torquay to Allansford, just outside Warrnambool. It was built by returned soldiers between 1919 and 1932 and is the world's largest war memorial, so the drive you did to get here was through a monument."
+}

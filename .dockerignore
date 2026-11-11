@@ -1,0 +1,19 @@
+node_modules
+dist
+.env
+.env.*
+!.env.example
+*.log
+.vite
+.turbo
+coverage
+tmp
+docs
+.git
+
+# Repository presentation assets — not needed to build or run the game
+screenshots
+videos
+repository
+*.mp4
+START-HERE.md

@@ -1,0 +1,15 @@
+{
+  "id": "n1-separation-creek-population",
+  "text": "How many people live in Separation Creek full time?",
+  "type": "numeric",
+  "category": "closest",
+  "approved": false,
+  "numeric": {
+    "answer": 28,
+    "unit": "people",
+    "source": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL22260",
+    "asOf": "2026-11-01",
+    "alternatives": "ABS 2021 Census count of usual residents for the Separation Creek State Suburb (SAL22260, Colac Otway Shire) is 28. The 2016 Census counted 19. No separate ABS estimated resident population is published for a locality this small; third-party suburb profiles (gdp.com.au, yourpropertyguide.com.au, censusatlas) all repeat the ABS figure of 28 with a median age of 63."
+  },
+  "hostNotes": "According to the 2021 Census, just 28 people call Separation Creek home full time, with a median age of 63, so this weekend you are roughly doubling the town's population. That is up from 19 at the 2016 Census, which may be the fastest-growing suburb on the Great Ocean Road in percentage terms."
+}

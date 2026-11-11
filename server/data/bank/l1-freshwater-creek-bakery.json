@@ -1,0 +1,1444 @@
+{
+  "id": "l1-freshwater-creek-bakery",
+  "text": "Name something you'd find in the Freshwater Creek Bakery cabinet.",
+  "type": "open",
+  "category": "local",
+  "approved": false,
+  "answers": [
+    {
+      "canonical": "Meat pie",
+      "aliases": [
+        "pie",
+        "pies",
+        "meat pies",
+        "plain pie",
+        "plain pies",
+        "plain meat pie",
+        "beef pie",
+        "mince meat pie",
+        "minced beef pie",
+        "beef mince pie",
+        "aussie meat pie"
+      ],
+      "tier": "common",
+      "note": "Confirmed on reviews (one called it dry). Any unspecified 'pie' lands here."
+    },
+    {
+      "canonical": "Steak pie",
+      "aliases": [
+        "steak pies",
+        "steak and onion pie",
+        "steak and onion",
+        "steak onion pie",
+        "chunky steak pie",
+        "chunky steak",
+        "chunky pie",
+        "chunky beef pie",
+        "steak and cheese pie",
+        "steak and cheese",
+        "steak cheese pie"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed specific flavour; standard pie-warmer stock. Chunky / onion / cheese variants merge here."
+    },
+    {
+      "canonical": "Pepper steak pie",
+      "aliases": [
+        "pepper steak pies",
+        "pepper pie",
+        "pepper steak",
+        "peppered steak pie",
+        "cracked pepper pie",
+        "cracked pepper steak pie"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard country-bakery flavour."
+    },
+    {
+      "canonical": "Curry pie",
+      "aliases": [
+        "curry pies",
+        "curried pie",
+        "beef curry pie",
+        "curry beef pie",
+        "curried beef pie",
+        "chicken curry pie",
+        "curry chicken pie"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard country-bakery flavour."
+    },
+    {
+      "canonical": "Chicken pie",
+      "aliases": [
+        "chicken pies",
+        "chicken",
+        "chicken and vegetable pie",
+        "chicken and veg pie",
+        "chicken veg pie",
+        "chicken and leek pie",
+        "chicken leek pie",
+        "chicken and mushroom pie",
+        "chicken mushroom pie",
+        "creamy chicken pie"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed specific flavour."
+    },
+    {
+      "canonical": "Steak and mushroom pie",
+      "aliases": [
+        "mushroom pie",
+        "mushroom",
+        "steak mushroom pie",
+        "beef and mushroom pie",
+        "beef mushroom pie",
+        "steak and mushroom",
+        "mushroom pies"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed specific flavour."
+    },
+    {
+      "canonical": "Lamb pie",
+      "aliases": [
+        "lamb pies",
+        "moroccan lamb pie",
+        "moroccan lamb",
+        "moroccan pie",
+        "lamb and rosemary pie",
+        "lamb and rosemary",
+        "lamb rosemary pie",
+        "rosemary lamb pie",
+        "gourmet pie",
+        "gourmet pies"
+      ],
+      "tier": "rare",
+      "note": "Moroccan lamb is the gourmet pie a Tripadvisor regular names as their favourite. 'Gourmet pie' with no flavour also lands here."
+    },
+    {
+      "canonical": "Pasty",
+      "aliases": [
+        "pasties",
+        "cornish pasty",
+        "cornish pasties",
+        "vegetable pasty",
+        "veggie pasty",
+        "vegie pasty",
+        "beef pasty",
+        "meat pasty",
+        "pastie"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed on the menu; standard Victorian bakery stock."
+    },
+    {
+      "canonical": "Sausage roll",
+      "aliases": [
+        "sausage rolls",
+        "sauso roll",
+        "sauso",
+        "sausy roll",
+        "snag roll",
+        "sausage roll with sauce",
+        "jumbo sausage roll"
+      ],
+      "tier": "common",
+      "note": "Confirmed on reviews ('nice and crispy')."
+    },
+    {
+      "canonical": "Quiche",
+      "aliases": [
+        "quiches",
+        "quiche lorraine",
+        "egg and bacon quiche",
+        "bacon and egg quiche",
+        "spinach quiche",
+        "spinach and feta quiche",
+        "mini quiche",
+        "individual quiche"
+      ],
+      "tier": "uncommon",
+      "note": "Confirmed: a Tripadvisor review titled 'Beat this Quiche'."
+    },
+    {
+      "canonical": "Spinach and ricotta roll",
+      "aliases": [
+        "spinach and ricotta rolls",
+        "spinach roll",
+        "spinach rolls",
+        "spinach and cheese roll",
+        "spinach ricotta roll",
+        "spinach and feta roll",
+        "veggie roll",
+        "vegetarian roll",
+        "vegetarian sausage roll",
+        "veggie sausage roll"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; plausible pie-warmer item."
+    },
+    {
+      "canonical": "Party pie",
+      "aliases": [
+        "party pies",
+        "mini pie",
+        "mini pies",
+        "little pies",
+        "cocktail pie",
+        "cocktail pies",
+        "mini sausage rolls",
+        "party sausage rolls",
+        "cocktail sausage rolls"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; party-size pies and sausage rolls merge here."
+    },
+    {
+      "canonical": "Apple pie",
+      "aliases": [
+        "apple pies",
+        "family apple pie",
+        "individual apple pie",
+        "apple and rhubarb pie",
+        "apple rhubarb pie",
+        "apple and blackberry pie",
+        "apple berry pie",
+        "fruit pie",
+        "fruit pies"
+      ],
+      "tier": "uncommon",
+      "note": "Confirmed: listed among favourites on the shop's review page."
+    },
+    {
+      "canonical": "Bacon and egg roll",
+      "aliases": [
+        "bacon and egg rolls",
+        "egg and bacon roll",
+        "egg and bacon rolls",
+        "bacon egg roll",
+        "breakfast roll",
+        "brekkie roll",
+        "egg and bacon pie",
+        "bacon and egg pie"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; host call on whether it counts as 'cabinet'."
+    },
+    {
+      "canonical": "Cheese and bacon roll",
+      "aliases": [
+        "cheese and bacon rolls",
+        "bacon and cheese roll",
+        "bacon and cheese rolls",
+        "cheesy bacon roll",
+        "cheese roll",
+        "cheese rolls",
+        "cheese and vegemite scroll",
+        "vegemite scroll",
+        "vegemite scrolls",
+        "cheesymite scroll",
+        "cheesymite"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; savoury bread rolls and scrolls merge here."
+    },
+    {
+      "canonical": "Sponge cake",
+      "aliases": [
+        "sponge",
+        "sponges",
+        "sponge cakes",
+        "cream sponge",
+        "cream sponges",
+        "fresh cream sponge",
+        "jam and cream sponge",
+        "cream cake",
+        "cream cakes",
+        "cream filled sponge",
+        "cream-filled sponge",
+        "whole sponge",
+        "half sponge"
+      ],
+      "tier": "common",
+      "note": "THE signature line: roughly 100 a day, four classic flavours. Unspecified 'sponge' scores here, not as Passionfruit sponge."
+    },
+    {
+      "canonical": "Passionfruit sponge",
+      "aliases": [
+        "passionfruit sponges",
+        "passionfruit sponge cake",
+        "passion fruit sponge",
+        "passionfruit cream sponge",
+        "passionfruit cake",
+        "passionfruit iced sponge",
+        "vanilla passionfruit sponge",
+        "vanilla sponge with passionfruit icing",
+        "passionfruit and cream sponge"
+      ],
+      "tier": "common",
+      "note": "Confirmed; the famous one that sells out. Expect many in a local crowd."
+    },
+    {
+      "canonical": "Chocolate sponge",
+      "aliases": [
+        "chocolate sponges",
+        "chocolate sponge cake",
+        "choc sponge",
+        "chocolate cream sponge",
+        "choc cream sponge",
+        "vanilla chocolate sponge",
+        "chocolate iced sponge"
+      ],
+      "tier": "uncommon",
+      "note": "Confirmed; one of the four core sponge flavours."
+    },
+    {
+      "canonical": "Ginger fluff",
+      "aliases": [
+        "ginger fluffs",
+        "ginger fluff sponge",
+        "ginger sponge",
+        "ginger fluff cake",
+        "ginger sponge cake",
+        "ginger cream sponge",
+        "ginger cake"
+      ],
+      "tier": "rare",
+      "note": "Confirmed; a genuine old-school Victorian sponge and one of the four core flavours. Sold as a large cake only per one review."
+    },
+    {
+      "canonical": "Victoria sponge",
+      "aliases": [
+        "victoria sponges",
+        "victoria sponge cake",
+        "victoria sandwich",
+        "jam and cream victoria sponge",
+        "plain jam and cream sponge",
+        "vanilla sponge",
+        "plain sponge"
+      ],
+      "tier": "rare",
+      "note": "Confirmed; the 'just jam and cream' one of the four core flavours. Plain / vanilla sponge lands here."
+    },
+    {
+      "canonical": "Gluten-free sponge",
+      "aliases": [
+        "gluten free sponge",
+        "gf sponge",
+        "gluten free sponge cake",
+        "gluten-free sponge cake",
+        "gluten free cake",
+        "gluten-free cake",
+        "gf cake",
+        "gluten free",
+        "gluten-free"
+      ],
+      "tier": "rare",
+      "note": "Confirmed; made to order and praised in reviews."
+    },
+    {
+      "canonical": "Birthday cake",
+      "aliases": [
+        "birthday cakes",
+        "celebration cake",
+        "celebration cakes",
+        "occasion cake",
+        "special occasion cake",
+        "novelty cake",
+        "novelty cakes",
+        "custom cake",
+        "cake order",
+        "ordered cake",
+        "party cake",
+        "wedding cake"
+      ],
+      "tier": "uncommon",
+      "note": "Confirmed: special-occasion sponges are ordered for parties."
+    },
+    {
+      "canonical": "Carrot cake",
+      "aliases": [
+        "carrot cakes",
+        "carrot and walnut cake",
+        "carrot walnut cake",
+        "carrot cake slice"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet cake."
+    },
+    {
+      "canonical": "Chocolate cake",
+      "aliases": [
+        "chocolate cakes",
+        "choc cake",
+        "chocolate mud cake",
+        "mud cake",
+        "choc mud cake",
+        "chocolate fudge cake"
+      ],
+      "tier": "uncommon",
+      "note": "Confirmed (2011 review lists chocolate cake among the loaves and cakes). Chocolate sponge is separate."
+    },
+    {
+      "canonical": "Lemon cake",
+      "aliases": [
+        "lemon cakes",
+        "lemon loaf",
+        "lemon syrup cake",
+        "lemon drizzle cake",
+        "lemon drizzle",
+        "lemon and coconut cake"
+      ],
+      "tier": "rare",
+      "note": "Confirmed (2011 review)."
+    },
+    {
+      "canonical": "Orange cake",
+      "aliases": [
+        "orange cakes",
+        "orange loaf",
+        "orange syrup cake",
+        "orange and almond cake",
+        "orange almond cake",
+        "orange and poppyseed cake",
+        "orange poppyseed cake"
+      ],
+      "tier": "rare",
+      "note": "Confirmed (2011 review)."
+    },
+    {
+      "canonical": "Fruit cake",
+      "aliases": [
+        "fruit cakes",
+        "fruitcake",
+        "boiled fruit cake",
+        "christmas cake",
+        "christmas cakes",
+        "xmas cake",
+        "rich fruit cake",
+        "sultana cake",
+        "christmas pudding",
+        "plum pudding"
+      ],
+      "tier": "rare",
+      "note": "Confirmed in a trade write-up (fruit cakes and Christmas cakes); seasonal items merge here."
+    },
+    {
+      "canonical": "Tea cake",
+      "aliases": [
+        "tea cakes",
+        "teacake",
+        "teacakes",
+        "cinnamon tea cake",
+        "cinnamon teacake",
+        "apple tea cake",
+        "apple teacake"
+      ],
+      "tier": "rare",
+      "note": "Confirmed in a trade write-up."
+    },
+    {
+      "canonical": "Banana bread",
+      "aliases": [
+        "banana breads",
+        "banana loaf",
+        "banana cake",
+        "banana and walnut bread"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Cheesecake",
+      "aliases": [
+        "cheesecakes",
+        "cheese cake",
+        "baked cheesecake",
+        "lemon cheesecake",
+        "strawberry cheesecake",
+        "cheesecake slice"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Lamington",
+      "aliases": [
+        "lamingtons",
+        "lammo",
+        "lammos",
+        "lammington",
+        "lammingtons",
+        "cream lamington",
+        "jam lamington",
+        "jam and cream lamington",
+        "chocolate lamington",
+        "raspberry lamington",
+        "pink lamington"
+      ],
+      "tier": "common",
+      "note": "Unconfirmed but a near-certain guess; accept any variant."
+    },
+    {
+      "canonical": "Cream kiss",
+      "aliases": [
+        "kiss",
+        "cream kisses",
+        "kisses",
+        "creme kiss",
+        "creme kisses",
+        "sponge kiss",
+        "sponge kisses",
+        "cream sponge kiss",
+        "cream sponge kisses",
+        "powder puff",
+        "powder puffs"
+      ],
+      "tier": "deep",
+      "note": "Grandma's usual order — Sam's special answer. Confirmed: the shop's review page lists 'sponge kisses' among favourites. Bare 'kiss' / 'kisses' scores here, not as the kiss biscuit."
+    },
+    {
+      "canonical": "Cupcake",
+      "aliases": [
+        "cupcakes",
+        "cup cake",
+        "cup cakes",
+        "patty cake",
+        "patty cakes",
+        "fairy cake",
+        "fairy cakes",
+        "iced cupcake",
+        "butterfly cake",
+        "butterfly cakes"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Jelly cake",
+      "aliases": [
+        "jelly cakes",
+        "jelly sponge",
+        "jelly sponges",
+        "jelly cream cake",
+        "raspberry jelly cake",
+        "jelly and coconut cake",
+        "jelly coconut sponge"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; classic Victorian country-bakery sponge item, plausible given the shop's sponge focus."
+    },
+    {
+      "canonical": "Muffin",
+      "aliases": [
+        "muffins",
+        "blueberry muffin",
+        "blueberry muffins",
+        "choc chip muffin",
+        "chocolate chip muffin",
+        "raspberry muffin",
+        "savoury muffin",
+        "banana muffin",
+        "apple muffin"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Cream bun",
+      "aliases": [
+        "cream buns",
+        "jam and cream bun",
+        "cream filled bun",
+        "cream-filled bun",
+        "iced cream bun",
+        "cream donut bun",
+        "jam cream bun"
+      ],
+      "tier": "common",
+      "note": "Unconfirmed on the menu; near-certain guess."
+    },
+    {
+      "canonical": "Finger bun",
+      "aliases": [
+        "finger buns",
+        "iced finger bun",
+        "iced finger buns",
+        "pink finger bun",
+        "iced bun",
+        "iced buns",
+        "pink iced bun",
+        "iced finger",
+        "pink bun",
+        "sticky bun"
+      ],
+      "tier": "common",
+      "note": "Unconfirmed on the menu; standard stock."
+    },
+    {
+      "canonical": "Boston bun",
+      "aliases": [
+        "boston buns",
+        "coconut bun",
+        "coconut iced bun",
+        "coconut icing bun",
+        "pink coconut bun"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; old-fashioned Victorian bakery item that suits this shop."
+    },
+    {
+      "canonical": "Hot cross bun",
+      "aliases": [
+        "hot cross buns",
+        "hcb",
+        "hcbs",
+        "easter bun",
+        "easter buns",
+        "choc chip hot cross bun",
+        "fruitless hot cross bun"
+      ],
+      "tier": "uncommon",
+      "note": "Seasonal (Easter); accept."
+    },
+    {
+      "canonical": "Jam doughnut",
+      "aliases": [
+        "jam doughnuts",
+        "jam donut",
+        "jam donuts",
+        "doughnut",
+        "doughnuts",
+        "donut",
+        "donuts",
+        "hot jam donut",
+        "hot jam doughnut",
+        "cinnamon donut",
+        "cinnamon doughnut",
+        "sugar donut",
+        "sugared donut",
+        "cinnamon sugar donut"
+      ],
+      "tier": "common",
+      "note": "Unconfirmed; any unspecified or sugared donut lands here."
+    },
+    {
+      "canonical": "Cream doughnut",
+      "aliases": [
+        "cream doughnuts",
+        "cream donut",
+        "cream donuts",
+        "cream filled donut",
+        "cream-filled donut",
+        "iced donut",
+        "iced doughnut",
+        "iced donuts",
+        "chocolate iced donut",
+        "pink iced donut",
+        "long john",
+        "custard donut",
+        "custard doughnut"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; iced and filled donuts merge here."
+    },
+    {
+      "canonical": "Cinnamon scroll",
+      "aliases": [
+        "cinnamon scrolls",
+        "cinnamon roll",
+        "cinnamon rolls",
+        "cinnamon bun",
+        "cinnamon buns",
+        "scroll",
+        "scrolls",
+        "cinnamon swirl",
+        "coffee scroll",
+        "coffee scrolls",
+        "sultana scroll",
+        "fruit scroll"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; sweet scrolls (incl. the Victorian coffee scroll) merge here."
+    },
+    {
+      "canonical": "Apple turnover",
+      "aliases": [
+        "apple turnovers",
+        "turnover",
+        "turnovers",
+        "apple and cream turnover",
+        "cream turnover",
+        "apple cream turnover",
+        "apple puff"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Éclair",
+      "aliases": [
+        "eclair",
+        "eclairs",
+        "éclairs",
+        "chocolate eclair",
+        "chocolate eclairs",
+        "choc eclair",
+        "chocolate éclair",
+        "cream eclair",
+        "cream puff",
+        "cream puffs",
+        "profiterole",
+        "profiteroles",
+        "choux puff",
+        "choux"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; choux-pastry items (cream puffs, profiteroles) merge here."
+    },
+    {
+      "canonical": "Cream horn",
+      "aliases": [
+        "cream horns",
+        "cream cornet",
+        "cream cornets",
+        "pastry horn",
+        "cream roll",
+        "cream rolls"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned item that suits this shop."
+    },
+    {
+      "canonical": "Custard tart",
+      "aliases": [
+        "custard tarts",
+        "egg custard tart",
+        "nutmeg custard tart",
+        "baked custard tart",
+        "egg tart",
+        "egg tarts",
+        "custard tartlet",
+        "portuguese tart",
+        "portuguese custard tart"
+      ],
+      "tier": "common",
+      "note": "Unconfirmed; near-certain guess."
+    },
+    {
+      "canonical": "Neenish tart",
+      "aliases": [
+        "neenish tarts",
+        "neenish",
+        "nenish tart",
+        "nenish tarts",
+        "nenish",
+        "neanish tart",
+        "nienish tart",
+        "neenish tartlet"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; old-fashioned Victorian cabinet staple."
+    },
+    {
+      "canonical": "Lemon tart",
+      "aliases": [
+        "lemon tarts",
+        "lemon meringue tart",
+        "lemon meringue pie",
+        "lemon meringue",
+        "lemon curd tart",
+        "citrus tart",
+        "lemon tartlet"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed."
+    },
+    {
+      "canonical": "Fruit mince tart",
+      "aliases": [
+        "fruit mince tarts",
+        "mince tart",
+        "mince tarts",
+        "fruit mince pie",
+        "fruit mince pies",
+        "christmas mince pie",
+        "christmas mince pies",
+        "xmas mince pie",
+        "mince pies"
+      ],
+      "tier": "rare",
+      "note": "Confirmed in a trade write-up (Christmas item). If a player says just 'mince pie', ask: fruit (here) or meat (Meat pie)?"
+    },
+    {
+      "canonical": "Danish",
+      "aliases": [
+        "danishes",
+        "danish pastry",
+        "danish pastries",
+        "apricot danish",
+        "custard danish",
+        "apple danish",
+        "blueberry danish",
+        "fruit danish",
+        "cherry danish"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Croissant",
+      "aliases": [
+        "croissants",
+        "plain croissant",
+        "ham and cheese croissant",
+        "ham cheese croissant",
+        "almond croissant",
+        "chocolate croissant",
+        "pain au chocolat"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Scone",
+      "aliases": [
+        "scones",
+        "plain scone",
+        "plain scones",
+        "date scone",
+        "date scones",
+        "pumpkin scone",
+        "pumpkin scones",
+        "cheese scone",
+        "cheese scones",
+        "scone with jam and cream",
+        "jam and cream scone",
+        "scones with jam and cream",
+        "devonshire tea",
+        "devonshire scones",
+        "fruit scone",
+        "sultana scone"
+      ],
+      "tier": "common",
+      "note": "Unconfirmed; near-certain guess. Devonshire tea merges here."
+    },
+    {
+      "canonical": "Vanilla slice",
+      "aliases": [
+        "vanilla slices",
+        "snot block",
+        "snot blocks",
+        "custard slice",
+        "custard slices",
+        "french vanilla slice",
+        "passionfruit vanilla slice",
+        "passionfruit slice",
+        "custard square",
+        "vanilla custard slice"
+      ],
+      "tier": "common",
+      "note": "Confirmed: listed among favourites on the shop's review page."
+    },
+    {
+      "canonical": "Matchstick",
+      "aliases": [
+        "matchsticks",
+        "match stick",
+        "match sticks",
+        "cream matchstick",
+        "cream matchsticks",
+        "matchstick slice",
+        "mille feuille",
+        "mille-feuille",
+        "millefeuille",
+        "french slice",
+        "jam and cream matchstick"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned Victorian cabinet item."
+    },
+    {
+      "canonical": "Apple slice",
+      "aliases": [
+        "apple slices",
+        "apple crumble slice",
+        "apple and custard slice",
+        "apple custard slice",
+        "apple shortcake",
+        "apple shortcake slice",
+        "apple and cinnamon slice",
+        "apple and rhubarb slice"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard slice."
+    },
+    {
+      "canonical": "Caramel slice",
+      "aliases": [
+        "caramel slices",
+        "chocolate caramel slice",
+        "choc caramel slice",
+        "millionaire shortbread",
+        "millionaire's shortbread",
+        "millionaires shortbread",
+        "caramel shortbread"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard slice."
+    },
+    {
+      "canonical": "Hedgehog",
+      "aliases": [
+        "hedgehogs",
+        "hedgehog slice",
+        "hedgehog slices",
+        "hedgehog bar",
+        "chocolate hedgehog",
+        "chocolate biscuit slice"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard Victorian slice."
+    },
+    {
+      "canonical": "Lemon slice",
+      "aliases": [
+        "lemon slices",
+        "lemon coconut slice",
+        "lemon and coconut slice",
+        "lemon cheesecake slice",
+        "lemon bar"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard slice."
+    },
+    {
+      "canonical": "Cherry Ripe slice",
+      "aliases": [
+        "cherry ripe slices",
+        "cherry ripe",
+        "cherry slice",
+        "cherry coconut slice",
+        "cherry and coconut slice",
+        "cherry ripe bar"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard slice."
+    },
+    {
+      "canonical": "Bee sting",
+      "aliases": [
+        "bee stings",
+        "beesting",
+        "beestings",
+        "bee sting cake",
+        "bee-sting",
+        "bienenstich",
+        "honey bee cake"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned item that suits this shop."
+    },
+    {
+      "canonical": "Rum ball",
+      "aliases": [
+        "rum balls",
+        "rumball",
+        "rumballs",
+        "chocolate rum ball",
+        "rum and raisin ball"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard counter item."
+    },
+    {
+      "canonical": "Chocolate truffle",
+      "aliases": [
+        "chocolate truffles",
+        "truffle",
+        "truffles",
+        "choc truffle",
+        "choc truffles",
+        "chocolate ball",
+        "chocolate balls"
+      ],
+      "tier": "rare",
+      "note": "Confirmed in a trade write-up (truffles). Rum balls are scored separately."
+    },
+    {
+      "canonical": "Brownie",
+      "aliases": [
+        "brownies",
+        "chocolate brownie",
+        "chocolate brownies",
+        "choc brownie",
+        "fudge brownie",
+        "walnut brownie"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Anzac biscuit",
+      "aliases": [
+        "anzac biscuits",
+        "anzac",
+        "anzacs",
+        "anzac bikkie",
+        "anzac bikkies",
+        "anzac cookie",
+        "anzac cookies",
+        "anzac bickie",
+        "anzac bickies"
+      ],
+      "tier": "common",
+      "note": "Unconfirmed; near-certain guess. Biscuits are confirmed generally."
+    },
+    {
+      "canonical": "Yo-yo biscuit",
+      "aliases": [
+        "yo-yo biscuits",
+        "yoyo",
+        "yoyos",
+        "yo yo",
+        "yo yos",
+        "yo-yo",
+        "yo-yos",
+        "yoyo biscuit",
+        "yoyo biscuits",
+        "yo yo biscuit",
+        "yo yo biscuits",
+        "yoyo bikkie",
+        "yoyo bikkies"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; old-fashioned Victorian cabinet item. Melting moments are scored separately."
+    },
+    {
+      "canonical": "Melting moment",
+      "aliases": [
+        "melting moments",
+        "custard melting moment",
+        "custard melting moments",
+        "melting moment biscuit",
+        "melting moment biscuits"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; near-identical to the yo-yo but scored separately."
+    },
+    {
+      "canonical": "Monte Carlo",
+      "aliases": [
+        "monte carlos",
+        "monte carlo biscuit",
+        "monte carlo biscuits",
+        "montecarlo",
+        "montecarlos",
+        "monte carlo bikkie"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned cream biscuit that suits this shop."
+    },
+    {
+      "canonical": "Kiss biscuit",
+      "aliases": [
+        "kiss biscuits",
+        "kiss bikkie",
+        "kiss bikkies",
+        "kiss bickie",
+        "kiss bickies",
+        "biscuit kiss",
+        "biscuit kisses",
+        "chocolate kiss biscuit"
+      ],
+      "tier": "rare",
+      "note": "The cream-sandwiched biscuit. Only score here if they clearly say biscuit; bare 'kiss' / 'kisses' is the Cream kiss (Grandma's order)."
+    },
+    {
+      "canonical": "Shortbread",
+      "aliases": [
+        "shortbreads",
+        "shortbread biscuit",
+        "shortbread biscuits",
+        "shortbread finger",
+        "shortbread fingers",
+        "scottish shortbread",
+        "butter shortbread",
+        "shortbread cream"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard biscuit."
+    },
+    {
+      "canonical": "Gingerbread man",
+      "aliases": [
+        "gingerbread men",
+        "gingerbread",
+        "gingerbread person",
+        "gingerbread people",
+        "gingerbread biscuit",
+        "gingerbread biscuits",
+        "ginger biscuit",
+        "ginger biscuits",
+        "gingernut",
+        "ginger nut",
+        "gingernuts"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; ginger biscuits of any shape merge here."
+    },
+    {
+      "canonical": "Biscuits",
+      "aliases": [
+        "biscuit",
+        "bikkie",
+        "bikkies",
+        "bickie",
+        "bickies",
+        "cookie",
+        "cookies",
+        "choc chip cookie",
+        "choc chip cookies",
+        "chocolate chip cookie",
+        "chocolate chip cookies",
+        "choc chip biscuit",
+        "choc chip biscuits",
+        "homemade biscuits",
+        "home made biscuits",
+        "bag of biscuits"
+      ],
+      "tier": "common",
+      "note": "Confirmed (cookies on display per the 2011 review; biscuits per a trade write-up). Generic or choc-chip answers land here; named classics have their own entries."
+    },
+    {
+      "canonical": "Jam drop",
+      "aliases": [
+        "jam drops",
+        "jam drop biscuit",
+        "jam drop biscuits",
+        "jam biscuit",
+        "jam biscuits",
+        "thumbprint biscuit",
+        "thumbprint biscuits",
+        "thumbprint cookie",
+        "jam thumbprint"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned biscuit."
+    },
+    {
+      "canonical": "Meringue",
+      "aliases": [
+        "meringues",
+        "meringue nest",
+        "meringue nests",
+        "meringue kisses",
+        "mini meringue",
+        "mini meringues",
+        "pavlova",
+        "pavlovas",
+        "pav",
+        "mini pavlova",
+        "mini pav",
+        "mini pavs",
+        "lemon meringue nest"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; meringue nests and pavlovas merge here."
+    },
+    {
+      "canonical": "Bread",
+      "aliases": [
+        "breads",
+        "loaf",
+        "loaves",
+        "loaf of bread",
+        "bread loaf",
+        "bread loaves",
+        "white bread",
+        "white loaf",
+        "wholemeal bread",
+        "wholemeal loaf",
+        "multigrain",
+        "multigrain bread",
+        "multigrain loaf",
+        "high top",
+        "high top loaf",
+        "hi top",
+        "sandwich loaf",
+        "vienna",
+        "vienna loaf",
+        "sliced bread",
+        "fresh bread",
+        "raisin bread",
+        "fruit loaf",
+        "raisin loaf",
+        "fruit bread"
+      ],
+      "tier": "common",
+      "note": "Confirmed in general (loaves; sourdough). Plain and fruit loaves merge here; sourdough and Zeally Bay are separate."
+    },
+    {
+      "canonical": "Sourdough",
+      "aliases": [
+        "sourdough bread",
+        "sourdough loaf",
+        "sourdough loaves",
+        "sour dough",
+        "sour dough bread",
+        "sourdough roll",
+        "sourdough rolls"
+      ],
+      "tier": "uncommon",
+      "note": "Confirmed; the shop stocks Torquay's Zeally Bay sourdough. Naming the baker is the separate deep entry."
+    },
+    {
+      "canonical": "Zeally Bay sourdough",
+      "aliases": [
+        "zeally bay",
+        "zealy bay",
+        "zeally bay bread",
+        "zealy bay bread",
+        "zeally bay sourdough bread",
+        "zealy bay sourdough",
+        "zeally bay loaf",
+        "zealy bay loaf",
+        "zeally bay organic sourdough"
+      ],
+      "tier": "deep",
+      "note": "Confirmed: a local tip lists 'Zealy [sic] Bay sourdough bread' in the shop. Genuine deep cut — the Torquay organic baker whose loaves it sells."
+    },
+    {
+      "canonical": "Bread roll",
+      "aliases": [
+        "bread rolls",
+        "roll",
+        "rolls",
+        "dinner roll",
+        "dinner rolls",
+        "crusty roll",
+        "crusty rolls",
+        "bap",
+        "baps",
+        "long roll",
+        "long rolls",
+        "round roll",
+        "white roll",
+        "white rolls",
+        "wholemeal roll",
+        "knot roll",
+        "knot rolls"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; plain bread rolls. Filled rolls score under Sandwich."
+    },
+    {
+      "canonical": "Focaccia",
+      "aliases": [
+        "focaccias",
+        "foccacia",
+        "focacia",
+        "foccacia bread",
+        "toasted focaccia",
+        "focaccia roll",
+        "focaccia sandwich",
+        "turkish bread",
+        "turkish roll",
+        "pide"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; flatbreads merge here."
+    },
+    {
+      "canonical": "Sandwich",
+      "aliases": [
+        "sandwiches",
+        "sanga",
+        "sangas",
+        "sambo",
+        "sambos",
+        "sanger",
+        "sangers",
+        "ham salad sandwich",
+        "ham and cheese sandwich",
+        "ham and salad sandwich",
+        "salad sandwich",
+        "egg sandwich",
+        "egg and lettuce sandwich",
+        "chicken sandwich",
+        "salad roll",
+        "salad rolls",
+        "ham salad roll",
+        "filled roll",
+        "filled rolls",
+        "toasted sandwich",
+        "toasted sandwiches",
+        "toastie",
+        "toasties",
+        "wrap",
+        "wraps",
+        "baguette",
+        "baguettes"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; any filled roll, wrap or toastie merges here."
+    },
+    {
+      "canonical": "Coffee",
+      "aliases": [
+        "coffees",
+        "takeaway coffee",
+        "cup of coffee",
+        "latte",
+        "lattes",
+        "flat white",
+        "flat whites",
+        "cappuccino",
+        "cappuccinos",
+        "long black",
+        "short black",
+        "espresso",
+        "mocha",
+        "chai",
+        "chai latte",
+        "hot chocolate",
+        "hot chocolates",
+        "tea",
+        "cup of tea",
+        "pot of tea",
+        "hot drink",
+        "hot drinks"
+      ],
+      "tier": "uncommon",
+      "note": "Not strictly 'in the cabinet' but accept; any hot drink merges here at host discretion."
+    },
+    {
+      "canonical": "Milkshake",
+      "aliases": [
+        "milkshakes",
+        "milk shake",
+        "milk shakes",
+        "thickshake",
+        "thick shake",
+        "thickshakes",
+        "chocolate milkshake",
+        "strawberry milkshake",
+        "vanilla milkshake",
+        "caramel milkshake",
+        "shake"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; typical country-bakery drink. Host call on 'cabinet'."
+    },
+    {
+      "canonical": "Soft drink",
+      "aliases": [
+        "soft drinks",
+        "coke",
+        "can of coke",
+        "cans of drink",
+        "can of drink",
+        "cold drink",
+        "cold drinks",
+        "drinks",
+        "bottled water",
+        "water",
+        "bottle of water",
+        "juice",
+        "orange juice",
+        "apple juice",
+        "fruit juice",
+        "iced coffee",
+        "farmers union",
+        "farmers union iced coffee",
+        "lemonade",
+        "solo",
+        "fanta",
+        "sprite",
+        "pepsi",
+        "bundaberg ginger beer",
+        "ginger beer"
+      ],
+      "tier": "rare",
+      "note": "Fridge cabinet items; accept any bottled or canned drink here. Big M is its own entry."
+    },
+    {
+      "canonical": "Big M",
+      "aliases": [
+        "big ms",
+        "big m chocolate",
+        "big m strawberry",
+        "chocolate big m",
+        "strawberry big m",
+        "flavoured milk",
+        "chocolate milk",
+        "choccy milk",
+        "strawberry milk",
+        "oak",
+        "oak milk",
+        "iced chocolate milk"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed but every Victorian bakery fridge has one; flavoured milks merge here."
+    },
+    {
+      "canonical": "Ice cream cone",
+      "aliases": [
+        "ice cream cones",
+        "ice cream",
+        "ice creams",
+        "icecream",
+        "icecream cone",
+        "icecream cones",
+        "ice-cream",
+        "ice-cream cone",
+        "soft serve",
+        "icy pole",
+        "icy poles",
+        "paddle pop",
+        "paddle pops",
+        "golden gaytime",
+        "gaytime",
+        "magnum",
+        "cornetto",
+        "drumstick",
+        "ice creams in the freezer"
+      ],
+      "tier": "rare",
+      "note": "Confirmed: a local tip lists ice cream cones in the shop. Freezer items merge here; host call on 'cabinet'."
+    },
+    {
+      "canonical": "Jam",
+      "aliases": [
+        "jams",
+        "jar of jam",
+        "homemade jam",
+        "home made jam",
+        "local jam",
+        "strawberry jam",
+        "raspberry jam",
+        "plum jam",
+        "apricot jam",
+        "marmalade",
+        "condiments",
+        "condiment",
+        "relish",
+        "relishes",
+        "chutney",
+        "chutneys",
+        "preserves",
+        "pickles",
+        "sauces",
+        "honey",
+        "local honey",
+        "lemon butter",
+        "lemon curd",
+        "jars of stuff"
+      ],
+      "tier": "rare",
+      "note": "Confirmed: a local tip lists 'many condiments' for sale. Any jarred condiment merges here."
+    }
+  ],
+  "hostNotes": "The shop actually trades as Freshwater Creek Cakes (650 Anglesea Rd, since the mid-1980s) and is famous for its cream sponges, so accept any sponge flavour; the only web-confirmed items are the sponges (incl. gluten-free), sponge/cream kisses, vanilla slice, apple pies, meat and gourmet pies (Moroccan lamb), sausage rolls, quiche, chocolate/lemon/orange/tea/fruit cakes, biscuits, truffles, mince tarts, Zeally Bay sourdough, condiments and ice creams, and everything else in this bank is standard Victorian country-bakery stock included on plausibility at the listed tier. If a player says just 'cake', 'slice', 'bun', 'tart' or 'mince pie', ask them to name the kind before matching, and if they name a slice or biscuit that is not listed, accept it as rare."
+}

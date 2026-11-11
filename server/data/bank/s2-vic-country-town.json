@@ -1,0 +1,3363 @@
+{
+  "id": "s2-vic-country-town",
+  "text": "Name a Victorian country town.",
+  "type": "open",
+  "category": "starter",
+  "approved": true,
+  "answers": [
+    {
+      "canonical": "Torquay",
+      "aliases": [
+        "torquay",
+        "torkay",
+        "torqay",
+        "torquey",
+        "tourquay",
+        "torquay vic"
+      ],
+      "tier": "common",
+      "note": "Official start of the Great Ocean Road"
+    },
+    {
+      "canonical": "Jan Juc",
+      "aliases": [
+        "jan juc",
+        "janjuc",
+        "jan juk",
+        "jan-juc",
+        "jan jucc"
+      ],
+      "tier": "uncommon",
+      "note": "Torquay's surf-beach neighbour; Bells Beach is a beach, not a town"
+    },
+    {
+      "canonical": "Bellbrae",
+      "aliases": [
+        "bellbrae",
+        "bell brae",
+        "bellbray"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Anglesea",
+      "aliases": [
+        "anglesea",
+        "anglesee",
+        "anglesey",
+        "angelsea",
+        "anglsea"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Aireys Inlet",
+      "aliases": [
+        "aireys inlet",
+        "aireysinlet",
+        "aireys",
+        "airies inlet",
+        "airey's inlet",
+        "airys inlet",
+        "aireys inlett",
+        "ayreys inlet",
+        "aries inlet",
+        "airies"
+      ],
+      "tier": "common",
+      "note": "Split Point lighthouse (Round the Twist)"
+    },
+    {
+      "canonical": "Fairhaven",
+      "aliases": [
+        "fairhaven",
+        "fair haven"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lorne",
+      "aliases": [
+        "lorne",
+        "lorn",
+        "lourne",
+        "lorne vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Wye River",
+      "aliases": [
+        "wye river",
+        "wyeriver",
+        "why river",
+        "wye",
+        "wye-river",
+        "wy river"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Separation Creek",
+      "aliases": [
+        "separation creek",
+        "separationcreek",
+        "sep creek",
+        "seperation creek",
+        "separation ck",
+        "sepo",
+        "separation"
+      ],
+      "tier": "uncommon",
+      "note": "The game's namesake: a gazetted hamlet between Wye River and Kennett River (pop. ~28). Definitely accept"
+    },
+    {
+      "canonical": "Kennett River",
+      "aliases": [
+        "kennett river",
+        "kennettriver",
+        "kennet river",
+        "kennett",
+        "kenneth river",
+        "kennet",
+        "kennett rvr"
+      ],
+      "tier": "common",
+      "note": "Koala spot on the GOR"
+    },
+    {
+      "canonical": "Skenes Creek",
+      "aliases": [
+        "skenes creek",
+        "skenescreek",
+        "skeens creek",
+        "skenes",
+        "skene's creek",
+        "skenes ck",
+        "skeenes creek"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Apollo Bay",
+      "aliases": [
+        "apollo bay",
+        "apollobay",
+        "appollo bay",
+        "apolo bay",
+        "apollo",
+        "apollo bay vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Marengo",
+      "aliases": [
+        "marengo",
+        "marrengo",
+        "morengo"
+      ],
+      "tier": "rare",
+      "note": "Just past Apollo Bay"
+    },
+    {
+      "canonical": "Cape Otway",
+      "aliases": [
+        "cape otway",
+        "capeotway",
+        "otway",
+        "cape otway lightstation",
+        "cape otway vic"
+      ],
+      "tier": "rare",
+      "note": "A locality rather than a township; lean generous"
+    },
+    {
+      "canonical": "Johanna",
+      "aliases": [
+        "johanna",
+        "johanna beach",
+        "joanna"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lavers Hill",
+      "aliases": [
+        "lavers hill",
+        "lavershill",
+        "laver's hill",
+        "lavers",
+        "lavers hills"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Beech Forest",
+      "aliases": [
+        "beech forest",
+        "beechforest",
+        "beechy",
+        "beech forrest"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gellibrand",
+      "aliases": [
+        "gellibrand",
+        "gellibrand river",
+        "gelibrand",
+        "gellibrand vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Forrest",
+      "aliases": [
+        "forrest",
+        "forest",
+        "forrest vic"
+      ],
+      "tier": "uncommon",
+      "note": "Otways MTB and brewery town; accept the single-r 'Forest' misspelling"
+    },
+    {
+      "canonical": "Deans Marsh",
+      "aliases": [
+        "deans marsh",
+        "deansmarsh",
+        "dean's marsh",
+        "deans march",
+        "dean marsh"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Birregurra",
+      "aliases": [
+        "birregurra",
+        "birregura",
+        "birrigurra",
+        "birre",
+        "biregurra",
+        "birregurra vic"
+      ],
+      "tier": "uncommon",
+      "note": "Home of Brae"
+    },
+    {
+      "canonical": "Winchelsea",
+      "aliases": [
+        "winchelsea",
+        "winchelsia",
+        "winchelsee",
+        "winch",
+        "winchelsea vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Princetown",
+      "aliases": [
+        "princetown",
+        "prince town",
+        "princeton",
+        "princetown vic"
+      ],
+      "tier": "uncommon",
+      "note": "Twelve Apostles gateway"
+    },
+    {
+      "canonical": "Port Campbell",
+      "aliases": [
+        "port campbell",
+        "portcampbell",
+        "pt campbell",
+        "port cambell",
+        "port campbel",
+        "port campell"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Peterborough",
+      "aliases": [
+        "peterborough",
+        "peterboro",
+        "peterbourgh",
+        "peterborough vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Timboon",
+      "aliases": [
+        "timboon",
+        "timbon",
+        "timboone",
+        "timboom"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cobden",
+      "aliases": [
+        "cobden",
+        "cobdon",
+        "cobden vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Simpson",
+      "aliases": [
+        "simpson",
+        "simpsons",
+        "simpson vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Allansford",
+      "aliases": [
+        "allansford",
+        "allensford",
+        "alansford",
+        "allansford vic"
+      ],
+      "tier": "rare",
+      "note": "Cheese World"
+    },
+    {
+      "canonical": "Koroit",
+      "aliases": [
+        "koroit",
+        "koroyt",
+        "koroite",
+        "koroit vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Warrnambool",
+      "aliases": [
+        "warrnambool",
+        "warnambool",
+        "warrnambul",
+        "warnambul",
+        "warrambool",
+        "the bool",
+        "warrny",
+        "warny",
+        "warnambool vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Port Fairy",
+      "aliases": [
+        "port fairy",
+        "portfairy",
+        "pt fairy",
+        "port fairey",
+        "port fairy vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Heywood",
+      "aliases": [
+        "heywood",
+        "haywood",
+        "heywood vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Portland",
+      "aliases": [
+        "portland",
+        "portlund",
+        "portland vic"
+      ],
+      "tier": "common",
+      "note": "Victorian Portland, not Oregon"
+    },
+    {
+      "canonical": "Cape Bridgewater",
+      "aliases": [
+        "cape bridgewater",
+        "capebridgewater",
+        "bridgewater bay",
+        "cape bridgwater",
+        "cape bridgewater vic"
+      ],
+      "tier": "rare",
+      "note": "Distinct from Bridgewater on Loddon"
+    },
+    {
+      "canonical": "Nelson",
+      "aliases": [
+        "nelson",
+        "nelson vic",
+        "nelson victoria"
+      ],
+      "tier": "rare",
+      "note": "Glenelg River mouth on the SA border"
+    },
+    {
+      "canonical": "Casterton",
+      "aliases": [
+        "casterton",
+        "castleton",
+        "casterson",
+        "casterton vic"
+      ],
+      "tier": "uncommon",
+      "note": "Kelpie capital"
+    },
+    {
+      "canonical": "Coleraine",
+      "aliases": [
+        "coleraine",
+        "colraine",
+        "colerain",
+        "coleraine vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Harrow",
+      "aliases": [
+        "harrow",
+        "harrow vic",
+        "harrow victoria"
+      ],
+      "tier": "rare",
+      "note": "Johnny Mullagh / 1868 Aboriginal cricket team"
+    },
+    {
+      "canonical": "Edenhope",
+      "aliases": [
+        "edenhope",
+        "eden hope",
+        "edenhop",
+        "edenhope vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Goroke",
+      "aliases": [
+        "goroke",
+        "gorokee",
+        "garoke",
+        "goroke vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Balmoral",
+      "aliases": [
+        "balmoral",
+        "balmoral vic",
+        "balmoral victoria"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cavendish",
+      "aliases": [
+        "cavendish",
+        "cavendish vic",
+        "cavendish victoria"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hamilton",
+      "aliases": [
+        "hamilton",
+        "hamiltion",
+        "hamilton vic",
+        "hamilton victoria"
+      ],
+      "tier": "common",
+      "note": "Western District Hamilton, not NZ or Ontario"
+    },
+    {
+      "canonical": "Dunkeld",
+      "aliases": [
+        "dunkeld",
+        "dunkield",
+        "dunkeild",
+        "dunkeld vic"
+      ],
+      "tier": "uncommon",
+      "note": "Royal Mail Hotel"
+    },
+    {
+      "canonical": "Penshurst",
+      "aliases": [
+        "penshurst",
+        "pens hurst",
+        "penhurst",
+        "penshurst vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Macarthur",
+      "aliases": [
+        "macarthur",
+        "mcarthur",
+        "mac arthur",
+        "macarthur vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mortlake",
+      "aliases": [
+        "mortlake",
+        "mort lake",
+        "mortlake vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Terang",
+      "aliases": [
+        "terang",
+        "terrang",
+        "tarang",
+        "terang vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Noorat",
+      "aliases": [
+        "noorat",
+        "nourat",
+        "noorat vic"
+      ],
+      "tier": "deep",
+      "note": "Alan Marshall's hometown"
+    },
+    {
+      "canonical": "Camperdown",
+      "aliases": [
+        "camperdown",
+        "camperdowne",
+        "camperdoon",
+        "camperdown vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Derrinallum",
+      "aliases": [
+        "derrinallum",
+        "derrinalum",
+        "derrinallam",
+        "derrinallum vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lismore",
+      "aliases": [
+        "lismore",
+        "lismore vic",
+        "lismore victoria"
+      ],
+      "tier": "rare",
+      "note": "Victorian Lismore on the Hamilton Hwy, not the NSW one"
+    },
+    {
+      "canonical": "Skipton",
+      "aliases": [
+        "skipton",
+        "skippton",
+        "skipton vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Beeac",
+      "aliases": [
+        "beeac",
+        "beac",
+        "bee ac",
+        "beeac vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Colac",
+      "aliases": [
+        "colac",
+        "colack",
+        "coalac",
+        "colac vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Geelong",
+      "aliases": [
+        "geelong",
+        "jeelong",
+        "geelong city",
+        "greater geelong",
+        "sleepy hollow",
+        "geelong vic"
+      ],
+      "tier": "common",
+      "note": "Regional city; counts per the brief even if purists grumble"
+    },
+    {
+      "canonical": "Lara",
+      "aliases": [
+        "lara",
+        "lara vic",
+        "lara victoria"
+      ],
+      "tier": "uncommon",
+      "note": "Geelong satellite township; accept"
+    },
+    {
+      "canonical": "Little River",
+      "aliases": [
+        "little river",
+        "littleriver",
+        "little river vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Anakie",
+      "aliases": [
+        "anakie",
+        "anakee",
+        "anaki",
+        "anakie vic"
+      ],
+      "tier": "rare",
+      "note": "Fairy Park"
+    },
+    {
+      "canonical": "Bannockburn",
+      "aliases": [
+        "bannockburn",
+        "bannokburn",
+        "bannockburn vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Inverleigh",
+      "aliases": [
+        "inverleigh",
+        "inverlee",
+        "inverlay",
+        "inverleigh vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Meredith",
+      "aliases": [
+        "meredith",
+        "meridith",
+        "merideth",
+        "meredith vic"
+      ],
+      "tier": "uncommon",
+      "note": "Music festival"
+    },
+    {
+      "canonical": "Steiglitz",
+      "aliases": [
+        "steiglitz",
+        "stieglitz",
+        "steiglitz ghost town",
+        "steiglitz vic"
+      ],
+      "tier": "deep",
+      "note": "Historic gold ghost town; still a gazetted locality"
+    },
+    {
+      "canonical": "Ocean Grove",
+      "aliases": [
+        "ocean grove",
+        "oceangrove",
+        "ocean grove vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Barwon Heads",
+      "aliases": [
+        "barwon heads",
+        "barwonheads",
+        "barwon head",
+        "barwon heds",
+        "barwon heads vic"
+      ],
+      "tier": "common",
+      "note": "SeaChange"
+    },
+    {
+      "canonical": "Queenscliff",
+      "aliases": [
+        "queenscliff",
+        "queenscliffe",
+        "queens cliff",
+        "queenscliff vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Point Lonsdale",
+      "aliases": [
+        "point lonsdale",
+        "pointlonsdale",
+        "pt lonsdale",
+        "lonnie",
+        "point lonsdale vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Portarlington",
+      "aliases": [
+        "portarlington",
+        "port arlington",
+        "portarlo",
+        "porto",
+        "portarlington vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Drysdale",
+      "aliases": [
+        "drysdale",
+        "drysdail",
+        "drysdale vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "St Leonards",
+      "aliases": [
+        "st leonards",
+        "stleonards",
+        "saint leonards",
+        "st. leonards",
+        "st leonards vic",
+        "st leonard",
+        "saint leonards vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Indented Head",
+      "aliases": [
+        "indented head",
+        "indentedhead",
+        "indented heads",
+        "indented head vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ballarat",
+      "aliases": [
+        "ballarat",
+        "ballaarat",
+        "balarat",
+        "ballart",
+        "ballerat",
+        "the rat",
+        "ballarat vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Buninyong",
+      "aliases": [
+        "buninyong",
+        "bunninyong",
+        "buninyong vic",
+        "bunyinong"
+      ],
+      "tier": "uncommon",
+      "note": "Historic township on Ballarat's edge; accept"
+    },
+    {
+      "canonical": "Creswick",
+      "aliases": [
+        "creswick",
+        "cresswick",
+        "creswik",
+        "creswick vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Clunes",
+      "aliases": [
+        "clunes",
+        "cloons",
+        "clunes vic"
+      ],
+      "tier": "uncommon",
+      "note": "Booktown"
+    },
+    {
+      "canonical": "Daylesford",
+      "aliases": [
+        "daylesford",
+        "dalesford",
+        "daylsford",
+        "daylesforde",
+        "daylesford vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Hepburn Springs",
+      "aliases": [
+        "hepburn springs",
+        "hepburnsprings",
+        "hepburn",
+        "hepburn spring"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Trentham",
+      "aliases": [
+        "trentham",
+        "trentam",
+        "trenthem",
+        "trentham vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Blackwood",
+      "aliases": [
+        "blackwood",
+        "blackwood vic",
+        "blackwood victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ballan",
+      "aliases": [
+        "ballan",
+        "balan",
+        "ballan vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Gordon",
+      "aliases": [
+        "gordon",
+        "gordon vic",
+        "gordon victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Linton",
+      "aliases": [
+        "linton",
+        "linton vic",
+        "linton victoria"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Smythesdale",
+      "aliases": [
+        "smythesdale",
+        "smythsdale",
+        "smithsdale",
+        "smythesdale vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Beaufort",
+      "aliases": [
+        "beaufort",
+        "beauford",
+        "bewfort",
+        "beaufort vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Learmonth",
+      "aliases": [
+        "learmonth",
+        "learmouth",
+        "learmonth vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Avoca",
+      "aliases": [
+        "avoca",
+        "avoka",
+        "avoca vic"
+      ],
+      "tier": "uncommon",
+      "note": "Pyrenees wine"
+    },
+    {
+      "canonical": "Moonambel",
+      "aliases": [
+        "moonambel",
+        "moonambell",
+        "moonambel vic"
+      ],
+      "tier": "deep",
+      "note": "Pyrenees wine village"
+    },
+    {
+      "canonical": "Lake Bolac",
+      "aliases": [
+        "lake bolac",
+        "lakebolac",
+        "lake bollac"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Willaura",
+      "aliases": [
+        "willaura",
+        "wilaura",
+        "willaura vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ararat",
+      "aliases": [
+        "ararat",
+        "arrarat",
+        "ararrat",
+        "ararat vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Moyston",
+      "aliases": [
+        "moyston",
+        "moyson",
+        "moyston vic"
+      ],
+      "tier": "rare",
+      "note": "Tom Wills country"
+    },
+    {
+      "canonical": "Pomonal",
+      "aliases": [
+        "pomonal",
+        "pomonall",
+        "pomonal vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Halls Gap",
+      "aliases": [
+        "halls gap",
+        "hallsgap",
+        "hall's gap",
+        "halls gaps",
+        "hals gap"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Stawell",
+      "aliases": [
+        "stawell",
+        "stawel",
+        "stall",
+        "stowell",
+        "stawell vic"
+      ],
+      "tier": "common",
+      "note": "Pronounced 'Stall'; Stawell Gift"
+    },
+    {
+      "canonical": "Great Western",
+      "aliases": [
+        "great western",
+        "greatwestern",
+        "great western vic"
+      ],
+      "tier": "uncommon",
+      "note": "Seppelt"
+    },
+    {
+      "canonical": "Maryborough",
+      "aliases": [
+        "maryborough",
+        "marybourough",
+        "maryboro",
+        "marybrough",
+        "maryborough vic"
+      ],
+      "tier": "uncommon",
+      "note": "Victorian Maryborough, not the QLD one"
+    },
+    {
+      "canonical": "Carisbrook",
+      "aliases": [
+        "carisbrook",
+        "carrisbrook",
+        "carisbrook vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Talbot",
+      "aliases": [
+        "talbot",
+        "talbot vic",
+        "talbot victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dunolly",
+      "aliases": [
+        "dunolly",
+        "dunnolly",
+        "dunolley",
+        "dunolly vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Moliagul",
+      "aliases": [
+        "moliagul",
+        "moliagal",
+        "molliagul",
+        "moliagul vic"
+      ],
+      "tier": "deep",
+      "note": "Welcome Stranger nugget"
+    },
+    {
+      "canonical": "Newstead",
+      "aliases": [
+        "newstead",
+        "new stead",
+        "newsted",
+        "newstead vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Guildford",
+      "aliases": [
+        "guildford",
+        "guilford",
+        "gilford",
+        "guildford vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Castlemaine",
+      "aliases": [
+        "castlemaine",
+        "castlemain",
+        "castlemane",
+        "castle maine",
+        "castlemaine vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Chewton",
+      "aliases": [
+        "chewton",
+        "chewtown",
+        "chewton vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Harcourt",
+      "aliases": [
+        "harcourt",
+        "harcort",
+        "harcourt vic"
+      ],
+      "tier": "uncommon",
+      "note": "Apples and cider"
+    },
+    {
+      "canonical": "Maldon",
+      "aliases": [
+        "maldon",
+        "malden",
+        "maldon vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Taradale",
+      "aliases": [
+        "taradale",
+        "tarradale",
+        "taradale vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Malmsbury",
+      "aliases": [
+        "malmsbury",
+        "malmesbury",
+        "malmsbery",
+        "malmsbury vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Glenlyon",
+      "aliases": [
+        "glenlyon",
+        "glen lyon",
+        "glenlyon vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lyonville",
+      "aliases": [
+        "lyonville",
+        "lyonsville",
+        "lyonville vic"
+      ],
+      "tier": "deep",
+      "note": "Radio Springs Hotel"
+    },
+    {
+      "canonical": "Kyneton",
+      "aliases": [
+        "kyneton",
+        "kyenton",
+        "kynton",
+        "kineton",
+        "kyneton vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Woodend",
+      "aliases": [
+        "woodend",
+        "wood end",
+        "woodhend",
+        "woodend vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Macedon",
+      "aliases": [
+        "macedon",
+        "masedon",
+        "macedon vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mount Macedon",
+      "aliases": [
+        "mount macedon",
+        "mountmacedon",
+        "mt macedon",
+        "mt. macedon",
+        "mount macedon vic",
+        "mt macedon vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Riddells Creek",
+      "aliases": [
+        "riddells creek",
+        "riddellscreek",
+        "riddell's creek",
+        "riddels creek",
+        "riddells",
+        "riddles creek"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Gisborne",
+      "aliases": [
+        "gisborne",
+        "gisbourne",
+        "gisborn",
+        "gisbon",
+        "gisborne vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Romsey",
+      "aliases": [
+        "romsey",
+        "romsay",
+        "ramsey",
+        "romsey vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lancefield",
+      "aliases": [
+        "lancefield",
+        "lance field",
+        "lancefeild",
+        "lancefield vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bacchus Marsh",
+      "aliases": [
+        "bacchus marsh",
+        "bacchusmarsh",
+        "baccus marsh",
+        "bachus marsh",
+        "backus marsh",
+        "bacchus",
+        "the marsh",
+        "bacchus march"
+      ],
+      "tier": "common",
+      "note": "Moorabool Shire; regional"
+    },
+    {
+      "canonical": "Bendigo",
+      "aliases": [
+        "bendigo",
+        "bendego",
+        "bendy",
+        "bendigoe",
+        "bendigo vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Eaglehawk",
+      "aliases": [
+        "eaglehawk",
+        "eagle hawk",
+        "eaglehawk vic"
+      ],
+      "tier": "uncommon",
+      "note": "Historic borough, now part of Bendigo; accept"
+    },
+    {
+      "canonical": "Heathcote",
+      "aliases": [
+        "heathcote",
+        "heathcoat",
+        "heathcott",
+        "heathcote vic"
+      ],
+      "tier": "uncommon",
+      "note": "Shiraz"
+    },
+    {
+      "canonical": "Axedale",
+      "aliases": [
+        "axedale",
+        "axdale",
+        "axedale vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Elmore",
+      "aliases": [
+        "elmore",
+        "elmoor",
+        "elmore vic"
+      ],
+      "tier": "uncommon",
+      "note": "Field days"
+    },
+    {
+      "canonical": "Rochester",
+      "aliases": [
+        "rochester",
+        "rochy",
+        "rochie",
+        "rochester vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Echuca",
+      "aliases": [
+        "echuca",
+        "echucha",
+        "echuka",
+        "echucca",
+        "echuca moama",
+        "echuca-moama"
+      ],
+      "tier": "common",
+      "note": "Moama is NSW; the Victorian side is Echuca"
+    },
+    {
+      "canonical": "Kyabram",
+      "aliases": [
+        "kyabram",
+        "kyabrum",
+        "ky",
+        "kyabram vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tongala",
+      "aliases": [
+        "tongala",
+        "tongalla",
+        "tongala vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Rushworth",
+      "aliases": [
+        "rushworth",
+        "rushwirth",
+        "rushworth vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Colbinabbin",
+      "aliases": [
+        "colbinabbin",
+        "colbinabin",
+        "colbo",
+        "colbinabbin vic"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Murchison",
+      "aliases": [
+        "murchison",
+        "murchinson",
+        "murcheson",
+        "murchison vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gunbower",
+      "aliases": [
+        "gunbower",
+        "gunbowa",
+        "gunbower vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cohuna",
+      "aliases": [
+        "cohuna",
+        "cahuna",
+        "cohunna",
+        "cohuna vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Koondrook",
+      "aliases": [
+        "koondrook",
+        "kondrook",
+        "koondrook vic"
+      ],
+      "tier": "rare",
+      "note": "Barham is across the river in NSW"
+    },
+    {
+      "canonical": "Kerang",
+      "aliases": [
+        "kerang",
+        "kerrang",
+        "karang",
+        "kerang vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lake Boga",
+      "aliases": [
+        "lake boga",
+        "lakeboga",
+        "lake boga vic"
+      ],
+      "tier": "rare",
+      "note": "Catalina flying boat museum"
+    },
+    {
+      "canonical": "Swan Hill",
+      "aliases": [
+        "swan hill",
+        "swanhill",
+        "swan hills",
+        "swan hill vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Nyah",
+      "aliases": [
+        "nyah",
+        "nyah west",
+        "nyah vic"
+      ],
+      "tier": "deep",
+      "note": "Nyah and Nyah West: treat as one answer"
+    },
+    {
+      "canonical": "Robinvale",
+      "aliases": [
+        "robinvale",
+        "robinvail",
+        "robin vale",
+        "robinvale vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Boort",
+      "aliases": [
+        "boort",
+        "bort",
+        "boort vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Pyramid Hill",
+      "aliases": [
+        "pyramid hill",
+        "pyramidhill",
+        "pyramid",
+        "pyramid hill vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bridgewater",
+      "aliases": [
+        "bridgewater",
+        "bridgewater on loddon",
+        "bridgwater",
+        "bridgewater vic"
+      ],
+      "tier": "deep",
+      "note": "Bridgewater on Loddon"
+    },
+    {
+      "canonical": "Inglewood",
+      "aliases": [
+        "inglewood",
+        "ingelwood",
+        "inglewood vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Wedderburn",
+      "aliases": [
+        "wedderburn",
+        "weddeburn",
+        "wederburn",
+        "wedderburn vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "St Arnaud",
+      "aliases": [
+        "st arnaud",
+        "starnaud",
+        "saint arnaud",
+        "st. arnaud",
+        "st arnard",
+        "st arnauld",
+        "saint arnard",
+        "st arnaud vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Charlton",
+      "aliases": [
+        "charlton",
+        "charleton",
+        "charlton vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Donald",
+      "aliases": [
+        "donald",
+        "donald vic",
+        "donald victoria"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Wycheproof",
+      "aliases": [
+        "wycheproof",
+        "wychproof",
+        "wycheproff",
+        "wichyproof",
+        "wycheproof vic"
+      ],
+      "tier": "uncommon",
+      "note": "World's smallest registered mountain"
+    },
+    {
+      "canonical": "Birchip",
+      "aliases": [
+        "birchip",
+        "birchup",
+        "birchipp",
+        "birchip vic"
+      ],
+      "tier": "uncommon",
+      "note": "Mallee Bull"
+    },
+    {
+      "canonical": "Sea Lake",
+      "aliases": [
+        "sea lake",
+        "sealake",
+        "sea lakes",
+        "sea lake vic"
+      ],
+      "tier": "uncommon",
+      "note": "Lake Tyrrell"
+    },
+    {
+      "canonical": "Nullawil",
+      "aliases": [
+        "nullawil",
+        "nullawill",
+        "nullawil vic"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Lascelles",
+      "aliases": [
+        "lascelles",
+        "lascells",
+        "lascelles vic"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Hopetoun",
+      "aliases": [
+        "hopetoun",
+        "hope town",
+        "hopetown",
+        "hopetoun vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Beulah",
+      "aliases": [
+        "beulah",
+        "beula",
+        "beulah vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Rainbow",
+      "aliases": [
+        "rainbow",
+        "rainbow vic",
+        "rainbow victoria"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Jeparit",
+      "aliases": [
+        "jeparit",
+        "jepparit",
+        "jeparit vic"
+      ],
+      "tier": "uncommon",
+      "note": "Menzies' birthplace"
+    },
+    {
+      "canonical": "Patchewollock",
+      "aliases": [
+        "patchewollock",
+        "patchewolock",
+        "patche",
+        "patchewollock vic"
+      ],
+      "tier": "rare",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Ouyen",
+      "aliases": [
+        "ouyen",
+        "owen vic",
+        "oyen",
+        "ouyen vic",
+        "ouen"
+      ],
+      "tier": "uncommon",
+      "note": "Vanilla slice capital"
+    },
+    {
+      "canonical": "Murrayville",
+      "aliases": [
+        "murrayville",
+        "murrayvile",
+        "murray ville",
+        "murrayville vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Manangatang",
+      "aliases": [
+        "manangatang",
+        "manang",
+        "manangatang vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mildura",
+      "aliases": [
+        "mildura",
+        "mildira",
+        "mildurra",
+        "mildure",
+        "mildura vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Irymple",
+      "aliases": [
+        "irymple",
+        "irimple",
+        "irymple vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Red Cliffs",
+      "aliases": [
+        "red cliffs",
+        "redcliffs",
+        "red cliff",
+        "red cliffs vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Merbein",
+      "aliases": [
+        "merbein",
+        "merbien",
+        "merbein vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Nangiloc",
+      "aliases": [
+        "nangiloc",
+        "nangiloc vic",
+        "colignan"
+      ],
+      "tier": "deep",
+      "note": "Colignan spelled backwards; twin settlements on the Murray"
+    },
+    {
+      "canonical": "Horsham",
+      "aliases": [
+        "horsham",
+        "horshum",
+        "horsam",
+        "horsham vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Natimuk",
+      "aliases": [
+        "natimuk",
+        "natimook",
+        "natamuk",
+        "natimuk vic"
+      ],
+      "tier": "uncommon",
+      "note": "Base for Mount Arapiles climbing"
+    },
+    {
+      "canonical": "Dimboola",
+      "aliases": [
+        "dimboola",
+        "dimbula",
+        "dimboola vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Nhill",
+      "aliases": [
+        "nhill",
+        "nill",
+        "nhil",
+        "knill",
+        "nhill vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Kaniva",
+      "aliases": [
+        "kaniva",
+        "kanniva",
+        "kaniva vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Serviceton",
+      "aliases": [
+        "serviceton",
+        "serviceton vic"
+      ],
+      "tier": "deep",
+      "note": "Grand border railway station"
+    },
+    {
+      "canonical": "Murtoa",
+      "aliases": [
+        "murtoa",
+        "mertoa",
+        "murtoa vic"
+      ],
+      "tier": "uncommon",
+      "note": "Stick Shed"
+    },
+    {
+      "canonical": "Rupanyup",
+      "aliases": [
+        "rupanyup",
+        "rup",
+        "rupanyup vic"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Minyip",
+      "aliases": [
+        "minyip",
+        "minip",
+        "minyip vic"
+      ],
+      "tier": "rare",
+      "note": "Coopers Crossing in The Flying Doctors"
+    },
+    {
+      "canonical": "Warracknabeal",
+      "aliases": [
+        "warracknabeal",
+        "warracknabeel",
+        "warraknabeal",
+        "warrack",
+        "waracknabeal",
+        "warracknabeal vic",
+        "warrackanbeal"
+      ],
+      "tier": "uncommon",
+      "note": "Nick Cave's birthplace"
+    },
+    {
+      "canonical": "Brim",
+      "aliases": [
+        "brim",
+        "brim vic",
+        "brim victoria"
+      ],
+      "tier": "rare",
+      "note": "First Wimmera silo art"
+    },
+    {
+      "canonical": "Sheep Hills",
+      "aliases": [
+        "sheep hills",
+        "sheephills",
+        "sheep hills vic"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Rosebery",
+      "aliases": [
+        "rosebery",
+        "rosebery vic",
+        "rosebery victoria"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Dadswells Bridge",
+      "aliases": [
+        "dadswells bridge",
+        "dadswellsbridge",
+        "dadswell bridge",
+        "dadswells",
+        "dadswells bridge vic"
+      ],
+      "tier": "deep",
+      "note": "Giant Koala"
+    },
+    {
+      "canonical": "Shepparton",
+      "aliases": [
+        "shepparton",
+        "shepp",
+        "sheparton",
+        "shepperton",
+        "sheppo",
+        "shepparton vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Mooroopna",
+      "aliases": [
+        "mooroopna",
+        "moroopna",
+        "mooroopnah",
+        "mooroopna vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tatura",
+      "aliases": [
+        "tatura",
+        "tatoora",
+        "tatura vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Nagambie",
+      "aliases": [
+        "nagambie",
+        "nagambi",
+        "nagambee",
+        "nagambie vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Avenel",
+      "aliases": [
+        "avenel",
+        "avenell",
+        "avenel vic"
+      ],
+      "tier": "rare",
+      "note": "Ned Kelly's boyhood town"
+    },
+    {
+      "canonical": "Violet Town",
+      "aliases": [
+        "violet town",
+        "violettown",
+        "violet towne"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Euroa",
+      "aliases": [
+        "euroa",
+        "yuroa",
+        "eurora",
+        "euroa vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Benalla",
+      "aliases": [
+        "benalla",
+        "benella",
+        "benala",
+        "benalla vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Glenrowan",
+      "aliases": [
+        "glenrowan",
+        "glen rowan",
+        "glenrowen",
+        "glenrowan vic"
+      ],
+      "tier": "uncommon",
+      "note": "Ned Kelly"
+    },
+    {
+      "canonical": "Wangaratta",
+      "aliases": [
+        "wangaratta",
+        "wang",
+        "wangarata",
+        "wangeratta",
+        "wangaratta vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Beechworth",
+      "aliases": [
+        "beechworth",
+        "beachworth",
+        "beech worth",
+        "beechworth vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Yackandandah",
+      "aliases": [
+        "yackandandah",
+        "yack",
+        "yackandanda",
+        "yakandandah",
+        "yackandandah vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Chiltern",
+      "aliases": [
+        "chiltern",
+        "chilturn",
+        "chiltern vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Rutherglen",
+      "aliases": [
+        "rutherglen",
+        "ruthergen",
+        "rutherglenn",
+        "rutherglen vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Wahgunyah",
+      "aliases": [
+        "wahgunyah",
+        "wagunyah",
+        "wahgunya",
+        "wahgunyah vic"
+      ],
+      "tier": "rare",
+      "note": "Corowa is across the river in NSW"
+    },
+    {
+      "canonical": "Wodonga",
+      "aliases": [
+        "wodonga",
+        "wadonga",
+        "albury wodonga",
+        "albury-wodonga",
+        "wadonger",
+        "wodonga vic"
+      ],
+      "tier": "common",
+      "note": "Albury alone is NSW"
+    },
+    {
+      "canonical": "Tallangatta",
+      "aliases": [
+        "tallangatta",
+        "talangatta",
+        "tallangatta vic"
+      ],
+      "tier": "uncommon",
+      "note": "The town that moved (1956)"
+    },
+    {
+      "canonical": "Mitta Mitta",
+      "aliases": [
+        "mitta mitta",
+        "mittamitta",
+        "mitta",
+        "mitta mitta vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Corryong",
+      "aliases": [
+        "corryong",
+        "coryong",
+        "corryong vic"
+      ],
+      "tier": "uncommon",
+      "note": "Man from Snowy River"
+    },
+    {
+      "canonical": "Myrtleford",
+      "aliases": [
+        "myrtleford",
+        "myrtelford",
+        "mertleford",
+        "myrtleford vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Porepunkah",
+      "aliases": [
+        "porepunkah",
+        "porepunka",
+        "punkah",
+        "porepunkah vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bright",
+      "aliases": [
+        "bright",
+        "bright vic",
+        "bright victoria"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Wandiligong",
+      "aliases": [
+        "wandiligong",
+        "wandi",
+        "wandilligong",
+        "wandiligong vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Harrietville",
+      "aliases": [
+        "harrietville",
+        "harrietsville",
+        "harrietville vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mount Hotham",
+      "aliases": [
+        "mount hotham",
+        "mounthotham",
+        "mt hotham",
+        "mt. hotham",
+        "hotham",
+        "mount hotham vic"
+      ],
+      "tier": "rare",
+      "note": "Alpine resort village; accept"
+    },
+    {
+      "canonical": "Dinner Plain",
+      "aliases": [
+        "dinner plain",
+        "dinnerplain",
+        "dinner plains"
+      ],
+      "tier": "rare",
+      "note": "Alpine village; accept"
+    },
+    {
+      "canonical": "Falls Creek",
+      "aliases": [
+        "falls creek",
+        "fallscreek",
+        "falls",
+        "falls creek vic"
+      ],
+      "tier": "rare",
+      "note": "Alpine resort village; accept"
+    },
+    {
+      "canonical": "Mount Buller",
+      "aliases": [
+        "mount buller",
+        "mountbuller",
+        "mt buller",
+        "mt. buller",
+        "buller",
+        "mount buller vic"
+      ],
+      "tier": "uncommon",
+      "note": "Alpine resort village; accept"
+    },
+    {
+      "canonical": "Mount Beauty",
+      "aliases": [
+        "mount beauty",
+        "mountbeauty",
+        "mt beauty",
+        "mt. beauty",
+        "mount beauty vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tawonga",
+      "aliases": [
+        "tawonga",
+        "tawonga south",
+        "tawonga vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Stanley",
+      "aliases": [
+        "stanley",
+        "stanley vic",
+        "stanley victoria"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eldorado",
+      "aliases": [
+        "eldorado",
+        "el dorado",
+        "eldorado vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Milawa",
+      "aliases": [
+        "milawa",
+        "millawa",
+        "milawa vic"
+      ],
+      "tier": "uncommon",
+      "note": "Gourmet region (Brown Brothers)"
+    },
+    {
+      "canonical": "Whitfield",
+      "aliases": [
+        "whitfield",
+        "whitfield vic",
+        "whitfield victoria"
+      ],
+      "tier": "deep",
+      "note": "King Valley"
+    },
+    {
+      "canonical": "Mansfield",
+      "aliases": [
+        "mansfield",
+        "mansfeild",
+        "mansfield vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Merrijig",
+      "aliases": [
+        "merrijig",
+        "merijig",
+        "merrijig vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Jamieson",
+      "aliases": [
+        "jamieson",
+        "jamison",
+        "jameison",
+        "jamieson vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Woods Point",
+      "aliases": [
+        "woods point",
+        "woodspoint",
+        "wood's point",
+        "woods point vic"
+      ],
+      "tier": "deep",
+      "note": "Historic gold town at the end of a very long dirt road"
+    },
+    {
+      "canonical": "Bonnie Doon",
+      "aliases": [
+        "bonnie doon",
+        "bonniedoon",
+        "bonnie doone",
+        "bonny doon"
+      ],
+      "tier": "uncommon",
+      "note": "The Castle: 'how's the serenity'"
+    },
+    {
+      "canonical": "Yarck",
+      "aliases": [
+        "yarck",
+        "yark",
+        "yarck vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Alexandra",
+      "aliases": [
+        "alexandra",
+        "alexandria",
+        "alex",
+        "alexandra vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Eildon",
+      "aliases": [
+        "eildon",
+        "eldon",
+        "eildon vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Taggerty",
+      "aliases": [
+        "taggerty",
+        "taggety",
+        "taggerty vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Marysville",
+      "aliases": [
+        "marysville",
+        "marysvile",
+        "maryville",
+        "marysville vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Narbethong",
+      "aliases": [
+        "narbethong",
+        "narbathong",
+        "narbethong vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yea",
+      "aliases": [
+        "yea",
+        "yea vic",
+        "yea victoria"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Flowerdale",
+      "aliases": [
+        "flowerdale",
+        "flowerdale vic",
+        "flowerdale victoria"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kinglake",
+      "aliases": [
+        "kinglake",
+        "king lake",
+        "kinglake west",
+        "kinglake vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Toolangi",
+      "aliases": [
+        "toolangi",
+        "toolangi vic",
+        "toolangi victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Broadford",
+      "aliases": [
+        "broadford",
+        "bradford",
+        "broadford vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tallarook",
+      "aliases": [
+        "tallarook",
+        "talarook",
+        "tallarook vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Seymour",
+      "aliases": [
+        "seymour",
+        "seymore",
+        "seamour",
+        "seymour vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Puckapunyal",
+      "aliases": [
+        "puckapunyal",
+        "pucka",
+        "puckapunyel",
+        "puckapunyal vic"
+      ],
+      "tier": "uncommon",
+      "note": "Army base township; accept"
+    },
+    {
+      "canonical": "Kilmore",
+      "aliases": [
+        "kilmore",
+        "killmore",
+        "kilmore vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Wallan",
+      "aliases": [
+        "wallan",
+        "wallen",
+        "wallan vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Nathalia",
+      "aliases": [
+        "nathalia",
+        "natalia",
+        "nathalia vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Numurkah",
+      "aliases": [
+        "numurkah",
+        "numerkah",
+        "numurka",
+        "numurkah vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Strathmerton",
+      "aliases": [
+        "strathmerton",
+        "strathmerton vic",
+        "strathmerton victoria"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cobram",
+      "aliases": [
+        "cobram",
+        "cobrum",
+        "cobram barooga",
+        "cobram vic"
+      ],
+      "tier": "common",
+      "note": "Barooga is NSW"
+    },
+    {
+      "canonical": "Katamatite",
+      "aliases": [
+        "katamatite",
+        "katamatite vic",
+        "katamatite victoria"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Tungamah",
+      "aliases": [
+        "tungamah",
+        "tungamah vic",
+        "tungamah victoria"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Dookie",
+      "aliases": [
+        "dookie",
+        "dookie vic",
+        "dookie victoria"
+      ],
+      "tier": "rare",
+      "note": "Ag college"
+    },
+    {
+      "canonical": "Barmah",
+      "aliases": [
+        "barmah",
+        "barmah forest",
+        "barmah vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yarrawonga",
+      "aliases": [
+        "yarrawonga",
+        "yarawonga",
+        "yarrawonga mulwala",
+        "yarrawonga vic"
+      ],
+      "tier": "common",
+      "note": "Mulwala is NSW"
+    },
+    {
+      "canonical": "Devenish",
+      "aliases": [
+        "devenish",
+        "devenish vic",
+        "devenish victoria"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Goorambat",
+      "aliases": [
+        "goorambat",
+        "goorambat vic",
+        "goorambat victoria"
+      ],
+      "tier": "deep",
+      "note": "Silo art"
+    },
+    {
+      "canonical": "Greta",
+      "aliases": [
+        "greta",
+        "greta vic",
+        "greta victoria"
+      ],
+      "tier": "deep",
+      "note": "Kelly country"
+    },
+    {
+      "canonical": "Warragul",
+      "aliases": [
+        "warragul",
+        "waragul",
+        "warrigal",
+        "warragal",
+        "warragull",
+        "warragul vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Drouin",
+      "aliases": [
+        "drouin",
+        "druin",
+        "drewin",
+        "drouin vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Longwarry",
+      "aliases": [
+        "longwarry",
+        "long warry",
+        "longwary",
+        "longwarry vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bunyip",
+      "aliases": [
+        "bunyip",
+        "bunyip vic",
+        "bunyip victoria"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Garfield",
+      "aliases": [
+        "garfield",
+        "garfield vic",
+        "garfield victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Nar Nar Goon",
+      "aliases": [
+        "nar nar goon",
+        "narnargoon",
+        "nar nar goon north",
+        "nar-nar-goon"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Koo Wee Rup",
+      "aliases": [
+        "koo wee rup",
+        "kooweerup",
+        "koo-wee-rup",
+        "koowee rup",
+        "kooweerup vic",
+        "koo wee rup vic"
+      ],
+      "tier": "uncommon",
+      "note": "Asparagus capital; officially Cardinia Shire but universally a country town; accept"
+    },
+    {
+      "canonical": "Lang Lang",
+      "aliases": [
+        "lang lang",
+        "langlang",
+        "lang lang vic"
+      ],
+      "tier": "uncommon",
+      "note": "Cardinia fringe; accept"
+    },
+    {
+      "canonical": "Bass",
+      "aliases": [
+        "bass",
+        "bass vic",
+        "bass victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "San Remo",
+      "aliases": [
+        "san remo",
+        "sanremo",
+        "san reemo",
+        "san remo vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Newhaven",
+      "aliases": [
+        "newhaven",
+        "new haven",
+        "newhaven vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cowes",
+      "aliases": [
+        "cowes",
+        "cows",
+        "cowes phillip island",
+        "phillip island",
+        "philip island",
+        "phillip is"
+      ],
+      "tier": "common",
+      "note": "Phillip Island is an island, not a town; steer answerers to Cowes"
+    },
+    {
+      "canonical": "Rhyll",
+      "aliases": [
+        "rhyll",
+        "rhyl",
+        "rhyll vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cape Woolamai",
+      "aliases": [
+        "cape woolamai",
+        "capewoolamai",
+        "woolamai",
+        "cape woolomai",
+        "cape woolamai vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kilcunda",
+      "aliases": [
+        "kilcunda",
+        "kilkunda",
+        "kilcunda vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wonthaggi",
+      "aliases": [
+        "wonthaggi",
+        "wonthagi",
+        "wonthaggie",
+        "wonthagie",
+        "wonthaggi vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Cape Paterson",
+      "aliases": [
+        "cape paterson",
+        "capepaterson",
+        "cape patterson",
+        "cape paterson vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Inverloch",
+      "aliases": [
+        "inverloch",
+        "inverlock",
+        "inverlich",
+        "inverloch vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Venus Bay",
+      "aliases": [
+        "venus bay",
+        "venusbay",
+        "venus bay vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tarwin Lower",
+      "aliases": [
+        "tarwin lower",
+        "tarwinlower",
+        "tarwin",
+        "tarwin lower vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sandy Point",
+      "aliases": [
+        "sandy point",
+        "sandypoint",
+        "sandy point vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Fish Creek",
+      "aliases": [
+        "fish creek",
+        "fishcreek",
+        "fishy",
+        "fish creek vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Foster",
+      "aliases": [
+        "foster",
+        "foster vic",
+        "foster victoria"
+      ],
+      "tier": "uncommon",
+      "note": "Wilsons Prom gateway"
+    },
+    {
+      "canonical": "Toora",
+      "aliases": [
+        "toora",
+        "toora vic",
+        "toora victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Welshpool",
+      "aliases": [
+        "welshpool",
+        "port welshpool",
+        "welshpool vic"
+      ],
+      "tier": "deep",
+      "note": "Not the Perth suburb"
+    },
+    {
+      "canonical": "Port Albert",
+      "aliases": [
+        "port albert",
+        "portalbert",
+        "pt albert",
+        "port albert vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Yarram",
+      "aliases": [
+        "yarram",
+        "yaram",
+        "yarrum",
+        "yarram vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Seaspray",
+      "aliases": [
+        "seaspray",
+        "sea spray",
+        "seaspray vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Loch Sport",
+      "aliases": [
+        "loch sport",
+        "lochsport",
+        "lock sport",
+        "loch sport vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Meeniyan",
+      "aliases": [
+        "meeniyan",
+        "meenyan",
+        "meeniyan vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Koonwarra",
+      "aliases": [
+        "koonwarra",
+        "koonwara",
+        "koonwarra vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Leongatha",
+      "aliases": [
+        "leongatha",
+        "leongartha",
+        "leon gatha",
+        "leongatha vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Korumburra",
+      "aliases": [
+        "korumburra",
+        "korrumburra",
+        "korumbura",
+        "korumburra vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Loch",
+      "aliases": [
+        "loch",
+        "loch vic",
+        "lock vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Poowong",
+      "aliases": [
+        "poowong",
+        "poowong vic",
+        "poowong victoria"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mirboo North",
+      "aliases": [
+        "mirboo north",
+        "mirboonorth",
+        "mirboo",
+        "mirboo nth",
+        "mirboo north vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Boolarra",
+      "aliases": [
+        "boolarra",
+        "boolara",
+        "boolarra vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yinnar",
+      "aliases": [
+        "yinnar",
+        "yinnar vic",
+        "yinnar victoria"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Churchill",
+      "aliases": [
+        "churchill",
+        "churchill vic",
+        "churchill victoria"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Morwell",
+      "aliases": [
+        "morwell",
+        "morewell",
+        "morwel",
+        "morwell vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Moe",
+      "aliases": [
+        "moe",
+        "moe vic",
+        "mowe",
+        "moe victoria"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Yallourn North",
+      "aliases": [
+        "yallourn north",
+        "yallournnorth",
+        "yallourn",
+        "yallourn nth"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Trafalgar",
+      "aliases": [
+        "trafalgar",
+        "traf",
+        "trafalgar vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Yarragon",
+      "aliases": [
+        "yarragon",
+        "yaragon",
+        "yarragon vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Thorpdale",
+      "aliases": [
+        "thorpdale",
+        "thorpedale",
+        "thorpdale vic"
+      ],
+      "tier": "rare",
+      "note": "Potatoes"
+    },
+    {
+      "canonical": "Neerim South",
+      "aliases": [
+        "neerim south",
+        "neerimsouth",
+        "neerim",
+        "neerim sth",
+        "nerim south"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Noojee",
+      "aliases": [
+        "noojee",
+        "noojie",
+        "nojee",
+        "noojee vic"
+      ],
+      "tier": "uncommon",
+      "note": "Trestle bridge"
+    },
+    {
+      "canonical": "Erica",
+      "aliases": [
+        "erica",
+        "erica vic",
+        "erica victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rawson",
+      "aliases": [
+        "rawson",
+        "rawson vic",
+        "rawson victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Walhalla",
+      "aliases": [
+        "walhalla",
+        "wallhalla",
+        "valhalla",
+        "walhala",
+        "walhalla vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Toongabbie",
+      "aliases": [
+        "toongabbie",
+        "toongabie",
+        "toongabbie vic"
+      ],
+      "tier": "deep",
+      "note": "Not the Sydney suburb"
+    },
+    {
+      "canonical": "Traralgon",
+      "aliases": [
+        "traralgon",
+        "tralgon",
+        "traralgan",
+        "trarlagon",
+        "traralgon vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Rosedale",
+      "aliases": [
+        "rosedale",
+        "rosedale vic",
+        "rosedale victoria"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Sale",
+      "aliases": [
+        "sale",
+        "sale vic",
+        "sale victoria"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Maffra",
+      "aliases": [
+        "maffra",
+        "mafra",
+        "maffra vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Heyfield",
+      "aliases": [
+        "heyfield",
+        "hayfield",
+        "heyfield vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Stratford",
+      "aliases": [
+        "stratford",
+        "stratford on avon",
+        "stratford vic"
+      ],
+      "tier": "uncommon",
+      "note": "Shakespeare festival on the Avon River"
+    },
+    {
+      "canonical": "Briagolong",
+      "aliases": [
+        "briagolong",
+        "briagalong",
+        "briag",
+        "briagolong vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Licola",
+      "aliases": [
+        "licola",
+        "licola vic",
+        "licola victoria"
+      ],
+      "tier": "deep",
+      "note": "Victoria's only privately owned town (Lions Clubs)"
+    },
+    {
+      "canonical": "Dargo",
+      "aliases": [
+        "dargo",
+        "dargo vic",
+        "dargo victoria"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bairnsdale",
+      "aliases": [
+        "bairnsdale",
+        "bairnsdail",
+        "barnsdale",
+        "bairnsdale vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Paynesville",
+      "aliases": [
+        "paynesville",
+        "painsville",
+        "paynsville",
+        "paynesville vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Raymond Island",
+      "aliases": [
+        "raymond island",
+        "raymondisland",
+        "raymond island vic"
+      ],
+      "tier": "rare",
+      "note": "Koalas"
+    },
+    {
+      "canonical": "Metung",
+      "aliases": [
+        "metung",
+        "matung",
+        "metung vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lakes Entrance",
+      "aliases": [
+        "lakes entrance",
+        "lakesentrance",
+        "lakes",
+        "the lakes",
+        "lake entrance"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Lake Tyers",
+      "aliases": [
+        "lake tyers",
+        "laketyers",
+        "lake tyers beach"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nowa Nowa",
+      "aliases": [
+        "nowa nowa",
+        "nowanowa",
+        "nowa nowa vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bruthen",
+      "aliases": [
+        "bruthen",
+        "brutheny",
+        "bruthen vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Buchan",
+      "aliases": [
+        "buchan",
+        "buchan caves",
+        "bucken",
+        "buchan vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Swifts Creek",
+      "aliases": [
+        "swifts creek",
+        "swiftscreek",
+        "swift's creek",
+        "swift creek"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Omeo",
+      "aliases": [
+        "omeo",
+        "omio",
+        "omeo vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Orbost",
+      "aliases": [
+        "orbost",
+        "orbust",
+        "orbost vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Marlo",
+      "aliases": [
+        "marlo",
+        "marlo vic",
+        "marlo victoria"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cann River",
+      "aliases": [
+        "cann river",
+        "cannriver",
+        "can river",
+        "cann river vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mallacoota",
+      "aliases": [
+        "mallacoota",
+        "malacoota",
+        "mallacouta",
+        "mallacoota vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Healesville",
+      "aliases": [
+        "healesville",
+        "healsville",
+        "heelsville",
+        "healesvile",
+        "healesville vic"
+      ],
+      "tier": "common",
+      "note": "Yarra Ranges Shire (inside the Greater Melbourne boundary) but universally a country town; accept"
+    },
+    {
+      "canonical": "Yarra Glen",
+      "aliases": [
+        "yarra glen",
+        "yarraglen",
+        "yarra glen vic"
+      ],
+      "tier": "uncommon",
+      "note": "Yarra Ranges; accept"
+    },
+    {
+      "canonical": "Warburton",
+      "aliases": [
+        "warburton",
+        "warby",
+        "warberton",
+        "warburton vic"
+      ],
+      "tier": "common",
+      "note": "Yarra Ranges; accept"
+    },
+    {
+      "canonical": "Yarra Junction",
+      "aliases": [
+        "yarra junction",
+        "yarrajunction",
+        "yarra junction vic"
+      ],
+      "tier": "uncommon",
+      "note": "Yarra Ranges; accept"
+    },
+    {
+      "canonical": "Woori Yallock",
+      "aliases": [
+        "woori yallock",
+        "wooriyallock",
+        "woori yalock",
+        "woori"
+      ],
+      "tier": "rare",
+      "note": "Yarra Ranges; accept"
+    },
+    {
+      "canonical": "Powelltown",
+      "aliases": [
+        "powelltown",
+        "powell town",
+        "powelltown vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gembrook",
+      "aliases": [
+        "gembrook",
+        "gembrooke",
+        "gem brook",
+        "gembrook vic"
+      ],
+      "tier": "uncommon",
+      "note": "Puffing Billy terminus; Cardinia Shire; accept"
+    },
+    {
+      "canonical": "Whittlesea",
+      "aliases": [
+        "whittlesea",
+        "whitlesea",
+        "whittlesea vic"
+      ],
+      "tier": "rare",
+      "note": "Township on the metro fringe; lean accept"
+    }
+  ],
+  "hostNotes": "Accept any gazetted town or locality in regional Victoria, including regional cities (Geelong, Ballarat, Bendigo) and alpine resort villages (Mount Buller, Falls Creek, Mount Hotham); spelling is forgiving, so match phonetically, and a town not in this bank is still correct if it exists (verify quickly and treat it as a deep cut). Yarra Valley and fringe townships (Healesville, Warburton, Gembrook, Koo Wee Rup, Whittlesea) sit inside the Greater Melbourne boundary but are universally treated as country towns, so accept them; Mornington Peninsula towns (Sorrento, Rye, Flinders) and outer suburbs (Sunbury, Melton, Pakenham, Werribee, Cranbourne) are the host's call, lean reject. Traps: Albury, Moama, Corowa, Mulwala, Barooga, Tocumwal and Deniliquin are NSW and Mount Gambier is SA, so reject them; 'Phillip Island', 'the Grampians', 'the Otways' and 'Wilsons Prom' are regions, not towns, so ask for a town (Cowes, Halls Gap, Apollo Bay, Foster)."
+}

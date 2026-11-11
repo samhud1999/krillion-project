@@ -1,0 +1,647 @@
+{
+  "id": "l3-wye-river-general-store",
+  "text": "Name something you could buy at the Wye River General Store.",
+  "type": "open",
+  "category": "local",
+  "approved": false,
+  "answers": [
+    {
+      "canonical": "Coffee",
+      "aliases": ["a coffee", "coffees", "takeaway coffee", "flat white", "latte", "cappuccino", "long black", "short black", "espresso", "piccolo", "magic", "mocha", "macchiato", "iced latte", "iced coffee", "cold brew", "oat latte", "soy latte", "decaf", "frappe", "double shot"],
+      "tier": "common",
+      "note": "All cafe coffee orders collapse here. Carton iced coffee (Big M, Farmers Union) goes to Flavoured milk; beans/instant go to Coffee beans."
+    },
+    {
+      "canonical": "Milk",
+      "aliases": ["a litre of milk", "2 litres of milk", "carton of milk", "bottle of milk", "full cream milk", "skim milk", "lite milk", "oat milk", "almond milk", "soy milk", "lactose free milk", "long life milk", "uht milk", "plant milk", "cream", "thickened cream", "sour cream", "double cream"],
+      "tier": "common",
+      "note": "Cream rides along here."
+    },
+    {
+      "canonical": "Bread",
+      "aliases": ["a loaf", "loaf", "loaf of bread", "sliced bread", "white bread", "wholemeal bread", "multigrain bread", "tip top", "helga's", "bread rolls", "rolls", "bread roll", "buns", "brioche buns", "hamburger buns", "hot dog rolls", "baguette", "gluten free bread", "gf bread"],
+      "tier": "common",
+      "note": "Generic bread. A specific 'sourdough' answer scores under Sourdough."
+    },
+    {
+      "canonical": "Ice cream",
+      "aliases": ["ice-cream", "icecream", "an ice cream", "ice creams", "icecreams", "cone", "ice cream cone", "scoop", "soft serve", "gelato", "paddle pop", "paddlepop", "rainbow paddle pop", "cornetto", "drumstick", "splice", "bubble o bill", "bubble o'bill", "bubble-o-bill", "maxibon", "weis bar", "weis", "choc wedge", "tub of ice cream", "connoisseur", "ben and jerry's", "ben & jerry's", "peters", "streets"],
+      "tier": "common",
+      "note": "Golden Gaytime, Magnum and icy poles have their own entries."
+    },
+    {
+      "canonical": "Pie",
+      "aliases": ["a pie", "pies", "meat pie", "beef pie", "steak pie", "chunky steak pie", "party pie", "party pies", "four'n twenty", "four n twenty", "four and twenty", "pasty", "pasties", "cornish pasty", "chicken pie", "veggie pie", "vegetable pie"],
+      "tier": "common",
+      "note": "Pasties collapse here."
+    },
+    {
+      "canonical": "Sausage roll",
+      "aliases": ["sausage rolls", "sauso roll", "sausage roll with sauce", "spinach and ricotta roll", "spinach roll", "veggie sausage roll", "vegetarian sausage roll", "mini sausage rolls"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Packet of chips",
+      "aliases": ["chips", "a packet of chips", "packet of crisps", "crisps", "bag of chips", "smiths chips", "smith's", "smiths", "red rock deli", "red rock", "kettle chips", "kettle", "doritos", "twisties", "burger rings", "cc's", "ccs", "cheezels", "grain waves", "pringles", "salt and vinegar chips", "chicken chips"],
+      "tier": "common",
+      "note": "Bare 'chips' is scored as packet chips; if the player clearly meant hot chips, move it to Hot chips."
+    },
+    {
+      "canonical": "Lollies",
+      "aliases": ["lolly", "a lolly", "bag of lollies", "mixed lollies", "mixed bag", "sweets", "candy", "snakes", "allen's snakes", "killer pythons", "jelly babies", "red frogs", "allens", "allen's", "minties", "fantales", "chupa chup", "chupa chups", "lollipop", "lollypop", "sour worms", "skittles", "starburst", "jelly beans", "musk sticks", "sherbet", "wizz fizz", "natural confectionery"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Chocolate",
+      "aliases": ["chocolate bar", "block of chocolate", "a block of chocolate", "cadbury", "cadbury dairy milk", "dairy milk", "mars bar", "snickers", "kit kat", "kitkat", "cherry ripe", "twirl", "picnic", "crunchie", "flake", "caramello koala", "freddo", "freddo frog", "chocolate frog", "maltesers", "m&ms", "m and ms", "lindt", "kinder surprise", "kinder", "toblerone", "boost bar", "bounty"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Soft drink",
+      "aliases": ["soft drinks", "coke", "a coke", "coca cola", "coca-cola", "can of coke", "bottle of coke", "coke zero", "diet coke", "pepsi", "sprite", "fanta", "solo", "lift", "sunkist", "kirks", "schweppes", "lemonade", "soda", "fizzy drink", "fizzy drinks", "can of soft drink", "ginger beer", "bundaberg ginger beer", "lemon lime and bitters", "llb", "lemon lime bitters", "tonic", "tonic water", "soda water", "iced tea", "lipton iced tea"],
+      "tier": "common",
+      "note": "Coke is the usual way this gets said; all brands collapse here."
+    },
+    {
+      "canonical": "Water",
+      "aliases": ["bottled water", "bottle of water", "a bottle of water", "water bottle", "mount franklin", "mt franklin", "pump", "cool ridge", "sparkling water", "mineral water", "san pellegrino", "voss", "frantelle"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Beer",
+      "aliases": ["a beer", "beers", "slab", "slab of beer", "six pack", "6 pack", "sixpack", "six-pack", "carton", "carton of beer", "stubby", "stubbies", "tinnie", "tinnies", "can of beer", "pot", "pot of beer", "pint", "schooner", "carlton", "carlton draught", "vb", "victoria bitter", "great northern", "furphy", "corona", "stone & wood", "stone and wood", "balter", "pale ale", "lager", "ipa", "craft beer", "local beer", "prickly moses", "forrest brewing", "forrest brewing company", "sow and piglets", "sow & piglets", "heaps normal", "zero beer", "non-alcoholic beer"],
+      "tier": "common",
+      "note": "Licensed cafe-bar, so beer by the glass is a safe yes; takeaway slabs are unconfirmed but accept. Prickly Moses and Forrest Brewing are the local Otway breweries."
+    },
+    {
+      "canonical": "Wine",
+      "aliases": ["a wine", "bottle of wine", "glass of wine", "red wine", "white wine", "red", "white", "rose", "rosé", "sav blanc", "sauvignon blanc", "pinot", "pinot noir", "pinot gris", "pinot grigio", "chardonnay", "chardy", "shiraz", "riesling", "prosecco", "bubbles", "sparkling", "sparkling wine", "champagne", "local wine", "otway wine", "dinny goonan", "brown magpie", "bellarine wine", "mulled wine"],
+      "tier": "common",
+      "note": "Listed as a wine bar. Dinny Goonan and Brown Magpie are nearby Otway/Surf Coast wineries."
+    },
+    {
+      "canonical": "Eggs",
+      "aliases": ["a dozen eggs", "dozen eggs", "half a dozen eggs", "carton of eggs", "free range eggs", "egg"],
+      "tier": "common",
+      "note": "Groceries. Cooked eggs are under Breakfast or Eggs Benedict."
+    },
+    {
+      "canonical": "Ice",
+      "aliases": ["bag of ice", "bags of ice", "a bag of ice", "party ice", "ice bag", "crushed ice", "ice for the esky"],
+      "tier": "common",
+      "note": "Not confirmed in any listing but every coastal general store sells it; accept."
+    },
+    {
+      "canonical": "Newspaper",
+      "aliases": ["the paper", "a paper", "papers", "newspapers", "the age", "herald sun", "the herald sun", "the hun", "the australian", "the weekend australian", "the saturday paper", "financial review", "afr", "geelong advertiser", "the addy", "addy", "sunday age", "weekend paper", "the weekend paper"],
+      "tier": "common",
+      "note": "Confirmed: 'sells everything from newspapers to fruit and veg and doubles as a post office'."
+    },
+    {
+      "canonical": "Toastie",
+      "aliases": ["toasties", "toasted sandwich", "toasted sandwiches", "toasted sanga", "ham and cheese toastie", "ham cheese tomato toastie", "ham cheese and tomato toastie", "cheese toastie", "cheese and tomato toastie", "jaffle", "jaffles", "croque monsieur", "croque madame", "reuben", "toasted focaccia"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Sandwich",
+      "aliases": ["a sandwich", "sandwiches", "sanga", "sangas", "sambo", "sanger", "roll", "a roll", "ham roll", "salad roll", "chicken roll", "filled roll", "salad sandwich", "ham sandwich", "chicken sandwich", "wrap", "a wrap", "chicken wrap", "falafel wrap", "focaccia", "panini", "blt"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Breakfast",
+      "aliases": ["brekkie", "brekky", "big breakfast", "big brekkie", "cooked breakfast", "brunch", "bacon and eggs", "eggs and bacon", "eggs on toast", "poached eggs", "scrambled eggs", "fried eggs", "omelette", "omelet", "baked eggs", "shakshuka", "corn fritters", "fritters", "zucchini fritters", "bacon and egg roll", "bacon egg roll", "egg and bacon roll", "b and e roll", "toast", "toast and jam", "vegemite toast", "toast with vegemite", "raisin toast", "fruit toast", "granola bowl", "yoghurt and granola", "acai bowl", "acai", "smoothie bowl"],
+      "tier": "common",
+      "note": "Confirmed all-day brunch menu. Named signature dishes (Eggs Benedict, French toast, porridge, mushroom ragout, pancakes, avo on toast) have their own entries."
+    },
+    {
+      "canonical": "Sunscreen",
+      "aliases": ["sun screen", "sunblock", "sun block", "sun cream", "suncream", "spf", "spf 50", "spf50", "50+", "banana boat", "cancer council sunscreen", "zinc", "zinc cream", "zinc stick", "aloe vera", "after sun", "aftersun", "after-sun"],
+      "tier": "common",
+      "note": "After-sun and zinc collapse here."
+    },
+    {
+      "canonical": "Milkshake",
+      "aliases": ["milkshakes", "milk shake", "shake", "thickshake", "thick shake", "chocolate milkshake", "strawberry milkshake", "vanilla milkshake", "malted milkshake", "spider"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tea",
+      "aliases": ["a tea", "cup of tea", "cuppa", "pot of tea", "english breakfast", "earl grey", "green tea", "peppermint tea", "herbal tea", "chai", "chai latte", "dirty chai", "matcha", "matcha latte", "turmeric latte", "golden latte", "tea bags", "box of tea", "box of tea bags", "t2", "twinings", "lipton", "bushells"],
+      "tier": "uncommon",
+      "note": "Chai, matcha and tea bags all collapse here."
+    },
+    {
+      "canonical": "Hot chocolate",
+      "aliases": ["hot choc", "hot chocolates", "hot cocoa", "cocoa", "babycino", "babyccino", "babychino", "baby chino", "baby cino", "milo", "tin of milo"],
+      "tier": "uncommon",
+      "note": "Babycinos and Milo collapse here."
+    },
+    {
+      "canonical": "Juice",
+      "aliases": ["juices", "orange juice", "oj", "fresh oj", "fresh juice", "freshly squeezed juice", "apple juice", "bottle of juice", "nudie", "nudie juice", "boost juice", "pineapple juice", "tropical juice", "juice box", "popper", "poppers", "prima", "golden circle"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Flavoured milk",
+      "aliases": ["big m", "a big m", "chocolate big m", "strawberry big m", "chocolate milk", "choc milk", "strawberry milk", "iced coffee carton", "carton of iced coffee", "farmers union", "farmers union iced coffee", "oak", "oak iced coffee", "ice break", "dare", "dare iced coffee", "breaka", "up and go", "up & go", "barista bros"],
+      "tier": "uncommon",
+      "note": "Big M is the Victorian way to say it. Cafe iced coffee goes to Coffee."
+    },
+    {
+      "canonical": "Smoothie",
+      "aliases": ["smoothies", "fruit smoothie", "banana smoothie", "berry smoothie", "mango smoothie", "green smoothie", "protein smoothie"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Burger",
+      "aliases": ["burgers", "a burger", "hamburger", "hamburgers", "brioche burger", "brioche bun burger", "beef burger", "cheeseburger", "cheese burger", "chicken burger", "veggie burger", "vegan burger", "fish burger", "burger and chips", "burger with the lot", "steak sandwich", "steak sanga"],
+      "tier": "uncommon",
+      "note": "Confirmed: 'Brioche Bun Burgers' are a listed highlight."
+    },
+    {
+      "canonical": "Hot chips",
+      "aliases": ["bowl of chips", "bowl of hot chips", "fries", "french fries", "chips and gravy", "potato wedges", "wedges", "sweet potato fries", "sweet potato chips", "chips with aioli"],
+      "tier": "uncommon",
+      "note": "Only score here when the player clearly meant cooked chips; bare 'chips' goes to Packet of chips."
+    },
+    {
+      "canonical": "Avo on toast",
+      "aliases": ["avocado on toast", "smashed avo", "smashed avocado", "smashed avo on toast", "avo toast", "avocado toast", "smashed avo with feta", "avo smash"],
+      "tier": "uncommon",
+      "note": "Kept separate from Breakfast because the room will say both."
+    },
+    {
+      "canonical": "Croissant",
+      "aliases": ["croissants", "a croissant", "plain croissant", "butter croissant", "pain au chocolat", "chocolate croissant", "choc croissant", "almond croissant", "ham and cheese croissant", "ham cheese croissant", "cheese croissant", "cruffin"],
+      "tier": "uncommon",
+      "note": "Confirmed: house-baked croissants with French butter are the store's calling card."
+    },
+    {
+      "canonical": "Pastry",
+      "aliases": ["pastries", "a pastry", "danish", "danishes", "custard danish", "apricot danish", "cinnamon scroll", "scroll", "scrolls", "escargot", "pain aux raisins", "vanilla slice", "snot block", "custard tart", "portuguese tart", "portuguese custard tart", "apple turnover", "apple danish", "eclair", "tart", "fruit tart", "lemon tart", "galette", "morning bun", "kouign amann"],
+      "tier": "uncommon",
+      "note": "Confirmed bakery counter; anything flaky that is not a croissant or doughnut lands here."
+    },
+    {
+      "canonical": "Sourdough",
+      "aliases": ["sourdough loaf", "loaf of sourdough", "sourdough bread", "seeded sourdough", "seeded loaf", "a sourdough", "sourdough baguette", "rye", "rye loaf", "house baked bread", "house-baked bread", "fresh baked bread", "freshly baked bread", "artisan bread"],
+      "tier": "uncommon",
+      "note": "Confirmed: the bakery sells loaves like seeded sourdough. Generic 'bread' stays under Bread."
+    },
+    {
+      "canonical": "Cake",
+      "aliases": ["cakes", "a cake", "piece of cake", "slice of cake", "slice", "a slice", "caramel slice", "lemon slice", "hedgehog slice", "brownie", "a brownie", "brownies", "banana bread", "banana loaf", "muffin", "muffins", "blueberry muffin", "friand", "friands", "lamington", "lamingtons", "carrot cake", "orange cake", "orange and almond cake", "scone", "scones", "scone with jam and cream", "cupcake", "cookie", "cookies", "choc chip cookie", "chocolate chip cookie", "cheesecake", "tea cake", "loaf cake"],
+      "tier": "uncommon",
+      "note": "Cafe cabinet sweets. Packet biscuits go to Biscuits."
+    },
+    {
+      "canonical": "Biscuits",
+      "aliases": ["biscuit", "bickies", "bikkies", "packet of biscuits", "packet of bickies", "arnott's", "arnotts", "arnott's biscuits", "scotch finger", "scotch fingers", "monte carlo", "monte carlos", "kingston", "kingstons", "shortbread", "anzac biscuit", "anzac biscuits", "anzacs", "oreos", "oreo", "shapes", "bbq shapes", "pizza shapes", "chicken crimpy", "iced vovo", "iced vovos", "mint slice", "wagon wheel", "teddy bear biscuits", "gingernuts", "ginger nuts", "milk arrowroot", "nice biscuits", "chocolate royals", "digestives"],
+      "tier": "uncommon",
+      "note": "Tim Tams have their own entry."
+    },
+    {
+      "canonical": "Butter",
+      "aliases": ["block of butter", "a block of butter", "tub of butter", "western star", "lurpak", "margarine", "marg", "nuttelex", "spreadable butter"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cheese",
+      "aliases": ["block of cheese", "a block of cheese", "tasty cheese", "cheddar", "bega", "coon", "cheer", "sliced cheese", "cheese slices", "brie", "camembert", "feta", "fetta", "haloumi", "halloumi", "parmesan", "goats cheese", "goat's cheese", "blue cheese", "fancy cheese", "local cheese", "apostle whey", "apostle whey cheese", "cheese platter", "cheese board"],
+      "tier": "uncommon",
+      "note": "Apostle Whey is the local 12 Apostles-area cheesemaker; accept as a deep-cut alias."
+    },
+    {
+      "canonical": "Bacon",
+      "aliases": ["rashers of bacon", "packet of bacon", "streaky bacon", "middle bacon", "short cut bacon"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Yoghurt",
+      "aliases": ["yogurt", "yoghurts", "tub of yoghurt", "greek yoghurt", "greek yogurt", "chobani", "jalna", "yoplait", "vaalia", "natural yoghurt", "coconut yoghurt"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cereal",
+      "aliases": ["box of cereal", "breakfast cereal", "muesli", "granola", "bircher", "bircher muesli", "weet-bix", "weetbix", "weet bix", "corn flakes", "cornflakes", "nutri-grain", "nutrigrain", "coco pops", "rice bubbles", "special k", "sultana bran", "just right", "oats", "rolled oats", "uncle tobys"],
+      "tier": "uncommon",
+      "note": "Boxed/packet cereal. A bowl of porridge from the cafe goes to Porridge."
+    },
+    {
+      "canonical": "Bananas",
+      "aliases": ["banana", "a banana", "bunch of bananas", "a bunch of bananas"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Fruit and veg",
+      "aliases": ["fruit", "fresh fruit", "vegetables", "veggies", "veg", "fruit and vegetables", "fresh produce", "produce", "local produce", "otway produce", "apples", "apple", "oranges", "orange", "tomatoes", "tomato", "lettuce", "potatoes", "potato", "spuds", "onions", "onion", "carrots", "carrot", "lemons", "lemon", "limes", "lime", "berries", "strawberries", "blueberries", "raspberries", "mango", "mangoes", "watermelon", "grapes", "mandarin", "mandarins", "broccoli", "mushrooms", "capsicum", "zucchini", "pumpkin", "garlic", "ginger", "herbs", "fresh herbs", "spinach", "kale", "corn", "cucumber", "salad greens", "cherries", "peaches", "nectarines", "pears", "sweet potato"],
+      "tier": "uncommon",
+      "note": "Confirmed 'quality greengrocer'. Bananas and avocado are split out because the room says them on their own."
+    },
+    {
+      "canonical": "Avocado",
+      "aliases": ["avo", "avocados", "avos", "an avocado", "hass avocado"],
+      "tier": "uncommon",
+      "note": "The fruit. Avo on toast is its own entry."
+    },
+    {
+      "canonical": "Tomato sauce",
+      "aliases": ["sauce", "tomato sauce bottle", "bottle of tomato sauce", "dead horse", "ketchup", "heinz", "masterfoods tomato sauce", "bbq sauce", "barbecue sauce", "sweet chilli sauce", "sweet chilli", "soy sauce", "sriracha", "hot sauce", "tabasco", "mustard", "mayonnaise", "mayo", "aioli", "kewpie", "kewpie mayo", "salad dressing", "worcestershire sauce", "worcestershire", "hp sauce", "relish", "chutney", "pickles", "tomato relish"],
+      "tier": "uncommon",
+      "note": "All bottled condiments collapse here."
+    },
+    {
+      "canonical": "Vegemite",
+      "aliases": ["jar of vegemite", "a jar of vegemite", "vegimite", "vegemite jar", "promite", "marmite"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tim Tams",
+      "aliases": ["tim tam", "packet of tim tams", "a packet of tim tams", "timtams", "timtam", "tim tams (double coat)", "double coat tim tams", "dark tim tams", "tim tam slam"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Chewing gum",
+      "aliases": ["gum", "chewie", "chewy", "extra", "extra gum", "wrigley's", "wrigleys", "juicy fruit", "pk", "mints", "tic tacs", "tic tac", "eclipse mints", "eclipse", "mentos", "fisherman's friend", "fishermans friend", "polos"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cider",
+      "aliases": ["a cider", "ciders", "apple cider", "pear cider", "somersby", "bulmers", "strongbow", "5 seeds", "mercury cider", "willie smith's", "willie smiths", "otway cider", "local cider"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cocktail",
+      "aliases": ["cocktails", "a cocktail", "aperol", "aperol spritz", "spritz", "margarita", "espresso martini", "negroni", "bloody mary", "mimosa", "mojito", "gin and tonic", "g&t", "g and t", "sangria", "pimms", "pimm's", "daiquiri", "old fashioned", "whisky sour", "paloma", "limoncello spritz", "hugo spritz"],
+      "tier": "uncommon",
+      "note": "Confirmed: 'an impressive selection of cocktails'. Not an obvious general-store guess, so reward it."
+    },
+    {
+      "canonical": "Golden Gaytime",
+      "aliases": ["gaytime", "gay time", "golden gay time", "gaytimes", "golden gaytimes", "a gaytime", "unicorn gaytime"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Magnum",
+      "aliases": ["magnums", "a magnum", "magnum ice cream", "magnum classic", "magnum almond", "magnum ego", "magnum white", "magnum double caramel", "mini magnum"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Icy pole",
+      "aliases": ["icy poles", "icypole", "icy-pole", "icypoles", "ice block", "iceblock", "ice blocks", "zooper dooper", "zooper doopers", "calippo", "lemonade icy pole", "frosty fruit", "frosty fruits", "sunnyboy", "sunny boy", "lemonade icypole", "icy pole from the freezer"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hat",
+      "aliases": ["a hat", "hats", "cap", "a cap", "caps", "bucket hat", "sun hat", "sunhat", "straw hat", "beanie", "beanies", "trucker cap", "wide brim hat", "wide-brimmed hat", "legionnaire hat", "sunglasses", "sunnies", "a pair of sunnies", "pair of sunglasses"],
+      "tier": "uncommon",
+      "note": "Sunglasses collapse here as 'sun stuff off the rack'. Stock unconfirmed but typical for a beach store."
+    },
+    {
+      "canonical": "Thongs",
+      "aliases": ["a pair of thongs", "pair of thongs", "flip flops", "flip-flops", "flipflops", "havaianas", "havis", "havvies", "pluggers", "double pluggers", "rubber thongs", "slides", "crocs"],
+      "tier": "uncommon",
+      "note": "Stock unconfirmed; accept."
+    },
+    {
+      "canonical": "Bait",
+      "aliases": ["fishing bait", "frozen bait", "pilchards", "pillies", "pilchard", "squid bait", "frozen squid", "bait and tackle", "bait & tackle", "prawns for bait", "whitebait", "bluebait", "blue bait", "worms", "sandworms", "berley", "burley"],
+      "tier": "uncommon",
+      "note": "Unconfirmed in listings but a standard Great Ocean Road general-store line; accept. Fishing gear itself is under Fishing tackle."
+    },
+    {
+      "canonical": "Firewood",
+      "aliases": ["wood", "bag of firewood", "bag of wood", "bags of wood", "a bag of wood", "kindling", "redgum", "red gum", "firewood bag", "heat beads", "charcoal", "bbq charcoal", "briquettes", "bbq briquettes", "bbq fuel", "wood for the fire"],
+      "tier": "uncommon",
+      "note": "Unconfirmed in listings but standard for a coastal store with holiday houses; accept. Heat beads and charcoal collapse here."
+    },
+    {
+      "canonical": "Matches",
+      "aliases": ["box of matches", "a box of matches", "redheads", "redhead matches", "lighter", "a lighter", "lighters", "bic lighter", "bic", "clipper lighter", "candles", "candle", "tea lights", "tealights", "tea light candles"],
+      "tier": "uncommon",
+      "note": "Lighters and candles collapse here."
+    },
+    {
+      "canonical": "Postcards",
+      "aliases": ["postcard", "a postcard", "post card", "post cards", "wye river postcard", "great ocean road postcard"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Stamps",
+      "aliases": ["stamp", "a stamp", "postage stamps", "postage stamp", "postage", "post a letter", "posting a letter", "post a parcel", "parcel post", "express post", "express post satchel", "prepaid satchel", "satchel", "padded bag", "post office stuff", "post office services", "po box", "passport photos", "registered post"],
+      "tier": "uncommon",
+      "note": "Confirmed: the building houses the Wye River post office (Australia Post LPO). Anything post-office counts."
+    },
+    {
+      "canonical": "Panadol",
+      "aliases": ["paracetamol", "panadeine", "panamax", "nurofen", "ibuprofen", "advil", "aspirin", "aspro", "painkillers", "pain killers", "pain relief", "headache tablets", "tablets", "hangover tablets", "hangover cure", "berocca", "cold and flu tablets", "codral", "strepsils", "throat lozenges", "lozenges", "butter menthols", "butter-menthol", "antihistamines", "telfast", "zyrtec", "claratyne", "hayfever tablets", "gastro stop", "imodium", "travel sickness tablets", "travacalm", "kwells"],
+      "tier": "uncommon",
+      "note": "Any over-the-counter pharmacy line collapses here."
+    },
+    {
+      "canonical": "Toothpaste",
+      "aliases": ["tooth paste", "colgate", "macleans", "toothbrush", "tooth brush", "a toothbrush", "toothbrushes", "dental floss", "floss", "mouthwash", "listerine"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Toilet paper",
+      "aliases": ["loo paper", "loo roll", "dunny roll", "dunny rolls", "dunny paper", "toilet rolls", "toilet roll", "bog roll", "tp", "sorbent", "quilton", "kleenex", "tissues", "box of tissues", "paper towel", "paper towels"],
+      "tier": "uncommon",
+      "note": "Tissues and paper towel collapse here."
+    },
+    {
+      "canonical": "Aerogard",
+      "aliases": ["aeroguard", "aero guard", "insect repellent", "mozzie repellent", "mozzie spray", "mosquito repellent", "repellent", "bug spray", "bushman", "bushmans", "bushman's", "rid", "rid repellent", "off", "tropical strength aerogard"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cigarettes",
+      "aliases": ["cigarette", "a packet of cigarettes", "packet of cigarettes", "pack of cigarettes", "smokes", "a packet of smokes", "ciggies", "ciggie", "durries", "durry", "darts", "dart", "tobacco", "pouch of tobacco", "pouch", "rollies", "rolling tobacco", "winnie blues", "winfield blue", "winfield", "peter jackson", "pj's", "marlboro", "longbeach", "tally-ho papers", "tally hos", "tally-hos", "rolling papers", "filters", "vape", "vapes"],
+      "tier": "uncommon",
+      "note": "Unconfirmed but near-universal in Victorian general stores; accept. Vapes are not legally sold at retail in Victoria; at host discretion score them here anyway or reject."
+    },
+    {
+      "canonical": "Eggs Benedict",
+      "aliases": ["eggs benny", "eggs bene", "benny", "bennie", "benedict", "potato waffle eggs benedict", "potato waffle benedict", "potato waffle", "eggs florentine", "eggs royale", "eggs atlantic", "hollandaise"],
+      "tier": "rare",
+      "note": "Confirmed signature: 'Potato Waffle Eggs Benedict' is the first listed highlight on AGFG."
+    },
+    {
+      "canonical": "French toast",
+      "aliases": ["the french toast", "brioche french toast", "eggy bread"],
+      "tier": "rare",
+      "note": "Confirmed: Lonely Planet's write-up leads with the French toast."
+    },
+    {
+      "canonical": "Porridge",
+      "aliases": ["a bowl of porridge", "bowl of porridge", "oat porridge", "organic oat porridge", "organic porridge", "porridge with banana", "overnight oats"],
+      "tier": "rare",
+      "note": "Confirmed: organic oat porridge is a reviewed menu item. Boxed oats go to Cereal."
+    },
+    {
+      "canonical": "Pancakes",
+      "aliases": ["pancake", "hotcakes", "hot cakes", "ricotta hotcakes", "ricotta pancakes", "buttermilk pancakes", "waffles", "waffle", "stack of pancakes", "pancake stack", "crepes", "crepe"],
+      "tier": "rare",
+      "note": "Plausible brunch item, not specifically confirmed; accept."
+    },
+    {
+      "canonical": "Salad",
+      "aliases": ["salads", "a salad", "side salad", "garden salad", "greek salad", "caesar salad", "chicken salad", "poke bowl", "grain bowl", "buddha bowl", "nourish bowl", "salad bowl", "quinoa salad", "fresh salad"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Soup",
+      "aliases": ["soup of the day", "a soup", "bowl of soup", "pumpkin soup", "minestrone", "soup and bread", "soup and sourdough", "cup of soup", "soup with a roll"],
+      "tier": "rare",
+      "note": "Cafe soup. Tinned soup goes to Pantry staples."
+    },
+    {
+      "canonical": "Quiche",
+      "aliases": ["quiches", "a quiche", "frittata", "savoury tart", "spinach and feta quiche", "quiche lorraine", "savoury muffin", "savoury scroll", "cheese and vegemite scroll", "cheesymite scroll", "pizza scroll", "sausage and egg muffin", "brekkie muffin", "breakfast muffin", "egg and bacon pie"],
+      "tier": "rare",
+      "note": "Bakery savouries that are not pies or sausage rolls."
+    },
+    {
+      "canonical": "Pizza",
+      "aliases": ["a pizza", "pizzas", "margherita", "margarita pizza", "wood fired pizza", "woodfired pizza", "pizza night", "slice of pizza", "pepperoni pizza"],
+      "tier": "rare",
+      "note": "Not confirmed on the current menu (the store has run summer pizza/cocktail nights in the past). Accept, but if the room objects it is the host's call."
+    },
+    {
+      "canonical": "Fish and chips",
+      "aliases": ["fish n chips", "fish 'n' chips", "fish & chips", "fish and chip", "flake and chips", "battered flake", "grilled fish", "fish of the day", "calamari", "calamari and chips", "salt and pepper calamari", "salt and pepper squid", "fish tacos", "fish taco", "prawns", "oysters", "seafood", "seafood basket", "fisherman's basket"],
+      "tier": "rare",
+      "note": "Trap-ish: the fish-and-chips spot at Wye is the Wye Beach Hotel across the road, not the store. The cafe has done fish dishes and calamari, so accept but tell the room the pub is the real answer."
+    },
+    {
+      "canonical": "Dim sim",
+      "aliases": ["dim sims", "dimmies", "dimmy", "dimmie", "steamed dim sim", "fried dim sim", "chiko roll", "chiko", "potato cake", "potato cakes", "potato scallop", "hot dog", "hotdog", "hot dogs", "corn jack", "spring roll", "spring rolls", "pluto pup", "dagwood dog"],
+      "tier": "rare",
+      "note": "Milk-bar hot-box food is not really this store's thing (it is a bakery-cafe), so unconfirmed; accept at host discretion with a raised eyebrow."
+    },
+    {
+      "canonical": "Doughnut",
+      "aliases": ["donut", "donuts", "doughnuts", "a donut", "a doughnut", "nutella donut", "nutella doughnut", "nutella donuts", "jam donut", "jam doughnut", "jam donuts", "cinnamon donut", "cinnamon doughnut", "cinnamon donuts", "custard donut", "bombolone", "bomboloni", "cronut"],
+      "tier": "rare",
+      "note": "Confirmed: 'Nutella Donuts' are a listed AGFG highlight. Reward the Nutella version if the host wants to."
+    },
+    {
+      "canonical": "Honey",
+      "aliases": ["jar of honey", "a jar of honey", "local honey", "otway honey", "raw honey", "honeycomb", "manuka honey", "beechworth honey", "capilano"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Jam",
+      "aliases": ["jar of jam", "a jar of jam", "strawberry jam", "raspberry jam", "apricot jam", "marmalade", "local jam", "homemade jam", "preserves", "lemon curd", "lemon butter", "conserve"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Peanut butter",
+      "aliases": ["pb", "jar of peanut butter", "nutella", "jar of nutella", "spreads", "spread", "bega peanut butter", "pic's peanut butter", "pics", "almond butter", "nut butter", "tahini"],
+      "tier": "rare",
+      "note": "Bare 'nutella' lands here, not under Doughnut."
+    },
+    {
+      "canonical": "Olive oil",
+      "aliases": ["oil", "extra virgin olive oil", "evoo", "cooking oil", "vegetable oil", "local olive oil", "cobram estate", "cobram", "bottle of olive oil", "balsamic", "balsamic vinegar", "vinegar"],
+      "tier": "rare",
+      "note": "Deli line; fits the confirmed 'fine Italian deli items'."
+    },
+    {
+      "canonical": "Deli meats",
+      "aliases": ["ham", "sliced ham", "shaved ham", "leg ham", "deli ham", "salami", "prosciutto", "cured meats", "charcuterie", "cold meats", "cold cuts", "mortadella", "pancetta", "chorizo", "devon", "stras", "strasburg", "turkey breast", "sliced turkey", "smoked salmon", "pastrami", "kabana", "kransky", "twiggy sticks", "twiggies"],
+      "tier": "rare",
+      "note": "Confirmed: Time Out mentions fine Italian deli items."
+    },
+    {
+      "canonical": "Antipasto",
+      "aliases": ["olives", "marinated olives", "jar of olives", "antipasto platter", "dips", "dip", "hummus", "hommus", "tzatziki", "taramasalata", "guacamole", "beetroot dip", "pate", "sun-dried tomatoes", "sundried tomatoes", "artichokes", "marinated artichokes", "semi-dried tomatoes", "grazing platter", "platter", "cheese and crackers"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Pantry staples",
+      "aliases": ["flour", "self raising flour", "plain flour", "sugar", "salt", "pepper", "salt and pepper", "rice", "pasta", "dried pasta", "spaghetti", "penne", "pasta sauce", "passata", "tinned tomatoes", "canned tomatoes", "tinned food", "canned food", "tins", "baked beans", "tin of beans", "can of beans", "tinned tuna", "tuna", "tin of tuna", "tinned spaghetti", "spaghetti in a tin", "tinned soup", "cup a soup", "cup-a-soup", "stock", "stock cubes", "chickpeas", "lentils", "couscous", "quinoa", "tomato paste", "coconut milk", "curry paste", "taco kit", "old el paso", "pancake mix", "shake and bake pancake mix", "cake mix", "bread crumbs", "breadcrumbs", "gravy", "gravox", "long life stuff", "dry goods", "groceries", "basic groceries", "the essentials", "essentials", "supplies", "provisions"],
+      "tier": "rare",
+      "note": "Confirmed 'mini FoodWorks supermarket' with essentials. Generic 'groceries' and 'essentials' land here too."
+    },
+    {
+      "canonical": "Two-minute noodles",
+      "aliases": ["2 minute noodles", "two minute noodles", "instant noodles", "noodles", "mi goreng", "migoreng", "maggi noodles", "maggi", "indomie", "fantastic noodles", "cup noodles", "noodle cup", "pot noodle"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Snacks",
+      "aliases": ["snack", "crackers", "jatz", "savoy", "savoys", "sao", "saos", "cruskits", "vita-weat", "vita weats", "rice crackers", "water crackers", "cheese and biscuits", "nuts", "mixed nuts", "cashews", "peanuts", "salted peanuts", "trail mix", "popcorn", "pretzels", "beef jerky", "jerky", "dried fruit", "dried mango", "muesli bar", "muesli bars", "carman's", "carmans", "protein bar", "protein bars", "snack bar", "nut bar", "le snak", "le snacks", "lcm", "lcms", "lcm bars", "roll ups", "roll-ups", "tiny teddies", "tiny teddy", "fruit sticks", "sakata", "sakatas", "nutri-grain bars"],
+      "tier": "rare",
+      "note": "Catch-all for crackers, nuts and snack bars."
+    },
+    {
+      "canonical": "Marshmallows",
+      "aliases": ["marshmallow", "bag of marshmallows", "packet of marshmallows", "s'mores", "smores", "marshmallows for the fire", "toasting marshmallows"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sausages",
+      "aliases": ["snags", "snag", "sausage", "bbq sausages", "bbq snags", "meat", "fresh meat", "steak", "steaks", "mince", "beef mince", "chicken", "chicken breast", "chicken thighs", "lamb chops", "chops", "bbq meat", "bbq pack", "meat for the barbie", "burgers patties", "burger patties", "patties", "marinated chicken", "lamb", "beef"],
+      "tier": "rare",
+      "note": "Fresh meat range is unconfirmed; a mini supermarket likely has some snags and mince. Accept."
+    },
+    {
+      "canonical": "Frozen food",
+      "aliases": ["frozen peas", "peas", "frozen veg", "frozen vegetables", "fish fingers", "frozen pizza", "frozen chips", "oven chips", "birds eye", "frozen berries", "frozen meals", "frozen dinner", "frozen dumplings", "frozen pastry", "puff pastry", "frozen bread", "frozen stuff", "something from the freezer"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Coffee beans",
+      "aliases": ["beans", "bag of beans", "bag of coffee beans", "coffee bean", "ground coffee", "coffee grounds", "instant coffee", "nescafe", "nescafe blend 43", "moccona", "coffee pods", "pods", "nespresso pods", "coffee sachets", "plunger coffee", "filter coffee bag", "bag of coffee"],
+      "tier": "rare",
+      "note": "Take-home coffee. A cup goes to Coffee."
+    },
+    {
+      "canonical": "Cleaning products",
+      "aliases": ["dishwashing liquid", "dish soap", "morning fresh", "detergent", "washing powder", "laundry powder", "laundry liquid", "omo", "dishwasher tablets", "finish tablets", "bleach", "spray and wipe", "sponges", "sponge", "chux", "scourer", "bin liners", "bin bags", "garbage bags", "rubbish bags", "glad bags", "glad wrap", "cling wrap", "cling film", "foil", "alfoil", "aluminium foil", "baking paper", "zip lock bags", "ziplock bags", "sandwich bags", "snap lock bags", "paper plates", "plastic cups", "napkins", "serviettes", "washing up gloves", "rubber gloves", "broom", "dustpan"],
+      "tier": "rare",
+      "note": "Household basics, including wraps and bags."
+    },
+    {
+      "canonical": "Firelighters",
+      "aliases": ["fire lighters", "firelighter", "fire starters", "firestarters", "fire starter", "jiffy firelighters", "jiffy", "little lucifer", "little lucifers"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Nappies",
+      "aliases": ["nappy", "diapers", "diaper", "huggies", "babylove", "baby wipes", "wipes", "wet wipes", "baby formula", "formula", "baby food", "dummy", "dummies"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dog food",
+      "aliases": ["dog treats", "pet food", "cat food", "dog biscuits", "kibble", "schmackos", "dog roll", "pedigree", "whiskas", "dog poo bags", "poo bags", "doggy bags", "dog bowl", "dog treat", "treats for the dog", "dog lead", "dog leash"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gas bottle swap",
+      "aliases": ["gas bottle", "gas bottles", "swap and go", "swap n go", "swap'n'go", "swap 'n' go", "swapngo", "bbq gas", "gas bottle refill", "gas refill", "lpg", "lpg bottle", "9kg gas bottle", "gas", "camping gas", "butane", "butane canister", "gas canister", "gas cartridge", "jetboil canister", "jetboil gas", "gas for the bbq"],
+      "tier": "rare",
+      "note": "Unconfirmed; typical for a holiday-town store. Accept."
+    },
+    {
+      "canonical": "Mosquito coils",
+      "aliases": ["mozzie coils", "mozzie coil", "mosquito coil", "coils", "citronella", "citronella candle", "citronella candles", "fly spray", "mortein", "fly swat", "fly swatter", "mozzie zapper", "mosquito net", "mozzie net"],
+      "tier": "rare",
+      "note": "Insect repellent you spray on yourself goes to Aerogard."
+    },
+    {
+      "canonical": "Fishing tackle",
+      "aliases": ["tackle", "fishing gear", "fishing stuff", "hooks", "fishing hooks", "sinkers", "fishing line", "line", "lures", "lure", "soft plastics", "hand line", "handline", "hand reel", "fishing rod", "rod", "rod and reel", "reel", "fishing reel", "swivels", "a fishing kit", "crab net", "fishing knife", "fishing licence", "fishing license"],
+      "tier": "rare",
+      "note": "Fishing licence sales are unconfirmed (buy online); accept with a note."
+    },
+    {
+      "canonical": "Surf wax",
+      "aliases": ["board wax", "wax", "surfboard wax", "sex wax", "mr zogs", "mr zog's", "mrs palmers", "mrs palmer's", "sticky bumps", "wax comb", "leg rope", "legrope", "leash", "surf leash", "fin key", "fins for the board"],
+      "tier": "rare",
+      "note": "Plausible for a surf-town store; unconfirmed. Accept."
+    },
+    {
+      "canonical": "Tea towel",
+      "aliases": ["tea towels", "souvenir tea towel", "wye river tea towel", "great ocean road tea towel", "linen tea towel"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Stickers",
+      "aliases": ["sticker", "a sticker", "wye river sticker", "wye general sticker", "bumper sticker", "bumper stickers", "car sticker", "magnet", "fridge magnet", "fridge magnets", "souvenir", "souvenirs", "keyring", "key ring", "keyrings", "badge", "pin", "enamel pin"],
+      "tier": "rare",
+      "note": "Souvenir-counter bits. Branded clothing goes to Merch."
+    },
+    {
+      "canonical": "Merch",
+      "aliases": ["merchandise", "wye general merch", "wye river merch", "t-shirt", "t shirt", "tee", "tshirt", "wye general t-shirt", "wye river t-shirt", "wye general tee", "hoodie", "wye general hoodie", "jumper", "crew", "sweater", "tote bag", "tote", "wye general tote", "keep cup", "keepcup", "reusable cup", "reusable coffee cup", "hat with the logo", "branded gear", "enamel mug", "mug", "coffee mug", "shopping bag", "reusable shopping bag", "green bag", "carry bag", "bag"],
+      "tier": "rare",
+      "note": "Store-branded gear; stock unconfirmed but near-universal for GOR cafes. Caps go to Hat unless the player says it is the branded one."
+    },
+    {
+      "canonical": "Boogie board",
+      "aliases": ["boogie boards", "bodyboard", "body board", "bodyboards", "body boards", "foamie", "foam board", "foam surfboard", "surfboard", "soft board", "softboard", "skimboard", "skim board", "skimmer", "flippers", "fins", "goggles", "swimming goggles", "snorkel", "snorkel set", "mask and snorkel", "snorkel and mask", "pool noodle", "inflatable", "floatie", "floaties", "blow up toy", "inflatable ring", "li-lo", "lilo"],
+      "tier": "rare",
+      "note": "Water gear catch-all; unconfirmed but typical for a beach store. Accept."
+    },
+    {
+      "canonical": "Beach toys",
+      "aliases": ["bucket and spade", "bucket", "spade", "sand toys", "sandcastle bucket", "beach ball", "frisbee", "kite", "beach cricket set", "cricket set", "cricket bat", "beach cricket", "footy", "a footy", "sherrin", "football", "tennis ball", "ball", "totem tennis", "finska", "kids toys", "toys", "toy", "bubbles for the kids", "water pistol", "water gun", "sand moulds", "shovel"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Beach gear",
+      "aliases": ["beach stuff", "beach umbrella", "umbrella", "sun shade", "sunshade", "shade tent", "beach tent", "beach shelter", "sun shelter", "cool cabana", "coolcabana", "beach towel", "towel", "towels", "turkish towel", "picnic rug", "picnic blanket", "beach chair", "beach chairs", "camp chair", "folding chair", "beach bag", "beach mat", "sand-free mat", "sarong"],
+      "tier": "rare",
+      "note": "Shade, towels and chairs. Unconfirmed; accept."
+    },
+    {
+      "canonical": "Esky",
+      "aliases": ["an esky", "eskies", "cooler", "foam esky", "polystyrene esky", "cooler bag", "cooler box", "ice bricks", "ice brick", "ice packs", "ice pack", "freezer bricks", "thermos", "drink bottle", "water bottle (reusable)", "reusable water bottle", "stubby holder", "stubby holders", "stubbie holder", "wye river stubby holder"],
+      "tier": "rare",
+      "note": "Stubby holders are a classic GOR counter item; collapsed here."
+    },
+    {
+      "canonical": "Batteries",
+      "aliases": ["battery", "aa batteries", "aaa batteries", "double a batteries", "triple a batteries", "double a's", "triple a's", "duracell", "energizer", "eveready", "torch", "a torch", "flashlight", "head torch", "headlamp", "phone charger", "charger", "a charger", "iphone charger", "usb cable", "charging cable", "phone cable", "lightning cable", "usb-c cable", "power bank", "powerbank", "extension cord", "power board", "light bulb", "light globe", "globe"],
+      "tier": "rare",
+      "note": "Electrical odds and ends."
+    },
+    {
+      "canonical": "Band-Aids",
+      "aliases": ["bandaids", "band aids", "band aid", "bandaid", "a bandaid", "plasters", "elastoplast", "first aid kit", "first aid", "first aid stuff", "dettol", "betadine", "antiseptic", "antiseptic cream", "savlon", "bandage", "bandages", "gauze", "tweezers", "stingose", "paw paw ointment", "lucas paw paw", "lucas' paw paw", "pawpaw ointment", "burn gel", "blister pads"],
+      "tier": "rare",
+      "note": "First-aid basics; paw paw ointment collapses here."
+    },
+    {
+      "canonical": "Toiletries",
+      "aliases": ["soap", "bar of soap", "body wash", "shampoo", "conditioner", "deodorant", "deo", "rexona", "razor", "razors", "disposable razors", "shaving cream", "moisturiser", "moisturizer", "lip balm", "chapstick", "blistex", "carmex", "hand sanitiser", "hand sanitizer", "sanitiser", "hand gel", "tampons", "pads", "sanitary pads", "period products", "sanitary items", "cotton buds", "hair ties", "hair brush", "hairbrush", "comb", "nail clippers", "ear plugs", "earplugs", "cotton wool", "make up remover", "makeup wipes", "face wipes", "hand cream", "face wash", "bobby pins"],
+      "tier": "rare",
+      "note": "Personal-care catch-all; toothpaste, sunscreen and Panadol have their own entries."
+    },
+    {
+      "canonical": "Magazine",
+      "aliases": ["magazines", "a magazine", "mag", "mags", "women's weekly", "womens weekly", "australian women's weekly", "new idea", "woman's day", "womans day", "who weekly", "that's life", "take 5", "frankie", "frankie magazine", "surfing magazine", "tracks", "tracks magazine", "book", "books", "a book", "novel", "paperback", "kids book", "kids books", "colouring book", "colouring in book", "puzzle book", "crossword", "crossword book", "sudoku", "sudoku book", "comic", "comics"],
+      "tier": "rare",
+      "note": "Books and magazines; newspapers are their own entry."
+    },
+    {
+      "canonical": "Stationery",
+      "aliases": ["greeting card", "greeting cards", "birthday card", "birthday cards", "card", "cards", "a card", "envelope", "envelopes", "pen", "pens", "a pen", "biro", "texta", "textas", "pencil", "pencils", "notepad", "notebook", "writing paper", "wrapping paper", "gift wrap", "sticky tape", "sellotape", "tape", "gaffer tape", "duct tape", "blu tack", "blu-tack", "scissors", "glue", "playing cards", "pack of cards", "deck of cards", "uno", "uno cards", "board game", "dice", "puzzle", "jigsaw", "jigsaw puzzle", "packing tape", "marker", "sharpie", "sharpies", "string", "rope"],
+      "tier": "rare",
+      "note": "Cards (greeting or playing), pens, tape and the like."
+    },
+    {
+      "canonical": "Bathers",
+      "aliases": ["swimmers", "togs", "swimsuit", "swimming costume", "cossie", "cozzie", "boardies", "board shorts", "boardshorts", "rashie", "rash vest", "rash shirt", "rashies", "wetsuit", "wetty", "wettie", "wetsuits", "bikini", "budgie smugglers", "speedos", "t-shirt (plain)", "singlet", "socks", "jumper (plain)", "raincoat", "rain jacket", "poncho", "rain poncho", "spray jacket", "clothes", "clothing"],
+      "tier": "rare",
+      "note": "Clothing of any kind that is not a hat, thongs or branded merch. Stock unconfirmed; accept but it is a stretch."
+    },
+    {
+      "canonical": "Kombucha",
+      "aliases": ["booch", "remedy", "remedy kombucha", "kombucha bottle", "a kombucha", "sparkling kombucha", "coconut water", "cocobella", "h2coco", "sparkling fruit drink"],
+      "tier": "rare",
+      "note": "Fancy fridge drinks: kombucha and coconut water."
+    },
+    {
+      "canonical": "Energy drink",
+      "aliases": ["energy drinks", "red bull", "redbull", "v", "v energy", "v energy drink", "monster", "monster energy", "mother", "mother energy", "rockstar", "gatorade", "powerade", "sports drink", "sports drinks", "maximus", "hydralyte", "electrolytes", "electrolyte drink", "prime", "prime hydration", "prime drink"],
+      "tier": "rare",
+      "note": "Energy and sports drinks together."
+    },
+    {
+      "canonical": "Spirits",
+      "aliases": ["spirit", "vodka", "gin", "whisky", "whiskey", "scotch", "rum", "bourbon", "bundy", "bundaberg rum", "tequila", "premix", "premixes", "premixed drinks", "rtd", "rtds", "cans of premix", "vodka cruiser", "vodka cruisers", "cruisers", "udl", "udls", "canadian club and dry", "cc and dry", "cc & dry", "jack daniels", "jack daniel's", "jim beam", "jim beam and cola", "four pillars", "four pillars gin", "bottle of gin", "bottle of vodka", "bottle of whisky", "jager", "jagermeister", "jägermeister", "baileys", "liqueur", "canned cocktail", "canned cocktails", "hard seltzer", "white claw", "seltzer"],
+      "tier": "rare",
+      "note": "Licensed cafe-bar, so a nip at the bar is a safe yes; a takeaway bottle shop range is unconfirmed. Accept."
+    },
+    {
+      "canonical": "Mushroom ragout",
+      "aliases": ["mushroom ragu", "mushroom ragout on toast", "mushrooms on toast", "mushroom toast", "mushroom on toast", "the mushrooms", "wild mushroom toast", "mushroom bruschetta", "mushrooms with goats cheese", "sauteed mushrooms"],
+      "tier": "deep",
+      "note": "Confirmed: the Weekend Notes review singles out the mushroom ragout. A genuine deep cut for anyone who has actually eaten there."
+    }
+  ],
+  "hostNotes": "Grade generously: anything a well-stocked coastal cafe/general store would sell counts. The Wye General is a cafe-bar, bakery, Italian-leaning deli, greengrocer, mini FoodWorks and the town's post office, so cooked dishes, cocktails and postage all count. Coffee orders collapse into one Coffee entry; brands collapse into their category (all soft drinks, all packet chips, all ice creams except Gaytime, Magnum and icy poles). Traps: petrol (no servo at Wye River; nearest fuel is Lorne or Apollo Bay), fish and chips or counter meals (that is the Wye Beach Hotel across the road), Tatts/lotto and prescriptions (not an outlet or pharmacy). Takeaway slabs and bottle-shop spirits are unconfirmed but the venue is licensed, so accept. Entries noted as unconfirmed (bait, firewood, gas swap, pizza) are the host's call if the room objects."
+}

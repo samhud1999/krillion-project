@@ -112,17 +112,16 @@ Railway builds the app from this repository, gives it a public `https://` addres
 
 ### B1. Push the repository to GitHub
 
-Railway deploys from GitHub. Make sure the branch you want is pushed (the game lives in `games/separation-creek-krillion`).
+Railway deploys from GitHub. This repository is self-contained: the app, its `Dockerfile`, and `railway.json` all live at the repository root. Just make sure the branch you want is pushed.
 
 ### B2. Create the project
 
 1. Sign in at [railway.com](https://railway.com) and click **New Project**.
-2. Choose **Deploy from GitHub repo**, authorise Railway for the `DriveHub` repository and select it.
-3. Railway creates a service. Open it, go to **Settings**, and set:
-   - **Root Directory:** `games/separation-creek-krillion`
-   - **Builder:** Dockerfile (Railway detects the `Dockerfile` in that folder automatically; if it chose Nixpacks, switch it to Dockerfile).
-   - **Branch:** the branch you pushed.
-4. Still in Settings, under **Networking**, click **Generate Domain**. Railway gives you something like `separation-creek-krillion-production.up.railway.app`. When asked for a port, enter `8787`.
+2. Choose **Deploy from GitHub repo**, authorise Railway for this repository (`krillion-project`) and select it.
+3. Railway creates a service and reads `railway.json`, so the **Builder is already set to Dockerfile** and a **healthcheck on `/healthz`** is configured — there is nothing to change on the Settings → Build screen. (No Root Directory is needed; the app is at the repository root.)
+4. In Settings, under **Networking**, click **Generate Domain**. Railway gives you something like `krillion-project-production.up.railway.app`. When asked for a port, enter `8787`.
+
+> **Keep it to one instance.** `railway.json` sets `numReplicas: 1`. The game holds each room's live state in memory for one process, so running two or more replicas would scatter players across instances that cannot see each other. Do not raise the replica count.
 
 ### B3. Add the database (one click)
 
@@ -159,8 +158,8 @@ railway connect Postgres
 
 ### Alternatives to Railway
 
-- **Render** (render.com): New, Web Service, connect the repo, Root Directory `games/separation-creek-krillion`, Runtime Docker, instance type Starter (the free tier sleeps after 15 minutes idle and would end a game). Add a Render Postgres instance and paste its Internal Database URL as `DATABASE_URL`. Set `PUBLIC_URL` to the `onrender.com` address.
-- **Fly.io**: `fly launch` in the game folder detects the Dockerfile; set `fly secrets set PUBLIC_URL=... HOST_PIN=...`; add Postgres with `fly postgres create` and `fly postgres attach`. Keep it to one machine (`fly scale count 1`).
+- **Render** (render.com): New, Web Service, connect the repo (no Root Directory needed — the app is at the root), Runtime Docker, instance type Starter (the free tier sleeps after 15 minutes idle and would end a game). Add a Render Postgres instance and paste its Internal Database URL as `DATABASE_URL`. Set `PUBLIC_URL` to the `onrender.com` address.
+- **Fly.io**: `fly launch` at the repository root detects the Dockerfile; set `fly secrets set PUBLIC_URL=... HOST_PIN=...`; add Postgres with `fly postgres create` and `fly postgres attach`. Keep it to one machine (`fly scale count 1`).
 - **Neon or Supabase** for the database with any host: create a project, copy the pooled connection string, and use it as `DATABASE_URL`. Both require SSL. Neon's string already ends in `?sslmode=require`; for Supabase append it yourself. The server also honours `PGSSL=require|no-verify|disable` and `PGSSL_CA=<path to a CA file>` when a provider needs something different. On the first connection the `pg` driver prints a multi-line "SECURITY WARNING" about `sslmode=require`; it is informational, not an error. PostgreSQL 14, 15 and 16 all work.
 
 Any provider works as long as it runs one long-lived Node or Docker process and passes WebSocket upgrades through. Static-only hosts (GitHub Pages, Netlify static, Vercel without a server) cannot run the game server.
@@ -221,8 +220,8 @@ Message rate limiting (20 messages a second per socket) and input limits (16-cha
 | "Game already started" when joining | The host must press Play again (results) or restart the room; players can only join in the lobby |
 | Timer looks out of sync on one phone | Clock drift is corrected from the server every few seconds; a frozen tab in the background may lag until it comes forward |
 | Host screen says "Reconnecting" | The server restarted. Without a database the room is gone: create a new one. With a database it resumes within a few seconds |
-| Railway deploy fails at build | Check Root Directory is `games/separation-creek-krillion` and Builder is Dockerfile |
-| `/healthz` returns 502 on Railway | The service port must be 8787; check the Networking setting and the `PORT` variable |
+| Railway deploy fails at build | `railway.json` already pins the Builder to Dockerfile; if a build still fails, confirm the service is this repo's root and the branch is pushed |
+| `/healthz` returns 502 on Railway | The service port must be 8787; check the Networking setting and the `PORT` variable. Railway's own healthcheck already targets `/healthz` via `railway.json` |
 | Postgres connection refused on a hosted DB | Use the pooled/external URL with `sslmode=require`; for Railway use the `DATABASE_URL` reference variable, not the public proxy URL |
 | Answers that are clearly right show as unverified | Expected: the bank cannot hold everything. They still score; Accept is the default. You can add them to `server/data/bank/<prompt>.json` for next time |
 

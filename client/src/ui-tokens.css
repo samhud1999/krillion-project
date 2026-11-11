@@ -1,0 +1,59 @@
+/*
+ * UI chrome tokens (buttons, cards, text, tier chips). The artwork has its own
+ * --sck-* tokens in ./art/tokens.css; these are the values the screens use.
+ */
+:root {
+  /* creek water: light shallows → the trench */
+  --creek-100: #e3f4f3;
+  --creek-200: #b9e3e5;
+  --creek-300: #7fc9d1;
+  --creek-400: #3fa3b3;
+  --creek-500: #2a7d8f;
+  --creek-600: #1f5c6e;
+  --creek-700: #174556;
+  --creek-800: #10303d;
+  --creek-900: #0b1f2a;
+  --creek-950: #06131a;
+
+  /* beach sand */
+  --sand-100: #f7efe0;
+  --sand-300: #ecd9b8;
+  --sand-500: #d9b98a;
+  --sand-700: #a98654;
+
+  /* Otways ferns and gums */
+  --fern-300: #9cc29a;
+  --fern-500: #4f7f52;
+  --fern-700: #2f5a37;
+  --fern-900: #1b3a24;
+
+  /* late sun on the water — the call-to-action colour */
+  --sun-300: #ffc08a;
+  --sun-400: #ffa65c;
+  --sun-500: #f28c38;
+  --sun-600: #d9712a;
+
+  /* text */
+  --foam: #f3f8f7;
+  --foam-muted: rgba(243, 248, 247, 0.68);
+  --foam-faint: rgba(243, 248, 247, 0.42);
+  --ink: #0a1418;
+
+  /* tiers */
+  --tier-dry: #6b7280;
+  --tier-puddle: #9cc5c9;
+  --tier-shallows: #4fb3bf;
+  --tier-rockpool: #e07a5f;
+  --tier-deepcut: #a78bfa;
+  --tier-krillion: #ffd166;
+
+  /* zones */
+  --zone-bridge: #6fb3c9;
+  --zone-rockpools: #2a7d8f;
+  --zone-beach: #d9b98a;
+  --zone-mouth: #0b1f2a;
+
+  /* type */
+  --font-display: 'Fraunces Variable', 'Iowan Old Style', Georgia, serif;
+  --font-ui: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}

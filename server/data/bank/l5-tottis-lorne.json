@@ -1,0 +1,484 @@
+{
+  "id": "l5-tottis-lorne",
+  "text": "Name a pizza topping you'd find at Totti's in Lorne.",
+  "type": "open",
+  "category": "local",
+  "approved": false,
+  "answers": [
+    {
+      "canonical": "No pizza (it's the wood-fired bread)",
+      "aliases": ["no pizza", "there's no pizza", "there is no pizza", "theres no pizza", "they don't do pizza", "they dont do pizza", "they don't have pizza", "they don't sell pizza", "no pizza on the menu", "not a pizza place", "trick question", "nothing", "none", "it's bread", "its bread", "bread", "the bread", "flatbread", "flat bread", "wood-fired bread", "wood fired bread", "woodfired bread", "wood-fired flatbread", "wood fired flatbread", "puffy bread", "the puffy bread", "pizza bread", "pita", "focaccia", "the famous bread", "bread and olive oil"],
+      "tier": "deep",
+      "note": "The honest answer: Totti's Lorne has no pizza. The 'pizza oven' bakes the famous 48-hour-ferment puffy flatbread ($16) you pile antipasti on. Treat as the top deep cut, not a dodge."
+    },
+    {
+      "canonical": "Prosciutto",
+      "aliases": ["proscuitto", "prociutto", "prosciuto", "proscuito", "proschiutto", "prosciutto di parma", "parma ham", "parma", "prosciutto crudo", "san daniele", "prosciutto di san daniele", "prosciutto san daniele", "prosciutto ham", "cured ham", "italian ham", "paper-thin prosciutto", "shaved prosciutto", "prosciutto slices", "prosciutto on bread", "prosciutto and bread", "prosciutto with bread", "jamon", "jamón", "jamon iberico", "serrano", "jamon serrano", "serrano ham"],
+      "tier": "common",
+      "note": "Confirmed on the Lorne antipasti list (~$21). The classic thing to drape over the bread. Spanish hams merged here."
+    },
+    {
+      "canonical": "Burrata",
+      "aliases": ["buratta", "burata", "burratta", "burrata cheese", "burrata and bread", "burrata with bread", "burrata on bread", "burrata di bufala", "burrata pugliese", "burrata ball"],
+      "tier": "common",
+      "note": "Confirmed on the Lorne menu (~$15); bread-plus-burrata is the signature combo in every review."
+    },
+    {
+      "canonical": "Mozzarella",
+      "aliases": ["mozarella", "mozzarela", "mozzerella", "mozzeralla", "mozz", "mozza", "mozzarella cheese", "fresh mozzarella", "shredded mozzarella", "grated mozzarella", "torn mozzarella", "mozzarella balls", "cheese", "melted cheese", "mutzadell"],
+      "tier": "common",
+      "note": "Totti's family cheese list (Bondi launch) includes mozzarella. Plain 'cheese' lands here. Fior di latte, buffalo and bocconcini kept as separate entries."
+    },
+    {
+      "canonical": "Fior di latte",
+      "aliases": ["fior de latte", "fiordilatte", "fiore di latte", "fior-di-latte", "fior di latta", "fior di latte mozzarella", "cow's milk mozzarella", "cows milk mozzarella", "fdl"],
+      "tier": "uncommon",
+      "note": "Cow's-milk mozzarella; unconfirmed by name at Totti's. Separate from Mozzarella for rarity, same family."
+    },
+    {
+      "canonical": "Buffalo mozzarella",
+      "aliases": ["mozzarella di bufala", "mozzarella di bufala campana", "bufala", "di bufala", "bufala mozzarella", "mozzarella bufala", "buffalo mozz", "buffalo cheese", "buffalo mozarella", "buffalo mozzerella", "bufalo mozzarella"],
+      "tier": "uncommon",
+      "note": "Italian staple; unconfirmed at Totti's Lorne. Cross-ref Mozzarella."
+    },
+    {
+      "canonical": "Stracciatella",
+      "aliases": ["straciatella", "strachiatella", "stracchiatella", "stracciatella cheese", "stracciatella di burrata", "stracciatella di bufala"],
+      "tier": "rare",
+      "note": "On the Totti's cheese list at Bondi; the creamy insides of burrata. Near-certain on the Lorne antipasti."
+    },
+    {
+      "canonical": "Tomato",
+      "aliases": ["tomatoes", "tomato sauce", "tomato base", "tomato sauce base", "red base", "red sauce", "sugo", "tomato sugo", "napoli", "napoli sauce", "napoletana", "napolitana", "napoletana sauce", "napolitana sauce", "passata", "tomato passata", "pomodoro", "salsa di pomodoro", "crushed tomatoes", "tinned tomatoes", "tomato puree", "fresh tomato", "fresh tomatoes", "sliced tomato", "sliced tomatoes", "heirloom tomato", "heirloom tomatoes", "truss tomatoes", "roma", "roma tomato", "roma tomatoes", "tomato salsa", "marinara sauce"],
+      "tier": "common",
+      "note": "Generic staple. Any tomato-sauce/base answer lands here; San Marzano and cherry tomatoes are separate."
+    },
+    {
+      "canonical": "San Marzano tomatoes",
+      "aliases": ["san marzano", "san marzanos", "san marzano tomato", "san marzano dop", "dop tomatoes", "san marzano sauce", "san marzano tomato sauce", "san marsano", "san marzanno", "san marzano tinned tomatoes", "mutti", "mutti tomatoes"],
+      "tier": "uncommon",
+      "note": "Italian staple; unconfirmed at Totti's. Cross-ref Tomato."
+    },
+    {
+      "canonical": "Cherry tomatoes",
+      "aliases": ["cherry tomato", "cherry toms", "cherry tom", "baby tomatoes", "datterini", "datterini tomatoes", "grape tomatoes", "pomodorini", "roasted cherry tomatoes", "roast cherry tomatoes", "blistered cherry tomatoes", "confit cherry tomatoes", "semi-roasted cherry tomatoes"],
+      "tier": "uncommon",
+      "note": "Generic staple; unconfirmed at Totti's. Cross-ref Tomato."
+    },
+    {
+      "canonical": "Basil",
+      "aliases": ["fresh basil", "basil leaves", "basil leaf", "basilico", "basil oil", "torn basil", "sweet basil", "genovese basil", "baby basil", "bassil"],
+      "tier": "common",
+      "note": "Generic staple; unconfirmed as a named Totti's item but a safe accept."
+    },
+    {
+      "canonical": "'Nduja",
+      "aliases": ["nduja", "n'duja", "n'duja sausage", "nduja sausage", "nduja paste", "nduja spread", "nduja salami", "nduja salumi", "spicy nduja", "induja", "njuda", "ndjua", "nduya", "en-duja", "spreadable salami"],
+      "tier": "uncommon",
+      "note": "On the Bar Totti's antipasti list for smearing on the bread; very likely at Lorne. Spelling minefield, be generous."
+    },
+    {
+      "canonical": "Salami",
+      "aliases": ["salame", "salamis", "salami slices", "salumi", "salami milano", "milano salami", "hot salami", "spicy salami", "mild salami", "salami picante", "salame piccante", "spicy salame", "sopressa", "soppressata", "sopressata", "finocchiona", "fennel salami", "cacciatore", "cacciatore salami", "felino", "salame felino", "salami felino", "danish salami", "hungarian salami", "cured meats", "cured meat", "charcuterie", "cold cuts", "affettati", "affettati misti"],
+      "tier": "common",
+      "note": "Salami ($8.50) on the Bondi antipasti list; generic 'salumi/charcuterie/cured meats' merged here. Calabrese and pepperoni are separate."
+    },
+    {
+      "canonical": "Pepperoni",
+      "aliases": ["peperoni", "peperroni", "pepporoni", "pepperonis", "pepperoni sausage", "pepperoni slices"],
+      "tier": "common",
+      "note": "American name; not a Totti's item (they'd call it salami). Accept as the crowd staple it is."
+    },
+    {
+      "canonical": "Calabrese salami",
+      "aliases": ["calabrese", "calabresa", "salame calabrese", "salami calabrese", "calabrian salami", "calabrian salame", "spicy calabrese", "hot calabrese", "calabrese sausage"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed by name at Totti's. Cross-ref Salami and Diavola."
+    },
+    {
+      "canonical": "Mortadella",
+      "aliases": ["mortadela", "mortedella", "morty", "mortadella di bologna", "bologna", "mortadella with pistachio", "mortadella and pistachio", "mortadella pistachio", "mortadella slices"],
+      "tier": "uncommon",
+      "note": "On the Totti's charcuterie list (Bondi launch, Bar Totti's); near-certain at Lorne."
+    },
+    {
+      "canonical": "Pancetta",
+      "aliases": ["panchetta", "panceta", "pancetta cubes", "crispy pancetta", "rolled pancetta", "pancetta bacon", "pancetta rounds"],
+      "tier": "uncommon",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Guanciale",
+      "aliases": ["guancale", "gaunciale", "guanciale pork cheek", "pork cheek", "pork jowl", "cured pork cheek"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Speck",
+      "aliases": ["speck ham", "smoked speck", "tyrolean speck", "speck alto adige"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Coppa",
+      "aliases": ["capocollo", "capicola", "capicollo", "capacollo", "cappicola", "cappocollo", "coppa di parma", "coppa ham", "gabagool"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed at Totti's. 'Gabagool' is a Sopranos joke, still coppa."
+    },
+    {
+      "canonical": "Pork and fennel sausage",
+      "aliases": ["pork & fennel sausage", "pork fennel sausage", "fennel pork sausage", "fennel sausage", "italian sausage", "italian pork sausage", "sausage", "sausages", "pork sausage", "salsiccia", "salsicce", "pork and fennel", "pork & fennel", "crumbled sausage", "sausage crumble", "sausage mince"],
+      "tier": "uncommon",
+      "note": "Generic Italian staple; unconfirmed at Totti's. Any sausage answer lands here."
+    },
+    {
+      "canonical": "Ham",
+      "aliases": ["leg ham", "shaved ham", "sliced ham", "cooked ham", "smoked ham", "double smoked ham", "virginia ham", "honey ham", "champagne ham", "ham off the bone", "prosciutto cotto", "cotto"],
+      "tier": "common",
+      "note": "Aussie pizza staple; not a Totti's item. Prosciutto is separate."
+    },
+    {
+      "canonical": "Pineapple",
+      "aliases": ["pineapples", "pineapple pieces", "pineapple chunks", "tinned pineapple", "grilled pineapple", "ananas", "hawaiian", "hawaiian pizza", "ham and pineapple", "ham & pineapple"],
+      "tier": "uncommon",
+      "note": "Joke answer; Merivale would sooner close the pub. Accept, it's a legit pizza topping, just not here."
+    },
+    {
+      "canonical": "Mushroom",
+      "aliases": ["mushrooms", "mushies", "mushie", "shrooms", "funghi", "fungi", "field mushroom", "field mushrooms", "porcini", "porcini mushrooms", "swiss brown", "swiss browns", "swiss brown mushrooms", "button mushroom", "button mushrooms", "pine mushroom", "pine mushrooms", "wild mushrooms", "mixed mushrooms", "king oyster mushroom", "oyster mushrooms", "champignon", "champignons"],
+      "tier": "common",
+      "note": "Generic staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Anchovies",
+      "aliases": ["anchovy", "anchovie", "anchovys", "anchovis", "ancovies", "anchoives", "anchovy fillets", "salted anchovies", "white anchovies", "boquerones", "acciughe", "alici", "ortiz", "ortiz anchovies", "olasagasti", "olasagasti anchovies", "cantabrian anchovies", "spanish anchovies", "anchovies on bread"],
+      "tier": "common",
+      "note": "Fat Olasagasti anchovies are a Totti's antipasti fixture (Bondi/Bar Totti's); near-certain at Lorne."
+    },
+    {
+      "canonical": "Olives",
+      "aliases": ["olive", "black olive", "black olives", "green olive", "green olives", "kalamata", "kalamatas", "kalamata olives", "sicilian olives", "sicilian green olives", "marinated olives", "mixed olives", "warm olives", "pitted olives", "castelvetrano", "castelvetrano olives", "nocellara", "nocellara olives", "gordal", "gordal olives", "ligurian olives", "taggiasca", "taggiasca olives", "tapenade", "olive tapenade"],
+      "tier": "common",
+      "note": "Olives ($8) on the Bondi antipasti list; near-certain at Lorne."
+    },
+    {
+      "canonical": "Capers",
+      "aliases": ["caper", "capperi", "caperberries", "caper berries", "caperberry", "salted capers", "fried capers", "baby capers"],
+      "tier": "uncommon",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Chilli",
+      "aliases": ["chili", "chile", "chillies", "chilies", "hot chilli", "sliced chilli", "fresh chilli", "fresh chili", "red chilli", "red chili", "long red chilli", "dried chilli", "chilli flake", "chilli flakes", "chili flakes", "crushed chilli", "crushed chili", "chilli oil", "chili oil", "chilli jam", "chilli crisp", "chili crisp", "peperoncino", "peperoncini", "pepperoncini", "pepperoncino", "calabrian chilli", "calabrian chili", "calabrian chillies", "calabrian chilies", "birds eye chilli", "bird's eye chilli", "jalapeno", "jalapenos", "jalapeño", "jalapeños"],
+      "tier": "common",
+      "note": "Generic staple; any chilli form lands here. Hot honey is separate."
+    },
+    {
+      "canonical": "Garlic",
+      "aliases": ["garlic cloves", "fresh garlic", "crushed garlic", "sliced garlic", "roasted garlic", "roast garlic", "confit garlic", "garlic confit", "garlic oil", "garlic butter", "garlic cream", "garlic and oil", "aglio", "aglio e olio", "black garlic"],
+      "tier": "common",
+      "note": "Generic staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Oregano",
+      "aliases": ["oreganno", "origano", "oregano leaves", "dried oregano", "fresh oregano", "wild oregano", "greek oregano", "herbs", "mixed herbs", "italian herbs", "fresh herbs", "dried herbs", "parsley", "flat leaf parsley", "flat-leaf parsley", "marjoram", "thyme", "sage", "mint", "fresh mint", "mint leaves"],
+      "tier": "uncommon",
+      "note": "Generic staple. Other minor herbs (parsley, mint, thyme, 'herbs') merged here; basil and rosemary are separate."
+    },
+    {
+      "canonical": "Ricotta",
+      "aliases": ["ricota", "riccotta", "fresh ricotta", "ricotta cheese", "ricotta salata", "baked ricotta", "whipped ricotta", "smoked ricotta", "ricotta dollops", "dollops of ricotta"],
+      "tier": "uncommon",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Parmesan",
+      "aliases": ["parm", "parmasan", "parmesean", "parmisan", "parmesan cheese", "grated parmesan", "shaved parmesan", "parmesan shavings", "parmigiano", "parmigiano reggiano", "parmigiano-reggiano", "parmigiana reggiano", "reggiano", "grana", "grana padano"],
+      "tier": "common",
+      "note": "Generic staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Pecorino",
+      "aliases": ["peccorino", "pecorino romano", "pecorino sardo", "pecorino toscano", "pecorino cheese", "shaved pecorino"],
+      "tier": "uncommon",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Gorgonzola",
+      "aliases": ["gorgonzolla", "gorganzola", "gorgonzola cheese", "gorgonzola dolce", "gorgonzola piccante", "dolcelatte", "blue cheese", "blue", "blue vein", "blue vein cheese", "blue cheese crumble"],
+      "tier": "uncommon",
+      "note": "Italian staple; unconfirmed at Totti's. Any blue cheese lands here."
+    },
+    {
+      "canonical": "Taleggio",
+      "aliases": ["talegio", "tallegio", "talleggio", "taleggio cheese", "taleggio dop"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Provolone",
+      "aliases": ["provelone", "provalone", "provolone cheese", "provolone piccante", "provolone dolce", "provola", "smoked provola", "scamorza", "smoked scamorza", "scamorza affumicata"],
+      "tier": "rare",
+      "note": "Provolone is on the Totti's cheese list (Bondi launch). Scamorza merged here."
+    },
+    {
+      "canonical": "Goat's cheese",
+      "aliases": ["goats cheese", "goat cheese", "goat's curd", "goats curd", "goat curd", "goat's cheese curd", "chevre", "chèvre"],
+      "tier": "rare",
+      "note": "Aussie cafe-pizza guess; not a Totti's item."
+    },
+    {
+      "canonical": "Feta",
+      "aliases": ["fetta", "feta cheese", "danish feta", "persian feta", "greek feta", "marinated feta"],
+      "tier": "rare",
+      "note": "Aussie pub-pizza guess; not a Totti's item."
+    },
+    {
+      "canonical": "Potato",
+      "aliases": ["potatoes", "spud", "spuds", "patate", "potato slices", "sliced potato", "thin sliced potato", "thinly sliced potato", "kipfler", "kipflers", "kipfler potato", "kipfler potatoes", "crispy potato", "crispy potatoes", "roast potato", "roast potatoes", "potato and rosemary"],
+      "tier": "uncommon",
+      "note": "Italian staple (patate e rosmarino); unconfirmed as a Totti's topping."
+    },
+    {
+      "canonical": "Rosemary",
+      "aliases": ["rosmarino", "fresh rosemary", "rosemary sprig", "rosemary sprigs", "rosemary leaves", "rosemary and salt", "rosemary and garlic"],
+      "tier": "uncommon",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Zucchini",
+      "aliases": ["zucchinis", "zuchini", "zuccini", "zuchinni", "zucchine", "zucchina", "courgette", "courgettes", "grilled zucchini", "shaved zucchini", "marinated zucchini", "zucchini ribbons", "zucchini scapece", "scapece"],
+      "tier": "uncommon",
+      "note": "Italian staple; a marinated-veg antipasto candidate at Totti's but unconfirmed."
+    },
+    {
+      "canonical": "Zucchini flowers",
+      "aliases": ["zucchini flower", "zucchini blossom", "zucchini blossoms", "courgette flower", "courgette flowers", "fiori di zucca", "fiore di zucca", "squash blossom", "squash blossoms", "stuffed zucchini flowers", "zucchini flowers stuffed with ricotta"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Eggplant",
+      "aliases": ["eggplants", "aubergine", "aubergines", "melanzane", "melanzana", "grilled eggplant", "roasted eggplant", "roast eggplant", "chargrilled eggplant", "char-grilled eggplant", "pickled eggplant", "marinated eggplant", "eggplant parmigiana", "parmigiana", "caponata"],
+      "tier": "uncommon",
+      "note": "Italian staple; a marinated-veg antipasto candidate at Totti's but unconfirmed."
+    },
+    {
+      "canonical": "Artichoke",
+      "aliases": ["artichokes", "artichoke heart", "artichoke hearts", "marinated artichoke", "marinated artichokes", "grilled artichoke", "artichokes in oil", "globe artichoke", "carciofi", "carciofo"],
+      "tier": "uncommon",
+      "note": "Italian staple; a marinated-veg antipasto candidate at Totti's but unconfirmed."
+    },
+    {
+      "canonical": "Onion",
+      "aliases": ["onions", "white onion", "brown onion", "caramelised onion", "caramelized onion", "caramelised onions", "caramelized onions", "onion jam", "roasted onion", "sauteed onion", "sautéed onion", "cipolla", "shallot", "shallots", "eschalots", "spring onion", "spring onions", "leek", "leeks"],
+      "tier": "common",
+      "note": "Generic staple; unconfirmed at Totti's. Red onion is separate; other alliums merged here."
+    },
+    {
+      "canonical": "Red onion",
+      "aliases": ["red onions", "sliced red onion", "spanish onion", "spanish onions", "pickled red onion", "pickled red onions", "pickled onion", "pickled onions", "tropea onion", "tropea onions", "cipolla rossa"],
+      "tier": "uncommon",
+      "note": "Generic staple; unconfirmed at Totti's. Cross-ref Onion."
+    },
+    {
+      "canonical": "Rocket",
+      "aliases": ["rucola", "rucula", "arugula", "roquette", "rocket leaf", "rocket leaves", "wild rocket", "baby rocket", "rocket salad", "rocket and parmesan"],
+      "tier": "common",
+      "note": "Generic staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Capsicum",
+      "aliases": ["capsicums", "red capsicum", "green capsicum", "roasted capsicum", "roast capsicum", "chargrilled capsicum", "peppers", "bell pepper", "bell peppers", "red pepper", "red peppers", "roasted pepper", "roasted peppers", "roasted red peppers", "peperonata", "piquillo", "piquillo peppers", "padron", "padron peppers", "padrón peppers", "friggitelli"],
+      "tier": "uncommon",
+      "note": "Aussie pub-pizza staple; roasted peppers are a plausible Totti's antipasto but unconfirmed. Plural 'peppers' lands here; singular 'pepper' is under Salt and pepper."
+    },
+    {
+      "canonical": "Pistachio",
+      "aliases": ["pistachios", "pistacchio", "pistachio nuts", "crushed pistachio", "crushed pistachios", "pistachio crumb", "pistachio cream", "pistachio pesto", "bronte pistachio", "bronte pistachios"],
+      "tier": "rare",
+      "note": "Italian staple (with mortadella); unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Honey",
+      "aliases": ["miele", "raw honey", "local honey", "honeycomb", "truffle honey", "drizzle of honey", "honey drizzle", "honey drizzled", "honey on top"],
+      "tier": "uncommon",
+      "note": "Generic staple; unconfirmed at Totti's. Hot honey is separate."
+    },
+    {
+      "canonical": "Hot honey",
+      "aliases": ["hot honey drizzle", "mike's hot honey", "mikes hot honey", "spicy honey", "spiced honey", "chilli honey", "chili honey", "chilli infused honey", "chilli-infused honey"],
+      "tier": "uncommon",
+      "note": "Trendy staple; unconfirmed at Totti's. Cross-ref Honey and Chilli."
+    },
+    {
+      "canonical": "Egg",
+      "aliases": ["eggs", "fried egg", "poached egg", "runny egg", "soft egg", "egg yolk", "cracked egg", "egg on top", "sunny side up egg", "free range egg", "uovo", "bismarck", "bismark"],
+      "tier": "uncommon",
+      "note": "Generic staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Truffle",
+      "aliases": ["truffles", "black truffle", "white truffle", "fresh truffle", "shaved truffle", "truffle shavings", "truffle oil", "truffle cream", "truffle paste", "truffle salsa", "tartufo"],
+      "tier": "uncommon",
+      "note": "Generic staple; unconfirmed at Totti's."
+    },
+    {
+      "canonical": "Lemon",
+      "aliases": ["limone", "lemon zest", "lemon rind", "zest", "lemon juice", "lemon oil", "lemon slice", "lemon slices", "lemon wedge", "lemon wedges", "preserved lemon", "citrus"],
+      "tier": "rare",
+      "note": "Totti's finishes plenty with lemon (crudo, veg); unconfirmed as a bread topping."
+    },
+    {
+      "canonical": "Pesto",
+      "aliases": ["basil pesto", "pesto genovese", "green pesto", "pesto sauce", "pesto drizzle", "pesto base", "salsa verde", "gremolata", "green sauce"],
+      "tier": "uncommon",
+      "note": "Generic staple; unconfirmed at Totti's. Other green herb sauces merged here."
+    },
+    {
+      "canonical": "Olive oil",
+      "aliases": ["oil", "olio", "olio d'oliva", "extra virgin olive oil", "extra-virgin olive oil", "ev olive oil", "evoo", "good olive oil", "drizzle of olive oil", "a drizzle of oil", "olive oil drizzle"],
+      "tier": "uncommon",
+      "note": "The bread basically comes with it; accept. Not a 'topping' in the strict sense, host's call."
+    },
+    {
+      "canonical": "Salt and pepper",
+      "aliases": ["salt", "sea salt", "sea salt flakes", "salt flakes", "flaky salt", "flaked salt", "maldon", "maldon salt", "murray river salt", "rock salt", "sale", "pepper", "black pepper", "cracked pepper", "cracked black pepper", "ground pepper", "pepe", "salt & pepper", "salt n pepper", "seasoning"],
+      "tier": "rare",
+      "note": "Seasoning answers merged here. Singular 'pepper' lands here; 'peppers' goes to Capsicum."
+    },
+    {
+      "canonical": "Spinach",
+      "aliases": ["baby spinach", "english spinach", "spinach leaves", "wilted spinach", "spinaci", "silverbeet", "chard", "swiss chard"],
+      "tier": "uncommon",
+      "note": "Aussie staple; not a Totti's item. Silverbeet/chard merged here; cavolo nero is separate."
+    },
+    {
+      "canonical": "Cavolo nero",
+      "aliases": ["cavolo", "cavalo nero", "cavolo nero leaves", "kale", "tuscan kale", "black kale", "lacinato kale"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed at Totti's. Any kale lands here."
+    },
+    {
+      "canonical": "Fennel",
+      "aliases": ["shaved fennel", "baby fennel", "fennel bulb", "fennel fronds", "fennel seed", "fennel seeds", "fennel pollen", "finocchio"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed at Totti's. Fennel sausage is under Pork and fennel sausage."
+    },
+    {
+      "canonical": "Radicchio",
+      "aliases": ["raddichio", "radiccio", "radichio", "treviso", "radicchio treviso", "bitter leaves", "chicory", "endive", "witlof", "puntarelle"],
+      "tier": "rare",
+      "note": "Italian staple; unconfirmed at Totti's. Bitter leaves merged here."
+    },
+    {
+      "canonical": "Kingfish crudo",
+      "aliases": ["kingfish", "crudo", "kingfish sashimi", "kingfish carpaccio", "raw kingfish", "raw fish", "sashimi", "hiramasa", "hiramasa kingfish", "yellowtail kingfish"],
+      "tier": "deep",
+      "note": "Confirmed Lorne antipasto (~$15), sits alongside the bread rather than on it. Someone has clearly eaten there; host's call whether it counts as a topping."
+    },
+    {
+      "canonical": "Sardines",
+      "aliases": ["sardine", "sarde", "sardines in oil", "marinated sardines", "grilled sardines", "pilchards"],
+      "tier": "rare",
+      "note": "On the Bar Totti's antipasti list for the bread; plausible at Lorne."
+    },
+    {
+      "canonical": "Octopus",
+      "aliases": ["octo", "polpo", "polipo", "baby octopus", "grilled octopus", "charred octopus", "octopus salad"],
+      "tier": "deep",
+      "note": "On the Bar Totti's antipasti list for the bread; plausible at Lorne. Genuine deep cut."
+    },
+    {
+      "canonical": "Prawns",
+      "aliases": ["prawn", "shrimp", "shrimps", "garlic prawn", "garlic prawns", "king prawn", "king prawns", "tiger prawn", "tiger prawns", "prawn cutlets", "prawn meat", "crystal bay prawns", "gamberi", "gambero", "scampi", "langoustine", "bugs", "moreton bay bugs", "balmain bugs", "yabbies", "crayfish", "cray", "lobster", "rock lobster", "southern rock lobster"],
+      "tier": "uncommon",
+      "note": "Aussie garlic-prawn-pizza guess; Lorne does prawns in the ziti alla vodka, not on bread. Other crustaceans merged here."
+    },
+    {
+      "canonical": "Melon",
+      "aliases": ["rockmelon", "cantaloupe", "honeydew", "melone", "prosciutto e melone", "prosciutto and melon", "melon and prosciutto", "watermelon"],
+      "tier": "deep",
+      "note": "Confirmed Lorne antipasto (~$8) for pairing with prosciutto. 'Watermelon' is probably the spicy watermelon margarita talking; still lands here."
+    },
+    {
+      "canonical": "Fig",
+      "aliases": ["figs", "fresh fig", "fresh figs", "black figs", "fichi", "fig jam", "fig paste", "fig and prosciutto", "fig and gorgonzola"],
+      "tier": "rare",
+      "note": "Seasonal fruit features on the Totti's antipasti list; figs unconfirmed by name."
+    },
+    {
+      "canonical": "Pickled vegetables",
+      "aliases": ["pickles", "pickled veg", "giardiniera", "sottaceti", "sott'aceti", "marinated vegetables", "marinated veg", "antipasto vegetables", "antipasto veg", "antipasto", "antipasti", "grilled vegetables", "grilled veg", "roast vegetables", "roasted vegetables", "roast veg", "veggies", "vegetables"],
+      "tier": "rare",
+      "note": "Pickled and marinated vegetables are a confirmed Totti's antipasti category. Generic 'antipasti/veg' answers land here."
+    },
+    {
+      "canonical": "Sun-dried tomatoes",
+      "aliases": ["sun-dried tomato", "sun dried tomato", "sun dried tomatoes", "sundried tomato", "sundried tomatoes", "semi-dried tomato", "semi-dried tomatoes", "semi dried tomato", "semi dried tomatoes", "semidried tomatoes", "sun blushed tomatoes", "sunblushed tomatoes", "sun-blushed tomatoes", "pomodori secchi", "sdt"],
+      "tier": "uncommon",
+      "note": "1990s Aussie cafe staple; not a Totti's item. Cross-ref Tomato."
+    },
+    {
+      "canonical": "Bocconcini",
+      "aliases": ["boconcini", "bocconcinni", "bocconccini", "bocconcini cheese", "bocconcini balls", "baby bocconcini", "cherry bocconcini", "ciliegine"],
+      "tier": "uncommon",
+      "note": "The Australian word for little mozzarella balls; unconfirmed at Totti's. Cross-ref Mozzarella."
+    },
+    {
+      "canonical": "Chicken",
+      "aliases": ["chook", "pollo", "bbq chicken", "barbecue chicken", "barbeque chicken", "roast chicken", "chicken breast", "tandoori chicken", "satay chicken", "peri peri chicken"],
+      "tier": "rare",
+      "note": "Aussie pub-pizza guess; not a Totti's item. Accept as a generic topping."
+    },
+    {
+      "canonical": "Bacon",
+      "aliases": ["bacon bits", "bacon pieces", "crispy bacon", "streaky bacon", "smoked bacon", "middle bacon"],
+      "tier": "uncommon",
+      "note": "Aussie pub-pizza guess; not a Totti's item (pancetta/guanciale are separate)."
+    },
+    {
+      "canonical": "Pumpkin",
+      "aliases": ["roast pumpkin", "roasted pumpkin", "butternut", "butternut pumpkin", "squash", "zucca"],
+      "tier": "rare",
+      "note": "Aussie cafe-pizza guess; not a Totti's item."
+    },
+    {
+      "canonical": "Margherita",
+      "aliases": ["margarita", "marg", "margherita pizza", "margarita pizza", "margherita base", "classic margherita", "the margherita", "a margherita", "margarhita", "margheritta", "margerita", "marguerita", "margharita"],
+      "tier": "uncommon",
+      "note": "A pizza, not a topping, and Totti's doesn't have one. Accept as the obvious guess; 'margarita' the drink IS on the Lorne list (spicy watermelon)."
+    },
+    {
+      "canonical": "Diavola",
+      "aliases": ["diavolo", "diabola", "diablo", "la diavola", "pizza diavola", "diavola pizza", "diavola salami", "spicy salami pizza", "hot salami pizza"],
+      "tier": "rare",
+      "note": "Pizza name, not a topping; not at Totti's. Cross-ref Calabrese salami."
+    },
+    {
+      "canonical": "Capricciosa",
+      "aliases": ["capriciosa", "capricosa", "capricossa", "capriccosa", "capriccioso", "capricciosa pizza", "pizza capricciosa"],
+      "tier": "rare",
+      "note": "Pizza name (ham, mushroom, artichoke, olive), not a topping; not at Totti's."
+    },
+    {
+      "canonical": "Quattro formaggi",
+      "aliases": ["quattro formaggio", "quatro formaggi", "quattro formagi", "quattro fromaggi", "4 formaggi", "formaggi", "four cheese", "four cheeses", "four cheese pizza", "4 cheese", "4 cheeses", "tre formaggi", "three cheese", "three cheeses", "3 cheese", "cheese pizza"],
+      "tier": "rare",
+      "note": "Pizza name, not a topping; not at Totti's."
+    },
+    {
+      "canonical": "Marinara",
+      "aliases": ["pizza marinara", "marinara pizza", "seafood", "seafood pizza", "seafood marinara", "marinara mix", "mixed seafood", "frutti di mare", "pizza frutti di mare", "fruits of the sea", "mussels", "mussel", "cozze", "calamari", "squid", "scallop", "scallops", "clam", "clams", "baby clams", "vongole", "pipis", "pippies", "pipi"],
+      "tier": "rare",
+      "note": "Dual meaning: Italian marinara (tomato, garlic, oregano, no cheese) or Aussie seafood pizza; both land here. Lorne's bucatini vongole is a pasta, not a topping."
+    },
+    {
+      "canonical": "Bianca",
+      "aliases": ["pizza bianca", "bianca pizza", "bianco", "pizza bianco", "white pizza", "white base", "bianca base", "white sauce", "white sauce base", "no tomato", "no tomato base", "without tomato", "no sauce", "bechamel", "béchamel", "cream base", "cream sauce"],
+      "tier": "rare",
+      "note": "Style, not a topping; the Totti's bread is in effect a naked bianca. Cream/white-base answers land here."
+    }
+  ],
+  "hostNotes": "TRAP: Totti's Lorne serves no pizza. The famous 'pizza oven' bakes the puffy wood-fired flatbread (~$16) that diners pile antipasti onto, and a 3AW review notes the table liking that there was no pizza on the menu. Grade generously: accept anything on the Totti's antipasti list (confirmed at Lorne: prosciutto, burrata, kingfish crudo, melon; Totti's staples elsewhere: olives, salami, anchovies, mortadella, stracciatella, 'nduja, sardines, octopus, pickled veg) plus any plausible pizza topping, merge spellings per the aliases, and treat 'there's no pizza / it's the bread' as a correct deep cut worth the top rarity, not a dodge. Reject pastas and mains (pappardelle lamb ragu, ziti prawn alla vodka, King George whiting, lamb chop) as non-toppings. Local traps: Lorne's actual pizzeria is Pizza Pizza on Mountjoy Parade, and Merivale's real pizza spin-off is Oti' (Roman slabs) in Sydney."
+}

@@ -1,0 +1,44 @@
+# Separation Creek Krillion — game server + Postgres on one machine.
+#
+#   docker compose up -d --build
+#   open http://<this machine's IP>:8787/host on the TV laptop
+#
+# Optional overrides via a .env file next to this one:
+#   PUBLIC_URL=http://192.168.1.20:8787   (what the QR code points at)
+#   HOST_PIN=1234                         (stops guests creating rooms)
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: krillion
+      POSTGRES_USER: krillion
+      POSTGRES_PASSWORD: krillion
+    volumes:
+      - krillion_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U krillion -d krillion']
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+  app:
+    build: .
+    restart: unless-stopped
+    ports:
+      - '8787:8787'
+    environment:
+      PORT: 8787
+      # Migrations run automatically on start.
+      DATABASE_URL: postgres://krillion:krillion@db:5432/krillion
+      PGSSL: disable
+      PUBLIC_URL: ${PUBLIC_URL:-}
+      HOST_PIN: ${HOST_PIN:-}
+      LOG_LEVEL: ${LOG_LEVEL:-info}
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  krillion_pgdata:

@@ -1,0 +1,4481 @@
+{
+  "id": "s7-melbourne-suburb",
+  "text": "Name a Melbourne suburb.",
+  "type": "open",
+  "category": "starter",
+  "approved": true,
+  "answers": [
+    {
+      "canonical": "Melbourne",
+      "aliases": [
+        "melbourne",
+        "melbourne cbd",
+        "the cbd",
+        "cbd",
+        "melb",
+        "melbourne city",
+        "city",
+        "the city",
+        "melburn",
+        "melborne"
+      ],
+      "tier": "uncommon",
+      "note": "The CBD itself is the suburb \"Melbourne\" (3000), so \"the city\" counts"
+    },
+    {
+      "canonical": "Carlton",
+      "aliases": [
+        "carlton",
+        "carlten",
+        "carltin"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Carlton North",
+      "aliases": [
+        "carlton north",
+        "carltonnorth",
+        "north carlton",
+        "nth carlton",
+        "carlton nth",
+        "n carlton"
+      ],
+      "tier": "common",
+      "note": "Kept separate from Carlton; Princes Hill is its own entry"
+    },
+    {
+      "canonical": "Docklands",
+      "aliases": [
+        "docklands",
+        "dockland",
+        "the docklands",
+        "dock lands"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "East Melbourne",
+      "aliases": [
+        "east melbourne",
+        "eastmelbourne",
+        "east melb",
+        "e melbourne",
+        "e melb",
+        "jolimont"
+      ],
+      "tier": "uncommon",
+      "note": "Jolimont is a neighbourhood inside East Melbourne"
+    },
+    {
+      "canonical": "Flemington",
+      "aliases": [
+        "flemington",
+        "flemmington",
+        "flemingtin",
+        "flemingon"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Kensington",
+      "aliases": [
+        "kensington",
+        "kenso",
+        "kensingtom",
+        "kensignton",
+        "kensingston"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "North Melbourne",
+      "aliases": [
+        "north melbourne",
+        "northmelbourne",
+        "nth melbourne",
+        "nth melb",
+        "north melb",
+        "n melb",
+        "n melbourne",
+        "nthmelb"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Parkville",
+      "aliases": [
+        "parkville",
+        "park ville",
+        "parkvill"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Southbank",
+      "aliases": [
+        "southbank",
+        "south bank",
+        "sth bank",
+        "southbnk"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "South Wharf",
+      "aliases": [
+        "south wharf",
+        "southwharf",
+        "sth wharf",
+        "south warf",
+        "sth warf"
+      ],
+      "tier": "deep",
+      "note": "Gazetted suburb (3006) between Southbank and the river; tiny but official"
+    },
+    {
+      "canonical": "West Melbourne",
+      "aliases": [
+        "west melbourne",
+        "westmelbourne",
+        "west melb",
+        "w melbourne",
+        "w melb",
+        "wmelb"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Port Melbourne",
+      "aliases": [
+        "port melbourne",
+        "portmelbourne",
+        "port melb",
+        "pt melbourne",
+        "pt melb",
+        "portmelb",
+        "fishermans bend",
+        "fisherman's bend",
+        "fishermens bend",
+        "garden city",
+        "beacon cove"
+      ],
+      "tier": "common",
+      "note": "Fishermans Bend, Garden City and Beacon Cove are precincts inside Port Melbourne"
+    },
+    {
+      "canonical": "South Melbourne",
+      "aliases": [
+        "south melbourne",
+        "southmelbourne",
+        "sth melbourne",
+        "sth melb",
+        "south melb",
+        "s melb",
+        "s melbourne",
+        "sthmelb"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Albert Park",
+      "aliases": [
+        "albert park",
+        "albertpark",
+        "albert pk",
+        "albertpk"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Middle Park",
+      "aliases": [
+        "middle park",
+        "middlepark",
+        "middle pk"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "St Kilda",
+      "aliases": [
+        "st kilda",
+        "stkilda",
+        "saint kilda",
+        "st. kilda",
+        "st kilda east",
+        "east st kilda",
+        "st kilda e",
+        "st kilda west",
+        "west st kilda",
+        "st kilda w",
+        "stkilder",
+        "saint kilda east",
+        "saint kilda west",
+        "st. kilda east",
+        "st. kilda west"
+      ],
+      "tier": "common",
+      "note": "East and West St Kilda are merged here; Balaclava and Ripponlea stand alone"
+    },
+    {
+      "canonical": "Balaclava",
+      "aliases": [
+        "balaclava",
+        "balaklava",
+        "balaclarva",
+        "baclava"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Ripponlea",
+      "aliases": [
+        "ripponlea",
+        "rippon lea",
+        "ripon lea",
+        "riponlea",
+        "rippenlea"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Elwood",
+      "aliases": [
+        "elwood",
+        "ellwood",
+        "elwod"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Windsor",
+      "aliases": [
+        "windsor",
+        "winsor",
+        "windsa",
+        "windsor vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Prahran",
+      "aliases": [
+        "prahran",
+        "prahan",
+        "praran",
+        "prahrahn",
+        "pran",
+        "prarn",
+        "prarhan",
+        "prahren"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "South Yarra",
+      "aliases": [
+        "south yarra",
+        "southyarra",
+        "sth yarra",
+        "south yara",
+        "s yarra",
+        "sthyarra",
+        "south yarrah",
+        "southyara"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Toorak",
+      "aliases": [
+        "toorak",
+        "toorac",
+        "tourak",
+        "torak",
+        "toorack",
+        "tooraq"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Armadale",
+      "aliases": [
+        "armadale",
+        "armidale",
+        "armdale"
+      ],
+      "tier": "uncommon",
+      "note": "Armidale (with an i) is in NSW; accept the slip"
+    },
+    {
+      "canonical": "Malvern",
+      "aliases": [
+        "malvern",
+        "malvern east",
+        "east malvern",
+        "malvern e",
+        "malvurn",
+        "malvern vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Kooyong",
+      "aliases": [
+        "kooyong",
+        "kooyoung",
+        "kuyong",
+        "koo yong"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Glen Iris",
+      "aliases": [
+        "glen iris",
+        "gleniris",
+        "glen irris",
+        "glenn iris"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Richmond",
+      "aliases": [
+        "richmond",
+        "richmand",
+        "ritchmond",
+        "richmnd",
+        "richmond vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Cremorne",
+      "aliases": [
+        "cremorne",
+        "cremorn",
+        "cremourne",
+        "creamorne"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Burnley",
+      "aliases": [
+        "burnley",
+        "burnly",
+        "burnleigh"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Abbotsford",
+      "aliases": [
+        "abbotsford",
+        "abbotford",
+        "abbottsford",
+        "abotsford"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Collingwood",
+      "aliases": [
+        "collingwood",
+        "colingwood",
+        "collingwod",
+        "collinwood"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Clifton Hill",
+      "aliases": [
+        "clifton hill",
+        "cliftonhill",
+        "clifton hills"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Fitzroy",
+      "aliases": [
+        "fitzroy",
+        "fitzroy north",
+        "north fitzroy",
+        "fitzroy nth",
+        "nth fitzroy",
+        "fitzroy n",
+        "fitzory",
+        "fitroy",
+        "fitz",
+        "fitzroi"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Princes Hill",
+      "aliases": [
+        "princes hill",
+        "princeshill",
+        "princess hill",
+        "prince's hill"
+      ],
+      "tier": "rare",
+      "note": "Pocket between Carlton North and Princes Park; official suburb"
+    },
+    {
+      "canonical": "Alphington",
+      "aliases": [
+        "alphington",
+        "alpington",
+        "alphinton",
+        "alphingtown"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Fairfield",
+      "aliases": [
+        "fairfield",
+        "fair field",
+        "fairfeild",
+        "fairfield vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hawthorn",
+      "aliases": [
+        "hawthorn",
+        "hawthorn east",
+        "east hawthorn",
+        "hawthorn e",
+        "hawthorne"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Kew",
+      "aliases": [
+        "kew",
+        "kew east",
+        "east kew",
+        "kew e",
+        "kew vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Camberwell",
+      "aliases": [
+        "camberwell",
+        "camberwel",
+        "cambewell",
+        "camberwall"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Canterbury",
+      "aliases": [
+        "canterbury",
+        "cantebury",
+        "canterbery",
+        "canterbury vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Surrey Hills",
+      "aliases": [
+        "surrey hills",
+        "surreyhills",
+        "surrey hill",
+        "surry hills",
+        "surry hill"
+      ],
+      "tier": "uncommon",
+      "note": "Surry Hills (no e) is Sydney; accept the slip"
+    },
+    {
+      "canonical": "Mont Albert",
+      "aliases": [
+        "mont albert",
+        "montalbert",
+        "mont albert north",
+        "north mont albert",
+        "mont albert nth",
+        "nth mont albert",
+        "mont albert n",
+        "mount albert",
+        "mt albert"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Balwyn",
+      "aliases": [
+        "balwyn",
+        "balwyn north",
+        "north balwyn",
+        "balwyn nth",
+        "nth balwyn",
+        "balwyn n",
+        "balwin"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Deepdene",
+      "aliases": [
+        "deepdene",
+        "deep dene",
+        "deepdean",
+        "deepdeen"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ashburton",
+      "aliases": [
+        "ashburton",
+        "ashburten",
+        "ashburtin"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Elsternwick",
+      "aliases": [
+        "elsternwick",
+        "elsternwik",
+        "elsternwich",
+        "elsturnwick"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Gardenvale",
+      "aliases": [
+        "gardenvale",
+        "garden vale",
+        "gardenvail"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Caulfield",
+      "aliases": [
+        "caulfield",
+        "caulfield north",
+        "north caulfield",
+        "caulfield nth",
+        "nth caulfield",
+        "caulfield n",
+        "caulfield south",
+        "south caulfield",
+        "caulfield sth",
+        "sth caulfield",
+        "caulfield s",
+        "caulfield east",
+        "east caulfield",
+        "caulfield e",
+        "caulfeild",
+        "caufield",
+        "colfield",
+        "caulfied",
+        "cawlfield"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Glen Huntly",
+      "aliases": [
+        "glen huntly",
+        "glenhuntly",
+        "glen huntley",
+        "glenhuntley"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Carnegie",
+      "aliases": [
+        "carnegie",
+        "carnegy",
+        "carnagie",
+        "carneggie"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Murrumbeena",
+      "aliases": [
+        "murrumbeena",
+        "murrumbena",
+        "murumbeena",
+        "murrambeena",
+        "murrumbeana"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hughesdale",
+      "aliases": [
+        "hughesdale",
+        "hughsdale",
+        "hughesdail",
+        "hugsdale"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Ormond",
+      "aliases": [
+        "ormond",
+        "ormand",
+        "ormund"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "McKinnon",
+      "aliases": [
+        "mckinnon",
+        "mackinnon",
+        "mc kinnon",
+        "mckinon"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bentleigh",
+      "aliases": [
+        "bentleigh",
+        "bentleigh east",
+        "east bentleigh",
+        "bentleigh e",
+        "bentley",
+        "bently",
+        "bentliegh"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Brighton",
+      "aliases": [
+        "brighton",
+        "brighton east",
+        "east brighton",
+        "brighton e",
+        "brigton",
+        "brighten",
+        "brighton vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Hampton",
+      "aliases": [
+        "hampton",
+        "hampton east",
+        "east hampton",
+        "hampton e",
+        "hamptom",
+        "hampton vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Sandringham",
+      "aliases": [
+        "sandringham",
+        "sandy",
+        "sandringam",
+        "sandringhm"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Black Rock",
+      "aliases": [
+        "black rock",
+        "blackrock",
+        "black rok",
+        "blackrok"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Beaumaris",
+      "aliases": [
+        "beaumaris",
+        "beaumarris",
+        "bowmaris",
+        "beumaris",
+        "beaumoris"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Highett",
+      "aliases": [
+        "highett",
+        "highet",
+        "hyett",
+        "hyghett",
+        "hiett"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cheltenham",
+      "aliases": [
+        "cheltenham",
+        "cheltenam",
+        "cheltnam",
+        "chelt",
+        "cheltenham vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Moorabbin",
+      "aliases": [
+        "moorabbin",
+        "moorabin",
+        "morabbin",
+        "moorrabin"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Chadstone",
+      "aliases": [
+        "chadstone",
+        "chaddy",
+        "chadston"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Oakleigh",
+      "aliases": [
+        "oakleigh",
+        "oakleigh east",
+        "east oakleigh",
+        "oakleigh e",
+        "oakleigh south",
+        "south oakleigh",
+        "oakleigh sth",
+        "sth oakleigh",
+        "oakleigh s",
+        "oakley",
+        "oaklie"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Huntingdale",
+      "aliases": [
+        "huntingdale",
+        "hunting dale",
+        "huntingdail"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Clayton",
+      "aliases": [
+        "clayton",
+        "clayton south",
+        "south clayton",
+        "clayton sth",
+        "sth clayton",
+        "clayton s",
+        "claton",
+        "clayton vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Notting Hill",
+      "aliases": [
+        "notting hill",
+        "nottinghill",
+        "noting hill"
+      ],
+      "tier": "rare",
+      "note": "Tiny pocket by Monash Uni; also a London suburb, so check they mean Melbourne"
+    },
+    {
+      "canonical": "Mount Waverley",
+      "aliases": [
+        "mount waverley",
+        "mountwaverley",
+        "mt waverley",
+        "mt. waverley",
+        "mtwaverley",
+        "mt waverly",
+        "mount waverly",
+        "mt wav"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Glen Waverley",
+      "aliases": [
+        "glen waverley",
+        "glenwaverley",
+        "glen waverly",
+        "glen wav",
+        "glen waverlee",
+        "glenwaverly"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Wheelers Hill",
+      "aliases": [
+        "wheelers hill",
+        "wheelershill",
+        "wheeler's hill",
+        "wheelers hills"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mulgrave",
+      "aliases": [
+        "mulgrave",
+        "mullgrave",
+        "mulgrave vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Ashwood",
+      "aliases": [
+        "ashwood",
+        "ash wood",
+        "ashwod"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Burwood",
+      "aliases": [
+        "burwood",
+        "burwood east",
+        "east burwood",
+        "burwood e",
+        "burwod",
+        "burwood vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Box Hill",
+      "aliases": [
+        "box hill",
+        "boxhill",
+        "box hill north",
+        "north box hill",
+        "box hill nth",
+        "nth box hill",
+        "box hill n",
+        "box hill south",
+        "south box hill",
+        "box hill sth",
+        "sth box hill",
+        "box hill s",
+        "box hil",
+        "boxhil"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Blackburn",
+      "aliases": [
+        "blackburn",
+        "blackburn north",
+        "north blackburn",
+        "blackburn nth",
+        "nth blackburn",
+        "blackburn n",
+        "blackburn south",
+        "south blackburn",
+        "blackburn sth",
+        "sth blackburn",
+        "blackburn s",
+        "black burn",
+        "blackburne"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Nunawading",
+      "aliases": [
+        "nunawading",
+        "nunawadding",
+        "nunnawading",
+        "nuna wading"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mitcham",
+      "aliases": [
+        "mitcham",
+        "mitchum",
+        "micham",
+        "mitcham vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Forest Hill",
+      "aliases": [
+        "forest hill",
+        "foresthill",
+        "forrest hill",
+        "forest hills"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Vermont",
+      "aliases": [
+        "vermont",
+        "vermont south",
+        "south vermont",
+        "vermont sth",
+        "sth vermont",
+        "vermont s",
+        "vermount",
+        "vermont vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Doncaster",
+      "aliases": [
+        "doncaster",
+        "doncaster east",
+        "east doncaster",
+        "doncaster e",
+        "doncastor",
+        "donny"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Bulleen",
+      "aliases": [
+        "bulleen",
+        "bullen",
+        "buleen"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Templestowe",
+      "aliases": [
+        "templestowe",
+        "lower templestowe",
+        "templestowe lower",
+        "lwr templestowe",
+        "templestow",
+        "temple stowe",
+        "templestoe"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Donvale",
+      "aliases": [
+        "donvale",
+        "don vale",
+        "donvail"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Park Orchards",
+      "aliases": [
+        "park orchards",
+        "parkorchards",
+        "park orchard"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Warrandyte",
+      "aliases": [
+        "warrandyte",
+        "warrandyte north",
+        "north warrandyte",
+        "warrandyte nth",
+        "nth warrandyte",
+        "warrandyte n",
+        "warrandyte south",
+        "south warrandyte",
+        "warrandyte sth",
+        "sth warrandyte",
+        "warrandyte s",
+        "warrandite",
+        "warandyte",
+        "warrendyte"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Wonga Park",
+      "aliases": [
+        "wonga park",
+        "wongapark",
+        "wonga pk"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Heidelberg",
+      "aliases": [
+        "heidelberg",
+        "heidelberg west",
+        "west heidelberg",
+        "heidelberg w",
+        "heidelburg",
+        "hiedelberg",
+        "heidleberg"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Heidelberg Heights",
+      "aliases": [
+        "heidelberg heights",
+        "heidelbergheights",
+        "heidelberg hts",
+        "heidelburg heights",
+        "heidleberg heights"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ivanhoe",
+      "aliases": [
+        "ivanhoe",
+        "ivanhoe east",
+        "east ivanhoe",
+        "ivanhoe e",
+        "ivanho",
+        "ivanhoe vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Eaglemont",
+      "aliases": [
+        "eaglemont",
+        "eagle mont",
+        "eaglemount",
+        "eaglemonte"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Rosanna",
+      "aliases": [
+        "rosanna",
+        "rossana",
+        "rosana"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Macleod",
+      "aliases": [
+        "macleod",
+        "mcleod",
+        "mac leod",
+        "mcloud"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Watsonia",
+      "aliases": [
+        "watsonia",
+        "watsonia north",
+        "north watsonia",
+        "watsonia nth",
+        "nth watsonia",
+        "watsonia n",
+        "watsonnia"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Greensborough",
+      "aliases": [
+        "greensborough",
+        "greensboro",
+        "greensbourgh",
+        "greensburgh",
+        "greensy"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Montmorency",
+      "aliases": [
+        "montmorency",
+        "montmorrency",
+        "monty"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Briar Hill",
+      "aliases": [
+        "briar hill",
+        "briarhill",
+        "brier hill"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "St Helena",
+      "aliases": [
+        "st helena",
+        "sthelena",
+        "saint helena",
+        "st. helena",
+        "st helena vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yallambie",
+      "aliases": [
+        "yallambie",
+        "yallambi",
+        "yalambie",
+        "yallamby"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Viewbank",
+      "aliases": [
+        "viewbank",
+        "view bank",
+        "veiwbank"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lower Plenty",
+      "aliases": [
+        "lower plenty",
+        "lowerplenty",
+        "lwr plenty"
+      ],
+      "tier": "uncommon",
+      "note": "Kept separate from the rural locality of Plenty"
+    },
+    {
+      "canonical": "Bellfield",
+      "aliases": [
+        "bellfield",
+        "bell field",
+        "belfield"
+      ],
+      "tier": "rare",
+      "note": "Belfield (one l) is Sydney; the Melbourne one is beside Ivanhoe"
+    },
+    {
+      "canonical": "Bundoora",
+      "aliases": [
+        "bundoora",
+        "bundora",
+        "bundoorah"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Northcote",
+      "aliases": [
+        "northcote",
+        "northcoat",
+        "north cote",
+        "northcoate",
+        "northcot"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Thornbury",
+      "aliases": [
+        "thornbury",
+        "thornberry",
+        "thornbry",
+        "thornbery"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Preston",
+      "aliases": [
+        "preston",
+        "prestin",
+        "preston vic"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Reservoir",
+      "aliases": [
+        "reservoir",
+        "rezza",
+        "resevoir",
+        "resovoir",
+        "reservior"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Kingsbury",
+      "aliases": [
+        "kingsbury",
+        "kingsbery",
+        "kings bury"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Brunswick",
+      "aliases": [
+        "brunswick",
+        "brunswick east",
+        "east brunswick",
+        "brunswick e",
+        "brunswick west",
+        "west brunswick",
+        "brunswick w",
+        "brunzwick",
+        "brunswik",
+        "brunny",
+        "brunsick"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Coburg",
+      "aliases": [
+        "coburg",
+        "coburg north",
+        "north coburg",
+        "coburg nth",
+        "nth coburg",
+        "coburg n",
+        "cobourg",
+        "coberg",
+        "coburgh"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Pascoe Vale",
+      "aliases": [
+        "pascoe vale",
+        "pascoevale",
+        "pascoe vale south",
+        "south pascoe vale",
+        "pascoe vale sth",
+        "sth pascoe vale",
+        "pascoe vale s",
+        "pasco vale",
+        "pascovale"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Glenroy",
+      "aliases": [
+        "glenroy",
+        "glen roy",
+        "glenroi"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Fawkner",
+      "aliases": [
+        "fawkner",
+        "falkner",
+        "forkner",
+        "faulkner"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hadfield",
+      "aliases": [
+        "hadfield",
+        "had field",
+        "hadfeild"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Oak Park",
+      "aliases": [
+        "oak park",
+        "oakpark",
+        "oak pk"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gowanbrae",
+      "aliases": [
+        "gowanbrae",
+        "gowan brae",
+        "gowanbray",
+        "gowenbrae"
+      ],
+      "tier": "deep",
+      "note": "Pocket suburb beside the Tullamarine Freeway, gazetted 1997"
+    },
+    {
+      "canonical": "Moonee Ponds",
+      "aliases": [
+        "moonee ponds",
+        "mooneeponds",
+        "mooney ponds",
+        "moonie ponds",
+        "moony ponds",
+        "moonee pond",
+        "moonee",
+        "mooney pond"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Essendon",
+      "aliases": [
+        "essendon",
+        "essendon north",
+        "north essendon",
+        "essendon nth",
+        "nth essendon",
+        "essendon n",
+        "essendon west",
+        "west essendon",
+        "essendon w",
+        "essenden",
+        "essondon",
+        "esendon"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Essendon Fields",
+      "aliases": [
+        "essendon fields",
+        "essendonfields",
+        "essendon feilds"
+      ],
+      "tier": "deep",
+      "note": "Official suburb since 2015 covering the Essendon Airport precinct"
+    },
+    {
+      "canonical": "Ascot Vale",
+      "aliases": [
+        "ascot vale",
+        "ascotvale",
+        "ascott vale",
+        "ascot vail"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Aberfeldie",
+      "aliases": [
+        "aberfeldie",
+        "aberfeldy",
+        "aberfeldi",
+        "aberfieldie"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Avondale Heights",
+      "aliases": [
+        "avondale heights",
+        "avondaleheights",
+        "avondale hts",
+        "avondale",
+        "avondale hieghts"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Niddrie",
+      "aliases": [
+        "niddrie",
+        "nidrie",
+        "niddry",
+        "nidry"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Airport West",
+      "aliases": [
+        "airport west",
+        "airportwest",
+        "airport w"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Strathmore",
+      "aliases": [
+        "strathmore",
+        "strathmoor",
+        "strath more",
+        "strathmore vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Strathmore Heights",
+      "aliases": [
+        "strathmore heights",
+        "strathmoreheights",
+        "strathmore hts",
+        "strathmore hieghts"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Travancore",
+      "aliases": [
+        "travancore",
+        "travencore",
+        "travancor"
+      ],
+      "tier": "deep",
+      "note": "Tiny suburb between Flemington and Parkville; genuine deep cut"
+    },
+    {
+      "canonical": "Footscray",
+      "aliases": [
+        "footscray",
+        "footscray west",
+        "west footscray",
+        "footscray w",
+        "footscary",
+        "footscrey",
+        "foot scray",
+        "footscay",
+        "footscra"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Yarraville",
+      "aliases": [
+        "yarraville",
+        "yaraville",
+        "yarravile",
+        "yarravill",
+        "yarra ville"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Seddon",
+      "aliases": [
+        "seddon",
+        "sedon",
+        "seddan"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Kingsville",
+      "aliases": [
+        "kingsville",
+        "kingsville south",
+        "south kingsville",
+        "kingsville sth",
+        "sth kingsville",
+        "kingsville s",
+        "kings ville",
+        "kingsvile"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Maribyrnong",
+      "aliases": [
+        "maribyrnong",
+        "maribynong",
+        "maribyrnon",
+        "marribyrnong",
+        "maribrynong"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Maidstone",
+      "aliases": [
+        "maidstone",
+        "maidston",
+        "maid stone"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Braybrook",
+      "aliases": [
+        "braybrook",
+        "bray brook",
+        "braybrooke",
+        "braybrok"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tottenham",
+      "aliases": [
+        "tottenham",
+        "tottenam",
+        "totenham"
+      ],
+      "tier": "rare",
+      "note": "Industrial pocket west of Footscray; also a London suburb, check they mean Melbourne"
+    },
+    {
+      "canonical": "Williamstown",
+      "aliases": [
+        "williamstown",
+        "williamstown north",
+        "north williamstown",
+        "williamstown nth",
+        "nth williamstown",
+        "williamstown n",
+        "willy",
+        "williamston",
+        "williams town",
+        "willytown"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Newport",
+      "aliases": [
+        "newport",
+        "new port",
+        "newport vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Spotswood",
+      "aliases": [
+        "spotswood",
+        "spotswod",
+        "spottswood",
+        "spotsworth"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Altona",
+      "aliases": [
+        "altona",
+        "altona north",
+        "north altona",
+        "altona nth",
+        "nth altona",
+        "altona n",
+        "altonna"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Altona Meadows",
+      "aliases": [
+        "altona meadows",
+        "altonameadows",
+        "altona medows",
+        "altona meadow"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Seaholme",
+      "aliases": [
+        "seaholme",
+        "sea holme",
+        "seaholm",
+        "seahome"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Seabrook",
+      "aliases": [
+        "seabrook",
+        "sea brook",
+        "seabrooke"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Laverton",
+      "aliases": [
+        "laverton",
+        "laverton north",
+        "north laverton",
+        "laverton nth",
+        "nth laverton",
+        "laverton n",
+        "lavertin"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Brooklyn",
+      "aliases": [
+        "brooklyn",
+        "brooklin",
+        "brooklyn vic"
+      ],
+      "tier": "uncommon",
+      "note": "Industrial Brooklyn near Altona North, not New York"
+    },
+    {
+      "canonical": "Sunshine",
+      "aliases": [
+        "sunshine",
+        "sunshine north",
+        "north sunshine",
+        "sunshine nth",
+        "nth sunshine",
+        "sunshine n",
+        "sunshine west",
+        "west sunshine",
+        "sunshine w",
+        "sunny"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "St Albans",
+      "aliases": [
+        "st albans",
+        "stalbans",
+        "saint albans",
+        "st. albans",
+        "st albans vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Deer Park",
+      "aliases": [
+        "deer park",
+        "deerpark",
+        "deer pk"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Albion",
+      "aliases": [
+        "albion",
+        "albian",
+        "albion vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Ardeer",
+      "aliases": [
+        "ardeer",
+        "ardear",
+        "ardier"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Albanvale",
+      "aliases": [
+        "albanvale",
+        "alban vale",
+        "albanvail",
+        "albenvale"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cairnlea",
+      "aliases": [
+        "cairnlea",
+        "cairn lea",
+        "cairnlee",
+        "cairnleigh"
+      ],
+      "tier": "deep",
+      "note": "Newer suburb on the old Albion explosives site, gazetted 1996"
+    },
+    {
+      "canonical": "Calder Park",
+      "aliases": [
+        "calder park",
+        "calderpark",
+        "calder pk"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Delahey",
+      "aliases": [
+        "delahey",
+        "delahay",
+        "delahy",
+        "dellahey"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Derrimut",
+      "aliases": [
+        "derrimut",
+        "derimut",
+        "derrimutt",
+        "derrymut"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hillside",
+      "aliases": [
+        "hillside",
+        "hill side",
+        "hillside vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Kealba",
+      "aliases": [
+        "kealba",
+        "keelba",
+        "kealbah",
+        "kialba"
+      ],
+      "tier": "deep",
+      "note": "Tiny pocket between Keilor and St Albans; proper deep cut"
+    },
+    {
+      "canonical": "Keilor",
+      "aliases": [
+        "keilor",
+        "keilor east",
+        "east keilor",
+        "keilor e",
+        "keilor north",
+        "north keilor",
+        "keilor nth",
+        "nth keilor",
+        "keilor n",
+        "kielor",
+        "keelor",
+        "keilor village"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Keilor Downs",
+      "aliases": [
+        "keilor downs",
+        "keilordowns",
+        "kielor downs",
+        "keilor downes"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Keilor Lodge",
+      "aliases": [
+        "keilor lodge",
+        "keilorlodge",
+        "kielor lodge"
+      ],
+      "tier": "deep",
+      "note": "Small estate suburb beside Keilor Downs"
+    },
+    {
+      "canonical": "Keilor Park",
+      "aliases": [
+        "keilor park",
+        "keilorpark",
+        "kielor park",
+        "keilor pk"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kings Park",
+      "aliases": [
+        "kings park",
+        "kingspark",
+        "kings pk",
+        "king's park"
+      ],
+      "tier": "deep",
+      "note": "Brimbank pocket next to St Albans, not the Perth park"
+    },
+    {
+      "canonical": "Sydenham",
+      "aliases": [
+        "sydenham",
+        "sydnham",
+        "sydenam"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Taylors Lakes",
+      "aliases": [
+        "taylors lakes",
+        "taylorslakes",
+        "taylor lakes",
+        "taylors lake"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Melton",
+      "aliases": [
+        "melton",
+        "melton south",
+        "south melton",
+        "melton sth",
+        "sth melton",
+        "melton s",
+        "melton west",
+        "west melton",
+        "melton w",
+        "meltn",
+        "melton vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Caroline Springs",
+      "aliases": [
+        "caroline springs",
+        "carolinesprings",
+        "carolyn springs",
+        "caroline spring"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Taylors Hill",
+      "aliases": [
+        "taylors hill",
+        "taylorshill",
+        "taylor hill",
+        "taylors hills"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Burnside",
+      "aliases": [
+        "burnside",
+        "burn side",
+        "burnside vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Burnside Heights",
+      "aliases": [
+        "burnside heights",
+        "burnsideheights",
+        "burnside hts",
+        "burnside hieghts"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Brookfield",
+      "aliases": [
+        "brookfield",
+        "brook field",
+        "brookfeild",
+        "brookfield vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kurunjang",
+      "aliases": [
+        "kurunjang",
+        "kurrunjang",
+        "kurunjung",
+        "kurrenjang",
+        "karunjang"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Diggers Rest",
+      "aliases": [
+        "diggers rest",
+        "diggersrest",
+        "digger's rest",
+        "diggers"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Exford",
+      "aliases": [
+        "exford",
+        "exford vic"
+      ],
+      "tier": "deep",
+      "note": "Rural locality south of Melton; gazetted"
+    },
+    {
+      "canonical": "Eynesbury",
+      "aliases": [
+        "eynesbury",
+        "eynsbury",
+        "eynesbery",
+        "eynsbery"
+      ],
+      "tier": "deep",
+      "note": "Golf-estate suburb split between Melton and Wyndham"
+    },
+    {
+      "canonical": "Fieldstone",
+      "aliases": [
+        "fieldstone",
+        "field stone",
+        "feildstone"
+      ],
+      "tier": "deep",
+      "note": "Gazetted February 2017"
+    },
+    {
+      "canonical": "Toolern Vale",
+      "aliases": [
+        "toolern vale",
+        "toolernvale",
+        "toolern vail",
+        "tooleren vale"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Plumpton",
+      "aliases": [
+        "plumpton",
+        "plumptom",
+        "plumton"
+      ],
+      "tier": "deep",
+      "note": "Growth suburb north of Rockbank, shares postcode 3335"
+    },
+    {
+      "canonical": "Rockbank",
+      "aliases": [
+        "rockbank",
+        "rock bank",
+        "rockbanck"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mount Cottrell",
+      "aliases": [
+        "mount cottrell",
+        "mountcottrell",
+        "mt cottrell",
+        "mt. cottrell",
+        "mtcottrell",
+        "mt cotterell",
+        "mount cotterell",
+        "mount cottrel",
+        "mt cottrel"
+      ],
+      "tier": "deep",
+      "note": "Rural locality split between Melton and Wyndham"
+    },
+    {
+      "canonical": "Ravenhall",
+      "aliases": [
+        "ravenhall",
+        "raven hall",
+        "ravenhal"
+      ],
+      "tier": "deep",
+      "note": "Industrial pocket; home of the Metropolitan Remand Centre"
+    },
+    {
+      "canonical": "Aintree",
+      "aliases": [
+        "aintree",
+        "aintre",
+        "aintrie",
+        "ain tree"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017 in the Melton growth corridor"
+    },
+    {
+      "canonical": "Bonnie Brook",
+      "aliases": [
+        "bonnie brook",
+        "bonniebrook",
+        "bonny brook",
+        "bonnie brooke"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017"
+    },
+    {
+      "canonical": "Cobblebank",
+      "aliases": [
+        "cobblebank",
+        "cobble bank",
+        "coblebank"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017; has its own station"
+    },
+    {
+      "canonical": "Deanside",
+      "aliases": [
+        "deanside",
+        "dean side",
+        "deenside"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017"
+    },
+    {
+      "canonical": "Fraser Rise",
+      "aliases": [
+        "fraser rise",
+        "fraserrise",
+        "frazer rise",
+        "fraser rises"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017"
+    },
+    {
+      "canonical": "Grangefields",
+      "aliases": [
+        "grangefields",
+        "grange fields",
+        "grangefeilds",
+        "grangefield"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017"
+    },
+    {
+      "canonical": "Harkness",
+      "aliases": [
+        "harkness",
+        "harknes",
+        "harkniss"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017"
+    },
+    {
+      "canonical": "Strathtulloh",
+      "aliases": [
+        "strathtulloh",
+        "strath tulloh",
+        "strathtullo",
+        "strathtulla",
+        "strathtulloch"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017"
+    },
+    {
+      "canonical": "Thornhill Park",
+      "aliases": [
+        "thornhill park",
+        "thornhillpark",
+        "thornhill pk",
+        "thorn hill park"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017"
+    },
+    {
+      "canonical": "Weir Views",
+      "aliases": [
+        "weir views",
+        "weirviews",
+        "weir view",
+        "wier views"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2017"
+    },
+    {
+      "canonical": "Werribee",
+      "aliases": [
+        "werribee",
+        "werribee south",
+        "south werribee",
+        "werribee sth",
+        "sth werribee",
+        "werribee s",
+        "weribee",
+        "werribe",
+        "werrabee"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Hoppers Crossing",
+      "aliases": [
+        "hoppers crossing",
+        "hopperscrossing",
+        "hoppers",
+        "hopper's crossing",
+        "hoppers xing",
+        "hoppers crossings"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Point Cook",
+      "aliases": [
+        "point cook",
+        "pointcook",
+        "pt cook",
+        "sanctuary lakes",
+        "sanctuary lake"
+      ],
+      "tier": "uncommon",
+      "note": "Sanctuary Lakes is an estate inside Point Cook"
+    },
+    {
+      "canonical": "Tarneit",
+      "aliases": [
+        "tarneit",
+        "tarneet",
+        "tarnit",
+        "tarniet",
+        "tarnet"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Truganina",
+      "aliases": [
+        "truganina",
+        "trugannina",
+        "truganinna",
+        "trugs",
+        "truganini"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Wyndham Vale",
+      "aliases": [
+        "wyndham vale",
+        "wyndhamvale",
+        "windham vale",
+        "wyndham vail",
+        "wyndham"
+      ],
+      "tier": "uncommon",
+      "note": "\"Wyndham\" alone is the council; accept as Wyndham Vale"
+    },
+    {
+      "canonical": "Manor Lakes",
+      "aliases": [
+        "manor lakes",
+        "manorlakes",
+        "manor lake"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Williams Landing",
+      "aliases": [
+        "williams landing",
+        "williamslanding",
+        "william's landing",
+        "williams landings"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Little River",
+      "aliases": [
+        "little river",
+        "littleriver",
+        "little rivers"
+      ],
+      "tier": "rare",
+      "note": "Split between Wyndham and Geelong; technically a Melbourne locality"
+    },
+    {
+      "canonical": "Mambourin",
+      "aliases": [
+        "mambourin",
+        "mambourine",
+        "mamborin",
+        "mambouren"
+      ],
+      "tier": "deep",
+      "note": "New growth suburb west of Wyndham Vale"
+    },
+    {
+      "canonical": "Quandong",
+      "aliases": [
+        "quandong",
+        "quandung",
+        "quondong"
+      ],
+      "tier": "deep",
+      "note": "Rural locality north of Werribee; genuine deep cut"
+    },
+    {
+      "canonical": "Cocoroc",
+      "aliases": [
+        "cocoroc",
+        "cocorock",
+        "coco roc"
+      ],
+      "tier": "deep",
+      "note": "Locality of the Western Treatment Plant; almost nobody lives there"
+    },
+    {
+      "canonical": "Broadmeadows",
+      "aliases": [
+        "broadmeadows",
+        "broady",
+        "broadmedows",
+        "broadmeadow",
+        "broadmeddows"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Craigieburn",
+      "aliases": [
+        "craigieburn",
+        "craigeburn",
+        "craigyburn",
+        "craigie burn"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Sunbury",
+      "aliases": [
+        "sunbury",
+        "sunburry",
+        "sunberry",
+        "sunbury vic"
+      ],
+      "tier": "uncommon",
+      "note": "Hume LGA, so it counts as metropolitan"
+    },
+    {
+      "canonical": "Tullamarine",
+      "aliases": [
+        "tullamarine",
+        "tulla",
+        "tullamareen",
+        "tulamarine"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Gladstone Park",
+      "aliases": [
+        "gladstone park",
+        "gladstonepark",
+        "gladstone pk",
+        "gladdy park"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Westmeadows",
+      "aliases": [
+        "westmeadows",
+        "west meadows",
+        "westmedows"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Attwood",
+      "aliases": [
+        "attwood",
+        "atwood",
+        "attwod"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Greenvale",
+      "aliases": [
+        "greenvale",
+        "green vale",
+        "greenvail"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Roxburgh Park",
+      "aliases": [
+        "roxburgh park",
+        "roxburghpark",
+        "roxborough park",
+        "roxburg park",
+        "roxburgh pk",
+        "roxy park"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Meadow Heights",
+      "aliases": [
+        "meadow heights",
+        "meadowheights",
+        "meadow hts",
+        "meadow hieghts"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Coolaroo",
+      "aliases": [
+        "coolaroo",
+        "coolaru",
+        "cooloroo"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dallas",
+      "aliases": [
+        "dallas",
+        "dalas",
+        "dallas vic"
+      ],
+      "tier": "rare",
+      "note": "The Broadmeadows one, not Texas"
+    },
+    {
+      "canonical": "Jacana",
+      "aliases": [
+        "jacana",
+        "jacanna",
+        "jakana"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Campbellfield",
+      "aliases": [
+        "campbellfield",
+        "campbellfeild",
+        "campbelfield",
+        "cambellfield",
+        "campbell field"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Somerton",
+      "aliases": [
+        "somerton",
+        "sommerton",
+        "summerton"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mickleham",
+      "aliases": [
+        "mickleham",
+        "mickelham",
+        "micklham"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kalkallo",
+      "aliases": [
+        "kalkallo",
+        "kalkalo",
+        "kalkala",
+        "kal kallo"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Oaklands Junction",
+      "aliases": [
+        "oaklands junction",
+        "oaklandsjunction",
+        "oaklands jct",
+        "oakland junction"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bulla",
+      "aliases": [
+        "bulla",
+        "bullah",
+        "bulla vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yuroke",
+      "aliases": [
+        "yuroke",
+        "yurroke",
+        "yurok"
+      ],
+      "tier": "deep",
+      "note": "Rural pocket north of Greenvale"
+    },
+    {
+      "canonical": "Wildwood",
+      "aliases": [
+        "wildwood",
+        "wild wood",
+        "wildwood vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Donnybrook",
+      "aliases": [
+        "donnybrook",
+        "donny brook",
+        "donneybrook"
+      ],
+      "tier": "rare",
+      "note": "Growth suburb straddling Hume and Whittlesea"
+    },
+    {
+      "canonical": "Beveridge",
+      "aliases": [
+        "beveridge",
+        "beverage",
+        "beverige"
+      ],
+      "tier": "deep",
+      "note": "Mostly Mitchell Shire, but the locality crosses into Hume and Whittlesea; accept"
+    },
+    {
+      "canonical": "Epping",
+      "aliases": [
+        "epping",
+        "eping",
+        "epping vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lalor",
+      "aliases": [
+        "lalor",
+        "lawler",
+        "laylor",
+        "lalor vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Thomastown",
+      "aliases": [
+        "thomastown",
+        "thomas town",
+        "tomastown"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mill Park",
+      "aliases": [
+        "mill park",
+        "millpark",
+        "mill pk"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "South Morang",
+      "aliases": [
+        "south morang",
+        "southmorang",
+        "sth morang",
+        "morang"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mernda",
+      "aliases": [
+        "mernda",
+        "mernder",
+        "murnda"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Doreen",
+      "aliases": [
+        "doreen",
+        "dorene",
+        "doreen vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Wollert",
+      "aliases": [
+        "wollert",
+        "wolert",
+        "wollart"
+      ],
+      "tier": "rare",
+      "note": "Fast-growing but still a deep-ish cut for most"
+    },
+    {
+      "canonical": "Whittlesea",
+      "aliases": [
+        "whittlesea",
+        "whittlesea township",
+        "whitlesea",
+        "whittlesee"
+      ],
+      "tier": "rare",
+      "note": "Township inside the City of Whittlesea; accept"
+    },
+    {
+      "canonical": "Yan Yean",
+      "aliases": [
+        "yan yean",
+        "yanyean",
+        "yan yan",
+        "yan yeen"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Woodstock",
+      "aliases": [
+        "woodstock",
+        "wood stock",
+        "woodstock vic"
+      ],
+      "tier": "deep",
+      "note": "Rural locality near Donnybrook, not the festival"
+    },
+    {
+      "canonical": "Eden Park",
+      "aliases": [
+        "eden park",
+        "edenpark",
+        "eden pk"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Humevale",
+      "aliases": [
+        "humevale",
+        "hume vale",
+        "humevail"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eltham",
+      "aliases": [
+        "eltham",
+        "eltham north",
+        "north eltham",
+        "eltham nth",
+        "nth eltham",
+        "eltham n",
+        "elthem"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Diamond Creek",
+      "aliases": [
+        "diamond creek",
+        "diamondcreek",
+        "diamond ck",
+        "dimond creek"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Research",
+      "aliases": [
+        "research",
+        "reasearch",
+        "research vic"
+      ],
+      "tier": "uncommon",
+      "note": "Yes, Research is a real suburb next to Eltham"
+    },
+    {
+      "canonical": "Hurstbridge",
+      "aliases": [
+        "hurstbridge",
+        "hurst bridge",
+        "hurstbrige",
+        "hurtsbridge"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Wattle Glen",
+      "aliases": [
+        "wattle glen",
+        "wattleglen",
+        "wattle glenn"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Plenty",
+      "aliases": [
+        "plenty",
+        "plenty vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yarrambat",
+      "aliases": [
+        "yarrambat",
+        "yarambat",
+        "yarrambatt",
+        "yarrumbat"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kangaroo Ground",
+      "aliases": [
+        "kangaroo ground",
+        "kangarooground",
+        "kangaroo grounds",
+        "kanga ground"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Panton Hill",
+      "aliases": [
+        "panton hill",
+        "pantonhill",
+        "panton hills"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "St Andrews",
+      "aliases": [
+        "st andrews",
+        "standrews",
+        "saint andrews",
+        "st. andrews",
+        "st andrews vic"
+      ],
+      "tier": "rare",
+      "note": "The Nillumbik one near Hurstbridge; St Andrews Beach is a separate Peninsula entry"
+    },
+    {
+      "canonical": "Smiths Gully",
+      "aliases": [
+        "smiths gully",
+        "smithsgully",
+        "smith's gully",
+        "smith gully"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Christmas Hills",
+      "aliases": [
+        "christmas hills",
+        "christmashills",
+        "xmas hills"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Arthurs Creek",
+      "aliases": [
+        "arthurs creek",
+        "arthurscreek",
+        "arthur's creek",
+        "arthurs ck"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Strathewen",
+      "aliases": [
+        "strathewen",
+        "strathewan",
+        "strath ewen",
+        "strathewin"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cottles Bridge",
+      "aliases": [
+        "cottles bridge",
+        "cottlesbridge",
+        "cottle's bridge",
+        "cottle bridge"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nutfield",
+      "aliases": [
+        "nutfield",
+        "nut field",
+        "nutfeild"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Watsons Creek",
+      "aliases": [
+        "watsons creek",
+        "watsonscreek",
+        "watson's creek",
+        "watsons ck"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bend of Islands",
+      "aliases": [
+        "bend of islands",
+        "bendofislands",
+        "bend of island",
+        "the bend of islands"
+      ],
+      "tier": "deep",
+      "note": "Conservation locality on the Yarra near Kangaroo Ground; official suburb"
+    },
+    {
+      "canonical": "Ringwood",
+      "aliases": [
+        "ringwood",
+        "ringwood east",
+        "east ringwood",
+        "ringwood e",
+        "ringwood north",
+        "north ringwood",
+        "ringwood nth",
+        "nth ringwood",
+        "ringwood n",
+        "ringwod"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Croydon",
+      "aliases": [
+        "croydon",
+        "croydon north",
+        "north croydon",
+        "croydon nth",
+        "nth croydon",
+        "croydon n",
+        "croydon south",
+        "south croydon",
+        "croydon sth",
+        "sth croydon",
+        "croydon s",
+        "croyden",
+        "croydon vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Croydon Hills",
+      "aliases": [
+        "croydon hills",
+        "croydonhills",
+        "croyden hills"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Heathmont",
+      "aliases": [
+        "heathmont",
+        "heath mont",
+        "heathmount",
+        "heathmonte"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Kilsyth",
+      "aliases": [
+        "kilsyth",
+        "kilsyth south",
+        "south kilsyth",
+        "kilsyth sth",
+        "sth kilsyth",
+        "kilsyth s",
+        "kilsith"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Warranwood",
+      "aliases": [
+        "warranwood",
+        "warren wood",
+        "warrenwood",
+        "warran wood"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bayswater",
+      "aliases": [
+        "bayswater",
+        "bayswater north",
+        "north bayswater",
+        "bayswater nth",
+        "nth bayswater",
+        "bayswater n",
+        "bays water",
+        "bayswater vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Boronia",
+      "aliases": [
+        "boronia",
+        "bornia",
+        "boroniia"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Ferntree Gully",
+      "aliases": [
+        "ferntree gully",
+        "ferntreegully",
+        "upper ferntree gully",
+        "ferntree gully upper",
+        "upr ferntree gully",
+        "fern tree gully",
+        "ftg",
+        "upper fern tree gully",
+        "upper ftg"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "The Basin",
+      "aliases": [
+        "the basin",
+        "thebasin",
+        "basin"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wantirna",
+      "aliases": [
+        "wantirna",
+        "wantirna south",
+        "south wantirna",
+        "wantirna sth",
+        "sth wantirna",
+        "wantirna s",
+        "wantina",
+        "wanterna",
+        "wontirna"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Knoxfield",
+      "aliases": [
+        "knoxfield",
+        "knox field",
+        "knoxfeild",
+        "knox"
+      ],
+      "tier": "uncommon",
+      "note": "\"Knox\" on its own is the council or the shopping centre; accept as Knoxfield if that is what they mean"
+    },
+    {
+      "canonical": "Scoresby",
+      "aliases": [
+        "scoresby",
+        "scoresbey",
+        "scorsby"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Rowville",
+      "aliases": [
+        "rowville",
+        "rowvile",
+        "row ville"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lysterfield",
+      "aliases": [
+        "lysterfield",
+        "lysterfield south",
+        "south lysterfield",
+        "lysterfield sth",
+        "sth lysterfield",
+        "lysterfield s",
+        "lysterfeild",
+        "listerfield"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lilydale",
+      "aliases": [
+        "lilydale",
+        "lillydale",
+        "lily dale"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mooroolbark",
+      "aliases": [
+        "mooroolbark",
+        "mooroolbarke",
+        "moorolbark",
+        "mooroobark"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Chirnside Park",
+      "aliases": [
+        "chirnside park",
+        "chirnsidepark",
+        "chirnside pk",
+        "chirnside"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mount Evelyn",
+      "aliases": [
+        "mount evelyn",
+        "mountevelyn",
+        "mt evelyn",
+        "mt. evelyn",
+        "mtevelyn",
+        "mt evelin",
+        "mount evelin"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Montrose",
+      "aliases": [
+        "montrose",
+        "mont rose",
+        "montrose vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Belgrave",
+      "aliases": [
+        "belgrave",
+        "belgrave south",
+        "south belgrave",
+        "belgrave sth",
+        "sth belgrave",
+        "belgrave s",
+        "bellgrave"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Belgrave Heights",
+      "aliases": [
+        "belgrave heights",
+        "belgraveheights",
+        "belgrave hts",
+        "belgrave hieghts"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Upwey",
+      "aliases": [
+        "upwey",
+        "upway",
+        "up wey"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tecoma",
+      "aliases": [
+        "tecoma",
+        "tacoma",
+        "tekoma"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Olinda",
+      "aliases": [
+        "olinda",
+        "olynda",
+        "olinder"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Sassafras",
+      "aliases": [
+        "sassafras",
+        "sassafrass",
+        "sasafras"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Kalorama",
+      "aliases": [
+        "kalorama",
+        "kalarama",
+        "kaloramma"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mount Dandenong",
+      "aliases": [
+        "mount dandenong",
+        "mountdandenong",
+        "mt dandenong",
+        "mt. dandenong",
+        "mtdandenong",
+        "mt dandy"
+      ],
+      "tier": "uncommon",
+      "note": "The suburb; \"the Dandenongs\" is the range, so ask for a suburb"
+    },
+    {
+      "canonical": "Monbulk",
+      "aliases": [
+        "monbulk",
+        "monbulke",
+        "mon bulk"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Silvan",
+      "aliases": [
+        "silvan",
+        "sylvan",
+        "silvin"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wandin North",
+      "aliases": [
+        "wandin north",
+        "wandinnorth",
+        "wandin",
+        "wandin east",
+        "north wandin",
+        "wandin nth"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Seville",
+      "aliases": [
+        "seville",
+        "seville east",
+        "east seville",
+        "seville e",
+        "sevile",
+        "seville vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Coldstream",
+      "aliases": [
+        "coldstream",
+        "cold stream",
+        "coldstreme"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yarra Glen",
+      "aliases": [
+        "yarra glen",
+        "yarraglen",
+        "yarra glenn"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kallista",
+      "aliases": [
+        "kallista",
+        "kalista",
+        "kallister"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "The Patch",
+      "aliases": [
+        "the patch",
+        "thepatch",
+        "patch"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Selby",
+      "aliases": [
+        "selby",
+        "selbey",
+        "selby vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ferny Creek",
+      "aliases": [
+        "ferny creek",
+        "fernycreek",
+        "ferny ck",
+        "fern creek"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sherbrooke",
+      "aliases": [
+        "sherbrooke",
+        "sherbrook",
+        "sher brooke"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tremont",
+      "aliases": [
+        "tremont",
+        "tremonte",
+        "tremont vic"
+      ],
+      "tier": "deep",
+      "note": "Tiny locality on the slopes above Ferntree Gully"
+    },
+    {
+      "canonical": "Menzies Creek",
+      "aliases": [
+        "menzies creek",
+        "menziescreek",
+        "menzies ck",
+        "menzie creek"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Macclesfield",
+      "aliases": [
+        "macclesfield",
+        "macclesfeild",
+        "maclesfield"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yering",
+      "aliases": [
+        "yering",
+        "yerring",
+        "yearing"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gruyere",
+      "aliases": [
+        "gruyere",
+        "gruyer",
+        "gruyere vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Chum Creek",
+      "aliases": [
+        "chum creek",
+        "chumcreek",
+        "chum ck"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Badger Creek",
+      "aliases": [
+        "badger creek",
+        "badgercreek",
+        "badger ck"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Healesville",
+      "aliases": [
+        "healesville",
+        "healsville",
+        "healesvile"
+      ],
+      "tier": "rare",
+      "note": "Yarra Ranges township inside metro Melbourne; accept, but it is more country town than suburb"
+    },
+    {
+      "canonical": "Woori Yallock",
+      "aliases": [
+        "woori yallock",
+        "wooriyallock",
+        "woori yalock",
+        "woori yallok",
+        "woori"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Launching Place",
+      "aliases": [
+        "launching place",
+        "launchingplace",
+        "launching pl"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yarra Junction",
+      "aliases": [
+        "yarra junction",
+        "yarrajunction",
+        "yarra jct"
+      ],
+      "tier": "deep",
+      "note": "Upper Yarra township; technically metro, host's call"
+    },
+    {
+      "canonical": "Wesburn",
+      "aliases": [
+        "wesburn",
+        "wes burn",
+        "wesbourne"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Millgrove",
+      "aliases": [
+        "millgrove",
+        "mill grove",
+        "milgrove"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Warburton",
+      "aliases": [
+        "warburton",
+        "warburton east",
+        "east warburton",
+        "warburton e",
+        "warberton",
+        "warburten"
+      ],
+      "tier": "rare",
+      "note": "Upper Yarra township in the Yarra Ranges LGA; host's call"
+    },
+    {
+      "canonical": "Pakenham",
+      "aliases": [
+        "pakenham",
+        "upper pakenham",
+        "pakenham upper",
+        "upr pakenham",
+        "pakenham south",
+        "south pakenham",
+        "pakenham sth",
+        "sth pakenham",
+        "pakenham s",
+        "packenham",
+        "pakenam",
+        "pakkenham"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Officer",
+      "aliases": [
+        "officer",
+        "officer south",
+        "south officer",
+        "officer sth",
+        "sth officer",
+        "officer s",
+        "oficer",
+        "officer vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Beaconsfield",
+      "aliases": [
+        "beaconsfield",
+        "upper beaconsfield",
+        "beaconsfield upper",
+        "upr beaconsfield",
+        "beaconsfeild",
+        "beaconfield",
+        "beacy"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Emerald",
+      "aliases": [
+        "emerald",
+        "emrald",
+        "emerald vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cockatoo",
+      "aliases": [
+        "cockatoo",
+        "cockatto",
+        "cockatoo vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gembrook",
+      "aliases": [
+        "gembrook",
+        "gem brook",
+        "gembrooke"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Koo Wee Rup",
+      "aliases": [
+        "koo wee rup",
+        "kooweerup",
+        "koo-wee-rup",
+        "koowee rup",
+        "kooweerupp"
+      ],
+      "tier": "rare",
+      "note": "Cardinia Shire township; accept, overlaps with the country-town prompt"
+    },
+    {
+      "canonical": "Bunyip",
+      "aliases": [
+        "bunyip",
+        "bunyip north",
+        "north bunyip",
+        "bunyip nth",
+        "nth bunyip",
+        "bunyip n",
+        "bunnyip",
+        "bunyip vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Garfield",
+      "aliases": [
+        "garfield",
+        "garfeild",
+        "garfield vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nar Nar Goon",
+      "aliases": [
+        "nar nar goon",
+        "narnargoon",
+        "nar nar goon north",
+        "north nar nar goon",
+        "nar nar goon nth",
+        "nth nar nar goon",
+        "nar nar goon n",
+        "na na goon"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tynong",
+      "aliases": [
+        "tynong",
+        "tynong north",
+        "north tynong",
+        "tynong nth",
+        "nth tynong",
+        "tynong n",
+        "tinong",
+        "tynnong"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lang Lang",
+      "aliases": [
+        "lang lang",
+        "langlang",
+        "lang lang vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cardinia",
+      "aliases": [
+        "cardinia",
+        "cardinia vic"
+      ],
+      "tier": "deep",
+      "note": "Also the shire's name, but Cardinia is a gazetted locality (3978) in its own right"
+    },
+    {
+      "canonical": "Maryknoll",
+      "aliases": [
+        "maryknoll",
+        "mary knoll",
+        "maryknol",
+        "marynoll"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Clematis",
+      "aliases": [
+        "clematis",
+        "clemantis",
+        "clematis vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Avonsleigh",
+      "aliases": [
+        "avonsleigh",
+        "avonsliegh",
+        "avon sleigh",
+        "avonsley"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Guys Hill",
+      "aliases": [
+        "guys hill",
+        "guyshill",
+        "guy's hill"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Dewhurst",
+      "aliases": [
+        "dewhurst",
+        "dew hurst",
+        "dewhirst"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Rythdale",
+      "aliases": [
+        "rythdale",
+        "rithdale",
+        "ryth dale",
+        "rythdail"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bayles",
+      "aliases": [
+        "bayles",
+        "bails",
+        "bayels"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Catani",
+      "aliases": [
+        "catani",
+        "cattani",
+        "katani"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Dandenong",
+      "aliases": [
+        "dandenong",
+        "dandenong north",
+        "north dandenong",
+        "dandenong nth",
+        "nth dandenong",
+        "dandenong n",
+        "dandenong south",
+        "south dandenong",
+        "dandenong sth",
+        "sth dandenong",
+        "dandenong s",
+        "dandy",
+        "dandinong",
+        "dandenog",
+        "dandenoung"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Noble Park",
+      "aliases": [
+        "noble park",
+        "noblepark",
+        "noble park north",
+        "north noble park",
+        "noble park nth",
+        "nth noble park",
+        "noble park n",
+        "noble pk"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Springvale",
+      "aliases": [
+        "springvale",
+        "springvale south",
+        "south springvale",
+        "springvale sth",
+        "sth springvale",
+        "springvale s",
+        "spring vale",
+        "springvail"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Keysborough",
+      "aliases": [
+        "keysborough",
+        "keysbourough",
+        "keysboro",
+        "keysburough"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bangholme",
+      "aliases": [
+        "bangholme",
+        "bang holme",
+        "bangholm"
+      ],
+      "tier": "deep",
+      "note": "Semi-rural pocket between Dandenong South and Patterson Lakes"
+    },
+    {
+      "canonical": "Berwick",
+      "aliases": [
+        "berwick",
+        "burwick",
+        "berrick",
+        "berwick vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Narre Warren",
+      "aliases": [
+        "narre warren",
+        "narrewarren",
+        "narre warren north",
+        "north narre warren",
+        "narre warren nth",
+        "nth narre warren",
+        "narre warren n",
+        "narre warren south",
+        "south narre warren",
+        "narre warren sth",
+        "sth narre warren",
+        "narre warren s",
+        "narre warren east",
+        "east narre warren",
+        "narre warren e",
+        "narre",
+        "narre warran",
+        "nare warren"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cranbourne",
+      "aliases": [
+        "cranbourne",
+        "cranbourne north",
+        "north cranbourne",
+        "cranbourne nth",
+        "nth cranbourne",
+        "cranbourne n",
+        "cranbourne south",
+        "south cranbourne",
+        "cranbourne sth",
+        "sth cranbourne",
+        "cranbourne s",
+        "cranbourne east",
+        "east cranbourne",
+        "cranbourne e",
+        "cranbourne west",
+        "west cranbourne",
+        "cranbourne w",
+        "cranbourn",
+        "cranborne",
+        "cranburn"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Hallam",
+      "aliases": [
+        "hallam",
+        "hallum",
+        "halam"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Doveton",
+      "aliases": [
+        "doveton",
+        "dovton",
+        "dovetown"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Endeavour Hills",
+      "aliases": [
+        "endeavour hills",
+        "endeavourhills",
+        "endeavor hills",
+        "endevour hills"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hampton Park",
+      "aliases": [
+        "hampton park",
+        "hamptonpark",
+        "hampton pk"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lynbrook",
+      "aliases": [
+        "lynbrook",
+        "lyn brook",
+        "linbrook",
+        "lynbrooke"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lyndhurst",
+      "aliases": [
+        "lyndhurst",
+        "lindhurst",
+        "lynhurst"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Eumemmerring",
+      "aliases": [
+        "eumemmerring",
+        "eumemmering",
+        "eumemering",
+        "eummemerring",
+        "yumemmerring"
+      ],
+      "tier": "deep",
+      "note": "Tiny pocket by Doveton; nobody can spell it"
+    },
+    {
+      "canonical": "Harkaway",
+      "aliases": [
+        "harkaway",
+        "harkerway",
+        "harkawy"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Clyde",
+      "aliases": [
+        "clyde",
+        "clyde north",
+        "north clyde",
+        "clyde nth",
+        "nth clyde",
+        "clyde n",
+        "clide",
+        "clyde vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Botanic Ridge",
+      "aliases": [
+        "botanic ridge",
+        "botanicridge",
+        "botanical ridge",
+        "botanic rdge"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Junction Village",
+      "aliases": [
+        "junction village",
+        "junctionvillage",
+        "junction vilage"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Devon Meadows",
+      "aliases": [
+        "devon meadows",
+        "devonmeadows",
+        "devon medows"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pearcedale",
+      "aliases": [
+        "pearcedale",
+        "pearsdale",
+        "piercedale"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tooradin",
+      "aliases": [
+        "tooradin",
+        "tooraddin",
+        "toradin"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Warneet",
+      "aliases": [
+        "warneet",
+        "warnet",
+        "warneat"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Blind Bight",
+      "aliases": [
+        "blind bight",
+        "blindbight",
+        "blind bite",
+        "blind byte"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cannons Creek",
+      "aliases": [
+        "cannons creek",
+        "cannonscreek",
+        "cannon's creek",
+        "cannon creek"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Five Ways",
+      "aliases": [
+        "five ways",
+        "fiveways",
+        "5 ways"
+      ],
+      "tier": "deep",
+      "note": "Gazetted locality beside Devon Meadows, postcode 3977"
+    },
+    {
+      "canonical": "Frankston",
+      "aliases": [
+        "frankston",
+        "frankston north",
+        "north frankston",
+        "frankston nth",
+        "nth frankston",
+        "frankston n",
+        "frankston south",
+        "south frankston",
+        "frankston sth",
+        "sth frankston",
+        "frankston s",
+        "franga",
+        "frankstan",
+        "frankson",
+        "karingal"
+      ],
+      "tier": "common",
+      "note": "Karingal is a neighbourhood of Frankston"
+    },
+    {
+      "canonical": "Carrum Downs",
+      "aliases": [
+        "carrum downs",
+        "carrumdowns",
+        "carum downs",
+        "carrum down"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Langwarrin",
+      "aliases": [
+        "langwarrin",
+        "langwarrin south",
+        "south langwarrin",
+        "langwarrin sth",
+        "sth langwarrin",
+        "langwarrin s",
+        "langwarin",
+        "langwarren"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Seaford",
+      "aliases": [
+        "seaford",
+        "sea ford",
+        "seeford",
+        "seaford vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Skye",
+      "aliases": [
+        "skye",
+        "sky",
+        "skye vic"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sandhurst",
+      "aliases": [
+        "sandhurst",
+        "sand hurst",
+        "sandhurst vic"
+      ],
+      "tier": "rare",
+      "note": "The Frankston estate suburb, not the old name for Bendigo"
+    },
+    {
+      "canonical": "Mordialloc",
+      "aliases": [
+        "mordialloc",
+        "mordi",
+        "mordialoc",
+        "mordiallic",
+        "mordialic",
+        "mordiallock"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Mentone",
+      "aliases": [
+        "mentone",
+        "menton",
+        "mentonne"
+      ],
+      "tier": "common"
+    },
+    {
+      "canonical": "Parkdale",
+      "aliases": [
+        "parkdale",
+        "park dale",
+        "parkdail"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Aspendale",
+      "aliases": [
+        "aspendale",
+        "aspendail",
+        "aspen dale",
+        "aspindale"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Aspendale Gardens",
+      "aliases": [
+        "aspendale gardens",
+        "aspendalegardens",
+        "aspendale gdns"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Edithvale",
+      "aliases": [
+        "edithvale",
+        "edith vale",
+        "edithvail"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Chelsea",
+      "aliases": [
+        "chelsea",
+        "chelsee",
+        "chelsea vic"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Chelsea Heights",
+      "aliases": [
+        "chelsea heights",
+        "chelseaheights",
+        "chelsea hts"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bonbeach",
+      "aliases": [
+        "bonbeach",
+        "bon beach",
+        "bonbeech"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Carrum",
+      "aliases": [
+        "carrum",
+        "carum",
+        "karrum"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Patterson Lakes",
+      "aliases": [
+        "patterson lakes",
+        "pattersonlakes",
+        "paterson lakes",
+        "patterson lake"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Waterways",
+      "aliases": [
+        "waterways",
+        "water ways",
+        "waterways vic"
+      ],
+      "tier": "deep",
+      "note": "Estate suburb near Braeside, gazetted 1998"
+    },
+    {
+      "canonical": "Braeside",
+      "aliases": [
+        "braeside",
+        "brae side",
+        "braside"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dingley Village",
+      "aliases": [
+        "dingley village",
+        "dingleyvillage",
+        "dingley",
+        "dingly village",
+        "dingley vilage"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Heatherton",
+      "aliases": [
+        "heatherton",
+        "heatherten",
+        "hetherton"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Clarinda",
+      "aliases": [
+        "clarinda",
+        "clarrinda",
+        "clarenda"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mornington",
+      "aliases": [
+        "mornington",
+        "mornington township",
+        "morningtown"
+      ],
+      "tier": "uncommon",
+      "note": "Mornington Peninsula Shire is a metropolitan LGA, so technically a suburb; host's call if the room objects"
+    },
+    {
+      "canonical": "Mount Eliza",
+      "aliases": [
+        "mount eliza",
+        "mounteliza",
+        "mt eliza",
+        "mt. eliza",
+        "mteliza",
+        "mt elisa",
+        "mount elisa"
+      ],
+      "tier": "uncommon",
+      "note": "Mornington Peninsula Shire, metropolitan LGA; accept"
+    },
+    {
+      "canonical": "Mount Martha",
+      "aliases": [
+        "mount martha",
+        "mountmartha",
+        "mt martha",
+        "mt. martha",
+        "mtmartha",
+        "mt marther",
+        "mount marther"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Somerville",
+      "aliases": [
+        "somerville",
+        "sommerville",
+        "summerville"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Baxter",
+      "aliases": [
+        "baxter",
+        "baxtor",
+        "baxter vic"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Tyabb",
+      "aliases": [
+        "tyabb",
+        "tyab",
+        "tiabb"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Hastings",
+      "aliases": [
+        "hastings",
+        "hastngs",
+        "hastings vic"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Bittern",
+      "aliases": [
+        "bittern",
+        "bitern",
+        "bittern vic"
+      ],
+      "tier": "deep",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Crib Point",
+      "aliases": [
+        "crib point",
+        "cribpoint",
+        "crib pt"
+      ],
+      "tier": "deep",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Balnarring",
+      "aliases": [
+        "balnarring",
+        "balnaring",
+        "balnarring beach"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; Balnarring Beach is also a gazetted locality"
+    },
+    {
+      "canonical": "Somers",
+      "aliases": [
+        "somers",
+        "sommers",
+        "somers vic"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Flinders",
+      "aliases": [
+        "flinders",
+        "flinders vic",
+        "flinders township"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept, though most would call it a town"
+    },
+    {
+      "canonical": "Red Hill",
+      "aliases": [
+        "red hill",
+        "redhill",
+        "red hill south",
+        "south red hill",
+        "red hill sth",
+        "sth red hill",
+        "red hill s",
+        "redhill vic"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; Red Hill South merged here"
+    },
+    {
+      "canonical": "Dromana",
+      "aliases": [
+        "dromana",
+        "dromanna",
+        "dramana"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Safety Beach",
+      "aliases": [
+        "safety beach",
+        "safetybeach",
+        "safety bch"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "McCrae",
+      "aliases": [
+        "mccrae",
+        "maccrae",
+        "mc crae",
+        "mccray",
+        "macrae"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Rosebud",
+      "aliases": [
+        "rosebud",
+        "rose bud",
+        "rosebud vic"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Capel Sound",
+      "aliases": [
+        "capel sound",
+        "capelsound",
+        "capel sounds",
+        "caple sound",
+        "rosebud west"
+      ],
+      "tier": "deep",
+      "note": "Gazetted 2016, formerly Rosebud West; deep cut"
+    },
+    {
+      "canonical": "Tootgarook",
+      "aliases": [
+        "tootgarook",
+        "tootgaroo",
+        "toot garook"
+      ],
+      "tier": "deep",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Rye",
+      "aliases": [
+        "rye",
+        "rye vic"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Blairgowrie",
+      "aliases": [
+        "blairgowrie",
+        "blair gowrie",
+        "blairgowry"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Sorrento",
+      "aliases": [
+        "sorrento",
+        "sorento",
+        "sorrentto"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept, though most would call it a town"
+    },
+    {
+      "canonical": "Portsea",
+      "aliases": [
+        "portsea",
+        "port sea",
+        "portsee"
+      ],
+      "tier": "rare",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Moorooduc",
+      "aliases": [
+        "moorooduc",
+        "mooroduc",
+        "moorooduck"
+      ],
+      "tier": "deep",
+      "note": "Mornington Peninsula Shire; accept"
+    },
+    {
+      "canonical": "Arthurs Seat",
+      "aliases": [
+        "arthurs seat",
+        "arthursseat",
+        "arthur's seat"
+      ],
+      "tier": "rare",
+      "note": "Gazetted locality on the Peninsula, not just the lookout"
+    },
+    {
+      "canonical": "Shoreham",
+      "aliases": [
+        "shoreham",
+        "shorham",
+        "shoreham vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Point Leo",
+      "aliases": [
+        "point leo",
+        "pointleo",
+        "pt leo"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Merricks",
+      "aliases": [
+        "merricks",
+        "merricks beach",
+        "merricks north",
+        "merriks"
+      ],
+      "tier": "deep",
+      "note": "Merricks, Merricks Beach and Merricks North are all gazetted; merged here"
+    },
+    {
+      "canonical": "Boneo",
+      "aliases": [
+        "boneo",
+        "bonio",
+        "bonneo"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cape Schanck",
+      "aliases": [
+        "cape schanck",
+        "capeschanck",
+        "cape shank",
+        "cape schank"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Fingal",
+      "aliases": [
+        "fingal",
+        "fingle",
+        "fingal vic"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "St Andrews Beach",
+      "aliases": [
+        "st andrews beach",
+        "standrewsbeach",
+        "saint andrews beach",
+        "st. andrews beach",
+        "standrews beach"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Main Ridge",
+      "aliases": [
+        "main ridge",
+        "mainridge",
+        "main rdge"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tuerong",
+      "aliases": [
+        "tuerong",
+        "turong",
+        "tureong"
+      ],
+      "tier": "deep"
+    }
+  ],
+  "hostNotes": "Accept any gazetted suburb or locality in the 31 metropolitan LGAs; spelling is forgiving, so match phonetically, and a real suburb missing here is still correct (verify quickly, treat as deep). Directional variants (Brunswick East, Caulfield South, Box Hill North, Upper Ferntree Gully) are merged with the parent and score as the same answer, except Carlton North, Lower Plenty and North/South/East/West/Port Melbourne, which stand alone; Mornington Peninsula, Yarra Valley and Cardinia townships (Sorrento, Healesville, Koo Wee Rup) are technically metropolitan, so accept unless the room agreed otherwise. Traps: streets, shopping centres and landmarks (Chapel Street, Highpoint, Fountain Gate, the MCG) and council or region names with no suburb of that name (Knox, Monash, Hume, Wyndham, Casey, Bayside, the Dandenongs, the Peninsula) are not suburbs, so ask which suburb they mean; Geelong, Ballarat, Torquay, Lorne, Phillip Island and Bacchus Marsh are outside Melbourne, so reject."
+}

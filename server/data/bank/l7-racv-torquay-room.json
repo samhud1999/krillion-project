@@ -1,0 +1,637 @@
+{
+  "id": "l7-racv-torquay-room",
+  "text": "Name something you'd find in a room at RACV Torquay.",
+  "type": "open",
+  "category": "local",
+  "approved": false,
+  "answers": [
+    {
+      "canonical": "Bed",
+      "aliases": ["beds", "the bed", "king bed", "king size bed", "king-size bed", "kingsize bed", "king", "king singles", "two king singles", "twin beds", "single beds", "queen bed", "double bed", "bed frame", "bedhead", "headboard", "plush king bed"],
+      "tier": "common",
+      "note": "RACV lists a plush king or two king singles. Any bed size merges here."
+    },
+    {
+      "canonical": "Pillows",
+      "aliases": ["pillow", "the pillows", "extra pillows", "extra pillow", "spare pillows", "spare pillow", "feather pillows", "down pillows", "goose down pillows", "soft pillows", "firm pillows", "fluffy pillows", "lots of pillows", "hypoallergenic pillows"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Television",
+      "aliases": ["tv", "telly", "tele", "flat screen", "flat screen tv", "flat-screen tv", "flatscreen", "flatscreen tv", "smart tv", "big tv", "42 inch tv", "lcd tv", "televisions", "tvs"],
+      "tier": "common",
+      "note": "Listings cite 42-inch flat screens."
+    },
+    {
+      "canonical": "Minibar",
+      "aliases": ["mini bar", "mini-bar", "the minibar", "gourmet minibar", "local produce", "local snacks", "minibar snacks", "mini bar snacks", "minibar items", "snacks", "snack", "chips", "crisps", "nuts", "chocolate", "chocolates", "chocolate bar", "lollies", "soft drink", "soft drinks", "coke", "juice", "spirits", "mini bottles of spirits", "minibar price list", "bar fridge contents", "overpriced snacks"],
+      "tier": "common",
+      "note": "RACV calls it a 'locally sourced gourmet minibar'. Wine and beer have their own entries."
+    },
+    {
+      "canonical": "Fridge",
+      "aliases": ["mini fridge", "mini-fridge", "minifridge", "bar fridge", "refrigerator", "little fridge", "the fridge", "fridge with drinks", "small fridge"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Kettle",
+      "aliases": ["jug", "electric kettle", "electric jug", "hot water jug", "the kettle", "kettles"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Tea and coffee",
+      "aliases": ["tea", "coffee", "tea bags", "teabags", "tea & coffee", "tea/coffee", "coffee and tea", "instant coffee", "coffee sachets", "tea and coffee making facilities", "tea and coffee facilities", "tea making facilities", "coffee making facilities", "tea tray", "coffee tray", "tray", "coffee station", "tea and coffee station", "beverage tray", "herbal tea", "english breakfast tea", "green tea", "twinings"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Coffee machine",
+      "aliases": ["nespresso", "nespresso machine", "nespresso coffee machine", "the nespresso", "pod machine", "pod coffee machine", "coffee pod machine", "capsule machine", "capsule coffee machine", "espresso machine", "coffee maker", "coffeemaker", "coffee machines", "nespresso coffee maker"],
+      "tier": "common",
+      "note": "Nespresso machines confirmed in Premium Ocean View rooms and suites; standard rooms list a 'coffeemaker'."
+    },
+    {
+      "canonical": "Bathrobe",
+      "aliases": ["robe", "robes", "bath robe", "bath robes", "bathrobes", "dressing gown", "dressing gowns", "gown", "fluffy robe", "fluffy robes", "white robe", "white robes", "towelling robe", "towelling robes", "waffle robe", "robe and slippers"],
+      "tier": "common",
+      "note": "Bare 'robe' = bathrobe unless the player clearly means a built-in wardrobe."
+    },
+    {
+      "canonical": "Slippers",
+      "aliases": ["slipper", "hotel slippers", "disposable slippers", "complimentary slippers", "free slippers", "white slippers", "scuffs"],
+      "tier": "common",
+      "note": "RACV lists robes, slippers and a pillow menu in premium rooms."
+    },
+    {
+      "canonical": "Towels",
+      "aliases": ["towel", "bath towels", "bath towel", "bath sheets", "bath sheet", "hand towels", "hand towel", "face washers", "face washer", "facewashers", "washcloth", "washcloths", "face cloth", "face cloths", "fluffy towels", "white towels", "fresh towels", "folded towels", "towel art", "towel swan"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Shower",
+      "aliases": ["showers", "the shower", "rain shower", "rainfall shower", "rain shower head", "shower head", "showerhead", "shower rose", "walk-in shower", "walk in shower", "separate shower", "shower screen", "glass shower", "double shower", "shower recess", "handheld shower", "hand held shower"],
+      "tier": "common",
+      "note": "'Separate shower' is RACV wording; rain shower not specifically confirmed but accept."
+    },
+    {
+      "canonical": "Bath",
+      "aliases": ["bathtub", "bath tub", "bathtubs", "tub", "the bath", "deep bath", "soaking tub", "freestanding bath", "big bath", "a bath"],
+      "tier": "common",
+      "note": "Bathtub listed in Premium Ocean View and Golf View family rooms."
+    },
+    {
+      "canonical": "Toilet",
+      "aliases": ["loo", "the loo", "dunny", "the dunny", "lavatory", "wc", "the toilet", "toilets", "toilet seat", "bog", "throne", "porcelain throne", "crapper"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Bathroom",
+      "aliases": ["ensuite", "en suite", "en-suite", "the bathroom", "bathrooms", "private bathroom", "stunning bathroom"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Balcony",
+      "aliases": ["private balcony", "the balcony", "balconies", "deck", "terrace", "patio", "verandah", "veranda", "outdoor area", "a balcony"],
+      "tier": "common",
+      "note": "Listings say every room has a balcony. Juliet balcony has its own deep entry."
+    },
+    {
+      "canonical": "Ocean view",
+      "aliases": ["view", "the view", "a view", "views", "sea view", "sea views", "ocean views", "view of the ocean", "water view", "water views", "the ocean", "the sea", "bass strait", "view of bass strait", "bass strait view", "beach view", "view of the beach", "the beach", "coastline", "coastal view", "jan juc", "view of jan juc", "surf", "surfers", "waves", "sunset", "sunrise", "sunset view", "panoramic view", "panoramic views"],
+      "tier": "common",
+      "note": "Unspecified 'a view' groups here. Golf course view is separate."
+    },
+    {
+      "canonical": "Wi-Fi",
+      "aliases": ["wifi", "wi fi", "internet", "free wifi", "free wi-fi", "wireless internet", "internet access", "wifi password", "wifi code", "wi-fi password", "wifi login", "wifi card"],
+      "tier": "common",
+      "note": "Free Wi-Fi confirmed. Password card merges here."
+    },
+    {
+      "canonical": "Safe",
+      "aliases": ["in-room safe", "in room safe", "room safe", "safety deposit box", "safe box", "electronic safe", "safety box", "the safe", "a safe", "safe in the wardrobe"],
+      "tier": "common",
+      "note": "On RACV's own amenity list."
+    },
+    {
+      "canonical": "Toiletries",
+      "aliases": ["shampoo", "conditioner", "shampoo and conditioner", "body wash", "bodywash", "shower gel", "soap", "soaps", "little soaps", "hand soap", "hand wash", "handwash", "hand cream", "lotion", "body lotion", "moisturiser", "moisturizer", "mini shampoo", "mini shampoos", "little shampoos", "mini bottles of shampoo", "bottles of shampoo", "the little bottles", "amenities", "bathroom amenities", "bathroom products", "bath products", "products", "free toiletries", "complimentary toiletries", "designer toiletries", "premium bathroom amenities", "toiletry", "toiletries kit", "bath salts", "bath bomb", "body scrub", "fancy soap", "nice shampoo"],
+      "tier": "common",
+      "note": "Any brand other than L'Occitane (which is a separate deep entry) merges here."
+    },
+    {
+      "canonical": "Couch",
+      "aliases": ["sofa", "lounge", "couches", "sofas", "lounge suite", "settee", "sitting area", "lounge area", "living area", "living room", "separate living area", "seating area", "the couch", "a couch", "two seater", "two-seater"],
+      "tier": "common",
+      "note": "RACV photos caption 'couches' in Golf View rooms; suites have a separate living area."
+    },
+    {
+      "canonical": "Air conditioning",
+      "aliases": ["aircon", "air con", "air-con", "ac", "a/c", "air-conditioning", "air conditioner", "climate control", "thermostat", "reverse cycle", "reverse cycle aircon", "aircon remote", "air con remote", "cooling"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Iron and ironing board",
+      "aliases": ["iron", "an iron", "the iron", "irons", "clothes iron", "steam iron", "ironing board", "ironing boards", "iron & ironing board", "iron/ironing board", "iron and board", "ironing"],
+      "tier": "common",
+      "note": "On RACV's own amenity list."
+    },
+    {
+      "canonical": "Hairdryer",
+      "aliases": ["hair dryer", "hair dryers", "hairdryers", "hairdrier", "hair drier", "blow dryer", "blow drier", "blowdryer", "dryer"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Wardrobe",
+      "aliases": ["wardrobes", "the wardrobe", "closet", "closets", "cupboard", "cupboards", "clothes cupboard", "built-in wardrobe", "built in wardrobe", "built-in robe", "built in robe", "built-ins", "walk-in robe", "walk in robe", "walk-in wardrobe", "drawers", "chest of drawers", "shelves", "shelving", "storage"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Doona",
+      "aliases": ["doonas", "duvet", "duvets", "quilt", "quilts", "doona cover", "duvet cover", "quilt cover", "comforter", "bedspread", "bed cover", "bed runner", "white doona", "fluffy doona"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Golf course view",
+      "aliases": ["golf view", "golf course", "the golf course", "view of the golf course", "golf course views", "golf views", "fairway", "fairways", "greens", "the greens", "golf", "the golf", "golf buggies", "golf buggy", "torquay golf club", "the 18th hole", "putting green"],
+      "tier": "uncommon",
+      "note": "Golf View rooms overlook the Torquay Golf Club course the resort sits on."
+    },
+    {
+      "canonical": "Desk",
+      "aliases": ["desks", "the desk", "writing desk", "work desk", "work table", "table", "dressing table", "desk and chair", "workspace", "work space"],
+      "tier": "uncommon",
+      "note": "In RACV's Golf View room photo captions. Generic 'table' groups here."
+    },
+    {
+      "canonical": "Chair",
+      "aliases": ["chairs", "desk chair", "office chair", "armchair", "arm chair", "armchairs", "occasional chair", "tub chair", "lounge chair", "a chair", "the chair", "reading chair", "comfy chair"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mirror",
+      "aliases": ["mirrors", "the mirror", "bathroom mirror", "vanity mirror", "full length mirror", "full-length mirror", "makeup mirror", "make-up mirror", "magnifying mirror", "shaving mirror", "wall mirror", "big mirror", "lit mirror", "backlit mirror", "led mirror", "mirror with light", "fogless mirror", "demister mirror"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bed linen",
+      "aliases": ["linen", "sheets", "bed sheets", "bedsheets", "bedding", "fitted sheet", "flat sheet", "pillowcases", "pillow cases", "pillowcase", "white sheets", "crisp sheets", "linen sheets", "egyptian cotton sheets", "high thread count sheets", "clean sheets", "fresh sheets"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bedside tables",
+      "aliases": ["bedside table", "bedsides", "nightstand", "nightstands", "night stand", "bedside drawers", "bedside drawer", "bedside cabinet", "bedside cabinets", "bedside unit"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bedside lamps",
+      "aliases": ["lamp", "lamps", "bedside lamp", "reading lamp", "reading lamps", "reading light", "reading lights", "bedside light", "bedside lights", "table lamp", "table lamps", "floor lamp", "standing lamp", "desk lamp", "night light"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Telephone",
+      "aliases": ["phone", "phones", "landline", "room phone", "bedside phone", "the phone", "a phone", "hotel phone", "telephones", "phone to reception"],
+      "tier": "uncommon",
+      "note": "On the official amenity list."
+    },
+    {
+      "canonical": "Curtains",
+      "aliases": ["curtain", "the curtains", "blinds", "the blinds", "blockout curtains", "block-out curtains", "block out curtains", "blackout curtains", "blockout blinds", "block out blinds", "block-out blinds", "blackout blinds", "sheer curtains", "sheers", "drapes", "roller blinds", "roller blind", "motorised blinds", "electric blinds"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Carpet",
+      "aliases": ["carpets", "carpeting", "the carpet", "rug", "rugs", "floor", "the floor", "flooring", "floorboards", "floor boards", "timber floors", "timber floor", "tiles", "tiled floor", "bathroom tiles"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Artwork",
+      "aliases": ["art", "the art", "painting", "paintings", "print", "prints", "framed prints", "picture", "pictures", "pictures on the wall", "photograph", "photographs", "photos", "wall art", "local art", "surf art", "surf photography", "coastal art", "coastal artwork", "beach photo", "framed photo"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Window",
+      "aliases": ["windows", "the window", "big windows", "big window", "floor to ceiling windows", "floor-to-ceiling windows", "floor to ceiling glass", "glass doors", "glass door", "sliding door", "sliding doors", "sliding glass door", "sliding glass doors", "glass wall", "picture window", "bifold doors", "bi-fold doors", "balcony door", "balcony doors"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lights",
+      "aliases": ["light", "lighting", "the lights", "light switch", "light switches", "switches", "downlights", "down lights", "ceiling lights", "ceiling light", "bedside switches", "master switch", "mood lighting", "dimmer", "dimmers", "dimmer switch"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Key card",
+      "aliases": ["key", "keys", "room key", "room keys", "keycard", "keycards", "key cards", "swipe card", "swipe cards", "access card", "door key", "the key", "card key", "key card slot", "card slot for the power", "power card slot"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Do Not Disturb sign",
+      "aliases": ["do-not-disturb sign", "do not disturb", "do-not-disturb", "dnd sign", "dnd", "door hanger", "door sign", "make up room sign", "please make up room sign", "privacy sign", "do not disturb light", "do not disturb button", "do not disturb card", "door tag"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Room service menu",
+      "aliases": ["room service", "in-room dining menu", "in room dining menu", "in-room dining", "in room dining", "menu", "menus", "the menu", "dining menu", "breakfast menu", "breakfast card", "breakfast door hanger", "breakfast order card", "breakfast in bed", "breakfast tray", "breakfast in room", "food", "room service food", "room service tray", "room service trolley"],
+      "tier": "uncommon",
+      "note": "Room service and breakfast-in-room are listed by booking sites."
+    },
+    {
+      "canonical": "Notepad and pen",
+      "aliases": ["notepad", "note pad", "notepads", "pen", "pens", "pencil", "pencils", "paper", "stationery", "stationary", "writing pad", "notepaper", "note paper", "pen and paper", "pad and pen", "racv pen", "racv notepad", "branded pen", "hotel pen", "a pen", "free pen"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hangers",
+      "aliases": ["hanger", "coat hanger", "coat hangers", "coathangers", "coathanger", "clothes hanger", "clothes hangers", "wooden hangers", "wooden coat hangers", "anti-theft hangers", "anti theft hangers", "those annoying hangers", "hangers you can't steal", "hangers that don't come off", "hangers with no hook"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bottled water",
+      "aliases": ["water", "water bottle", "water bottles", "bottle of water", "bottles of water", "complimentary water", "free water", "mineral water", "still water", "sparkling water", "spring water", "water jug", "jug of water", "carafe", "water carafe", "glass water bottle", "glass bottle of water", "filtered water"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Coffee pods",
+      "aliases": ["pods", "pod", "coffee pod", "nespresso pods", "nespresso pod", "nespresso capsules", "coffee capsules", "capsules", "capsule", "pods for the machine", "complimentary pods", "free pods", "two pods", "only two pods", "pod coffee"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Milk",
+      "aliases": ["milks", "milk pods", "milk portions", "long life milk", "long-life milk", "uht milk", "little milks", "mini milks", "milk sachets", "milk capsules", "milk tubs", "creamer", "milk in the fridge", "fresh milk", "those little milks", "milk for the tea", "oat milk", "almond milk"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Sugar",
+      "aliases": ["sugar sachets", "sugar sticks", "sugar packets", "raw sugar", "sweetener", "sweeteners", "equal", "stevia", "sugar and sweetener", "sugars", "sugar sachet"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Biscuits",
+      "aliases": ["biscuit", "bikkies", "bickies", "bikkie", "cookies", "cookie", "shortbread", "complimentary biscuits", "free biscuits", "little biscuits", "packet of biscuits", "biscuits with the tea", "anzac biscuits", "tim tams", "arnott's biscuits", "arnotts biscuits", "two biscuits", "the two biscuits"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Glasses",
+      "aliases": ["glass", "glassware", "wine glasses", "wine glass", "tumbler", "tumblers", "water glasses", "water glass", "drinking glasses", "drinking glass", "champagne flutes", "champagne glasses", "flutes", "beer glasses", "beer glass", "whisky glasses"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mugs",
+      "aliases": ["mug", "cups", "cup", "coffee cups", "coffee cup", "coffee mugs", "coffee mug", "tea cups", "teacups", "tea cup", "espresso cups", "saucers", "cups and saucers", "paper cups"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Toilet paper",
+      "aliases": ["toilet roll", "toilet rolls", "loo paper", "loo roll", "loo rolls", "dunny roll", "dunny paper", "tp", "bog roll", "spare toilet rolls", "spare toilet roll", "spare toilet paper", "toilet tissue", "folded toilet paper", "toilet paper folded into a point", "toilet paper triangle", "the little fold in the toilet paper"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tissues",
+      "aliases": ["tissue", "tissue box", "tissue boxes", "box of tissues", "kleenex", "facial tissues", "sorbent", "tissues box"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bin",
+      "aliases": ["bins", "rubbish bin", "rubbish bins", "waste bin", "wastebasket", "waste basket", "wastepaper basket", "waste paper basket", "waste paper bin", "trash can", "garbage bin", "bathroom bin", "bin liner", "bin liners", "recycling bin", "recycling", "the bin"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Spa bath",
+      "aliases": ["spa", "the spa", "spa baths", "spa tub", "jacuzzi", "roman spa bath", "roman bath", "deep soak roman spa bath", "deep-soak roman spa bath", "deep soak spa", "jet bath", "whirlpool bath", "hot tub", "two person spa", "corner spa", "spa bath in the suite", "bubble bath"],
+      "tier": "uncommon",
+      "note": "Ocean Spa Suites have a 'deep-soak Roman spa bath' (RACV wording). Keep separate from plain Bath."
+    },
+    {
+      "canonical": "Heater",
+      "aliases": ["heating", "heat", "heaters", "central heating", "underfloor heating", "heated floors", "heated floor", "heated bathroom floor", "panel heater", "warmth", "the heating"],
+      "tier": "uncommon",
+      "note": "RACV lists 'Aircon / Heating'. Underfloor heating unverified; accept."
+    },
+    {
+      "canonical": "Wine",
+      "aliases": ["bottle of wine", "a bottle of wine", "wines", "complimentary wine", "free wine", "local wine", "red wine", "white wine", "sparkling wine", "sparkling", "champagne", "bubbles", "bottle of bubbles", "prosecco", "pinot", "pinot noir", "shiraz", "chardonnay", "sauv blanc", "sauvignon blanc", "wine on arrival", "member wine", "welcome wine", "minibar wine", "bellarine wine", "geelong wine", "surf coast wine"],
+      "tier": "uncommon",
+      "note": "Minibar stocks wine; Broadsheet (2021) noted a bottle of wine on arrival for RACV members."
+    },
+    {
+      "canonical": "Cushions",
+      "aliases": ["cushion", "throw cushions", "throw cushion", "scatter cushions", "scatter cushion", "decorative cushions", "throw pillows", "throw pillow", "bed cushions", "cushions on the bed", "too many cushions", "all the cushions", "a million cushions", "pointless cushions"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mattress",
+      "aliases": ["mattresses", "the mattress", "mattress topper", "pillow top mattress", "pillowtop mattress", "comfy mattress", "firm mattress"],
+      "tier": "rare",
+      "note": "Host may merge with Bed if the table objects."
+    },
+    {
+      "canonical": "Blanket",
+      "aliases": ["blankets", "spare blanket", "spare blankets", "extra blanket", "extra blankets", "throw", "throws", "throw rug", "throw blanket", "woollen blanket", "wool blanket", "blanket in the wardrobe", "blanket in the cupboard", "spare blanket in the wardrobe", "electric blanket", "picnic rug"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Alarm clock",
+      "aliases": ["clock", "clocks", "the clock", "clock radio", "bedside clock", "digital clock", "radio", "alarm", "alarm clock radio", "alarm clocks"],
+      "tier": "rare",
+      "note": "'Alarm clock' is on RACV's own amenity list."
+    },
+    {
+      "canonical": "TV remote",
+      "aliases": ["remote", "remotes", "the remote", "remote control", "remote controls", "tv remote control", "tv controller", "television remote", "tv remotes", "remote with dead batteries"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Foxtel",
+      "aliases": ["pay tv", "cable tv", "cable", "foxtel channels", "netflix", "streaming", "streaming services", "digital tv", "tv channels", "channels", "free to air", "free-to-air", "chromecast", "casting", "in-house movies", "movies", "pay per view movies", "sports channels", "fox sports", "kayo", "stan", "youtube on the tv"],
+      "tier": "rare",
+      "note": "Foxtel itself is unconfirmed (listings say 'digital TV service'); accept any TV-channel/streaming answer here."
+    },
+    {
+      "canonical": "Coffee table",
+      "aliases": ["coffee tables", "side table", "side tables", "occasional table", "lamp table", "little table", "low table", "the coffee table"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "TV unit",
+      "aliases": ["tv cabinet", "entertainment unit", "console", "credenza", "sideboard", "tv stand", "buffet", "tv bench", "media unit", "tv console"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Balcony furniture",
+      "aliases": ["outdoor chairs", "outdoor chair", "outdoor table", "outdoor setting", "outdoor furniture", "outdoor seating", "balcony chairs", "balcony chair", "balcony table", "balcony setting", "deck chairs", "deck chair", "sun lounge", "sun lounger", "outdoor lounge", "table and chairs on the balcony", "chairs on the balcony"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bath mat",
+      "aliases": ["bathmat", "bath mats", "shower mat", "non-slip mat", "non slip mat", "floor towel", "bath rug", "the bath mat"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Basin",
+      "aliases": ["basins", "sink", "sinks", "vanity", "vanity unit", "the vanity", "washbasin", "wash basin", "hand basin", "double basin", "double vanity", "twin basins", "twin vanity", "two sinks", "double sinks", "tap", "taps", "tapware", "mixer tap", "faucet", "bench", "benchtop", "bathroom bench", "stone benchtop", "stone bench", "marble vanity", "marble benchtop"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Shower cap",
+      "aliases": ["shower caps", "bath cap", "hair cap", "a shower cap", "the shower cap"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Vanity kit",
+      "aliases": ["cotton buds", "cotton tips", "cotton bud", "q-tips", "qtips", "cotton balls", "cotton pads", "cotton wool", "ear buds", "earbuds", "nail file", "emery board", "vanity pack", "vanity bag", "amenity kit", "amenities kit", "make-up remover", "makeup remover", "makeup remover wipes", "make up wipes", "makeup wipes", "hair ties", "hair tie", "comb", "combs", "hairbrush", "hair brush", "little kits", "those little kits in the bathroom"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dental kit",
+      "aliases": ["toothbrush", "toothbrushes", "toothpaste", "toothbrush and toothpaste", "toothbrush kit", "dental pack", "dental kits", "mini toothpaste", "mouthwash", "floss", "dental floss", "a toothbrush"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Shaving kit",
+      "aliases": ["razor", "razors", "disposable razor", "disposable razors", "shaving cream", "shaving foam", "shaving gel", "shave kit", "shaving pack", "shaving kits", "a razor"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sewing kit",
+      "aliases": ["sewing", "sewing kits", "needle and thread", "mending kit", "sewing pack", "buttons and thread", "little sewing kit", "a sewing kit", "the sewing kit", "spare buttons"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Shoe shine kit",
+      "aliases": ["shoe shine", "shoeshine", "shoe polish", "shoe mitt", "shoe shine mitt", "shoe horn", "shoehorn", "shoe cloth", "shoe sponge", "shoe bag", "shoe bags", "shoe cleaning kit", "shoe shine sponge", "shoe shine cloth"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cutlery",
+      "aliases": ["teaspoon", "teaspoons", "spoon", "spoons", "knife", "knives", "fork", "forks", "plates", "plate", "bowls", "bowl", "crockery", "dishes", "side plates", "cheese knife", "cheese board", "chopping board", "knives and forks"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bottle opener",
+      "aliases": ["bottle openers", "corkscrew", "cork screw", "wine opener", "waiter's friend", "waiters friend", "opener", "wine key", "a bottle opener", "the bottle opener"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ice bucket",
+      "aliases": ["ice", "ice buckets", "ice bucket and tongs", "tongs", "ice tongs", "wine bucket", "champagne bucket", "wine cooler", "the ice bucket", "an ice bucket"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Luggage rack",
+      "aliases": ["luggage racks", "suitcase stand", "suitcase rack", "suitcase holder", "bag stand", "bag rack", "bag holder", "luggage stand", "luggage bench", "luggage shelf", "folding luggage rack", "the luggage rack", "a luggage rack", "suitcase thing"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Laundry bag",
+      "aliases": ["laundry bags", "laundry form", "laundry list", "laundry slip", "laundry docket", "laundry service form", "laundry price list", "laundry service", "dry cleaning bag", "dry-cleaning bag", "dry cleaning form", "valet bag", "the laundry bag", "a laundry bag"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Beach towels",
+      "aliases": ["beach towel", "pool towels", "pool towel", "striped towels", "striped towel", "racv beach towel", "beach towels in the room", "beach bag", "beach bags", "a beach towel"],
+      "tier": "rare",
+      "note": "Pool/beach towels are usually collected at the pool rather than in the room, but accept."
+    },
+    {
+      "canonical": "Power points",
+      "aliases": ["power point", "powerpoint", "powerpoints", "power outlet", "power outlets", "outlet", "outlets", "plug", "plugs", "socket", "sockets", "power sockets", "charging points", "charging point", "bedside power points", "powerpoints by the bed", "not enough powerpoints", "power points by the bed"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "USB ports",
+      "aliases": ["usb", "usb port", "usb charger", "usb chargers", "usb charging", "usb points", "usb point", "usb outlets", "usb outlet", "usb charging ports", "usb charging port", "bedside usb", "usb by the bed", "phone charger"],
+      "tier": "rare",
+      "note": "Unverified for this resort but standard in 2010s-built rooms; accept."
+    },
+    {
+      "canonical": "Smoke detector",
+      "aliases": ["smoke detectors", "smoke alarm", "smoke alarms", "fire alarm", "fire alarms", "fire detector", "the smoke alarm", "a smoke alarm"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Evacuation plan",
+      "aliases": ["evacuation map", "evacuation diagram", "evac plan", "fire evacuation plan", "fire evacuation map", "fire escape plan", "fire plan", "fire exit map", "emergency exit map", "emergency evacuation plan", "fire safety instructions", "map on the back of the door", "the map on the door", "fire exit sign", "exit sign", "emergency instructions", "evacuation instructions"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Compendium",
+      "aliases": ["guest directory", "guest compendium", "hotel directory", "room directory", "information folder", "info folder", "the folder", "folder", "guest information", "guest information folder", "services directory", "hotel information", "guest guide", "information booklet", "guest services directory", "resort directory", "resort information", "qr code", "qr code for the compendium", "tv welcome screen", "welcome screen on the tv"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bible",
+      "aliases": ["gideons bible", "gideon bible", "gideon's bible", "the bible", "a bible", "holy bible", "bible in the drawer", "gideons", "the gideons"],
+      "tier": "rare",
+      "note": "Unverified at RACV Torquay but standard hotel fare; accept."
+    },
+    {
+      "canonical": "Brochures",
+      "aliases": ["brochure", "tourist brochures", "tourist brochure", "visitor guide", "visitor guides", "great ocean road brochure", "great ocean road map", "local guide", "local guides", "maps", "map", "area map", "tourist information", "tourist info", "what's on guide", "whats on guide", "pamphlets", "pamphlet", "flyers", "flyer", "resort map", "resort guide", "activities guide", "surf coast guide", "torquay guide", "spa menu", "spa brochure", "one spa brochure"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Welcome card",
+      "aliases": ["welcome letter", "welcome note", "welcome message", "welcome card from the manager", "handwritten note", "handwritten card", "welcome gift", "welcome pack", "welcome amenity", "arrival gift", "welcome platter", "welcome treat", "note from the manager", "birthday card", "anniversary card"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sofa bed",
+      "aliases": ["sofa beds", "sofabed", "sofa-bed", "pull-out couch", "pull out couch", "pullout couch", "pull-out bed", "pull out bed", "fold-out couch", "fold out couch", "foldout couch", "fold-out bed", "fold out bed", "foldout bed", "couch bed", "click clack", "click-clack", "day bed", "daybed", "the sofa bed"],
+      "tier": "rare",
+      "note": "Family rooms sleep up to six; sofa beds plausible. Accept."
+    },
+    {
+      "canonical": "Cot",
+      "aliases": ["cots", "baby cot", "baby cots", "portacot", "porta cot", "porta-cot", "portacots", "portable cot", "travel cot", "crib", "bassinet", "baby bed", "cot on request", "a cot", "the cot"],
+      "tier": "rare",
+      "note": "Available on request."
+    },
+    {
+      "canonical": "Rollaway bed",
+      "aliases": ["rollaway", "rollaways", "rollaway beds", "roll away bed", "roll-away bed", "rollaway bed on request", "trundle", "trundle bed", "extra bed", "extra beds", "spare bed", "fold up bed", "foldup bed", "fold-up bed", "folding bed", "camp bed", "stretcher", "stretcher bed", "third bed", "single bed for the kid", "kids bed", "kid's bed"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Designer furniture",
+      "aliases": ["furniture", "the furniture", "nice furniture", "modern furniture", "luxury furnishings", "furnishings", "timber", "timber panelling", "timber paneling", "wood panelling", "wood paneling", "timber joinery", "joinery", "timber feature wall", "wooden furniture", "timber furniture", "wood", "coastal decor", "decor", "coastal styling", "interior design", "styling", "neutral tones", "beige", "fancy furniture"],
+      "tier": "rare",
+      "note": "Wood Marsh-designed resort; listings cite 'luxury furnishings'. Generic 'furniture' groups here."
+    },
+    {
+      "canonical": "RACV members",
+      "aliases": ["members", "member", "racv member", "a racv member", "other guests", "guests", "guest", "people", "tourists", "melburnians", "melbournians", "people from melbourne", "holidaymakers", "holiday makers", "families", "family", "retirees", "grey nomads", "boomers", "couples", "honeymooners", "a wedding party", "wedding guests", "conference delegates", "golfers", "golfer", "me", "you", "yourself", "us", "your partner", "the kids", "kids", "children", "a surfer", "surfers staying there"],
+      "tier": "rare",
+      "note": "People answers group here. Accept with a laugh."
+    },
+    {
+      "canonical": "Towel rail",
+      "aliases": ["towel rails", "towel rack", "towel racks", "heated towel rail", "heated towel rails", "heated towel rack", "towel ladder", "towel bar", "towel holder", "towel ring", "the towel rail"],
+      "tier": "rare",
+      "note": "Heated rail unverified; accept."
+    },
+    {
+      "canonical": "Beer",
+      "aliases": ["beers", "a beer", "minibar beer", "local beer", "craft beer", "stubbies", "stubby", "cans of beer", "tinnies", "tinny", "blackman's beer", "blackmans beer", "blackmans brewery beer", "blackman's brewery", "local craft beer", "cider", "ciders"],
+      "tier": "rare",
+      "note": "Minibar beer. Blackman's (Torquay brewery) is a plausible local stock but unconfirmed."
+    },
+    {
+      "canonical": "Door",
+      "aliases": ["doors", "the door", "front door", "entry door", "heavy door", "bathroom door", "door handle", "door handles", "doorstop", "door stop", "door frame", "a door", "self-closing door", "heavy self closing door"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Housekeeping",
+      "aliases": ["housekeeper", "housekeepers", "cleaner", "cleaners", "the cleaner", "room attendant", "room attendants", "housekeeping staff", "housekeeping trolley", "housekeeping cart", "maid", "cleaning staff", "staff", "hotel staff", "room service waiter", "porter", "concierge", "the housekeeper"],
+      "tier": "rare",
+      "note": "People who'd be in the room. Accept."
+    },
+    {
+      "canonical": "Pillow menu",
+      "aliases": ["pillow menus", "the pillow menu", "a pillow menu", "choice of pillows", "pillow selection", "pillow options", "pillow choices", "different pillows to choose from", "pillow card", "pillow list", "menu of pillows", "a menu of pillows", "menu for pillows"],
+      "tier": "deep",
+      "note": "Genuine deep cut: RACV lists a pillow menu in Premium Ocean View rooms and Ocean Spa Suites. Keep separate from Pillows."
+    },
+    {
+      "canonical": "L'Occitane toiletries",
+      "aliases": ["l'occitane", "l’occitane", "loccitane", "l occitane", "l'occitane products", "l'occitane amenities", "l'occitane shampoo", "l'occitane soap", "l'occitane en provence", "loccitane toiletries", "loccitane products", "l'occitane stuff", "the l'occitane"],
+      "tier": "deep",
+      "note": "Jetstar Holidays listing names L'Occitane bathroom amenities in premium rooms; RACV says 'premium bathroom amenities'. Brands rotate, so accept. Any other brand name goes to Toiletries."
+    },
+    {
+      "canonical": "Juliet balcony",
+      "aliases": ["juliette balcony", "juliet balconies", "french balcony", "juliet", "balconette", "a juliet balcony", "the juliet balcony", "fake balcony", "balcony you can't stand on"],
+      "tier": "deep",
+      "note": "RACV: Premium Ocean View rooms have 'either a Juliet or conventional balcony'. Merging with Balcony is defensible if the table insists."
+    },
+    {
+      "canonical": "Smartphone dock",
+      "aliases": ["phone dock", "ipod dock", "iphone dock", "docking station", "speaker dock", "phone docking station", "bluetooth speaker", "speaker", "speakers", "sound system", "stereo", "ipod docking station", "a phone dock", "the phone dock"],
+      "tier": "deep",
+      "note": "'Smartphone Dock' is on RACV's own Golf View room amenity list. A genuine deep cut."
+    },
+    {
+      "canonical": "Soundproofing",
+      "aliases": ["soundproof", "sound proofing", "sound-proofing", "soundproof walls", "soundproofed room", "soundproofed walls", "double glazing", "double-glazing", "double glazed windows", "double-glazed windows", "thick walls", "quiet", "silence", "peace and quiet", "no noise", "insulation"],
+      "tier": "deep",
+      "note": "Hotels.com lists soundproofing for Ocean View rooms. Accept."
+    },
+    {
+      "canonical": "Interconnecting door",
+      "aliases": ["connecting door", "adjoining door", "interconnecting doors", "interconnecting rooms", "interconnecting room", "connecting rooms", "connecting room", "adjoining rooms", "adjoining room", "door to the next room", "door to the kids room", "door to the kids' room", "second room", "second bedroom", "two rooms", "two bedrooms", "kids' room", "kids room", "family room", "the family room", "an interconnecting door"],
+      "tier": "deep",
+      "note": "Family rooms are two standard rooms joined by an interconnecting door. Genuine deep cut."
+    },
+    {
+      "canonical": "Dining table",
+      "aliases": ["dining tables", "dining setting", "dining chairs", "dining area", "table and chairs", "dinner table", "a dining table", "the dining table", "kitchenette", "kitchen", "bench seating"],
+      "tier": "deep",
+      "note": "Suites have a separate living area; a dining setting is plausible but not confirmed on RACV's pages. Host discretion."
+    },
+    {
+      "canonical": "Ottoman",
+      "aliases": ["ottomans", "footstool", "foot stool", "footstools", "pouffe", "pouf", "bench seat", "window seat", "end of bed bench", "bed end bench", "bed-end bench", "bedroom bench", "stool", "stools", "an ottoman", "the ottoman"],
+      "tier": "deep",
+      "note": "Unverified but standard in this grade of room. Host discretion."
+    },
+    {
+      "canonical": "Peephole",
+      "aliases": ["peep hole", "peepholes", "spy hole", "spyhole", "door viewer", "door peephole", "the peephole", "a peephole", "eye hole in the door", "little hole in the door"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Security latch",
+      "aliases": ["door chain", "safety chain", "security chain", "chain on the door", "deadlock", "dead lock", "deadbolt", "dead bolt", "door lock", "lock", "locks", "latch", "safety latch", "door bolt", "security lock", "privacy latch", "swing bar lock", "the lock on the door"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sprinkler",
+      "aliases": ["sprinklers", "fire sprinkler", "fire sprinklers", "sprinkler system", "sprinkler head", "sprinkler heads", "the sprinkler", "fire sprinkler system"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sanitary bags",
+      "aliases": ["sanitary bag", "sanitary disposal bag", "sanitary disposal bags", "hygiene bag", "hygiene bags", "sanitary bin", "sanitary disposal", "sanitary disposal unit", "nappy bags", "nappy bag", "disposal bags", "disposal bag", "little paper bags in the bathroom", "the little bags in the bathroom"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hooks",
+      "aliases": ["hook", "coat hooks", "coat hook", "robe hooks", "robe hook", "wall hooks", "wall hook", "towel hooks", "towel hook", "hooks on the door", "door hooks", "door hook", "hooks on the back of the door", "hook on the back of the door", "hook on the door"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Toilet brush",
+      "aliases": ["toilet brushes", "loo brush", "dunny brush", "bog brush", "toilet brush holder", "the toilet brush", "a toilet brush"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "RoyalAuto magazine",
+      "aliases": ["royalauto", "royal auto", "royal auto magazine", "racv magazine", "racv mag", "the racv mag", "the racv magazine", "member magazine", "members magazine", "magazine", "magazines", "a magazine", "racv brochure", "racv brochures", "racv flyer", "racv newsletter", "racv member magazine", "racv insurance brochure", "racv membership brochure"],
+      "tier": "deep",
+      "note": "RACV's member magazine (RoyalAuto) in a RACV resort room is plausible but unverified. Host discretion; any RACV-branded reading material groups here."
+    },
+    {
+      "canonical": "Dining voucher",
+      "aliases": ["dining vouchers", "dining credit", "dining credit voucher", "member dining credit", "$30 dining credit", "food voucher", "food vouchers", "breakfast voucher", "breakfast vouchers", "voucher", "vouchers", "drink voucher", "drinks voucher", "drink vouchers", "spa voucher", "spa vouchers", "discount voucher", "member voucher", "member vouchers", "coupon", "coupons"],
+      "tier": "deep",
+      "note": "Broadsheet (2021) cites a $30/day dining credit for RACV members; breakfast vouchers are left in rooms on packages. Accept."
+    },
+    {
+      "canonical": "Feedback form",
+      "aliases": ["feedback forms", "guest survey", "survey", "comment card", "comment cards", "feedback card", "guest feedback form", "review card", "review request", "tripadvisor card", "rate your stay card", "guest questionnaire", "questionnaire", "the feedback form", "a feedback form"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Turndown chocolate",
+      "aliases": ["chocolate on the pillow", "chocolate on pillow", "chocolate on your pillow", "pillow chocolate", "pillow chocolates", "turndown chocolates", "mint on the pillow", "pillow mint", "turndown", "turndown service", "turn down service", "turn-down service", "turndown treat", "a chocolate on the pillow", "the chocolate on the pillow"],
+      "tier": "deep",
+      "note": "Turndown service is not confirmed at RACV Torquay. Host discretion: accept as a hotel-room classic, but it is not a verified RACV item."
+    },
+    {
+      "canonical": "Umbrella",
+      "aliases": ["umbrellas", "brolly", "brollies", "hotel umbrella", "racv umbrella", "umbrella in the wardrobe", "umbrella in the cupboard", "golf umbrella", "an umbrella", "the umbrella", "loan umbrella"],
+      "tier": "deep",
+      "note": "Unverified for this resort; a loan umbrella in the wardrobe is standard at this grade and it's the Surf Coast in winter. Host discretion."
+    }
+  ],
+  "hostNotes": "Any plausible hotel-room item is correct; rarity among the room does the scoring, so the bank mostly merges variants. Confirmed RACV Torquay specifics worth rewarding when unique: Nespresso machine, locally sourced gourmet minibar, robes and slippers, pillow menu, deep-soak Roman spa bath (Ocean Spa Suites), Juliet balcony, smartphone dock, alarm clock, L'Occitane amenities (per a Jetstar listing; brands rotate), interconnecting family rooms, soundproofing. Traps: bare 'robe' = bathrobe not wardrobe; unspecified 'a view' groups with Ocean view (golf course view is separate); 'table' groups with Desk; 'spa' means spa bath; 'chocolate' = minibar unless they say pillow. Entries noted as unverified (Bible, umbrella, turndown chocolate, RoyalAuto magazine, ottoman, dining table, Foxtel) are host-discretion accepts. Brought-in items (surfboards, wetsuits, golf clubs) and gags (sand, a hangover, Rip Curl bags) are host's call; group people answers under RACV members or Housekeeping."
+}

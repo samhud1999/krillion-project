@@ -1,0 +1,1273 @@
+{
+  "id": "s1-deadly-animal",
+  "text": "Name an Australian animal that could kill you.",
+  "type": "open",
+  "category": "starter",
+  "approved": true,
+  "answers": [
+    {
+      "canonical": "Eastern Brown Snake",
+      "aliases": [
+        "eastern brown",
+        "brown snake",
+        "brown snakes",
+        "common brown snake",
+        "brown",
+        "browns",
+        "eastern brown snakes",
+        "pseudonaja textilis"
+      ],
+      "tier": "common",
+      "note": "Responsible for more Australian snakebite deaths than any other species. Unqualified 'brown snake' lands here."
+    },
+    {
+      "canonical": "Tiger Snake",
+      "aliases": [
+        "tiger",
+        "tigers",
+        "tiger snakes",
+        "mainland tiger snake",
+        "eastern tiger snake",
+        "western tiger snake",
+        "black tiger snake",
+        "chappell island tiger snake",
+        "tasmanian tiger snake",
+        "peninsula tiger snake",
+        "krefft's tiger snake",
+        "notechis scutatus",
+        "notechis"
+      ],
+      "tier": "common",
+      "note": "The Victorian snake; common around the Otways and coastal swamps. All tiger snake forms grouped here."
+    },
+    {
+      "canonical": "Inland Taipan",
+      "aliases": [
+        "inland taipans",
+        "fierce snake",
+        "fierce snakes",
+        "small-scaled snake",
+        "small scaled snake",
+        "western taipan",
+        "oxyuranus microlepidotus",
+        "most venomous snake in the world"
+      ],
+      "tier": "common",
+      "note": "Most toxic land snake venom in the world; no recorded deaths because of its remote range and shy nature."
+    },
+    {
+      "canonical": "Coastal Taipan",
+      "aliases": [
+        "taipan",
+        "taipans",
+        "eastern taipan",
+        "common taipan",
+        "coastal taipans",
+        "oxyuranus scutellatus"
+      ],
+      "tier": "uncommon",
+      "note": "Unqualified 'taipan' lands here. Host may merge all taipans into one bucket if the table prefers."
+    },
+    {
+      "canonical": "Red-bellied Black Snake",
+      "aliases": [
+        "red belly black snake",
+        "red bellied black snake",
+        "red-belly black snake",
+        "red belly black",
+        "red-bellied black",
+        "red bellied black",
+        "red belly",
+        "redbelly",
+        "red-belly",
+        "rbbs",
+        "black snake",
+        "black snakes",
+        "pseudechis porphyriacus"
+      ],
+      "tier": "common",
+      "note": "Rarely fatal but dangerously venomous; unqualified 'black snake' lands here."
+    },
+    {
+      "canonical": "Death Adder",
+      "aliases": [
+        "death adders",
+        "common death adder",
+        "northern death adder",
+        "desert death adder",
+        "deaf adder",
+        "death adder snake",
+        "acanthophis",
+        "acanthophis antarcticus"
+      ],
+      "tier": "uncommon",
+      "note": "Ambush predator with the fastest strike of any Australian snake; all death adder species grouped here."
+    },
+    {
+      "canonical": "King Brown Snake",
+      "aliases": [
+        "king brown",
+        "king browns",
+        "mulga snake",
+        "mulga",
+        "mulga snakes",
+        "pseudechis australis"
+      ],
+      "tier": "uncommon",
+      "note": "Actually a black snake despite the name; delivers the largest venom yield of any Australian snake."
+    },
+    {
+      "canonical": "Copperhead",
+      "aliases": [
+        "copperheads",
+        "copperhead snake",
+        "lowland copperhead",
+        "highland copperhead",
+        "pygmy copperhead",
+        "australian copperhead",
+        "austrelaps",
+        "austrelaps superbus"
+      ],
+      "tier": "uncommon",
+      "note": "Victoria's cold-tolerant local; found around Lorne and the Otways. All three copperhead species grouped."
+    },
+    {
+      "canonical": "Western Brown Snake",
+      "aliases": [
+        "western brown",
+        "gwardar",
+        "gwardars",
+        "western browns",
+        "pseudonaja nuchalis",
+        "pseudonaja mengdeni"
+      ],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dugite",
+      "aliases": [
+        "dugites",
+        "spotted brown snake",
+        "pseudonaja affinis"
+      ],
+      "tier": "rare",
+      "note": "WA's brown snake; a Perth transplant may offer it."
+    },
+    {
+      "canonical": "Rough-scaled Snake",
+      "aliases": [
+        "rough scaled snake",
+        "rough-scaled snakes",
+        "clarence river snake",
+        "tropidechis carinatus"
+      ],
+      "tier": "deep",
+      "note": "Often mistaken for a harmless keelback; has caused human deaths."
+    },
+    {
+      "canonical": "Eastern Small-eyed Snake",
+      "aliases": [
+        "small-eyed snake",
+        "small eyed snake",
+        "small-eyed snakes",
+        "cryptophis nigrescens"
+      ],
+      "tier": "deep",
+      "note": "At least one recorded death; myotoxic venom."
+    },
+    {
+      "canonical": "Collett's Snake",
+      "aliases": [
+        "colletts snake",
+        "collett's black snake",
+        "colletts black snake",
+        "collett snake",
+        "pseudechis colletti"
+      ],
+      "tier": "deep",
+      "note": "Queensland black snake; bites have caused life-threatening kidney failure and coagulopathy."
+    },
+    {
+      "canonical": "Spotted Black Snake",
+      "aliases": [
+        "blue-bellied black snake",
+        "blue bellied black snake",
+        "blue belly black snake",
+        "spotted black snakes",
+        "pseudechis guttatus"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pale-headed Snake",
+      "aliases": [
+        "pale headed snake",
+        "pale-headed snakes",
+        "hoplocephalus bitorquatus"
+      ],
+      "tier": "deep",
+      "note": "Arboreal eastern snake; potentially lethal coagulopathy."
+    },
+    {
+      "canonical": "Broad-headed Snake",
+      "aliases": [
+        "broad headed snake",
+        "broad-headed snakes",
+        "hoplocephalus bungaroides"
+      ],
+      "tier": "deep",
+      "note": "Endangered Sydney sandstone specialist; dangerously venomous."
+    },
+    {
+      "canonical": "Stephens' Banded Snake",
+      "aliases": [
+        "stephens banded snake",
+        "stephen's banded snake",
+        "stephens' banded snakes",
+        "stephens banded",
+        "hoplocephalus stephensii"
+      ],
+      "tier": "deep",
+      "note": "Bites have caused severe coagulopathy; potentially lethal."
+    },
+    {
+      "canonical": "Central Ranges Taipan",
+      "aliases": [
+        "western desert taipan",
+        "central ranges taipans",
+        "oxyuranus temporalis"
+      ],
+      "tier": "deep",
+      "note": "Third taipan species, only described in 2007 from the WA/NT border deserts."
+    },
+    {
+      "canonical": "Curl Snake",
+      "aliases": [
+        "curl snakes",
+        "myall snake",
+        "myall snakes",
+        "suta suta"
+      ],
+      "tier": "deep",
+      "note": "Inland snake listed as potentially dangerous to humans; a reasonable deep cut."
+    },
+    {
+      "canonical": "Speckled Brown Snake",
+      "aliases": [
+        "speckled brown",
+        "speckled brown snakes",
+        "pseudonaja guttata"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Strap-snouted Brown Snake",
+      "aliases": [
+        "strap snouted brown snake",
+        "strap-snouted brown",
+        "pseudonaja aspidorhyncha"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Peninsula Brown Snake",
+      "aliases": [
+        "peninsula brown",
+        "peninsula brown snakes",
+        "pseudonaja inframacula"
+      ],
+      "tier": "deep",
+      "note": "Eyre and Yorke Peninsula, SA."
+    },
+    {
+      "canonical": "Ingram's Brown Snake",
+      "aliases": [
+        "ingrams brown snake",
+        "ingram's brown",
+        "ingrams brown",
+        "pseudonaja ingrami"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sea Snake",
+      "aliases": [
+        "sea snakes",
+        "seasnake",
+        "seasnakes",
+        "sea-snake"
+      ],
+      "tier": "uncommon",
+      "note": "Generic answer; specific species have their own entries below. Host may merge all sea snakes."
+    },
+    {
+      "canonical": "Yellow-bellied Sea Snake",
+      "aliases": [
+        "yellow bellied sea snake",
+        "yellow-bellied sea snakes",
+        "hydrophis platurus",
+        "pelamis platurus"
+      ],
+      "tier": "deep",
+      "note": "Washes up on Victorian beaches occasionally; highly venomous."
+    },
+    {
+      "canonical": "Beaked Sea Snake",
+      "aliases": [
+        "beaked sea snakes",
+        "hook-nosed sea snake",
+        "hook nosed sea snake",
+        "hydrophis schistosus",
+        "enhydrina schistosa"
+      ],
+      "tier": "deep",
+      "note": "Responsible for most sea snake deaths worldwide."
+    },
+    {
+      "canonical": "Olive Sea Snake",
+      "aliases": [
+        "olive sea snakes",
+        "golden sea snake",
+        "aipysurus laevis"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Stokes' Sea Snake",
+      "aliases": [
+        "stokes sea snake",
+        "stoke's sea snake",
+        "stokes' sea snakes",
+        "hydrophis stokesii"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Snake",
+      "aliases": [
+        "snakes",
+        "a snake",
+        "venomous snake",
+        "venomous snakes",
+        "any snake"
+      ],
+      "tier": "common",
+      "note": "Generic answer with no species. Recommend scoring as its own bucket, or merge into Eastern Brown Snake if the table agrees."
+    },
+    {
+      "canonical": "Sydney Funnel-web Spider",
+      "aliases": [
+        "sydney funnel web",
+        "sydney funnel-web",
+        "sydney funnelweb",
+        "sydney funnel web spider",
+        "sydney funnelweb spider",
+        "funnel web",
+        "funnel-web",
+        "funnelweb",
+        "funnel web spider",
+        "funnel-web spider",
+        "funnelweb spider",
+        "funnel webs",
+        "funnel-webs",
+        "funnelwebs",
+        "funnel web spiders",
+        "atrax robustus",
+        "atrax"
+      ],
+      "tier": "common",
+      "note": "13 recorded deaths, none since antivenom in 1981. Unqualified 'funnel-web' lands here."
+    },
+    {
+      "canonical": "Redback Spider",
+      "aliases": [
+        "redback",
+        "redbacks",
+        "red back",
+        "red backs",
+        "red-back",
+        "red back spider",
+        "red-back spider",
+        "redback spiders",
+        "red back spiders",
+        "latrodectus hasselti"
+      ],
+      "tier": "common",
+      "note": "Historically fatal (about 14 deaths pre-antivenom, 1956); a disputed 2016 death. Accept."
+    },
+    {
+      "canonical": "Northern Tree Funnel-web Spider",
+      "aliases": [
+        "northern tree funnel web",
+        "northern tree funnel-web",
+        "northern tree funnelweb",
+        "northern funnel web",
+        "northern funnel-web",
+        "tree funnel web",
+        "tree funnel-web",
+        "tree funnelweb",
+        "hadronyche formidabilis"
+      ],
+      "tier": "deep",
+      "note": "Largest and one of the most toxic funnel-webs; northern NSW and SE Queensland."
+    },
+    {
+      "canonical": "Blue Mountains Funnel-web Spider",
+      "aliases": [
+        "blue mountains funnel web",
+        "blue mountains funnel-web",
+        "blue mountains funnelweb",
+        "hadronyche versuta"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Newcastle Funnel-web Spider",
+      "aliases": [
+        "newcastle funnel web",
+        "newcastle funnel-web",
+        "newcastle funnelweb",
+        "big boy funnel web",
+        "big boy funnel-web",
+        "big boy",
+        "big boys",
+        "newcastle big boy",
+        "atrax christenseni"
+      ],
+      "tier": "deep",
+      "note": "Described January 2025 as a separate species (Atrax christenseni), bigger than the Sydney funnel-web with longer fangs. Very current deep cut."
+    },
+    {
+      "canonical": "Southern Tree Funnel-web Spider",
+      "aliases": [
+        "southern tree funnel web",
+        "southern tree funnel-web",
+        "southern tree funnelweb",
+        "hadronyche cerberea"
+      ],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mouse Spider",
+      "aliases": [
+        "mouse spiders",
+        "red-headed mouse spider",
+        "red headed mouse spider",
+        "eastern mouse spider",
+        "missulena"
+      ],
+      "tier": "rare",
+      "note": "Venom similar to funnel-web venom; funnel-web antivenom works on it. Found in Victoria."
+    },
+    {
+      "canonical": "Spider",
+      "aliases": [
+        "spiders",
+        "a spider",
+        "venomous spider",
+        "venomous spiders"
+      ],
+      "tier": "uncommon",
+      "note": "Generic answer with no species. Score as its own bucket or merge into Sydney Funnel-web Spider if the table agrees."
+    },
+    {
+      "canonical": "Box Jellyfish",
+      "aliases": [
+        "box jelly",
+        "box jellies",
+        "box jellyfishes",
+        "boxie",
+        "boxies",
+        "boxy",
+        "sea wasp",
+        "sea wasps",
+        "chironex",
+        "chironex fleckeri",
+        "stinger",
+        "stingers",
+        "marine stinger",
+        "marine stingers",
+        "box jelly fish"
+      ],
+      "tier": "common",
+      "note": "Roughly 70 recorded Australian deaths, the most of any venomous animal here. 'Stinger' lands here."
+    },
+    {
+      "canonical": "Irukandji",
+      "aliases": [
+        "irukandji jellyfish",
+        "irukandjis",
+        "irukanji",
+        "irukandgi",
+        "irakandji",
+        "irukandji jelly",
+        "carukia barnesi",
+        "carukia"
+      ],
+      "tier": "uncommon",
+      "note": "Two confirmed deaths in 2002. Thumbnail-sized; expanding range south along the Queensland coast."
+    },
+    {
+      "canonical": "Morbakka",
+      "aliases": [
+        "morbakka fenneri",
+        "morbakka jellyfish",
+        "moreton bay stinger",
+        "fire jelly"
+      ],
+      "tier": "deep",
+      "note": "Large Irukandji-syndrome jellyfish named for Moreton Bay; a genuine deep cut."
+    },
+    {
+      "canonical": "Malo kingi",
+      "aliases": [
+        "malo kingi jellyfish",
+        "common kingslayer",
+        "kingslayer",
+        "kingslayer jellyfish"
+      ],
+      "tier": "deep",
+      "note": "Irukandji species named after Robert King, the US tourist it killed off Port Douglas in 2002."
+    },
+    {
+      "canonical": "Blue-ringed Octopus",
+      "aliases": [
+        "blue ringed octopus",
+        "blue ring octopus",
+        "blue-ring octopus",
+        "blue ringed octopi",
+        "blue-ringed octopuses",
+        "blue ring",
+        "blue rings",
+        "blue ringed",
+        "blue-ringed",
+        "blue-lined octopus",
+        "blue lined octopus",
+        "southern blue-ringed octopus",
+        "greater blue-ringed octopus",
+        "octopus",
+        "octopi",
+        "hapalochlaena",
+        "bro"
+      ],
+      "tier": "common",
+      "note": "Tetrodotoxin; about three recorded Australian deaths, no antivenom. Unqualified 'octopus' lands here. Lives in Victorian rock pools."
+    },
+    {
+      "canonical": "Cone Snail",
+      "aliases": [
+        "cone snails",
+        "cone shell",
+        "cone shells",
+        "coneshell",
+        "cone",
+        "cones",
+        "geography cone",
+        "geographer cone",
+        "geographic cone",
+        "textile cone",
+        "cloth of gold cone",
+        "cigarette snail",
+        "conus geographus",
+        "conus textile",
+        "conus"
+      ],
+      "tier": "uncommon",
+      "note": "One confirmed Australian death (Hayman Island, 1935). Venom can paralyse within minutes; no antivenom."
+    },
+    {
+      "canonical": "Bluebottle",
+      "aliases": [
+        "blue bottle",
+        "bluebottles",
+        "blue bottles",
+        "portuguese man o' war",
+        "portuguese man o war",
+        "portuguese man of war",
+        "portuguese man-of-war",
+        "man o' war",
+        "man o war",
+        "man of war",
+        "man-of-war",
+        "pacific man o' war",
+        "physalia",
+        "physalia utriculus"
+      ],
+      "tier": "rare",
+      "note": "Accept but note: no confirmed Australian deaths; the Atlantic Portuguese man o' war has killed people and severe stings can cause cardiac events."
+    },
+    {
+      "canonical": "Flower Urchin",
+      "aliases": [
+        "flower sea urchin",
+        "flower urchins",
+        "toxopneustes pileolus",
+        "toxopneustes"
+      ],
+      "tier": "deep",
+      "note": "Tropical reef urchin considered the most dangerous sea urchin; envenomation has been linked to diver drownings."
+    },
+    {
+      "canonical": "Jellyfish",
+      "aliases": [
+        "jelly fish",
+        "jellies",
+        "a jellyfish",
+        "jellyfishes"
+      ],
+      "tier": "uncommon",
+      "note": "Generic answer. Score as its own bucket or merge into Box Jellyfish if the table agrees."
+    },
+    {
+      "canonical": "Stonefish",
+      "aliases": [
+        "stone fish",
+        "stonefishes",
+        "stone fishes",
+        "reef stonefish",
+        "estuarine stonefish",
+        "synanceia",
+        "synanceia verrucosa",
+        "synanceia horrida"
+      ],
+      "tier": "common",
+      "note": "Most venomous fish in the world; antivenom exists. No confirmed Australian deaths but widely accepted as potentially lethal."
+    },
+    {
+      "canonical": "Pufferfish",
+      "aliases": [
+        "puffer fish",
+        "puffer",
+        "puffers",
+        "pufferfishes",
+        "toadfish",
+        "toadfishes",
+        "toadie",
+        "toadies",
+        "toado",
+        "toadoes",
+        "blowfish",
+        "blowie",
+        "blowies",
+        "blow fish",
+        "fugu",
+        "porcupine fish",
+        "porcupinefish",
+        "smooth toadfish",
+        "common toadfish"
+      ],
+      "tier": "uncommon",
+      "note": "Kills only if eaten (tetrodotoxin); Australian deaths recorded, including fishers eating toadfish. Accept."
+    },
+    {
+      "canonical": "Lionfish",
+      "aliases": [
+        "lion fish",
+        "lionfishes",
+        "red lionfish",
+        "common lionfish",
+        "firefish",
+        "fire fish",
+        "butterfly cod",
+        "zebra lionfish",
+        "pterois",
+        "pterois volitans"
+      ],
+      "tier": "rare",
+      "note": "Venomous spines; deaths are very rare but documented. Accept."
+    },
+    {
+      "canonical": "Stingray",
+      "aliases": [
+        "sting ray",
+        "stingrays",
+        "sting rays",
+        "ray",
+        "rays",
+        "bull ray",
+        "bull rays",
+        "smooth stingray",
+        "smooth ray",
+        "short-tail stingray",
+        "short tail stingray",
+        "short-tailed stingray",
+        "eagle ray",
+        "blue-spotted ray",
+        "bluespotted ray",
+        "black stingray"
+      ],
+      "tier": "common",
+      "note": "Steve Irwin (2006) and a Tasmanian swimmer at Lauderdale (2018). Smooth stingrays cruise Victorian piers."
+    },
+    {
+      "canonical": "Great White Shark",
+      "aliases": [
+        "great white",
+        "great whites",
+        "white shark",
+        "white sharks",
+        "white pointer",
+        "white pointers",
+        "great white sharks",
+        "carcharodon carcharias",
+        "white death",
+        "gws"
+      ],
+      "tier": "common",
+      "note": "The shark most involved in fatal Australian attacks; resident along the Victorian and SA coasts."
+    },
+    {
+      "canonical": "Bull Shark",
+      "aliases": [
+        "bull sharks",
+        "river whaler",
+        "zambezi shark",
+        "carcharhinus leucas"
+      ],
+      "tier": "uncommon",
+      "note": "Swims up rivers; responsible for many Sydney Harbour and Queensland fatalities."
+    },
+    {
+      "canonical": "Tiger Shark",
+      "aliases": [
+        "tiger sharks",
+        "galeocerdo cuvier"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Whaler Shark",
+      "aliases": [
+        "whaler",
+        "whalers",
+        "whaler sharks",
+        "bronze whaler",
+        "bronze whalers",
+        "bronzie",
+        "bronzies",
+        "copper shark",
+        "dusky whaler",
+        "dusky shark",
+        "dusky whalers",
+        "carcharhinus brachyurus",
+        "carcharhinus obscurus"
+      ],
+      "tier": "rare",
+      "note": "Bronze and dusky whalers both implicated in Australian attacks, including fatal ones. Common off Victorian surf beaches."
+    },
+    {
+      "canonical": "Oceanic Whitetip Shark",
+      "aliases": [
+        "oceanic whitetip",
+        "oceanic white tip",
+        "oceanic white-tip",
+        "oceanic whitetips",
+        "carcharhinus longimanus"
+      ],
+      "tier": "deep",
+      "note": "Open-ocean shark blamed for many shipwreck deaths; present in Australian tropical waters."
+    },
+    {
+      "canonical": "Shortfin Mako",
+      "aliases": [
+        "mako",
+        "makos",
+        "mako shark",
+        "mako sharks",
+        "short fin mako",
+        "shortfin mako shark",
+        "isurus oxyrinchus"
+      ],
+      "tier": "rare",
+      "note": "Fast pelagic shark with recorded attacks on people and boats; caught off Victoria."
+    },
+    {
+      "canonical": "Great Hammerhead",
+      "aliases": [
+        "hammerhead",
+        "hammerheads",
+        "hammerhead shark",
+        "hammerhead sharks",
+        "great hammerheads",
+        "sphyrna mokarran",
+        "scalloped hammerhead",
+        "smooth hammerhead"
+      ],
+      "tier": "rare",
+      "note": "Large and potentially dangerous; unprovoked attacks recorded, fatalities doubtful. Accept with a shrug."
+    },
+    {
+      "canonical": "Shark",
+      "aliases": [
+        "sharks",
+        "a shark",
+        "any shark",
+        "noah",
+        "noahs",
+        "noah's ark",
+        "noahs ark"
+      ],
+      "tier": "common",
+      "note": "Generic answer ('Noah's ark' is rhyming slang). Score as its own bucket or merge into Great White Shark if the table agrees."
+    },
+    {
+      "canonical": "Saltwater Crocodile",
+      "aliases": [
+        "saltie",
+        "salties",
+        "salty",
+        "saltwater croc",
+        "saltwater crocs",
+        "salt water crocodile",
+        "saltwater crocodiles",
+        "estuarine crocodile",
+        "estuarine croc",
+        "croc",
+        "crocs",
+        "crocodile",
+        "crocodiles",
+        "indo-pacific crocodile",
+        "crocodylus porosus"
+      ],
+      "tier": "common",
+      "note": "Roughly one Australian death a year. Unqualified 'croc' or 'crocodile' lands here."
+    },
+    {
+      "canonical": "Freshwater Crocodile",
+      "aliases": [
+        "freshie",
+        "freshies",
+        "freshwater croc",
+        "freshwater crocs",
+        "fresh water crocodile",
+        "freshwater crocodiles",
+        "johnstone's crocodile",
+        "johnstones crocodile",
+        "johnston's crocodile",
+        "crocodylus johnstoni"
+      ],
+      "tier": "rare",
+      "note": "Weaker answer: no confirmed deaths, but bites have caused serious injuries and a 3m croc could kill. Accept."
+    },
+    {
+      "canonical": "Dingo",
+      "aliases": [
+        "dingoes",
+        "dingos",
+        "dingo dog",
+        "wild dog",
+        "wild dogs",
+        "fraser island dingo",
+        "k'gari dingo",
+        "kgari dingo",
+        "canis dingo",
+        "canis lupus dingo"
+      ],
+      "tier": "common",
+      "note": "Azaria Chamberlain (1980) and Clinton Gage on Fraser Island (2001)."
+    },
+    {
+      "canonical": "Kangaroo",
+      "aliases": [
+        "kangaroos",
+        "roo",
+        "roos",
+        "red kangaroo",
+        "red kangaroos",
+        "big red",
+        "eastern grey kangaroo",
+        "eastern grey",
+        "eastern greys",
+        "grey kangaroo",
+        "western grey kangaroo",
+        "western grey",
+        "boomer",
+        "boomers",
+        "wallaroo",
+        "euro",
+        "skippy"
+      ],
+      "tier": "common",
+      "note": "Fatal attacks in 1936 (NSW) and 2022 (WA pet roo); also Australia's deadliest animal in car crashes."
+    },
+    {
+      "canonical": "Feral Pig",
+      "aliases": [
+        "feral pigs",
+        "wild pig",
+        "wild pigs",
+        "wild boar",
+        "wild boars",
+        "boar",
+        "boars",
+        "pig",
+        "pigs",
+        "razorback",
+        "razorbacks",
+        "feral hog",
+        "feral hogs",
+        "captain cooker"
+      ],
+      "tier": "uncommon",
+      "note": "Big tusked boars have killed hunters and dogs; accept 'pig' or 'boar'."
+    },
+    {
+      "canonical": "Water Buffalo",
+      "aliases": [
+        "buffalo",
+        "buffaloes",
+        "buffalos",
+        "feral buffalo",
+        "wild buffalo",
+        "asian water buffalo",
+        "swamp buffalo",
+        "water buffaloes",
+        "bubalus bubalis"
+      ],
+      "tier": "uncommon",
+      "note": "Feral in the Top End; Crocodile Dundee's hypnosis trick notwithstanding, they have killed people in the NT."
+    },
+    {
+      "canonical": "Feral Camel",
+      "aliases": [
+        "camel",
+        "camels",
+        "feral camels",
+        "wild camel",
+        "wild camels",
+        "dromedary",
+        "dromedaries",
+        "dromedary camel"
+      ],
+      "tier": "rare",
+      "note": "Australia has the world's largest feral camel herd; a Queensland woman was killed by her pet camel in 2007."
+    },
+    {
+      "canonical": "Wombat",
+      "aliases": [
+        "wombats",
+        "common wombat",
+        "bare-nosed wombat",
+        "bare nosed wombat",
+        "hairy-nosed wombat",
+        "hairy nosed wombat",
+        "southern hairy-nosed wombat",
+        "northern hairy-nosed wombat",
+        "vombatus ursinus"
+      ],
+      "tier": "rare",
+      "note": "Borderline but accepted: a 2010 Victorian attack caused severe injuries, and wombat collisions have killed drivers. Otways locals will know."
+    },
+    {
+      "canonical": "Deer",
+      "aliases": [
+        "deers",
+        "stag",
+        "stags",
+        "sambar",
+        "sambar deer",
+        "red deer",
+        "fallow deer",
+        "hog deer",
+        "rusa deer",
+        "chital",
+        "feral deer",
+        "wild deer",
+        "pet deer"
+      ],
+      "tier": "rare",
+      "note": "A Victorian deep cut: Paul McDonald was killed by his pet red deer stag at Moyhu near Wangaratta in April 2019. Sambar also cause fatal car crashes."
+    },
+    {
+      "canonical": "Bull",
+      "aliases": [
+        "bulls",
+        "cattle",
+        "cow",
+        "cows",
+        "scrub bull",
+        "scrub bulls",
+        "feral cattle",
+        "wild cattle",
+        "bullock",
+        "bullocks",
+        "steer",
+        "steers",
+        "banteng",
+        "feral bull",
+        "beef cattle",
+        "dairy cow"
+      ],
+      "tier": "uncommon",
+      "note": "Cattle kill several Australians every year on farms; feral scrub bulls and NT banteng included. Not native, but a defensible answer."
+    },
+    {
+      "canonical": "Horse",
+      "aliases": [
+        "horses",
+        "brumby",
+        "brumbies",
+        "wild horse",
+        "wild horses",
+        "feral horse",
+        "feral horses",
+        "pony",
+        "ponies",
+        "racehorse",
+        "racehorses",
+        "thoroughbred",
+        "stallion"
+      ],
+      "tier": "uncommon",
+      "note": "Statistically the deadliest animal in Australia (around 20 deaths a year, mostly falls) and the Hendra virus carrier. Not native; accept unless the table has agreed on native-only."
+    },
+    {
+      "canonical": "Dog",
+      "aliases": [
+        "dogs",
+        "domestic dog",
+        "domestic dogs",
+        "pet dog",
+        "pet dogs",
+        "pit bull",
+        "pitbull",
+        "pit bulls",
+        "rottweiler",
+        "american bulldog",
+        "mastiff",
+        "bull arab"
+      ],
+      "tier": "uncommon",
+      "note": "Domestic dog attacks kill one or two Australians a year. Not native; accept unless the table has agreed on native-only. Dingo is a separate entry."
+    },
+    {
+      "canonical": "Flying Fox",
+      "aliases": [
+        "flying foxes",
+        "flying-fox",
+        "fruit bat",
+        "fruit bats",
+        "bat",
+        "bats",
+        "grey-headed flying fox",
+        "grey headed flying fox",
+        "black flying fox",
+        "little red flying fox",
+        "spectacled flying fox",
+        "microbat",
+        "microbats",
+        "pteropus"
+      ],
+      "tier": "rare",
+      "note": "Australian bat lyssavirus is 100% fatal once symptoms start: four deaths, the latest a Ballina man in July 2025. Melbourne's Yarra Bend colony makes this a good local deep cut."
+    },
+    {
+      "canonical": "Slug",
+      "aliases": [
+        "slugs",
+        "garden slug",
+        "garden slugs",
+        "snail",
+        "snails",
+        "garden snail",
+        "leopard slug"
+      ],
+      "tier": "rare",
+      "note": "Sam Ballard ate a garden slug on a dare in Sydney in 2010, contracted rat lungworm, and died in 2018. Genuine deep cut; accept."
+    },
+    {
+      "canonical": "Leopard Seal",
+      "aliases": [
+        "leopard seals",
+        "sea leopard",
+        "hydrurga leptonyx"
+      ],
+      "tier": "deep",
+      "note": "Antarctic predator that regularly hauls out on Victorian and Tasmanian beaches; killed a British scientist in 2003. Host call on whether it counts as 'Australian', lean accept."
+    },
+    {
+      "canonical": "Human",
+      "aliases": [
+        "humans",
+        "people",
+        "person",
+        "a person",
+        "homo sapiens",
+        "man",
+        "men",
+        "other humans",
+        "other people",
+        "bogans",
+        "my mate"
+      ],
+      "tier": "rare",
+      "note": "Cheeky but technically correct: humans are animals and kill more Australians than any wildlife. Host call; recommend accepting once for the laugh."
+    },
+    {
+      "canonical": "Cassowary",
+      "aliases": [
+        "cassowaries",
+        "southern cassowary",
+        "southern cassowaries",
+        "cassawary",
+        "cassowarry",
+        "casowary",
+        "casuarius casuarius"
+      ],
+      "tier": "common",
+      "note": "Killed a Queensland teenager in 1926 and a Florida breeder in 2019; dagger claw on the inner toe."
+    },
+    {
+      "canonical": "Magpie",
+      "aliases": [
+        "magpies",
+        "australian magpie",
+        "australian magpies",
+        "maggie",
+        "maggies",
+        "swooping magpie",
+        "swooping magpies",
+        "gymnorhina tibicen"
+      ],
+      "tier": "uncommon",
+      "note": "Swooping has caused deaths: a Wollongong cyclist in 2019 and a Brisbane baby in 2021. Accept."
+    },
+    {
+      "canonical": "Honey Bee",
+      "aliases": [
+        "bee",
+        "bees",
+        "honeybee",
+        "honeybees",
+        "honey bees",
+        "european honey bee",
+        "european honeybee",
+        "european bee",
+        "apis mellifera",
+        "bee sting"
+      ],
+      "tier": "uncommon",
+      "note": "Anaphylaxis from bee stings kills around two Australians a year, more than snakes in some years. Accept."
+    },
+    {
+      "canonical": "European Wasp",
+      "aliases": [
+        "wasp",
+        "wasps",
+        "european wasps",
+        "german wasp",
+        "english wasp",
+        "paper wasp",
+        "paper wasps",
+        "yellowjacket",
+        "yellow jacket",
+        "hornet",
+        "hornets",
+        "vespula germanica"
+      ],
+      "tier": "rare",
+      "note": "Fatal anaphylaxis recorded in Australia; a Victorian summer pest. All wasps grouped here."
+    },
+    {
+      "canonical": "Jack Jumper Ant",
+      "aliases": [
+        "jack jumper",
+        "jack jumpers",
+        "jack jumper ants",
+        "jumper ant",
+        "jumper ants",
+        "jumping jack",
+        "jumping jacks",
+        "jumping jack ant",
+        "hopper ant",
+        "hopper ants",
+        "myrmecia pilosula"
+      ],
+      "tier": "rare",
+      "note": "Tasmania's deadliest animal: several anaphylaxis deaths, hence the Tasmanian desensitisation program. Also found in Victoria."
+    },
+    {
+      "canonical": "Bull Ant",
+      "aliases": [
+        "bull ants",
+        "bulldog ant",
+        "bulldog ants",
+        "bull-ant",
+        "bull-ants",
+        "inchman",
+        "inch ant",
+        "inch ants",
+        "giant bull ant",
+        "myrmecia"
+      ],
+      "tier": "rare",
+      "note": "Myrmecia stings have caused fatal anaphylaxis. Jack jumpers are a separate entry."
+    },
+    {
+      "canonical": "Fire Ant",
+      "aliases": [
+        "fire ants",
+        "red imported fire ant",
+        "red imported fire ants",
+        "red fire ant",
+        "imported fire ant",
+        "rifa",
+        "solenopsis invicta"
+      ],
+      "tier": "rare",
+      "note": "Invasive in SE Queensland (and spreading); deaths from anaphylaxis overseas and hospitalisations in Australia. Accept."
+    },
+    {
+      "canonical": "Mosquito",
+      "aliases": [
+        "mosquitoes",
+        "mosquitos",
+        "mozzie",
+        "mozzies",
+        "mossie",
+        "mossies",
+        "mozzy",
+        "mosquitoe",
+        "culex annulirostris"
+      ],
+      "tier": "uncommon",
+      "note": "Deadliest animal on Earth; in Australia via Murray Valley encephalitis and the 2022 Japanese encephalitis outbreak that killed a northern Victorian man. Accept."
+    },
+    {
+      "canonical": "Paralysis Tick",
+      "aliases": [
+        "tick",
+        "ticks",
+        "paralysis ticks",
+        "australian paralysis tick",
+        "ixodes holocyclus",
+        "scrub tick",
+        "scrub ticks",
+        "shellback tick",
+        "shell-back tick",
+        "shell back tick",
+        "grass tick",
+        "seed tick",
+        "dog tick"
+      ],
+      "tier": "uncommon",
+      "note": "About 20 recorded human deaths (mostly children, pre-1945) plus modern deaths from tick anaphylaxis. East coast only, not Victoria. Accept."
+    },
+    {
+      "canonical": "Cane Toad",
+      "aliases": [
+        "cane toads",
+        "toad",
+        "toads",
+        "bufo marinus",
+        "rhinella marina",
+        "marine toad",
+        "giant toad",
+        "giant neotropical toad"
+      ],
+      "tier": "uncommon",
+      "note": "Bufotoxin kills dogs routinely and has killed people who ate toads or their eggs. Introduced, but an Australian icon; accept."
+    }
+  ],
+  "hostNotes": "Accept any animal found wild or feral in Australia with a credible fatal mechanism (venom, bite, kick, disease vector, or toxic if eaten); decide before play whether non-native animals (horse, cattle, dog, camel, deer, cane toad, bee) count, and apply it consistently. Generic answers (snake, shark, spider, jellyfish) are their own buckets by default; croc, octopus, funnel-web, taipan, brown snake and stinger auto-map to the obvious species. Likely traps: white-tailed spider, huntsman, daddy long legs, scorpion, centipede, koala, drop bear and Gympie-Gympie (a plant) should be rejected; platypus, emu, goanna, scrub python and crown-of-thorns starfish are venomous or dangerous but have no confirmed human deaths, so treat them as host-discretion half-credit at best."
+}

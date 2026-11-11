@@ -1,0 +1,593 @@
+{
+  "id": "l12-lorne-ice-cream",
+  "text": "Name a flavour of ice cream you could get in Lorne.",
+  "type": "open",
+  "category": "local",
+  "approved": false,
+  "answers": [
+    {
+      "canonical": "Vanilla",
+      "aliases": ["vanilla bean", "french vanilla", "plain vanilla", "vanilla ice cream", "classic vanilla", "madagascan vanilla", "vanilla gelato", "vanilla soft serve", "soft serve", "soft-serve"],
+      "tier": "common",
+      "note": "Plain soft serve from the fish and chip shops / beach kiosk scores here."
+    },
+    {
+      "canonical": "Chocolate",
+      "aliases": ["choc", "chocolate ice cream", "chocolate gelato", "dark chocolate", "dark choc", "milk chocolate", "belgian chocolate", "double chocolate", "double choc", "chocolate sorbet", "choc fudge", "chocolate fudge", "cioccolato", "choccy"],
+      "tier": "common",
+      "note": "Vegan chocolate sorbet is a confirmed Lorne Ice Cream option."
+    },
+    {
+      "canonical": "Strawberry",
+      "aliases": ["strawberry ice cream", "strawberry gelato", "strawberry sorbet", "strawberries and cream", "strawberries & cream", "strawberry swirl", "strawberry shortcake", "fragola"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Mint choc chip",
+      "aliases": ["mint chocolate chip", "choc mint", "choc-mint", "chocolate mint", "mint chip", "mint choc-chip", "mint choc", "peppermint choc chip", "peppermint chocolate chip", "mint", "peppermint", "mint slice", "choc mint gelato"],
+      "tier": "common",
+      "note": "Gelato Gelato's Choc Mint won Best Gelato at the 2023 Melbourne Royal Dairy Awards; the shop was Champion Dairy Producer."
+    },
+    {
+      "canonical": "Cookies and cream",
+      "aliases": ["cookies & cream", "cookies n cream", "cookies 'n' cream", "cookies and creme", "cookies cream", "oreo", "oreo gelato", "oreo cookies and cream", "oreo ice cream"],
+      "tier": "common",
+      "note": "Oreo is merged here."
+    },
+    {
+      "canonical": "Salted caramel",
+      "aliases": ["salted caramel gelato", "salted caramel ice cream", "sea salt caramel", "salty caramel", "salted caramel with almond praline", "salted caramel almond praline", "murray river salted caramel"],
+      "tier": "common",
+      "note": "Gelato Gelato does a salted caramel with almond praline and roasted coconut."
+    },
+    {
+      "canonical": "Rum and raisin",
+      "aliases": ["rum & raisin", "rum n raisin", "rum 'n' raisin", "rum raisin", "rum and raisins", "rum"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Boysenberry",
+      "aliases": ["boysenberry ripple", "boysenberry swirl", "boysenberry gelato", "boysenberry sorbet", "boysenberry ice cream"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Mango",
+      "aliases": ["mango sorbet", "mango gelato", "mango sorbetto", "mango ice cream", "weis mango", "mango weis", "weis bar", "mango and cream", "mango & cream"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Honeycomb",
+      "aliases": ["hokey pokey", "honey comb", "honeycomb crunch", "choc honeycomb", "chocolate honeycomb", "honeycomb gelato", "violet crumble", "crunchie", "honeycomb ice cream"],
+      "tier": "common",
+      "note": "Violet Crumble, Crunchie and hokey pokey all merge here."
+    },
+    {
+      "canonical": "Pistachio",
+      "aliases": ["pistacchio", "pistacio", "pistachio gelato", "pistachio nut", "pistachio ice cream"],
+      "tier": "common"
+    },
+    {
+      "canonical": "Caramel",
+      "aliases": ["caramel swirl", "caramel ripple", "caramel fudge", "creamy caramel", "caramel gelato", "caramel ice cream", "plain caramel"],
+      "tier": "uncommon",
+      "note": "Kept separate from salted caramel; merge if the room agrees."
+    },
+    {
+      "canonical": "Lemon sorbet",
+      "aliases": ["lemon", "lemon gelato", "lemon sorbetto", "lemon ice cream", "limone", "lemon ice", "lemonade sorbet", "lemon lime", "lemon lime sorbet"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Passionfruit",
+      "aliases": ["passion fruit", "passionfruit sorbet", "passionfruit gelato", "passionfruit swirl", "passionfruit ripple"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Hazelnut",
+      "aliases": ["nocciola", "hazelnut gelato", "roasted hazelnut", "hazelnut praline", "hazelnut ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Nutella",
+      "aliases": ["nutella gelato", "nutella ice cream", "chocolate hazelnut", "choc hazelnut", "hazelnut chocolate", "gianduja", "gianduia"],
+      "tier": "uncommon",
+      "note": "Ferrero Rocher and Bacio kept as separate entries; merge all three if the room prefers."
+    },
+    {
+      "canonical": "Ferrero Rocher",
+      "aliases": ["ferrero", "rocher", "ferrero rocher gelato", "ferrero gelato"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bubblegum",
+      "aliases": ["bubble gum", "blue bubblegum", "bubblegum gelato", "bubblegum ice cream", "bubble-gum"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Rainbow",
+      "aliases": ["rainbow swirl", "rainbow ice cream", "rainbow gelato", "unicorn", "rainbow paddle pop", "multicoloured", "rainbow sorbet"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Coffee",
+      "aliases": ["espresso", "cappuccino", "caffe", "caffè", "coffee gelato", "coffee ice cream", "latte", "flat white", "espresso martini", "coffee bean", "affogato"],
+      "tier": "uncommon",
+      "note": "Affogato is a dessert, but score it as coffee."
+    },
+    {
+      "canonical": "Mocha",
+      "aliases": ["mocha gelato", "coffee chocolate", "choc coffee", "chocolate coffee", "mochaccino"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Banana",
+      "aliases": ["banana gelato", "banana ice cream", "banana sorbet", "banana split"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Coconut",
+      "aliases": ["roasted coconut", "toasted coconut", "coconut sorbet", "coconut gelato", "coconut ice cream", "coconut rough", "choc coconut", "bounty", "cocco"],
+      "tier": "uncommon",
+      "note": "Gelato Gelato's Roasted Coconut (infused 24 hours) was a 2018 Best Gelato winner; vegan coconut sorbet also confirmed at Lorne Ice Cream."
+    },
+    {
+      "canonical": "Raspberry",
+      "aliases": ["raspberry sorbet", "raspberry ripple", "raspberry gelato", "raspberry swirl", "raspberry ice cream", "lampone"],
+      "tier": "uncommon",
+      "note": "Confirmed vegan raspberry sorbet at Gelato Gelato."
+    },
+    {
+      "canonical": "Blueberry",
+      "aliases": ["blueberry gelato", "blueberry sorbet", "blueberry swirl", "blueberry ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Neapolitan",
+      "aliases": ["neopolitan", "napolitan", "neapolitan ice cream", "neo", "neopolitan ice cream"],
+      "tier": "uncommon",
+      "note": "Supermarket-tub classic; accept."
+    },
+    {
+      "canonical": "Golden Gaytime",
+      "aliases": ["gaytime", "gay time", "golden gay time", "golden gaytime gelato", "gaytime gelato"],
+      "tier": "uncommon",
+      "note": "Both a product and a tub/gelato flavour; accept."
+    },
+    {
+      "canonical": "Macadamia",
+      "aliases": ["macadamia nut", "honey macadamia", "caramel honey macadamia", "macadamia gelato", "roasted macadamia", "white chocolate macadamia", "macadamia ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tiramisu",
+      "aliases": ["tiramisù", "tiramasu", "tiramisu gelato", "tiramisu ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Stracciatella",
+      "aliases": ["straciatella", "choc chip", "chocolate chip", "choc chips", "vanilla choc chip", "vanilla chocolate chip", "stracciatella gelato"],
+      "tier": "uncommon",
+      "note": "Plain choc chip merges here."
+    },
+    {
+      "canonical": "Fior di latte",
+      "aliases": ["fiordilatte", "fior de latte", "fior di latte gelato", "sweet cream", "fresh cream", "cream", "milk", "panna"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bacio",
+      "aliases": ["baci", "bacio gelato", "baci gelato"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tim Tam",
+      "aliases": ["timtam", "tim tams", "tim tam gelato", "tim tam ice cream", "tim tam slam"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Biscoff",
+      "aliases": ["lotus biscoff", "lotus", "speculoos", "cookie butter", "biscoff gelato", "biscoff ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lime",
+      "aliases": ["lime sorbet", "lime gelato", "lime sorbetto", "key lime", "key lime pie"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cherry",
+      "aliases": ["black cherry", "amarena", "amarena cherry", "sour cherry", "cherry gelato", "cherry sorbet", "cherries", "cherry garcia", "cherry ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cherry Ripe",
+      "aliases": ["cherry ripe gelato", "cherryripe", "cherry ripe ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Caramilk",
+      "aliases": ["caramilk gelato", "cadbury caramilk", "caramelised white chocolate", "caramelized white chocolate", "caramilk ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Milo",
+      "aliases": ["milo gelato", "milo ice cream", "milo dinosaur"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Rocky road",
+      "aliases": ["rocky rd", "rockyroad", "rocky road gelato", "rocky road ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Watermelon",
+      "aliases": ["watermelon sorbet", "watermelon gelato", "anguria", "water melon"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Pineapple",
+      "aliases": ["pineapple sorbet", "pineapple gelato", "pineapple ice cream"],
+      "tier": "uncommon",
+      "note": "Confirmed vegan pineapple sorbet at Gelato Gelato."
+    },
+    {
+      "canonical": "Peanut butter",
+      "aliases": ["peanut", "peanut butter gelato", "peanut butter ice cream", "choc peanut butter", "chocolate peanut butter", "peanut butter chocolate", "reese's", "reeses", "peanut butter cup", "pb", "peanut butter and jelly"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cookie dough",
+      "aliases": ["choc chip cookie dough", "chocolate chip cookie dough", "cookie dough gelato", "cookie dough ice cream", "chocolate chip cookie", "choc chip cookie"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Brownie",
+      "aliases": ["chocolate brownie", "choc brownie", "fudge brownie", "chocolate fudge brownie", "choc fudge brownie", "brownie gelato", "brownie ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cheesecake",
+      "aliases": ["strawberry cheesecake", "new york cheesecake", "blueberry cheesecake", "baked cheesecake", "lemon cheesecake", "passionfruit cheesecake", "mango cheesecake", "cheesecake gelato", "cheesecake ice cream"],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lamington",
+      "aliases": ["lamington gelato", "lammington", "lamington ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Pavlova",
+      "aliases": ["pav", "pavlova gelato", "pavlova ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Anzac biscuit",
+      "aliases": ["anzac", "anzac bikkie", "anzac biscuits", "anzac cookie", "anzac gelato"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Vegemite",
+      "aliases": ["vegemite gelato", "vegemite ice cream"],
+      "tier": "deep",
+      "note": "Joke answer that genuinely exists in Australia, but unconfirmed in Lorne; host's call."
+    },
+    {
+      "canonical": "Fairy bread",
+      "aliases": ["fairy bread gelato", "hundreds and thousands", "100s and 1000s", "sprinkles", "fairy bread ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Turkish delight",
+      "aliases": ["turkish delight gelato", "fry's turkish delight", "rosewater", "rose", "lokum", "turkish delight ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lemon meringue",
+      "aliases": ["lemon meringue pie", "lemon meringue gelato", "lemon meringue ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Grape",
+      "aliases": ["grape sorbet", "grape gelato", "purple grape", "grape ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Blood orange",
+      "aliases": ["blood orange sorbet", "blood orange gelato", "arancia rossa"],
+      "tier": "rare",
+      "note": "Confirmed vegan blood orange sorbet at Lorne Ice Cream."
+    },
+    {
+      "canonical": "Orange",
+      "aliases": ["orange sorbet", "orange gelato", "orange ice cream", "arancia", "orange and cream", "orange & cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Spearmint",
+      "aliases": ["spearmint choc chip", "spearmint chip", "spearmint gelato", "green mint", "spearmint ice cream"],
+      "tier": "rare",
+      "note": "Host may merge with mint choc chip."
+    },
+    {
+      "canonical": "Licorice",
+      "aliases": ["liquorice", "black licorice", "black liquorice", "licorice gelato", "liquorice gelato", "liquorice allsorts", "licorice allsorts", "licorice ice cream", "liquorice ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ginger",
+      "aliases": ["ginger gelato", "ginger ice cream", "ginger beer", "gingerbread", "ginger nut"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Matcha",
+      "aliases": ["green tea", "matcha gelato", "green tea ice cream", "matcha green tea", "matcha ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Black sesame",
+      "aliases": ["black sesame gelato", "sesame", "goma", "black sesame ice cream"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yuzu",
+      "aliases": ["yuzu sorbet", "yuzu gelato"],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lychee",
+      "aliases": ["lychee sorbet", "lychee gelato", "lichee", "litchi"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dulce de leche",
+      "aliases": ["dulce", "dulce de leche gelato", "milk caramel", "caramelised milk", "cajeta"],
+      "tier": "rare",
+      "note": "Kept separate from caramel; merge if the room prefers."
+    },
+    {
+      "canonical": "Butterscotch",
+      "aliases": ["butterscotch gelato", "butterscotch ripple", "butter scotch", "butterscotch ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Toffee",
+      "aliases": ["english toffee", "toffee crunch", "toffee gelato", "toffee apple", "toffee ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Maple walnut",
+      "aliases": ["maple and walnut", "maple & walnut", "walnut", "maple", "maple syrup", "walnut gelato", "maple walnut gelato", "maple walnut ice cream"],
+      "tier": "rare",
+      "note": "Gelato Gelato's Maple Walnut won Best Gelato in 2017."
+    },
+    {
+      "canonical": "Apple pie",
+      "aliases": ["apple crumble", "apple", "green apple", "apple strudel", "apple pie gelato", "apple cinnamon", "apple sorbet", "apple ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lemon curd",
+      "aliases": ["lemon curd gelato", "lemon curd swirl", "lemon curd ice cream"],
+      "tier": "rare",
+      "note": "Confirmed Gelato Gelato flavour (reviewers single it out)."
+    },
+    {
+      "canonical": "Hot cross bun",
+      "aliases": ["hot cross bun gelato", "hot cross buns", "easter bun", "hcb", "hot cross bun ice cream"],
+      "tier": "deep",
+      "note": "Confirmed Gelato Gelato Easter special; genuine deep cut."
+    },
+    {
+      "canonical": "Plum",
+      "aliases": ["plum sorbet", "plum gelato", "blood plum"],
+      "tier": "deep",
+      "note": "Confirmed vegan plum sorbet at Gelato Gelato."
+    },
+    {
+      "canonical": "Tropical",
+      "aliases": ["tropical fruits", "tropical fruit", "tropical sorbet", "fruit salad", "frosty fruit", "frosty fruits", "tropical punch"],
+      "tier": "rare",
+      "note": "Confirmed vegan tropical fruits sorbet at Lorne Ice Cream."
+    },
+    {
+      "canonical": "White chocolate",
+      "aliases": ["white choc", "white chocolate gelato", "white chocolate raspberry", "white choc raspberry", "white chocolate and raspberry", "cioccolato bianco", "white chocolate ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Peppermint Crisp",
+      "aliases": ["peppermint crisp gelato", "pepermint crisp", "peppermint crisp ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Fairy floss",
+      "aliases": ["cotton candy", "candy floss", "fairy floss gelato", "persian fairy floss", "fairy floss ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Pine lime",
+      "aliases": ["pine-lime", "pinelime", "pine lime splice", "splice", "pineapple lime", "pineapple and lime", "pine and lime", "pine lime sorbet"],
+      "tier": "rare",
+      "note": "Splice maps here."
+    },
+    {
+      "canonical": "Peach",
+      "aliases": ["peach sorbet", "peach gelato", "peaches and cream", "white peach", "peach melba", "pesca", "peach ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Honey",
+      "aliases": ["honey gelato", "honey ice cream", "honey vanilla", "honey swirl", "miele"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Almond",
+      "aliases": ["almond gelato", "mandorla", "roasted almond", "toasted almond", "almond praline", "almond ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Jaffa",
+      "aliases": ["chocolate orange", "choc orange", "choc-orange", "orange chocolate", "jaffa gelato", "terry's chocolate orange", "jaffa ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Maltesers",
+      "aliases": ["malt", "malted", "choc malt", "chocolate malt", "malted milk", "maltesers gelato", "malteser", "malteaser", "malteasers"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Snickers",
+      "aliases": ["snickers gelato", "snickers bar", "snickers ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mars Bar",
+      "aliases": ["mars", "mars bar gelato", "mars bar ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kinder Bueno",
+      "aliases": ["kinder", "bueno", "kinder bueno gelato", "kinder chocolate", "kinder bueno ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Banoffee",
+      "aliases": ["banoffee pie", "banoffee gelato", "banana toffee", "banana caramel"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sticky date",
+      "aliases": ["sticky date pudding", "date", "sticky date gelato", "date and caramel", "sticky date ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Red velvet",
+      "aliases": ["red velvet gelato", "red velvet cake", "red velvet ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Birthday cake",
+      "aliases": ["cake batter", "birthday cake batter", "birthday cake gelato", "funfetti", "vanilla cake", "birthday cake ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mixed berry",
+      "aliases": ["berry", "berries", "mixed berries", "forest fruits", "forest berries", "wild berry", "wild berries", "summer berries", "frutti di bosco", "triple berry", "berry swirl", "berry sorbet", "very berry", "berry ripple"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Blackberry",
+      "aliases": ["blackberry sorbet", "blackberry gelato", "bramble", "blackberry ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Toasted marshmallow",
+      "aliases": ["marshmallow", "marshmallow gelato", "toasted marshmallow gelato", "s'mores", "smores", "marshmallow ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Baileys",
+      "aliases": ["irish cream", "baileys irish cream", "baileys gelato", "bailey's", "baileys ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tutti frutti",
+      "aliases": ["tutti fruity", "tutti-frutti", "tuttifrutti", "tutti frutti ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Jam doughnut",
+      "aliases": ["jam donut", "cinnamon donut", "cinnamon doughnut", "donut", "doughnut", "hot jam donut", "jam doughnut gelato", "jam donut gelato"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Black forest",
+      "aliases": ["black forest cake", "black forest gelato", "blackforest", "cherry chocolate", "choc cherry", "chocolate cherry"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Butter pecan",
+      "aliases": ["pecan", "maple pecan", "pecan gelato", "pecan pie", "butter pecan gelato", "pecan praline", "butter pecan ice cream"],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Choc top",
+      "aliases": ["choc-top", "choctop", "chocolate top", "choc tops", "cinema choc top"],
+      "tier": "rare",
+      "note": "Technically a format, but the Lorne Theatre on Mountjoy Pde sells them; accept."
+    },
+    {
+      "canonical": "Fig",
+      "aliases": ["fig gelato", "fig and honey", "fig and walnut", "fig ice cream"],
+      "tier": "deep",
+      "note": "Seasonal artisan flavour; unconfirmed in Lorne."
+    },
+    {
+      "canonical": "Pear",
+      "aliases": ["pear sorbet", "poached pear", "pear gelato", "pear and ginger", "pear ice cream"],
+      "tier": "deep",
+      "note": "Unconfirmed in Lorne."
+    },
+    {
+      "canonical": "Mandarin",
+      "aliases": ["mandarin sorbet", "mandarin gelato", "mandarino"],
+      "tier": "deep",
+      "note": "Winter sorbet staple at Victorian gelaterias; unconfirmed in Lorne."
+    },
+    {
+      "canonical": "Christmas pudding",
+      "aliases": ["plum pudding", "xmas pudding", "christmas pud", "xmas pud", "christmas pudding gelato", "fruit mince", "fruit mince pie", "christmas pudding ice cream"],
+      "tier": "deep",
+      "note": "Summer-holiday seasonal; unconfirmed in Lorne."
+    },
+    {
+      "canonical": "Wattleseed",
+      "aliases": ["wattle seed", "wattleseed gelato", "wattleseed ice cream"],
+      "tier": "deep",
+      "note": "Native-ingredient flavour; unconfirmed in Lorne, host's call."
+    },
+    {
+      "canonical": "Lemon myrtle",
+      "aliases": ["lemon myrtle gelato", "lemon myrtle ice cream", "lemon myrtle sorbet"],
+      "tier": "deep",
+      "note": "Native-ingredient flavour; unconfirmed in Lorne, host's call."
+    },
+    {
+      "canonical": "Iced VoVo",
+      "aliases": ["iced vo vo", "vovo", "iced vovo gelato", "iced vovo ice cream"],
+      "tier": "deep",
+      "note": "Unconfirmed in Lorne."
+    },
+    {
+      "canonical": "Caramel slice",
+      "aliases": ["caramel slice gelato", "millionaire's shortbread", "millionaire shortbread", "caramel shortbread", "caramel slice ice cream"],
+      "tier": "deep",
+      "note": "Unconfirmed in Lorne."
+    },
+    {
+      "canonical": "Creaming soda",
+      "aliases": ["creaming soda gelato", "cream soda", "creaming soda spider", "creaming soda ice cream"],
+      "tier": "deep",
+      "note": "Unconfirmed in Lorne."
+    },
+    {
+      "canonical": "Blue heaven",
+      "aliases": ["blue heaven gelato", "blue heaven ice cream"],
+      "tier": "deep",
+      "note": "Milk-bar flavour; distinct from bubblegum. Unconfirmed in Lorne."
+    },
+    {
+      "canonical": "Half Baked",
+      "aliases": ["ben and jerry's half baked", "ben & jerry's half baked", "half-baked", "half baked ice cream"],
+      "tier": "deep",
+      "note": "Ben & Jerry's tub from the supermarket freezer; host's call."
+    },
+    {
+      "canonical": "Phish Food",
+      "aliases": ["ben and jerry's phish food", "ben & jerry's phish food", "phish food ice cream"],
+      "tier": "deep",
+      "note": "Ben & Jerry's tub from the supermarket freezer; host's call."
+    }
+  ],
+  "hostNotes": "A 'could get' prompt, so err generous: accept anything realistically in the cabinets at Gelato Gelato (114 Mountjoy Pde; award-winning Choc Mint, Maple Walnut and Roasted Coconut, seasonal Hot Cross Bun, Lemon Curd, vegan sorbets), Lorne Ice Cream (54-56 Mountjoy Pde; vegan blood orange, tropical, coconut, chocolate sorbets), Lorne Theatre choc tops, or the Foodworks freezer. Merge brand/spelling variants (choc = chocolate, Oreo = cookies and cream, Violet Crumble/Crunchie/hokey pokey = honeycomb, choc chip = stracciatella); Nutella/Ferrero/Bacio and caramel/salted caramel/dulce de leche stay separate unless the room agrees. 'Ice cream', 'gelato', 'sorbet' and bare product names (Magnum, Cornetto, Paddle Pop, Bubble O'Bill) are not flavours; ask which flavour (plain soft serve = Vanilla, Splice = Pine lime, Weis = Mango, Frosty Fruits = Tropical; Golden Gaytime stands alone). Vegemite, native flavours and Ben & Jerry's lines are unconfirmed in Lorne: host's call."
+}
