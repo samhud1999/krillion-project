@@ -57,7 +57,7 @@
     },
     {
       "canonical": "Esky",
-      "aliases": ["eskies", "eskys", "eski", "the esky"],
+      "aliases": ["eskies", "eskys", "eski", "the esky", "eskie"],
       "tier": "common",
       "note": "Genericised brand name; universally treated as slang."
     },
@@ -68,7 +68,7 @@
     },
     {
       "canonical": "Maccas",
-      "aliases": ["macca's", "mackas", "macas", "makkas", "mackers", "macca"],
+      "aliases": ["macca's", "mackas", "macas", "makkas", "mackers", "macca", "maccas run"],
       "tier": "common",
       "note": "McDonald's. Officially adopted by the chain in Australia."
     },
@@ -137,7 +137,7 @@
     },
     {
       "canonical": "Sanga",
-      "aliases": ["sanger", "sangas", "sangers", "sambo", "sambos", "sammie", "sammy"],
+      "aliases": ["sanger", "sangas", "sangers", "sambo", "sambos", "sammie", "sammy", "sangar", "steak sanga"],
       "tier": "common",
       "note": "Sandwich. Sanga, sanger and sambo are all the same answer."
     },
@@ -167,7 +167,7 @@
     },
     {
       "canonical": "Choccy",
-      "aliases": ["chocky", "choccie", "chocci", "choccy milk", "chocky milk", "choccies"],
+      "aliases": ["chocky", "choccie", "chocci", "choccy milk", "chocky milk", "choccies", "chockie", "chokkie"],
       "tier": "uncommon"
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "canonical": "Icy pole",
-      "aliases": ["icypole", "icy-pole", "icy poles", "icypoles", "icey pole"],
+      "aliases": ["icypole", "icy-pole", "icy poles", "icypoles", "icey pole", "ice block", "iceblock"],
       "tier": "uncommon",
       "note": "Victorian term for an ice block / ice lolly."
     },
@@ -208,7 +208,7 @@
     },
     {
       "canonical": "Goon",
-      "aliases": ["goon bag", "goon sack", "goonbag", "goonie", "goon of fortune", "goony", "cask", "boxie", "box wine", "goon juice"],
+      "aliases": ["goon bag", "goon sack", "goonbag", "goonie", "goon of fortune", "goony", "cask", "boxie", "box wine", "goon juice", "chateau cardboard", "chateau de cardboard"],
       "tier": "common",
       "note": "Cheap cask wine. Goon bag, goon sack and Goon of Fortune all collapse here."
     },
@@ -265,7 +265,7 @@
     },
     {
       "canonical": "Garbo",
-      "aliases": ["garbos", "the garbo", "garbo's"],
+      "aliases": ["garbos", "the garbo", "garbo's", "garbologist"],
       "tier": "uncommon",
       "note": "Rubbish collector."
     },
@@ -347,7 +347,7 @@
     },
     {
       "canonical": "Grouse",
-      "aliases": ["grouse mate", "that's grouse", "bloody grouse", "grouse as"],
+      "aliases": ["grouse mate", "that's grouse", "bloody grouse", "grouse as", "growse"],
       "tier": "uncommon",
       "note": "Victorian for excellent. Not the bird."
     },
@@ -538,7 +538,7 @@
     },
     {
       "canonical": "Lippy",
-      "aliases": ["lippie", "lippies"],
+      "aliases": ["lippie", "lippies", "lippys"],
       "tier": "uncommon",
       "note": "Lipstick."
     },
@@ -589,7 +589,7 @@
     },
     {
       "canonical": "Too right",
-      "aliases": ["too right mate", "tooright"],
+      "aliases": ["too right mate", "tooright", "to right"],
       "tier": "uncommon"
     },
     {
@@ -599,7 +599,7 @@
     },
     {
       "canonical": "Fair suck of the sav",
-      "aliases": ["fair suck of the sauce bottle", "fair shake of the sauce bottle", "suck of the sav", "fair suck", "fair suck of the saveloy"],
+      "aliases": ["fair suck of the sauce bottle", "fair shake of the sauce bottle", "suck of the sav", "fair suck", "fair suck of the saveloy", "fair crack of the whip", "fair crack"],
       "tier": "rare",
       "note": "All the 'fair suck/shake' variants (incl. Rudd's sauce bottle) are one answer."
     },
@@ -616,7 +616,7 @@
     },
     {
       "canonical": "Starve the lizards",
-      "aliases": ["starve the lizard", "starvethelizards"],
+      "aliases": ["starve the lizard", "starvethelizards", "starve the bardies"],
       "tier": "deep",
       "note": "Old-timer exclamation of surprise."
     },
@@ -784,7 +784,7 @@
     },
     {
       "canonical": "Nipper",
-      "aliases": ["nippers", "nippa"],
+      "aliases": ["nippers", "nippa", "nippas", "nippers club"],
       "tier": "uncommon",
       "note": "Junior surf lifesaver, or small child."
     },
@@ -1002,7 +1002,7 @@
     },
     {
       "canonical": "Walloper",
-      "aliases": ["wallopers", "the wallopers", "wolloper"],
+      "aliases": ["wallopers", "the wallopers", "wolloper", "wallopper"],
       "tier": "deep",
       "note": "Old slang for a police officer."
     },
@@ -1078,7 +1078,7 @@
     },
     {
       "canonical": "Bomb",
-      "aliases": ["old bomb", "a bomb", "bombs", "bomby", "shitbomb"],
+      "aliases": ["old bomb", "a bomb", "bombs", "bomby", "shitbomb", "paddock bomb", "paddock basher"],
       "tier": "uncommon",
       "note": "Old beat-up car."
     },
@@ -1404,7 +1404,7 @@
     },
     {
       "canonical": "Jumbuck",
-      "aliases": ["jumbucks", "jumbuk"],
+      "aliases": ["jumbucks", "jumbuk", "jum buck", "jumbuks"],
       "tier": "rare",
       "note": "Sheep (Waltzing Matilda)."
     },
@@ -1428,7 +1428,7 @@
     },
     {
       "canonical": "Joey",
-      "aliases": ["joeys", "joey's"],
+      "aliases": ["joeys", "joey's", "little joey"],
       "tier": "uncommon",
       "note": "Baby kangaroo (Aboriginal loanword, listed as slang)."
     },
@@ -1440,7 +1440,7 @@
     },
     {
       "canonical": "Brumby",
-      "aliases": ["brumbies", "brumbys", "brumby's"],
+      "aliases": ["brumbies", "brumbys", "brumby's", "brumbie"],
       "tier": "rare",
       "note": "Wild horse."
     },
@@ -1494,7 +1494,7 @@
     },
     {
       "canonical": "Bunyip",
-      "aliases": ["bunyips", "bunyip aristocracy"],
+      "aliases": ["bunyips", "bunyip aristocracy", "the bunyip", "bunyeep"],
       "tier": "rare",
       "note": "Mythical swamp creature (Aboriginal loanword)."
     },
@@ -1518,7 +1518,7 @@
     },
     {
       "canonical": "Parma",
-      "aliases": ["parmas", "parmi", "parmis", "parmy", "parmies", "chicken parma", "chicken parmi", "parma night", "parmo"],
+      "aliases": ["parmas", "parmi", "parmis", "parmy", "parmies", "chicken parma", "chicken parmi", "parma night", "parmo", "chicken parmy", "chicken parmie"],
       "tier": "common",
       "note": "Chicken parmigiana. Victorians say parma; the parmi crowd is wrong but still counted here."
     },
@@ -1565,7 +1565,7 @@
     },
     {
       "canonical": "Frothy",
-      "aliases": ["frothies", "frothie", "froffy", "froffies", "frothys", "a frothy"],
+      "aliases": ["frothies", "frothie", "froffy", "froffies", "frothys", "a frothy", "frothing"],
       "tier": "uncommon",
       "note": "Beer."
     },
@@ -1695,7 +1695,7 @@
     },
     {
       "canonical": "Chook chaser",
-      "aliases": ["chook chasers", "chookchaser"],
+      "aliases": ["chook chasers", "chookchaser", "chook chasing", "chooky chaser"],
       "tier": "deep",
       "note": "Small motorbike / farm bike."
     },
@@ -1704,6 +1704,828 @@
       "aliases": ["bodgy", "bodgie job", "bodgy job", "bodgies", "bodge"],
       "tier": "rare",
       "note": "Shoddy; also the 1950s youth subculture."
+    },
+    {
+      "canonical": "Freshie",
+      "aliases": ["freshies", "freshy", "freshwater croc"],
+      "tier": "rare",
+      "note": "Freshwater crocodile; the saltie's milder cousin."
+    },
+    {
+      "canonical": "Bazza",
+      "aliases": ["shazza", "dazza", "gazza", "wazza", "muzza", "bazzas", "shazzas"],
+      "tier": "uncommon",
+      "note": "The great -azza nickname pattern (Barry, Sharon, Darren, Gary...); any -azza counts here."
+    },
+    {
+      "canonical": "Acca Dacca",
+      "aliases": ["acadaca", "akka dakka", "accadacca", "aca daca", "acca-dacca"],
+      "tier": "rare",
+      "note": "AC/DC, the band."
+    },
+    {
+      "canonical": "Bingle",
+      "aliases": ["bingles", "a bingle", "car bingle", "had a bingle"],
+      "tier": "uncommon",
+      "note": "Minor car crash."
+    },
+    {
+      "canonical": "Prang",
+      "aliases": ["prangs", "pranged", "a prang", "had a prang"],
+      "tier": "uncommon",
+      "note": "Car crash. Shared with UK but standard Aussie usage."
+    },
+    {
+      "canonical": "Rort",
+      "aliases": ["rorts", "rorting", "rorted", "rorter"],
+      "tier": "uncommon",
+      "note": "A scam or fiddle, esp. of public money."
+    },
+    {
+      "canonical": "Spruik",
+      "aliases": ["spruiker", "spruiking", "spruiked", "spruikers"],
+      "tier": "rare",
+      "note": "To tout or talk something up."
+    },
+    {
+      "canonical": "Captain's call",
+      "aliases": ["captains call", "captain's pick", "captains pick", "captain call"],
+      "tier": "rare",
+      "note": "Unilateral decision; 2015 word of the year."
+    },
+    {
+      "canonical": "Canberra bubble",
+      "aliases": ["the canberra bubble", "canbera bubble", "canberra buble"],
+      "tier": "rare",
+      "note": "Politics-land detachment; 2018 word of the year."
+    },
+    {
+      "canonical": "Barbecue stopper",
+      "aliases": ["barbeque stopper", "bbq stopper", "barbecue stoppers"],
+      "tier": "rare",
+      "note": "A hot topic of conversation (Howard era)."
+    },
+    {
+      "canonical": "Pozzy",
+      "aliases": ["possie", "pozzie", "pozzies", "good pozzy", "possy"],
+      "tier": "rare",
+      "note": "A position / good spot."
+    },
+    {
+      "canonical": "Compo",
+      "aliases": ["on compo", "compos", "workers compo", "compo claim"],
+      "tier": "uncommon",
+      "note": "Workers' compensation."
+    },
+    {
+      "canonical": "Cenno",
+      "aliases": ["the cenno", "cennos", "senno"],
+      "tier": "uncommon",
+      "note": "Centrelink."
+    },
+    {
+      "canonical": "Spag bol",
+      "aliases": ["spagbol", "spag bog", "spaghetti bol", "spag bolog"],
+      "tier": "uncommon",
+      "note": "Spaghetti bolognese."
+    },
+    {
+      "canonical": "Champers",
+      "aliases": ["champas", "shampers", "champer"],
+      "tier": "rare",
+      "note": "Champagne. Shared with UK but standard Aussie usage."
+    },
+    {
+      "canonical": "Cozzie livs",
+      "aliases": ["cossie livs", "cozzy livs", "cozie livs", "cozzie living"],
+      "tier": "rare",
+      "note": "Cost of living; 2023 Macquarie word of the year."
+    },
+    {
+      "canonical": "Franger",
+      "aliases": ["frangers", "franga", "frangas"],
+      "tier": "rare",
+      "note": "Condom."
+    },
+    {
+      "canonical": "Cooked",
+      "aliases": ["cooked unit", "that's cooked", "cooked mate", "so cooked"],
+      "tier": "uncommon",
+      "note": "Crazy / exhausted / beyond saving."
+    },
+    {
+      "canonical": "Cooker",
+      "aliases": ["cookers", "cooker behaviour", "cookerism"],
+      "tier": "rare",
+      "note": "Conspiracy-theorist protester; 2020s coinage. Distinct from 'cooked'."
+    },
+    {
+      "canonical": "Bush doof",
+      "aliases": ["doof", "doofs", "bush doofs", "doof doof", "bushdoof"],
+      "tier": "rare",
+      "note": "Outdoor rave. 'Doof doof' (loud music) collapses here."
+    },
+    {
+      "canonical": "Ropeable",
+      "aliases": ["ropable", "rope-able", "absolutely ropeable"],
+      "tier": "rare",
+      "note": "Furious."
+    },
+    {
+      "canonical": "Aggro",
+      "aliases": ["agro", "aggros", "aggro mate", "agro mate"],
+      "tier": "uncommon",
+      "note": "Aggressive / aggression."
+    },
+    {
+      "canonical": "Rapt",
+      "aliases": ["wrapped", "so rapt", "rapt mate", "wrapt"],
+      "tier": "uncommon",
+      "note": "Thrilled. Often spelt 'wrapped'."
+    },
+    {
+      "canonical": "Keen as",
+      "aliases": ["keen-as", "keenas", "keen as mustard", "keen"],
+      "tier": "uncommon",
+      "note": "Very enthusiastic."
+    },
+    {
+      "canonical": "Hectic",
+      "aliases": ["so hectic", "hectic bro", "hektic"],
+      "tier": "uncommon",
+      "note": "Intense / great (2000s youth slang, Fat Pizza territory)."
+    },
+    {
+      "canonical": "Gun",
+      "aliases": ["a gun", "guns", "gun shearer", "absolute gun"],
+      "tier": "uncommon",
+      "note": "An expert; originally a gun shearer."
+    },
+    {
+      "canonical": "Legend",
+      "aliases": ["legends", "ledge", "you legend", "absolute legend"],
+      "tier": "uncommon",
+      "note": "Term of praise; 'ledge' is the shortening."
+    },
+    {
+      "canonical": "Champ",
+      "aliases": ["champs", "champion", "hey champ"],
+      "tier": "rare",
+      "note": "Friendly (or patronising) address."
+    },
+    {
+      "canonical": "Tosser",
+      "aliases": ["tossers", "tossa", "don't be a tosser"],
+      "tier": "uncommon",
+      "note": "Idiot. Shared with UK; the anti-litter campaign made it very Aussie."
+    },
+    {
+      "canonical": "Gronk",
+      "aliases": ["gronks", "gronky", "ya gronk"],
+      "tier": "uncommon",
+      "note": "Fool / lowlife (NSW, big in league land)."
+    },
+    {
+      "canonical": "Dropkick",
+      "aliases": ["drop kick", "dropkicks", "drop-kick", "drop kicks"],
+      "tier": "uncommon",
+      "note": "Loser / idiot."
+    },
+    {
+      "canonical": "Nuffy",
+      "aliases": ["nuff nuff", "nuffie", "nuffys", "nuffies"],
+      "tier": "rare",
+      "note": "Fool / obsessive."
+    },
+    {
+      "canonical": "Flog",
+      "aliases": ["flogs", "a flog", "total flog", "absolute flog", "flogged"],
+      "tier": "uncommon",
+      "note": "Show-off / idiot; also to flog = steal or thrash."
+    },
+    {
+      "canonical": "Shocker",
+      "aliases": ["shockers", "had a shocker", "an absolute shocker", "shocka"],
+      "tier": "uncommon",
+      "note": "A terrible performance ('had a shocker')."
+    },
+    {
+      "canonical": "Clanger",
+      "aliases": ["clangers", "dropped a clanger", "drop a clanger"],
+      "tier": "rare",
+      "note": "A blunder; also an official AFL statistic."
+    },
+    {
+      "canonical": "Sledging",
+      "aliases": ["sledge", "sledges", "sledged", "sledging match"],
+      "tier": "uncommon",
+      "note": "On-field verbal abuse; Australian cricket's gift to the world."
+    },
+    {
+      "canonical": "Stoush",
+      "aliases": ["stoushes", "a stoush", "stoush up", "stouch"],
+      "tier": "rare",
+      "note": "A fight or dust-up."
+    },
+    {
+      "canonical": "Biffo",
+      "aliases": ["biff", "the biff", "biffos", "bit of biffo"],
+      "tier": "rare",
+      "note": "Fisticuffs; 'bring back the biff'."
+    },
+    {
+      "canonical": "Gobful",
+      "aliases": ["a gobful", "cop a gobful", "give him a gobful", "gob full"],
+      "tier": "rare",
+      "note": "A verbal spray."
+    },
+    {
+      "canonical": "Skite",
+      "aliases": ["skiting", "skited", "skites", "skiter"],
+      "tier": "rare",
+      "note": "To boast."
+    },
+    {
+      "canonical": "Big-note",
+      "aliases": ["big note", "big noting", "big-noting", "bignoting", "big noter"],
+      "tier": "rare",
+      "note": "To talk yourself up."
+    },
+    {
+      "canonical": "Showpony",
+      "aliases": ["show pony", "show ponies", "showponies", "show-pony"],
+      "tier": "rare",
+      "note": "Flashy all-style-no-substance type."
+    },
+    {
+      "canonical": "Lair",
+      "aliases": ["lairy", "mug lair", "lairising", "lairs"],
+      "tier": "deep",
+      "note": "Flashy show-off; 'mug lair' is the classic form."
+    },
+    {
+      "canonical": "Bottler",
+      "aliases": ["little bottler", "you little bottler", "bottlers"],
+      "tier": "deep",
+      "note": "Something excellent ('you little bottler')."
+    },
+    {
+      "canonical": "Corker",
+      "aliases": ["corkers", "a corker", "korker"],
+      "tier": "rare",
+      "note": "Something excellent. Shared with UK; long naturalised."
+    },
+    {
+      "canonical": "Swimmers",
+      "aliases": ["the swimmers", "pair of swimmers", "swimmer"],
+      "tier": "uncommon",
+      "note": "NSW word for swimwear, alongside togs/bathers/cozzie."
+    },
+    {
+      "canonical": "Uggs",
+      "aliases": ["ugg boots", "uggies", "ugh boots", "ugg boot", "uggz"],
+      "tier": "uncommon",
+      "note": "Sheepskin boots; an Australian coinage."
+    },
+    {
+      "canonical": "Jarmies",
+      "aliases": ["jammies", "jarmys", "jim jams"],
+      "tier": "rare",
+      "note": "Pyjamas."
+    },
+    {
+      "canonical": "Veggo",
+      "aliases": ["vego", "vegos", "veggos", "veggo option"],
+      "tier": "uncommon",
+      "note": "Vegetarian."
+    },
+    {
+      "canonical": "Greenie",
+      "aliases": ["greenies", "greeny", "the greenies"],
+      "tier": "uncommon",
+      "note": "Environmentalist."
+    },
+    {
+      "canonical": "Surfie",
+      "aliases": ["surfies", "surfy", "surfie chick"],
+      "tier": "uncommon",
+      "note": "Surfer."
+    },
+    {
+      "canonical": "Bikie",
+      "aliases": ["bikies", "bikie gang", "outlaw bikie"],
+      "tier": "uncommon",
+      "note": "Motorcycle gang member (the US says biker)."
+    },
+    {
+      "canonical": "Truckie",
+      "aliases": ["truckies", "trucky", "truckys"],
+      "tier": "uncommon",
+      "note": "Truck driver."
+    },
+    {
+      "canonical": "Brickie",
+      "aliases": ["brickies", "bricky", "brickie's labourer", "brickies labourer"],
+      "tier": "uncommon",
+      "note": "Bricklayer."
+    },
+    {
+      "canonical": "Milko",
+      "aliases": ["milkos", "the milko", "milk-o"],
+      "tier": "rare",
+      "note": "Milkman."
+    },
+    {
+      "canonical": "Wharfie",
+      "aliases": ["wharfies", "wharfy", "warfie"],
+      "tier": "rare",
+      "note": "Dock worker."
+    },
+    {
+      "canonical": "Jackaroo",
+      "aliases": ["jackaroos", "jackeroo", "jillaroo", "jillaroos"],
+      "tier": "rare",
+      "note": "Station hand; jillaroo is the female counterpart, counted here."
+    },
+    {
+      "canonical": "Subbie",
+      "aliases": ["subby", "subbies", "subbys"],
+      "tier": "rare",
+      "note": "Subcontractor."
+    },
+    {
+      "canonical": "Offsider",
+      "aliases": ["offsiders", "off-sider", "off sider"],
+      "tier": "rare",
+      "note": "Assistant / helper."
+    },
+    {
+      "canonical": "Checkout chick",
+      "aliases": ["checkout chicks", "check out chick", "checkout-chick"],
+      "tier": "rare",
+      "note": "Supermarket cashier."
+    },
+    {
+      "canonical": "Bowser",
+      "aliases": ["bowsers", "petrol bowser", "the bowser"],
+      "tier": "rare",
+      "note": "Petrol pump."
+    },
+    {
+      "canonical": "P-plater",
+      "aliases": ["p plater", "p platers", "p plates", "p-plates", "p plate"],
+      "tier": "uncommon",
+      "note": "Provisional-licence driver."
+    },
+    {
+      "canonical": "Grey nomad",
+      "aliases": ["grey nomads", "gray nomad", "gray nomads", "greynomad"],
+      "tier": "uncommon",
+      "note": "Retiree towing a caravan around the country."
+    },
+    {
+      "canonical": "Troopy",
+      "aliases": ["troopie", "troopies", "troop carrier"],
+      "tier": "rare",
+      "note": "Toyota LandCruiser Troop Carrier."
+    },
+    {
+      "canonical": "Donga",
+      "aliases": ["dongas", "a donga", "mining donga"],
+      "tier": "rare",
+      "note": "Portable site accommodation."
+    },
+    {
+      "canonical": "Big smoke",
+      "aliases": ["the big smoke", "big smoke city", "bigsmoke"],
+      "tier": "rare",
+      "note": "The city, as seen from the bush."
+    },
+    {
+      "canonical": "Freo",
+      "aliases": ["freeo", "free-o", "freo docker"],
+      "tier": "rare",
+      "note": "Fremantle."
+    },
+    {
+      "canonical": "The Gong",
+      "aliases": ["gong", "the 'gong", "da gong"],
+      "tier": "rare",
+      "note": "Wollongong."
+    },
+    {
+      "canonical": "Rotto",
+      "aliases": ["rottos", "roto", "rotto island"],
+      "tier": "rare",
+      "note": "Rottnest Island."
+    },
+    {
+      "canonical": "Gabba",
+      "aliases": ["the gabba", "gabbatoir", "gaba"],
+      "tier": "rare",
+      "note": "The Brisbane Cricket Ground at Woolloongabba."
+    },
+    {
+      "canonical": "Ekka",
+      "aliases": ["the ekka", "ekkas", "eka"],
+      "tier": "rare",
+      "note": "The Brisbane Exhibition (Royal Queensland Show)."
+    },
+    {
+      "canonical": "Radelaide",
+      "aliases": ["rad adelaide", "radelade", "radeliade"],
+      "tier": "rare",
+      "note": "Adelaide, affectionately/ironically."
+    },
+    {
+      "canonical": "Top End",
+      "aliases": ["the top end", "top ender", "top-end"],
+      "tier": "rare",
+      "note": "Northern NT."
+    },
+    {
+      "canonical": "Showbag",
+      "aliases": ["show bag", "show bags", "showbags", "sample bag"],
+      "tier": "uncommon",
+      "note": "Bag of show merch; also an insult (full of rubbish)."
+    },
+    {
+      "canonical": "Schoolies",
+      "aliases": ["schoolies week", "schoolie", "skoolies"],
+      "tier": "uncommon",
+      "note": "End-of-Year-12 celebration week."
+    },
+    {
+      "canonical": "Wag",
+      "aliases": ["wagging", "wagged", "wag school", "wagging school", "wags"],
+      "tier": "uncommon",
+      "note": "Skip school."
+    },
+    {
+      "canonical": "Tuckshop",
+      "aliases": ["tuck shop", "tuckshops", "tuck-shop", "tuckshop lady"],
+      "tier": "uncommon",
+      "note": "School canteen."
+    },
+    {
+      "canonical": "Playlunch",
+      "aliases": ["play lunch", "playlunches", "little lunch"],
+      "tier": "rare",
+      "note": "Morning-recess snack; QLD's 'little lunch' collapses here."
+    },
+    {
+      "canonical": "Bubbler",
+      "aliases": ["bubblers", "water bubbler", "the bubbler"],
+      "tier": "uncommon",
+      "note": "Drinking fountain."
+    },
+    {
+      "canonical": "Texta",
+      "aliases": ["textas", "texta pen", "textah"],
+      "tier": "uncommon",
+      "note": "Felt-tip marker; genericised Aussie brand."
+    },
+    {
+      "canonical": "Port",
+      "aliases": ["ports", "school port", "school ports"],
+      "tier": "deep",
+      "note": "QLD word for a school bag (from portmanteau). Only the bag sense counts."
+    },
+    {
+      "canonical": "Billycart",
+      "aliases": ["billy cart", "billy carts", "billycarts", "billy kart"],
+      "tier": "rare",
+      "note": "Home-made go-kart."
+    },
+    {
+      "canonical": "Mo",
+      "aliases": ["mos", "the mo", "grow a mo", "mo bro"],
+      "tier": "uncommon",
+      "note": "Moustache; Movember made it famous."
+    },
+    {
+      "canonical": "Jackie Howe",
+      "aliases": ["jacky howe", "jackie howe singlet", "jacky howes"],
+      "tier": "deep",
+      "note": "Navy shearer's singlet, after the champion shearer."
+    },
+    {
+      "canonical": "Kiwi",
+      "aliases": ["kiwis", "the kiwis", "kiwi bro"],
+      "tier": "uncommon",
+      "note": "New Zealander."
+    },
+    {
+      "canonical": "Cooee",
+      "aliases": ["coo-ee", "cooey", "within cooee", "not within cooee", "coo ee"],
+      "tier": "uncommon",
+      "note": "Bush call; 'within cooee' = nearby."
+    },
+    {
+      "canonical": "Walkabout",
+      "aliases": ["gone walkabout", "go walkabout", "walkabouts"],
+      "tier": "uncommon",
+      "note": "Gone wandering / gone missing."
+    },
+    {
+      "canonical": "Didge",
+      "aliases": ["didges", "didg", "the didge"],
+      "tier": "rare",
+      "note": "Didgeridoo; the shortening is the slang."
+    },
+    {
+      "canonical": "Barra",
+      "aliases": ["barras", "barra fishing", "barramundi"],
+      "tier": "uncommon",
+      "note": "Barramundi."
+    },
+    {
+      "canonical": "Muddie",
+      "aliases": ["muddies", "mud crab", "muddys"],
+      "tier": "rare",
+      "note": "Mud crab (QLD)."
+    },
+    {
+      "canonical": "Wettie",
+      "aliases": ["wetty", "wetties", "wettie suit"],
+      "tier": "rare",
+      "note": "Wetsuit."
+    },
+    {
+      "canonical": "Stinger",
+      "aliases": ["stingers", "stinger season", "stinger net"],
+      "tier": "rare",
+      "note": "Box jellyfish / Irukandji, up north."
+    },
+    {
+      "canonical": "Maggie",
+      "aliases": ["maggies", "maggys", "the maggies"],
+      "tier": "rare",
+      "note": "Magpie, the swooping menace. If they mean Collingwood, still a maggie."
+    },
+    {
+      "canonical": "Bindi",
+      "aliases": ["bindis", "bindii", "bindiis", "bindi eye", "bindi-eye", "bindies"],
+      "tier": "rare",
+      "note": "Lawn prickle that ruins bare feet."
+    },
+    {
+      "canonical": "Middy",
+      "aliases": ["middies", "middys", "middy of beer"],
+      "tier": "uncommon",
+      "note": "285ml beer glass (NSW/WA); the pot's northern cousin."
+    },
+    {
+      "canonical": "Turps",
+      "aliases": ["on the turps", "the turps", "turps night"],
+      "tier": "rare",
+      "note": "The drink; 'on the turps' = on the booze."
+    },
+    {
+      "canonical": "Sherbet",
+      "aliases": ["sherbets", "sherbert", "sherberts", "few sherbets"],
+      "tier": "rare",
+      "note": "A beer ('a few sherbets')."
+    },
+    {
+      "canonical": "Dusty",
+      "aliases": ["feeling dusty", "bit dusty", "dusty as"],
+      "tier": "rare",
+      "note": "Hungover."
+    },
+    {
+      "canonical": "Off your chops",
+      "aliases": ["off ya chops", "off his chops", "off her chops", "off the chops", "off me chops"],
+      "tier": "rare",
+      "note": "Very drunk."
+    },
+    {
+      "canonical": "Roadie",
+      "aliases": ["roadies", "roady", "traveller", "one for the road"],
+      "tier": "rare",
+      "note": "Takeaway drink for the trip; 'traveller' is the same thing."
+    },
+    {
+      "canonical": "Knock-off",
+      "aliases": ["knock off", "knockoff", "knock off time", "knocked off", "knock-offs", "knock off drinks"],
+      "tier": "uncommon",
+      "note": "Finishing time at work; knock-off drinks follow."
+    },
+    {
+      "canonical": "Sparrow's fart",
+      "aliases": ["sparrows fart", "sparrow fart", "up at sparrows", "sparrows"],
+      "tier": "rare",
+      "note": "Dawn."
+    },
+    {
+      "canonical": "Beer o'clock",
+      "aliases": ["beer oclock", "beer o clock", "beeroclock"],
+      "tier": "rare",
+      "note": "Time for the first beer."
+    },
+    {
+      "canonical": "Rissole",
+      "aliases": ["the rissole", "rissoles", "the rsl"],
+      "tier": "rare",
+      "note": "The RSL club. The meat patty sense is standard English; the club sense is the slang."
+    },
+    {
+      "canonical": "Punt",
+      "aliases": ["have a punt", "punting", "punter", "punters", "the punt"],
+      "tier": "uncommon",
+      "note": "A bet; a punter is anyone having a go."
+    },
+    {
+      "canonical": "Pineapple",
+      "aliases": ["pineapples", "a pineapple", "pinapple"],
+      "tier": "rare",
+      "note": "$50 note (it's yellow)."
+    },
+    {
+      "canonical": "Lobster",
+      "aliases": ["lobsters", "a lobster", "lobsta"],
+      "tier": "rare",
+      "note": "$20 note (it's red)."
+    },
+    {
+      "canonical": "Motza",
+      "aliases": ["motsa", "motser", "made a motza", "motzas"],
+      "tier": "rare",
+      "note": "A large amount of money, esp. a win."
+    },
+    {
+      "canonical": "Tightarse",
+      "aliases": ["tight arse", "tight-arse", "tight ass", "tightass", "tightarses"],
+      "tier": "uncommon",
+      "note": "Stingy person."
+    },
+    {
+      "canonical": "Meat tray",
+      "aliases": ["meat trays", "meat raffle", "meat-tray"],
+      "tier": "rare",
+      "note": "Classic pub raffle prize."
+    },
+    {
+      "canonical": "Two-up",
+      "aliases": ["two up", "twoup", "2 up", "two-up game", "swy"],
+      "tier": "rare",
+      "note": "Anzac Day coin game; 'swy' is the old name."
+    },
+    {
+      "canonical": "Bulldust",
+      "aliases": ["bull dust", "bulldusting", "bull-dust"],
+      "tier": "rare",
+      "note": "Nonsense (polite form); also fine outback road dust."
+    },
+    {
+      "canonical": "Scrub",
+      "aliases": ["the scrub", "scrubby", "scrubs"],
+      "tier": "rare",
+      "note": "Bushland; 'out in the scrub'."
+    },
+    {
+      "canonical": "Happy as Larry",
+      "aliases": ["happy as larry", "as happy as larry", "happy as larrie"],
+      "tier": "rare",
+      "note": "Delighted. Aus/NZ origin."
+    },
+    {
+      "canonical": "Dog's breakfast",
+      "aliases": ["dogs breakfast", "a dog's breakfast", "dog breakfast"],
+      "tier": "rare",
+      "note": "A complete mess."
+    },
+    {
+      "canonical": "Kangaroos loose in the top paddock",
+      "aliases": ["roos loose in the top paddock", "kangaroos in the top paddock", "a few roos loose in the top paddock", "kangaroos loose", "stubby short of a six pack", "a few stubbies short of a six pack"],
+      "tier": "rare",
+      "note": "Not all there; the stubbies-short-of-a-six-pack variant collapses here."
+    },
+    {
+      "canonical": "Carrying on like a pork chop",
+      "aliases": ["carry on like a pork chop", "carrying on like a porkchop", "carried on like a pork chop", "like a pork chop"],
+      "tier": "rare",
+      "note": "Making a ridiculous fuss."
+    },
+    {
+      "canonical": "Fairy bread",
+      "aliases": ["fairybread", "fairy-bread", "fairy breads"],
+      "tier": "uncommon",
+      "note": "Hundreds-and-thousands on buttered white bread; party staple."
+    },
+    {
+      "canonical": "Hundreds and thousands",
+      "aliases": ["100s and 1000s", "hundreds & thousands", "hundred and thousands"],
+      "tier": "rare",
+      "note": "Sprinkles."
+    },
+    {
+      "canonical": "Feed",
+      "aliases": ["a feed", "good feed", "grab a feed", "pub feed", "feeds"],
+      "tier": "uncommon",
+      "note": "A meal ('grab a feed')."
+    },
+    {
+      "canonical": "Burger with the lot",
+      "aliases": ["with the lot", "hamburger with the lot", "burger with lot"],
+      "tier": "rare",
+      "note": "Beetroot, egg, pineapple, the works."
+    },
+    {
+      "canonical": "Counter meal",
+      "aliases": ["counter lunch", "counter tea", "countery", "counter meals"],
+      "tier": "rare",
+      "note": "Pub meal at the bar."
+    },
+    {
+      "canonical": "HJ's",
+      "aliases": ["hjs", "hj", "hungry jacks"],
+      "tier": "rare",
+      "note": "Hungry Jack's; the nickname is the slang, like Maccas."
+    },
+    {
+      "canonical": "Granny",
+      "aliases": ["the granny", "make the granny", "grannie"],
+      "tier": "deep",
+      "note": "The grand final. Only the footy sense counts."
+    },
+    {
+      "canonical": "Don't argue",
+      "aliases": ["dont argue", "the dont argue", "don't argue fend"],
+      "tier": "deep",
+      "note": "The stiff-arm fend in footy."
+    },
+    {
+      "canonical": "Up there Cazaly",
+      "aliases": ["up there cazaly", "cazaly", "up there kazaly"],
+      "tier": "deep",
+      "note": "Footy rallying cry, after Roy Cazaly."
+    },
+    {
+      "canonical": "Frog and toad",
+      "aliases": ["hit the frog and toad", "frog n toad", "the frog and toad"],
+      "tier": "deep",
+      "note": "Rhyming slang for road."
+    },
+    {
+      "canonical": "Noah's ark",
+      "aliases": ["noahs ark", "a noah", "noahs"],
+      "tier": "deep",
+      "note": "Rhyming slang for shark."
+    },
+    {
+      "canonical": "Harold Holt",
+      "aliases": ["do the harold holt", "do a harold", "harold holts"],
+      "tier": "deep",
+      "note": "Rhyming slang: do the Harold Holt = bolt."
+    },
+    {
+      "canonical": "Barry Crocker",
+      "aliases": ["had a barry crocker", "barry crockers", "barrycrocker"],
+      "tier": "deep",
+      "note": "Rhyming slang for a shocker."
+    },
+    {
+      "canonical": "Mallee bull",
+      "aliases": ["fit as a mallee bull", "mally bull", "mallee bulls"],
+      "tier": "deep",
+      "note": "'Fit as a mallee bull' = very fit."
+    },
+    {
+      "canonical": "Never Never",
+      "aliases": ["the never never", "never-never", "never nevers"],
+      "tier": "deep",
+      "note": "The remote outback."
+    },
+    {
+      "canonical": "Bush telly",
+      "aliases": ["bush tv", "the bush telly", "bush tellys"],
+      "tier": "deep",
+      "note": "The campfire."
+    },
+    {
+      "canonical": "Joe Blake",
+      "aliases": ["joe blakes", "joeblake", "joe blake snake"],
+      "tier": "rare",
+      "note": "Rhyming slang for snake."
+    },
+    {
+      "canonical": "Captain Cook",
+      "aliases": ["have a captain cook", "captains cook", "take a captain cook"],
+      "tier": "rare",
+      "note": "Rhyming slang: have a captain cook = have a look."
+    },
+    {
+      "canonical": "Sunbake",
+      "aliases": ["sunbaking", "sun bake", "sunbaked"],
+      "tier": "rare",
+      "note": "Sunbathe, the Australian way."
+    },
+    {
+      "canonical": "Slip slop slap",
+      "aliases": ["slip-slop-slap", "slip, slop, slap", "slipslopslap", "slip slop and slap"],
+      "tier": "rare",
+      "note": "The SunSmart catchphrase; naturalised into everyday speech."
     }
   ],
   "hostNotes": "Open-ended starter: almost any genuinely Australian colloquialism is correct, so grade generously and lean on the bank for grouping variants (e.g. parma/parmi, sanga/sanger/sambo, yeah nah vs nah yeah are listed separately but a host may merge them). Reject plain brand names (Vegemite, VB), ordinary English words, and purely British or American slang unless the Aussie usage is distinctive (knackered, dodgy, telly are accepted; blimey, dude are not). Watch the traps: 'root' and 'thongs' mean different things to Americans; 'wog' is a slur that some will offer and is technically correct, so decide before the round whether to accept it; Aboriginal-English words (deadly, mob, gammon) are correct Aussie slang. Loanwords like billabong, yabby and joey are borderline but appear on every slang list, so accept them."

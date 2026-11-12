@@ -12,7 +12,11 @@
         "torquey",
         "torky",
         "torkay",
-        "torquay vic"
+        "torquay vic",
+        "torquay north",
+        "tourquay",
+        "torqauy",
+        "torquai"
       ],
       "tier": "common",
       "note": "Official eastern start of the road."
@@ -23,7 +27,10 @@
         "janjuc",
         "jan juk",
         "jan-juc",
-        "janjuk"
+        "janjuk",
+        "jan juck",
+        "janjuck",
+        "jan jook"
       ],
       "tier": "common"
     },
@@ -32,7 +39,10 @@
       "aliases": [
         "bells",
         "bell's beach",
-        "bellsbeach"
+        "bellsbeach",
+        "bells beech",
+        "bellz beach",
+        "bels beach"
       ],
       "tier": "uncommon",
       "note": "A gazetted locality as well as a surf break, just off the road near Jan Juc - accept."
@@ -42,7 +52,10 @@
       "aliases": [
         "bell brae",
         "bellbray",
-        "bellbrea"
+        "bellbrea",
+        "belbrae",
+        "bell bray",
+        "bellbrae vic"
       ],
       "tier": "rare",
       "note": "Road passes through it between Torquay and Anglesea (Bells Beach turn-off)."
@@ -55,7 +68,11 @@
         "anglesey",
         "anglesee",
         "anglsey",
-        "point roadknight"
+        "point roadknight",
+        "angle sea",
+        "anglessea",
+        "anglesea vic",
+        "angelsey"
       ],
       "tier": "common",
       "note": "Point Roadknight is a neighbourhood of Anglesea - merge."
@@ -71,7 +88,11 @@
         "airey's inlet",
         "aries inlet",
         "airey inlet",
-        "aireys inlett"
+        "aireys inlett",
+        "airy inlet",
+        "aireys inlet vic",
+        "airees inlet",
+        "aires inlet"
       ],
       "tier": "common",
       "note": "Expect many spellings; Split Point lighthouse is here."
@@ -81,7 +102,11 @@
       "aliases": [
         "fair haven",
         "fairhavn",
-        "fairheaven"
+        "fairheaven",
+        "fairhaven vic",
+        "fairhavan",
+        "fair havan",
+        "farehaven"
       ],
       "tier": "uncommon"
     },
@@ -91,7 +116,10 @@
         "mogs creek",
         "moggs ck",
         "mogg's creek",
-        "moggs"
+        "moggs",
+        "moggs creek vic",
+        "mogg creek",
+        "moggs crk"
       ],
       "tier": "rare",
       "note": "Between Fairhaven and Eastern View."
@@ -100,7 +128,10 @@
       "canonical": "Eastern View",
       "aliases": [
         "eastern veiw",
-        "easternview"
+        "easternview",
+        "eastern view vic",
+        "easten view",
+        "eastern vew"
       ],
       "tier": "rare",
       "note": "Where the Memorial Arch stands; old tollgate site. If they say 'Memorial Arch' ask for the town."
@@ -109,7 +140,10 @@
       "canonical": "Big Hill",
       "aliases": [
         "bighill",
-        "big hill lorne"
+        "big hill lorne",
+        "big hill vic",
+        "bigg hill",
+        "big hil"
       ],
       "tier": "deep",
       "note": "Tiny locality between Eastern View and Lorne; the road was cut over it in 1920-21."
@@ -119,7 +153,11 @@
       "aliases": [
         "lorn",
         "lourne",
-        "lorne vic"
+        "lorne vic",
+        "lornne",
+        "loren",
+        "lorne town",
+        "lorne beach"
       ],
       "tier": "common",
       "obvious": true,
@@ -131,7 +169,10 @@
         "cumberland",
         "cumberland ck",
         "cumberland creek",
-        "cumberland rv"
+        "cumberland rv",
+        "cumberland river vic",
+        "cumberlan river",
+        "cumberland riv"
       ],
       "tier": "rare",
       "note": "Locality and holiday park about 7 km west of Lorne."
@@ -143,7 +184,11 @@
         "wye rv",
         "why river",
         "wye rvr",
-        "wye rva"
+        "wye rva",
+        "wye river vic",
+        "wi river",
+        "wye riv",
+        "whye river"
       ],
       "tier": "common",
       "obvious": true,
@@ -159,7 +204,11 @@
         "seperation ck",
         "separation",
         "sepo",
-        "seppo"
+        "seppo",
+        "separation creek vic",
+        "seperation crk",
+        "separation crek",
+        "sepration creek"
       ],
       "tier": "uncommon",
       "obvious": true,
@@ -173,7 +222,11 @@
         "kennet",
         "kennett rv",
         "kennet rv",
-        "kenneth river"
+        "kenneth river",
+        "kennett river vic",
+        "kenet river",
+        "kennett riv",
+        "kennit river"
       ],
       "tier": "common",
       "obvious": true,
@@ -185,17 +238,23 @@
         "gray river",
         "grey rv",
         "grey rvr",
-        "grey rva"
+        "grey rva",
+        "grey river vic",
+        "grey riv",
+        "grey rivr"
       ],
-      "tier": "deep",
-      "note": "Locality just west of Kennett River, before Wongarra."
+      "tier": "rare",
+      "note": "Locality just west of Kennett River, before Wongarra; signposted on the road."
     },
     {
       "canonical": "Wongarra",
       "aliases": [
         "wongara",
         "wongarah",
-        "wongarra beach"
+        "wongarra beach",
+        "wongarra vic",
+        "won garra",
+        "wongarrah"
       ],
       "tier": "deep",
       "note": "Between Grey River and Sugarloaf; Cape Patton lookout is in this locality."
@@ -205,7 +264,10 @@
       "aliases": [
         "sugar loaf",
         "the sugarloaf",
-        "sugarloaf creek"
+        "sugarloaf creek",
+        "sugarloaf vic",
+        "sugar loafe",
+        "shugarloaf"
       ],
       "tier": "deep",
       "note": "Named for the hill by Sugarloaf Creek, between Wongarra and Petticoat Creek."
@@ -216,7 +278,10 @@
         "petticoat",
         "petticoat ck",
         "peticoat creek",
-        "petticoat crk"
+        "petticoat crk",
+        "petticoat creek vic",
+        "petty coat creek",
+        "petticote creek"
       ],
       "tier": "deep",
       "note": "Between Sugarloaf and Skenes Creek; named for a family's washing on the line during road construction."
@@ -229,7 +294,11 @@
         "skene's creek",
         "skenes ck",
         "skeens ck",
-        "skeenes creek"
+        "skeenes creek",
+        "skenes creek vic",
+        "skens creek",
+        "skeans creek",
+        "skenes crk"
       ],
       "tier": "uncommon"
     },
@@ -240,7 +309,10 @@
         "appollo bay",
         "apolo bay",
         "apollo bay vic",
-        "appolo bay"
+        "appolo bay",
+        "appollo",
+        "apollobay",
+        "apolla bay"
       ],
       "tier": "common"
     },
@@ -249,7 +321,10 @@
       "aliases": [
         "marengo beach",
         "marrengo",
-        "marengo vic"
+        "marengo vic",
+        "merengo",
+        "merango",
+        "maringo"
       ],
       "tier": "rare",
       "note": "Just south of Apollo Bay, last coastal settlement before the road turns inland."
@@ -261,17 +336,23 @@
         "hordernvale",
         "hordon vale",
         "hordern",
-        "horden vale vic"
+        "horden vale vic",
+        "hordenvale",
+        "hordern vale vic",
+        "hordan vale"
       ],
-      "tier": "deep",
-      "note": "On the road about 20 km west of Apollo Bay near the Aire River."
+      "tier": "rare",
+      "note": "On the road about 20 km west of Apollo Bay near the Aire River; signposted on the road."
     },
     {
       "canonical": "Cape Otway",
       "aliases": [
         "cape otway lighthouse",
         "cape otway vic",
-        "cap otway"
+        "cap otway",
+        "cape ottway",
+        "capeotway",
+        "cape otaway"
       ],
       "tier": "rare",
       "note": "Gazetted locality; the lighthouse itself is 12 km down a side road - accept as a near-miss. 'The Otways' alone is a region, not a town."
@@ -281,10 +362,13 @@
       "aliases": [
         "glen aire",
         "glennaire",
-        "glenair"
+        "glenair",
+        "glenaire vic",
+        "glen air",
+        "glenayre"
       ],
-      "tier": "deep",
-      "note": "Castle Cove lookout and the Johanna turn-off are here."
+      "tier": "rare",
+      "note": "Castle Cove lookout and the Johanna turn-off are here; signposted on the road."
     },
     {
       "canonical": "Johanna",
@@ -293,7 +377,10 @@
         "joanna",
         "johana",
         "jo hanna",
-        "johanna vic"
+        "johanna vic",
+        "johannah",
+        "joanna beach",
+        "yohanna"
       ],
       "tier": "rare",
       "note": "Locality straddles the road; the beach is a few km down Red Johanna Rd - accept."
@@ -306,7 +393,10 @@
         "lavershill",
         "lavas hill",
         "lavers hil",
-        "lavas"
+        "lavas",
+        "lavers hill vic",
+        "larvers hill",
+        "leavers hill"
       ],
       "tier": "uncommon"
     },
@@ -314,7 +404,10 @@
       "canonical": "Wattle Hill",
       "aliases": [
         "wattlehill",
-        "wattle hill vic"
+        "wattle hill vic",
+        "wattle hills",
+        "watle hill",
+        "whattle hill"
       ],
       "tier": "deep",
       "note": "On the road west of Lavers Hill; former Wattle Hill Hotel; Moonlight Head Rd turn-off."
@@ -325,7 +418,10 @@
         "yulong",
         "yoolong",
         "yuulong vic",
-        "yuu long"
+        "yuu long",
+        "youlong",
+        "yoo long",
+        "yulung"
       ],
       "tier": "deep",
       "note": "Locality on the Lavers Hill-Princetown stretch (postcode 3237); a genuine deep cut."
@@ -335,7 +431,10 @@
       "aliases": [
         "moonlight",
         "moonlighthead",
-        "moon light head"
+        "moon light head",
+        "moonlight head vic",
+        "moonlite head",
+        "moonlight heads"
       ],
       "tier": "deep",
       "note": "Gazetted locality on the road; the headland and Wreck Beach are off a gravel side road - accept."
@@ -346,7 +445,10 @@
         "princeton",
         "prince town",
         "princestown",
-        "princetown vic"
+        "princetown vic",
+        "prinstown",
+        "princetwon",
+        "princes town"
       ],
       "tier": "uncommon",
       "note": "Nearest town to the Twelve Apostles."
@@ -359,10 +461,25 @@
         "the 12 apostles",
         "apostles",
         "twelve apostels",
-        "12 apostels"
+        "12 apostels",
+        "twelve apostals",
+        "12 apostals",
+        "tweleve apostles"
       ],
       "tier": "rare",
       "note": "TRAP: a landmark, not a town. Nearest town is Princetown. Host's call - lean towards asking them to name the town instead, or accept once as Princetown."
+    },
+    {
+      "canonical": "Loch Ard Gorge",
+      "aliases": [
+        "loch ard",
+        "lochard gorge",
+        "lochard",
+        "lock ard gorge",
+        "loch ard george"
+      ],
+      "tier": "rare",
+      "note": "TRAP: a landmark, not a town. Nearest town is Port Campbell. Treat like the Twelve Apostles - redirect or host's call."
     },
     {
       "canonical": "Port Campbell",
@@ -373,9 +490,23 @@
         "port cambel",
         "portcampbell",
         "port campell",
-        "port cambpell"
+        "port cambpell",
+        "port campbell vic",
+        "port camble",
+        "pt campbel"
       ],
       "tier": "common"
+    },
+    {
+      "canonical": "London Bridge",
+      "aliases": [
+        "london arch",
+        "the london bridge",
+        "london bridge vic",
+        "londen bridge"
+      ],
+      "tier": "rare",
+      "note": "TRAP: a landmark, not a town - officially London Arch since the 1990 span collapse, between Port Campbell and Peterborough. Redirect or host's call."
     },
     {
       "canonical": "Peterborough",
@@ -384,10 +515,23 @@
         "peterburough",
         "peterbourgh",
         "peterborogh",
-        "peterborough vic"
+        "peterborough vic",
+        "peterbrough",
+        "peter borough",
+        "peterburgh"
       ],
       "tier": "uncommon",
       "note": "Last coastal town before the road turns inland towards Allansford."
+    },
+    {
+      "canonical": "Waarre",
+      "aliases": [
+        "warre",
+        "waare",
+        "waarre vic"
+      ],
+      "tier": "rare",
+      "note": "Not quite on the road - locality just inland of Port Campbell towards the Curdies River. Near-miss; host's call."
     },
     {
       "canonical": "Nirranda",
@@ -396,7 +540,10 @@
         "nirrandah",
         "nirranda south",
         "nirranda east",
-        "nirranda vic"
+        "nirranda vic",
+        "nerranda",
+        "nirrander",
+        "neranda"
       ],
       "tier": "deep",
       "note": "Farming locality on the road between Peterborough and Nullawarre."
@@ -408,7 +555,10 @@
         "nullawarra",
         "nullawar",
         "nullawarre north",
-        "nullawarre vic"
+        "nullawarre vic",
+        "nulla warre",
+        "nullawara",
+        "nulawarra"
       ],
       "tier": "deep",
       "note": "On the road about 25 km south-east of Warrnambool."
@@ -419,7 +569,10 @@
         "mepunga east",
         "mepunga west",
         "mapunga",
-        "mepunga vic"
+        "mepunga vic",
+        "mepungah",
+        "mepanga",
+        "mipunga"
       ],
       "tier": "deep",
       "note": "Mepunga / Mepunga East / Mepunga West sit on the Nullawarre-Allansford stretch - merge all three."
@@ -430,7 +583,10 @@
         "alansford",
         "allensford",
         "allansfield",
-        "allansford vic"
+        "allansford vic",
+        "allans ford",
+        "alensford",
+        "allansfrod"
       ],
       "tier": "rare",
       "note": "Official western end of the road."
@@ -445,7 +601,10 @@
         "warrny",
         "warny",
         "warrnambool vic",
-        "warrnambool city"
+        "warrnambool city",
+        "warrnabool",
+        "warnnambool",
+        "warrmambool"
       ],
       "tier": "common",
       "note": "Technically a few km past the Allansford end, but universally counted - accept."
@@ -456,16 +615,66 @@
         "timbooon",
         "timbon",
         "tim boon",
-        "timboon vic"
+        "timboon vic",
+        "timboone",
+        "tiboon",
+        "timbun"
       ],
       "tier": "rare",
       "note": "Not on the road - 15 km inland from Port Campbell. Classic near-miss; accept generously."
     },
     {
+      "canonical": "Newfield",
+      "aliases": [
+        "new field",
+        "newfeild",
+        "newfield vic"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - between Peterborough and Timboon near Curdievale. Near-miss; host's call."
+    },
+    {
+      "canonical": "Cooriemungle",
+      "aliases": [
+        "coorie mungle",
+        "cooriemungal",
+        "coorymungle",
+        "cooriemungel"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - dairy country between Timboon and Princetown. Near-miss; host's call."
+    },
+    {
+      "canonical": "Scotts Creek",
+      "aliases": [
+        "scotts ck",
+        "scott's creek",
+        "scots creek",
+        "scotts"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - inland between Timboon and Cobden. Near-miss; host's call."
+    },
+    {
+      "canonical": "Kennedys Creek",
+      "aliases": [
+        "kennedys ck",
+        "kennedy's creek",
+        "kennedy creek",
+        "kenedys creek",
+        "kennedys"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - Heytesbury country near Simpson. Near-miss; host's call."
+    },
+    {
       "canonical": "Cobden",
       "aliases": [
         "cobdon",
-        "cobden vic"
+        "cobden vic",
+        "cob den",
+        "cobdin",
+        "kobden"
       ],
       "tier": "rare",
       "note": "Not on the road - 30 km inland from Port Campbell. Near-miss; host's call."
@@ -474,7 +683,10 @@
       "canonical": "Simpson",
       "aliases": [
         "simpson vic",
-        "simson"
+        "simson",
+        "simpsons",
+        "simpsen",
+        "sympson"
       ],
       "tier": "rare",
       "note": "Not on the road - inland between Timboon and Lavers Hill. Near-miss; host's call."
@@ -485,46 +697,154 @@
         "curdie vale",
         "curdies",
         "curdievale vic",
-        "curdie's vale"
+        "curdie's vale",
+        "curdy vale",
+        "curdies vale",
+        "curdie"
       ],
       "tier": "rare",
       "note": "Not on the road - up the Curdies River from Peterborough. Near-miss; host's call."
+    },
+    {
+      "canonical": "Camperdown",
+      "aliases": [
+        "camperdown vic",
+        "camper down",
+        "camperdoun"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - Princes Highway, well inland. Reasonable to reject."
     },
     {
       "canonical": "Beech Forest",
       "aliases": [
         "beach forest",
         "beechforest",
-        "beech forrest"
+        "beech forrest",
+        "beechy",
+        "beech forest vic",
+        "beach forrest"
       ],
       "tier": "rare",
       "note": "Not on the road - Otway hinterland near the Otway Fly. Near-miss; host's call."
     },
     {
-      "canonical": "Forrest",
+      "canonical": "Wyelangta",
       "aliases": [
-        "forest",
-        "forrest vic",
-        "forrest otways"
+        "wye langta",
+        "wyelangata",
+        "wylangta"
+      ],
+      "tier": "deep",
+      "note": "Not on the road - Otway hinterland between Lavers Hill and Beech Forest. Host's call."
+    },
+    {
+      "canonical": "Weeaproinah",
+      "aliases": [
+        "weeaproina",
+        "weeproinah",
+        "wee aproinah",
+        "weeaprohna"
+      ],
+      "tier": "deep",
+      "note": "Not on the road - tiny Otways locality near Beech Forest, famously one of the wettest places in Victoria. One-in-a-Krillion stuff."
+    },
+    {
+      "canonical": "Ferguson",
+      "aliases": [
+        "fergusson",
+        "ferguson vic",
+        "fergusen"
+      ],
+      "tier": "deep",
+      "note": "Not on the road - Otway hinterland locality next to Beech Forest. Host's call."
+    },
+    {
+      "canonical": "Carlisle River",
+      "aliases": [
+        "carlisle",
+        "carlise river",
+        "carlisle rv",
+        "carlyle river"
       ],
       "tier": "rare",
-      "note": "Not on the road - Otways mountain-bike town inland from Apollo Bay. Near-miss; host's call."
+      "note": "Not on the road - Otway hinterland on the Gellibrand River. Near-miss; host's call."
+    },
+    {
+      "canonical": "Chapple Vale",
+      "aliases": [
+        "chapplevale",
+        "chapel vale",
+        "chappel vale",
+        "chapple vale vic"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - Otway hinterland between Gellibrand and Lavers Hill. Near-miss; host's call."
     },
     {
       "canonical": "Gellibrand",
       "aliases": [
         "gellibrand river",
         "gelibrand",
-        "gellibrand vic"
+        "gellibrand vic",
+        "gellybrand",
+        "gelli brand",
+        "gellibran"
       ],
       "tier": "rare",
       "note": "Not on the road - Otway hinterland on the Colac-Lavers Hill road. Near-miss; host's call."
     },
     {
+      "canonical": "Forrest",
+      "aliases": [
+        "forest",
+        "forrest vic",
+        "forrest otways",
+        "forest vic",
+        "forrest town",
+        "forrests"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - Otways mountain-bike town inland from Apollo Bay. Near-miss; host's call."
+    },
+    {
+      "canonical": "Barwon Downs",
+      "aliases": [
+        "barwondowns",
+        "barwon down",
+        "barwin downs"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - Otways hinterland between Birregurra and Forrest. Near-miss; host's call."
+    },
+    {
+      "canonical": "Mount Sabine",
+      "aliases": [
+        "mt sabine",
+        "mount sabean",
+        "mountsabine"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - high Otways locality on the Forrest-Apollo Bay road. Host's call."
+    },
+    {
+      "canonical": "Tanybryn",
+      "aliases": [
+        "tany bryn",
+        "tanybrin",
+        "tannybryn"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - up Skenes Creek Road towards Forrest. Near-miss; host's call."
+    },
+    {
       "canonical": "Colac",
       "aliases": [
         "colac vic",
-        "collac"
+        "collac",
+        "colack",
+        "kolac",
+        "colak"
       ],
       "tier": "rare",
       "note": "Not on the road - Princes Highway, 40 km inland. Reasonable to reject."
@@ -534,10 +854,43 @@
       "aliases": [
         "dean's marsh",
         "deansmarsh",
-        "deans march"
+        "deans march",
+        "dean marsh",
+        "deens marsh",
+        "deans marsh vic"
       ],
       "tier": "rare",
       "note": "Not on the road - inland on the Deans Marsh-Lorne road. Near-miss; host's call."
+    },
+    {
+      "canonical": "Benwerrin",
+      "aliases": [
+        "ben werrin",
+        "benwerin",
+        "benwarrin"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - halfway up the Deans Marsh-Lorne road. Near-miss; host's call."
+    },
+    {
+      "canonical": "Boonah",
+      "aliases": [
+        "boona",
+        "boonah vic",
+        "boonah otways"
+      ],
+      "tier": "deep",
+      "note": "Not on the road - tiny Otways locality near Deans Marsh, inland from Lorne. Host's call."
+    },
+    {
+      "canonical": "Pennyroyal",
+      "aliases": [
+        "penny royal",
+        "pennyroyal valley",
+        "pennyroyale"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - valley locality near Deans Marsh. Near-miss; host's call."
     },
     {
       "canonical": "Birregurra",
@@ -545,7 +898,10 @@
         "birregura",
         "birregarra",
         "birre",
-        "birregurra vic"
+        "birregurra vic",
+        "birragurra",
+        "birrigurra",
+        "berregurra"
       ],
       "tier": "rare",
       "note": "Not on the road - inland near Colac. Reasonable to reject."
@@ -556,7 +912,10 @@
         "winch",
         "winchelsea vic",
         "winchelsee",
-        "winchelsa"
+        "winchelsa",
+        "winchelsey",
+        "winchilsea",
+        "winchel sea"
       ],
       "tier": "rare",
       "note": "Not on the road - Princes Highway. Reasonable to reject."
@@ -566,17 +925,33 @@
       "aliases": [
         "freshwater",
         "freshwater ck",
-        "fresh water creek"
+        "fresh water creek",
+        "freshwater crk",
+        "freshwater creek vic"
       ],
       "tier": "rare",
       "note": "Not on the road - on Anglesea Rd between Geelong and Torquay. Near-miss; host's call."
+    },
+    {
+      "canonical": "Breamlea",
+      "aliases": [
+        "bream lea",
+        "breamlee",
+        "bream lee",
+        "breamleah"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - coastal hamlet between Torquay and Barwon Heads. Reasonable to reject."
     },
     {
       "canonical": "Barwon Heads",
       "aliases": [
         "barwon",
         "barwon head",
-        "barwin heads"
+        "barwin heads",
+        "barwonheads",
+        "barwan heads",
+        "barwon heads vic"
       ],
       "tier": "rare",
       "note": "Not on the road - Bellarine side of the Barwon River. Reasonable to reject."
@@ -586,7 +961,31 @@
       "aliases": [
         "oceangrove",
         "ocean groove",
-        "ocean grove vic"
+        "ocean grove vic",
+        "ocen grove",
+        "osean grove",
+        "oceon grove"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - Bellarine Peninsula. Reasonable to reject."
+    },
+    {
+      "canonical": "Queenscliff",
+      "aliases": [
+        "queenscliffe",
+        "queens cliff",
+        "queenscliff vic"
+      ],
+      "tier": "rare",
+      "note": "Not on the road - Bellarine Peninsula. Reasonable to reject."
+    },
+    {
+      "canonical": "Point Lonsdale",
+      "aliases": [
+        "pt lonsdale",
+        "lonsdale",
+        "point lonsdale vic",
+        "point lonsdail"
       ],
       "tier": "rare",
       "note": "Not on the road - Bellarine Peninsula. Reasonable to reject."
@@ -597,7 +996,10 @@
         "geelong vic",
         "gelong",
         "geelong city",
-        "jeelong"
+        "jeelong",
+        "gee long",
+        "geolong",
+        "jealong"
       ],
       "tier": "rare",
       "note": "Not on the road - gateway city only. Host can reject."
@@ -608,7 +1010,10 @@
         "pt fairy",
         "port fairey",
         "port fary",
-        "portfairy"
+        "portfairy",
+        "port ferry",
+        "port fairy vic",
+        "pt fairey"
       ],
       "tier": "rare",
       "note": "Not on the road - the Great Ocean Road ends at Allansford; Port Fairy is 30 km further along the Princes Highway. Commonly conflated; host can reject."
@@ -617,7 +1022,9 @@
       "canonical": "Portland",
       "aliases": [
         "portland vic",
-        "port land"
+        "port land",
+        "porland",
+        "portland victoria"
       ],
       "tier": "rare",
       "note": "Not on the road - 100 km past the Allansford end. Host can reject."

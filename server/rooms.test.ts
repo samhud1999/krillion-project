@@ -176,6 +176,19 @@ describe('a full 7-round game with 20 players', () => {
     expect(room.currentRound!.submissions.get(p1.id)?.raw).toBe('tim tams');
   });
 
+  it('bounces answers that are not on the list, and the player can keep trying', () => {
+    const p2 = players[1]!;
+    expect(room.answer(p2.id, 0, 'Weet-Bix', now + 210)).toMatchObject({ ok: false, code: 'not_in_bank' });
+    // nothing was recorded, so a corrected answer still goes through
+    expect(room.currentRound!.submissions.has(p2.id)).toBe(false);
+    expect(room.answer(p2.id, 0, 'totally made up', now + 220)).toMatchObject({ ok: false, code: 'not_in_bank' });
+    // typos within the fuzzy budget still land
+    expectOk(room.answer(p2.id, 0, 'Anzak', now + 230));
+    expect(room.currentRound!.submissions.get(p2.id)?.raw).toBe('Anzak');
+    // undo for the rest of this suite: the scripted round below re-submits everyone
+    room.currentRound!.submissions.delete(p2.id);
+  });
+
   it('hides answers from views during the prompt', () => {
     const pv = buildPlayerView(room, players[1]!.id, now)!;
     expect(pv.phase).toBe('prompt');
@@ -189,7 +202,7 @@ describe('a full 7-round game with 20 players', () => {
   });
 
   it('closes early (after the grace period) once everyone connected has answered', () => {
-    // 8× Tim Tam, 5× Anzac, 3× Kingston, 2× Jatz, 1× Gaiety (deep), 1× made-up
+    // 8× Tim Tam, 5× Anzac, 3× Kingston, 2× Jatz, 1× Gaiety (deep), 1× Mint Slice
     const script: Record<string, string> = {};
     const names = players.map((p) => p.name);
     names.slice(1, 8).forEach((n) => (script[n] = 'Tim Tam'));
@@ -197,7 +210,9 @@ describe('a full 7-round game with 20 players', () => {
     names.slice(13, 16).forEach((n) => (script[n] = 'kingston'));
     names.slice(16, 18).forEach((n) => (script[n] = 'Jatz'));
     script[names[18]!] = 'Gaiety';
-    script[names[19]!] = 'Weet-Bix';
+    // the last player fumbles a made-up answer first, then lands a real one
+    expect(room.answer(byName.get(names[19]!)!.id, 0, 'Weet-Bix', now + 400)).toMatchObject({ ok: false, code: 'not_in_bank' });
+    script[names[19]!] = 'Mint Slice';
     for (const [name, text] of Object.entries(script)) {
       expectOk(room.answer(byName.get(name)!.id, 0, text, now + 500));
     }
@@ -219,48 +234,53 @@ describe('a full 7-round game with 20 players', () => {
     expect(g['Kingston']!.tier).toBe('rockpool'); // 3/20
     expect(g['Jatz']!.tier).toBe('rockpool'); // 2/20
     expect(g['Gaiety']!.tier).toBe('krillion');
-    expect(g['Weet-bix']!.status).toBe('unverified');
-    expect(g['Weet-bix']!.tier).toBe('rockpool'); // unknown and alone: 60 until the host vouches
+    expect(g['Mint Slice']!.status).toBe('bank');
+    expect(g['Mint Slice']!.tier).toBe('deepcut'); // unique bank answer
     expect(room.players.get(byName.get('Player 19')!.id)!.depth).toBe(100);
     expect(room.players.get(byName.get('Player 1')!.id)!.depth).toBe(10);
     const pv = buildPlayerView(room, byName.get('Player 20')!.id, now)!;
-    expect(pv.me.result?.tier).toBe('rockpool');
+    expect(pv.me.result?.tier).toBe('deepcut');
     expect(pv.config.specialAnswers).toEqual({});
     expect(pv.config.promptIds).toEqual([]);
     expect(pv.me.history).toHaveLength(1);
   });
 
-  it('lets the host reject an unverified answer and re-scores from the round snapshot', () => {
+  it('lets the host reject a scored answer and re-scores from the round snapshot', () => {
     const p20 = byName.get('Player 20')!;
-    expect(room.moderate(0, 'free:weet bix', false, now + 3_000)).toMatchObject({ ok: true });
+    expect(room.moderate(0, 'bank:mint slice', false, now + 3_000)).toMatchObject({ ok: true });
     let round = room.currentRound!;
     expect(round.validCount).toBe(19);
     expect(round.results![p20.id]!.tier).toBe('dry');
     expect(room.players.get(p20.id)!.depth).toBe(0);
-    expect(round.groups!.find((g) => g.key === 'free:weet bix')!.status).toBe('rejected');
+    expect(round.groups!.find((g) => g.key === 'bank:mint slice')!.status).toBe('rejected');
     // Anzac is now 5/19 = 26 % → still shallows; Tim Tam 8/19 = 42 % → still puddle
     expect(round.groups!.find((g) => g.display === 'Anzac')!.tier).toBe('shallows');
 
-    // and accept it again — idempotent re-score, back to an unvouched 60
-    expect(room.moderate(0, 'free:weet bix', true, now + 3_100)).toMatchObject({ ok: true });
+    // and accept it again — idempotent re-score, back to a lone deep cut
+    expect(room.moderate(0, 'bank:mint slice', true, now + 3_100)).toMatchObject({ ok: true });
     round = room.currentRound!;
     expect(round.validCount).toBe(20);
-    expect(room.players.get(p20.id)!.depth).toBe(60);
-
-    // vouching lifts a lone unknown answer to a deep cut
-    expect(room.moderate(0, 'free:weet bix', true, now + 3_200)).toMatchObject({ ok: true });
-    round = room.currentRound!;
-    expect(round.groups!.find((g) => g.key === 'free:weet bix')!.vouched).toBe(true);
     expect(room.players.get(p20.id)!.depth).toBe(85);
 
-    // rejecting again clears the vouch
-    expect(room.moderate(0, 'free:weet bix', false, now + 3_300)).toMatchObject({ ok: true });
-    expect(room.players.get(p20.id)!.depth).toBe(0);
-    expect(room.moderate(0, 'free:weet bix', true, now + 3_400)).toMatchObject({ ok: true });
-    expect(room.players.get(p20.id)!.depth).toBe(60);
-
     expect(room.moderate(0, 'bank:nothing', false, now)).toMatchObject({ ok: false, code: 'bad_request' });
-    expect(room.moderate(1, 'free:weet bix', false, now)).toMatchObject({ ok: false, code: 'wrong_phase' });
+    expect(room.moderate(1, 'bank:mint slice', false, now)).toMatchObject({ ok: false, code: 'wrong_phase' });
+  });
+
+  it('still vouches legacy unverified answers (rounds recorded before strict validation)', () => {
+    const room2 = makeRoom();
+    const ps = join20(room2);
+    expectOk(room2.start(T0));
+    // as if written by an older build or a restored snapshot: bypass answer()
+    room2.currentRound!.submissions.set(ps[0]!.id, { raw: 'Weet-Bix', at: T0 + 1 });
+    expectOk(room2.answer(ps[1]!.id, 0, 'Tim Tam', T0 + 2));
+    expectOk(room2.answer(ps[2]!.id, 0, 'Anzac', T0 + 2));
+    expectOk(room2.answer(ps[3]!.id, 0, 'Kingston', T0 + 2));
+    expectOk(room2.endRound(T0 + 3));
+    const g = room2.currentRound!.groups!.find((x) => x.display === 'Weet-bix')!;
+    expect(g.status).toBe('unverified');
+    expect(g.tier).toBe('rockpool');
+    expectOk(room2.moderate(0, g.key, true, T0 + 4));
+    expect(room2.currentRound!.groups!.find((x) => x.key === g.key)!.tier).toBe('deepcut');
   });
 
   it('special answers cannot be rejected and always score the top tier', () => {
@@ -329,7 +349,9 @@ describe('a full 7-round game with 20 players', () => {
 
     now += 2_000;
     expectOk(room.next(now));
-    expectOk(room.answer(players[0]!.id, 5, 'Sep Creek', now + 10)); // not an alias in this fixture → unverified
+    // not an alias in this fixture → bounced; the player tries again with a real one
+    expect(room.answer(players[0]!.id, 5, 'Sep Creek', now + 10)).toMatchObject({ ok: false, code: 'not_in_bank' });
+    expectOk(room.answer(players[0]!.id, 5, 'Wye River', now + 12));
     expectOk(room.answer(players[1]!.id, 5, 'Separation Creeks', now + 10)); // plural alias → bank
     for (const p of players.slice(2)) expectOk(room.answer(p.id, 5, 'Lorne', now + 10));
     expectOk(room.endRound(now + 500));
@@ -337,7 +359,7 @@ describe('a full 7-round game with 20 players', () => {
     expect(g['Separation Creek']!.status).toBe('bank');
     expect(g['Separation Creek']!.bankTier).toBe('rare');
     expect(g['Separation Creek']!.tier).toBe('deepcut'); // unique, but only a 'rare' in the bank
-    expect(g['Sep Creek']!.status).toBe('unverified');
+    expect(g['Wye River']!.tier).toBe('deepcut');
   });
 
   it('scores the numeric closest-to-the-pin round by rank', () => {
@@ -345,7 +367,9 @@ describe('a full 7-round game with 20 players', () => {
     expectOk(room.next(now));
     const r = room.currentRound!;
     expect(r.promptId).toBe('n1-length');
-    const guesses = ['243', '240 km', '250', '236', '300', '100', 'about 1,000', 'dunno'];
+    // 'dunno' is not a number: bounced at submit, that player sits the round out
+    expect(room.answer(players[7]!.id, 6, 'dunno', now + 5)).toMatchObject({ ok: false, code: 'not_in_bank' });
+    const guesses = ['243', '240 km', '250', '236', '300', '100', 'about 1,000'];
     players.forEach((p, i) => {
       const g = guesses[i];
       if (g) expectOk(room.answer(p.id, 6, g, now + 10));
@@ -461,7 +485,8 @@ describe('review fixes', () => {
     const room = makeRoom();
     const players = join20(room);
     expectOk(room.start(T0));
-    players.forEach((p, i) => expectOk(room.answer(p.id, 0, i < 7 ? 'Tim Tam' : `unique answer ${i}`, T0 + 1000)));
+    const rest = ['Anzac', 'Iced VoVo', 'Kingston', 'Monte Carlo', 'Scotch Finger', 'Mint Slice', 'Jatz', 'Gaiety', 'Teddy Bear'];
+    players.forEach((p, i) => expectOk(room.answer(p.id, 0, i < 7 ? 'Tim Tam' : rest[(i - 7) % rest.length]!, T0 + 1000)));
     room.tick(T0 + 3000);
     expect(room.phase).toBe('reveal');
     const before = room.currentRound!.groups!.find((g) => g.display === 'Tim Tam')!;

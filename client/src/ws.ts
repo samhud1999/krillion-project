@@ -486,6 +486,8 @@ export function describeError(code: ServerErrorCode, fallback?: string): string 
       return 'Too late — that prompt has closed.';
     case 'already_answered':
       return "You've already locked in.";
+    case 'not_in_bank':
+      return "That one's not on our list — have another crack.";
     case 'wrong_phase':
       return 'Hang on — the game is not at that step.';
     case 'not_host':

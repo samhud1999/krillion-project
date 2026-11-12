@@ -19,7 +19,10 @@
         "protein",
         "animal",
         "some animal",
-        "flesh"
+        "flesh",
+        "real meat",
+        "actual meat",
+        "meaty bits"
       ],
       "tier": "common",
       "note": "Generic. If the player names a specific meat, score that instead. FSANZ requires a 'meat pie' to be at least 25% meat flesh."
@@ -38,7 +41,10 @@
         "australian beef",
         "100% australian beef",
         "beef meat",
-        "beef bits"
+        "beef bits",
+        "cubed beef",
+        "beefy bits",
+        "aussie beef"
       ],
       "tier": "common",
       "note": "The headline ingredient on every Four'N Twenty and Mrs Mac's pack ('Beef, minimum 25%')."
@@ -53,7 +59,9 @@
         "mincemeat",
         "mince meat",
         "the mince",
-        "minced"
+        "minced",
+        "savoury mince",
+        "mince beef"
       ],
       "tier": "common",
       "note": "Kept separate from Beef because the room will say both; collapse them only if the table agrees they meant the same thing."
@@ -71,7 +79,10 @@
         "steak and pepper",
         "steak pieces",
         "the one chunk of steak",
-        "a cube of steak"
+        "a cube of steak",
+        "stake",
+        "diced steak",
+        "steak bits"
       ],
       "tier": "uncommon",
       "note": "Chunky Steak and Pepper Steak are varieties rather than ingredients, but both collapse here."
@@ -94,7 +105,11 @@
         "meat juice",
         "meat juices",
         "the juice",
-        "the gravy"
+        "the gravy",
+        "gravox",
+        "bisto",
+        "gravy powder",
+        "gravy mix"
       ],
       "tier": "common",
       "note": "'Sauce inside the pie' is gravy; bare 'sauce' is tomato sauce."
@@ -118,7 +133,9 @@
         "soggy pastry",
         "burnt pastry",
         "the outside",
-        "pastry (wheat flour)"
+        "pastry (wheat flour)",
+        "pastery",
+        "pastry shell"
       ],
       "tier": "common",
       "note": "Generic. 'Lid/top/flaky' goes to Puff Pastry; 'base/bottom' goes to Shortcrust."
@@ -140,7 +157,9 @@
         "flaky bits",
         "flakes",
         "pastry flakes",
-        "flakes down your shirt"
+        "flakes down your shirt",
+        "flakey top",
+        "puff pastry top"
       ],
       "tier": "uncommon",
       "note": "The lid. Flakes on your shirt still count."
@@ -184,10 +203,30 @@
         "masterfoods sauce",
         "heinz",
         "fountain tomato sauce",
-        "tom sauce"
+        "tom sauce",
+        "tomatoe sauce",
+        "tomato source",
+        "sauce packet"
       ],
       "tier": "common",
       "note": "Technically on the pie, not in it. Accept anyway; nobody eats a servo pie without it. 'Dead horse' is rhyming slang for sauce, not an actual horse answer."
+    },
+    {
+      "canonical": "BBQ Sauce",
+      "aliases": [
+        "barbecue sauce",
+        "barbeque sauce",
+        "bbq",
+        "bar b q sauce",
+        "smokey bbq sauce",
+        "smoky bbq sauce",
+        "smokey bbq",
+        "bbq sauce instead of tomato",
+        "the bbq sauce",
+        "bbq sauce on top"
+      ],
+      "tier": "uncommon",
+      "note": "The other pump at the sauce station. On the pie rather than in it, same as tomato sauce; accept."
     },
     {
       "canonical": "Onion",
@@ -199,7 +238,10 @@
         "dehydrated onion",
         "onion powder",
         "the onion",
-        "bits of onion"
+        "bits of onion",
+        "chopped onion",
+        "white onion",
+        "onion flakes"
       ],
       "tier": "common",
       "note": "On every pack list after beef and water."
@@ -220,7 +262,9 @@
         "sodium chloride",
         "nacl",
         "salt and pepper",
-        "salt & pepper"
+        "salt & pepper",
+        "loads of salt",
+        "salty"
       ],
       "tier": "common",
       "note": "If a player says 'salt and pepper' as one answer, score it as Salt."
@@ -236,7 +280,9 @@
         "peppercorns",
         "peppercorn",
         "pepper (black)",
-        "the pepper"
+        "the pepper",
+        "peppery",
+        "a grind of pepper"
       ],
       "tier": "uncommon",
       "note": "'Pepper steak' scores as Steak, not Pepper."
@@ -258,7 +304,10 @@
         "a chewy bit",
         "the chewy bit",
         "rubbery bits",
-        "connective tissue"
+        "connective tissue",
+        "grissle",
+        "gristel",
+        "chewy lumps"
       ],
       "tier": "uncommon",
       "note": "Cartilage, sinew, tendon and 'the chewy bit' are all the same answer. Classic Aussie go-to; expect several."
@@ -278,7 +327,10 @@
         "oil leaking out",
         "saturated fat",
         "the fat",
-        "fat globules"
+        "fat globules",
+        "blubber",
+        "fat chunks",
+        "lumps of grease"
       ],
       "tier": "uncommon",
       "note": "Grease and saturated fat land here. Lard/dripping/tallow is its own entry."
@@ -297,7 +349,13 @@
         "unspecified meat",
         "mystery mince",
         "meat (origin unknown)",
-        "god knows what"
+        "god knows what",
+        "pink slime",
+        "meat slurry",
+        "slurry",
+        "grey meat",
+        "gray meat",
+        "mysterious meat"
       ],
       "tier": "uncommon",
       "note": "The cynical catch-all. Distinct from generic 'meat' because the player is making a joke; keep it separate."
@@ -327,7 +385,11 @@
         "bull's balls",
         "giblets",
         "variety meats",
-        "offcuts of organs"
+        "offcuts of organs",
+        "awful",
+        "gizzards",
+        "sweetbreads",
+        "stomach"
       ],
       "tier": "rare",
       "note": "Accept any named organ except kidney (own entry). Real pies use offal less than the legend suggests, but it's a defensible answer."
@@ -341,7 +403,9 @@
         "steak n kidney",
         "kidney bits",
         "bits of kidney",
-        "a kidney"
+        "a kidney",
+        "beef kidney",
+        "kidney chunks"
       ],
       "tier": "rare",
       "note": "Steak and Kidney is a real servo variety, so this counts on its own."
@@ -362,7 +426,10 @@
         "cheesy bit",
         "the cheese",
         "fake cheese",
-        "cheese substitute"
+        "cheese substitute",
+        "cheeze",
+        "mozzarella",
+        "cheesy goo"
       ],
       "tier": "uncommon",
       "note": "Beef & Cheese is a core servo line. Cheese sauce counts."
@@ -377,7 +444,10 @@
         "beef bacon and cheese",
         "bacon and cheese",
         "bits of bacon",
-        "the bacon"
+        "the bacon",
+        "diced bacon",
+        "smoked bacon",
+        "bacon rashers"
       ],
       "tier": "uncommon",
       "note": "Mrs Mac's Beef, Cheese & Bacon is a real product."
@@ -394,7 +464,10 @@
         "champignons",
         "tinned mushrooms",
         "mushroom bits",
-        "the one mushroom"
+        "the one mushroom",
+        "shrooms",
+        "button mushrooms",
+        "field mushrooms"
       ],
       "tier": "uncommon",
       "note": "Steak & Mushroom variety."
@@ -412,7 +485,9 @@
         "the one pea",
         "the lone pea",
         "a pea",
-        "three peas"
+        "three peas",
+        "garden peas",
+        "the peas"
       ],
       "tier": "uncommon",
       "note": "Mushy peas belong to a pie floater but accept them here."
@@ -429,7 +504,10 @@
         "the carrot",
         "one carrot cube",
         "orange cubes",
-        "orange bits"
+        "orange bits",
+        "cubed carrot",
+        "carrot chunks",
+        "chopped carrot"
       ],
       "tier": "uncommon",
       "note": "The lone carrot cube is a genuine pie archetype."
@@ -450,7 +528,10 @@
         "potato top pie",
         "the mash",
         "a potato top",
-        "mashed potato top"
+        "mashed potato top",
+        "tater",
+        "taters",
+        "mashed spuds"
       ],
       "tier": "uncommon",
       "note": "Mash and Potato Top collapse here."
@@ -478,7 +559,13 @@
         "lentils",
         "frozen veg",
         "the vegetables",
-        "a token vegetable"
+        "a token vegetable",
+        "swede",
+        "turnip",
+        "parsnip",
+        "zucchini",
+        "token veg",
+        "veges"
       ],
       "tier": "uncommon",
       "note": "Generic veg plus any specific vegetable that doesn't have its own entry (peas, carrot, potato, onion, mushroom do)."
@@ -494,7 +581,9 @@
         "flour (wheat)",
         "the flour",
         "refined flour",
-        "wheaten flour"
+        "wheaten flour",
+        "flower",
+        "bakers flour"
       ],
       "tier": "uncommon",
       "note": "First ingredient on the Mrs Mac's pack. Wheat and gluten land here."
@@ -518,7 +607,8 @@
         "guar gum",
         "gum",
         "gums",
-        "thickening"
+        "thickening",
+        "food starch"
       ],
       "tier": "rare",
       "note": "Real. Pack lists show 'Thickener (1422)' or 'Modified Starch'. Cornflour is its own entry."
@@ -531,7 +621,9 @@
         "corn starch",
         "maize starch",
         "maize flour",
-        "maize cornflour"
+        "maize cornflour",
+        "cornflower",
+        "corn flour thickener"
       ],
       "tier": "rare",
       "note": "The home-cook's thickener; count it even though pack lists say 'modified starch'."
@@ -544,7 +636,8 @@
         "mostly water",
         "tap water",
         "the water",
-        "water (lots of it)"
+        "water (lots of it)",
+        "moisture"
       ],
       "tier": "rare",
       "note": "Genuinely the third ingredient on the pack after flour and beef."
@@ -573,7 +666,9 @@
         "artificial flavouring",
         "beef flavour",
         "beef flavouring",
-        "beef flavor"
+        "beef flavor",
+        "monosodium",
+        "msg 621"
       ],
       "tier": "rare",
       "note": "Flavour enhancers and generic 'flavouring' both land here."
@@ -654,7 +749,9 @@
         "beef bouillon",
         "the stock",
         "beef booster",
-        "beef base"
+        "beef base",
+        "beef stock cube",
+        "liquid stock"
       ],
       "tier": "uncommon",
       "note": "Stock, broth and stock cubes all collapse here."
@@ -675,10 +772,67 @@
         "wooster",
         "worcestershire sauce flavour",
         "holbrooks",
-        "holbrooks sauce"
+        "holbrooks sauce",
+        "wostershire sauce",
+        "worcheshire sauce",
+        "whats this here sauce"
       ],
       "tier": "rare",
       "note": "Real: on the Mrs Mac's Famous Beef Pie list. Accept any spelling attempt; nobody can spell it."
+    },
+    {
+      "canonical": "Mustard",
+      "aliases": [
+        "mustard powder",
+        "hot english mustard",
+        "english mustard",
+        "dijon",
+        "dijon mustard",
+        "a dab of mustard",
+        "mustard sauce",
+        "american mustard"
+      ],
+      "tier": "rare",
+      "note": "A dab on a pie is a real (if divisive) habit, and mustard powder turns up in homestyle pie recipes. Accept."
+    },
+    {
+      "canonical": "Beer",
+      "aliases": [
+        "ale",
+        "steak and ale",
+        "steak & ale",
+        "steak n ale",
+        "beef and ale",
+        "beef & ale",
+        "beef and beer",
+        "guinness",
+        "stout",
+        "beef and guinness",
+        "beef & guinness",
+        "a splash of beer",
+        "vb",
+        "victoria bitter"
+      ],
+      "tier": "deep",
+      "note": "Steak & Ale and Beef & Guinness are real premium pie varieties; the beer goes into the gravy."
+    },
+    {
+      "canonical": "Red Wine",
+      "aliases": [
+        "wine",
+        "shiraz",
+        "beef and shiraz",
+        "beef & shiraz",
+        "red wine gravy",
+        "a splash of red wine",
+        "a splash of red",
+        "burgundy",
+        "beef burgundy",
+        "merlot",
+        "red wine jus"
+      ],
+      "tier": "deep",
+      "note": "Slow-cooked-beef-in-red-wine pies are a real premium servo and bakery line; the wine is in the gravy."
     },
     {
       "canonical": "Soy",
@@ -703,6 +857,24 @@
       ],
       "tier": "rare",
       "note": "Soy appears on the allergen line of most packs. TVP (soy protein padding) is a real and slightly cursed deep cut; it lands here."
+    },
+    {
+      "canonical": "Plant-Based Meat",
+      "aliases": [
+        "plant based",
+        "fake meat",
+        "vegan meat",
+        "mock meat",
+        "imitation meat",
+        "beyond meat",
+        "plant protein",
+        "not meat",
+        "the vegan one",
+        "vegan mince",
+        "no meat at all"
+      ],
+      "tier": "rare",
+      "note": "Real: Four'N Twenty launched a plant-based pie through servos in 2019. Doubles as the cynic's joke about the regular pie; accept either way."
     },
     {
       "canonical": "Egg Wash",
@@ -752,7 +924,9 @@
         "the margarine",
         "fake butter",
         "pastry margarine",
-        "pastry marg"
+        "pastry marg",
+        "marge",
+        "margarene"
       ],
       "tier": "rare",
       "note": "Real: pack pastry is 'Margarine [Vegetable Oil, Water, Salt, Emulsifiers...]'."
@@ -857,7 +1031,9 @@
         "garlic (powder)",
         "the garlic",
         "a hint of garlic",
-        "garlic salt"
+        "garlic salt",
+        "minced garlic",
+        "garlic granules"
       ],
       "tier": "rare",
       "note": "Plausible seasoning; accept."
@@ -887,7 +1063,12 @@
         "the spices",
         "the seasoning",
         "dried herbs",
-        "rosemary"
+        "rosemary",
+        "chives",
+        "basil",
+        "sage",
+        "marjoram",
+        "italian herbs"
       ],
       "tier": "rare",
       "note": "Any named herb or spice except pepper, garlic, curry and chilli (own entries)."
@@ -986,7 +1167,9 @@
         "keens curry powder",
         "curry spices",
         "the curry",
-        "curry paste"
+        "curry paste",
+        "mild curry",
+        "curry gravy"
       ],
       "tier": "rare",
       "note": "Curried beef is a classic servo variety; Keen's curry powder is the Aussie way to make it."
@@ -1010,7 +1193,10 @@
         "chilli powder",
         "chili powder",
         "the chilli",
-        "cayenne"
+        "cayenne",
+        "chillies",
+        "chilies",
+        "chillis"
       ],
       "tier": "rare",
       "note": "Mrs Mac's Chilli Beef & Cheese is a real product. Jalapenos land here."
@@ -1026,7 +1212,10 @@
         "lamb (allegedly)",
         "lamb bits",
         "lamb and rosemary",
-        "lamb & rosemary"
+        "lamb & rosemary",
+        "lamb shank",
+        "lamb shanks",
+        "lamb chunks"
       ],
       "tier": "rare",
       "note": "Less common in servo pies than bakery pies but correct. Mutton (older sheep) is its own deep entry."
@@ -1064,7 +1253,10 @@
         "chicken & mushroom",
         "the chicken",
         "chicken (allegedly)",
-        "chicken mince"
+        "chicken mince",
+        "butter chicken",
+        "chicken breast",
+        "chicken thigh"
       ],
       "tier": "rare",
       "note": "Strictly a chicken pie isn't a 'meat pie' but every servo warmer has one. Accept."
@@ -1157,7 +1349,10 @@
         "wild pig",
         "exotic meat",
         "bush meat",
-        "bush tucker"
+        "bush tucker",
+        "crocodile meat",
+        "goat meat",
+        "deer meat"
       ],
       "tier": "deep",
       "note": "Croc, emu, camel and buffalo pies all exist at tourist bakeries. Any named exotic or game animal lands here except kangaroo (own entry) and the pure jokes (see Roadkill)."
@@ -1189,7 +1384,10 @@
         "echidna",
         "koala",
         "whatever got hit on the great ocean road",
-        "something off the road"
+        "something off the road",
+        "dead animal",
+        "stray cat",
+        "whatever they scraped off the road"
       ],
       "tier": "rare",
       "note": "Pure joke; accept it. Dog, cat, possum, rat and seagull all collapse here. Greyhound jokes are a Victorian specialty."
@@ -1232,7 +1430,13 @@
         "bumholes",
         "bum holes",
         "the bits you don't want to know about",
-        "the bits they don't put on the label"
+        "the bits they don't put on the label",
+        "feathers",
+        "a feather",
+        "beaks",
+        "beak",
+        "chicken feet",
+        "feet"
       ],
       "tier": "rare",
       "note": "The classic Aussie joke about cheap pies and sausages. Fine to accept; any named unlovely body part lands here. Actual organs (liver, tripe, brains) go to Offal."
@@ -1267,7 +1471,10 @@
         "shoulder meat",
         "shoulder",
         "beef shoulder",
-        "chuck"
+        "chuck",
+        "offcut",
+        "beef offcuts",
+        "meat offcuts"
       ],
       "tier": "rare",
       "note": "Real: pie meat is trimmings and shoulder/chuck. 'Floor sweepings' is the joke version of the same answer, so they share an entry."
@@ -1295,7 +1502,9 @@
         "the filler",
         "cheap filler",
         "stuff to bulk it out",
-        "packing"
+        "packing",
+        "cereal filler",
+        "cheap padding"
       ],
       "tier": "rare",
       "note": "Both the real version (breadcrumbs, rusk, bulking agents) and the joke version (sawdust, cardboard, newspaper) land here."
@@ -1320,7 +1529,9 @@
         "chipped tooth",
         "a broken tooth",
         "broken tooth",
-        "a tooth"
+        "a tooth",
+        "bone fragment",
+        "shard of bone"
       ],
       "tier": "rare",
       "note": "Bone fragments are a real-enough hazard. 'A tooth' (yours, after the bone) also lands here."
@@ -1439,7 +1650,10 @@
         "beetle",
         "a beetle",
         "mozzie",
-        "a mozzie"
+        "a mozzie",
+        "blow fly",
+        "a blowfly",
+        "march fly"
       ],
       "tier": "rare",
       "note": "Insect jokes all collapse here. Accept; it's a servo pie."
@@ -1597,10 +1811,30 @@
         "the sticker",
         "a sticker",
         "plastic film",
-        "the film"
+        "the film",
+        "serviette",
+        "napkin",
+        "a bit of serviette"
       ],
       "tier": "rare",
       "note": "The bit of wrapper that fuses to the base, or the whole Four'N Twenty bag. Accept any packaging answer including foil tray and label."
+    },
+    {
+      "canonical": "Petrol Fumes",
+      "aliases": [
+        "petrol",
+        "diesel",
+        "fuel",
+        "unleaded",
+        "diesel fumes",
+        "fumes",
+        "a hint of diesel",
+        "a hint of petrol",
+        "servo smell",
+        "eau de servo"
+      ],
+      "tier": "rare",
+      "note": "Servo ambience joke: the pie that tastes faintly of the forecourt. Accept."
     },
     {
       "canonical": "Disappointment",
@@ -1699,10 +1933,32 @@
         "the calories",
         "400 calories",
         "1500 kilojoules",
-        "1500kj"
+        "1500kj",
+        "heartburn",
+        "indigestion",
+        "reflux"
       ],
       "tier": "rare",
       "note": "Nutrition-panel and health-consequence jokes all collapse here. Sodium/salt and fat have their own entries."
+    },
+    {
+      "canonical": "Food Poisoning",
+      "aliases": [
+        "salmonella",
+        "gastro",
+        "e coli",
+        "ecoli",
+        "listeria",
+        "botulism",
+        "bacteria",
+        "germs",
+        "the runs",
+        "a dodgy tummy",
+        "stomach ache",
+        "food poisoning waiting to happen"
+      ],
+      "tier": "rare",
+      "note": "Contamination jokes (salmonella, gastro, listeria) land here; nutrition and heart-attack jokes stay with Calories."
     },
     {
       "canonical": "Nostalgia",

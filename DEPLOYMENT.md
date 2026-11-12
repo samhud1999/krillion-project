@@ -182,7 +182,7 @@ Any provider works as long as it runs one long-lived Node or Docker process and 
 1. Start the server, open `/host` full screen on the TV.
 2. Get everyone to join while people arrive. Names must be unique. There are 20 animals and each can be picked once; if all 20 are taken, latecomers can double up, to a room cap of 24.
 3. Press **Start**. During a prompt the TV shows who has locked in. Press **E** to end a prompt early.
-4. On the reveal, look at any row tagged **unverified**: those answers were not in the curated bank. A lone unverified answer scores 60 until you tap **Vouch** (then 85). Tap **Reject** if it is wrong, a joke, or a deliberate misspelling of a common answer; the scores update on every phone instantly. Tap **Accept** on a rejected row to undo.
+4. Answers that are not in the curated bank can no longer be locked in at all — the phone bounces them ("not on our list") and the player keeps trying until the timer runs out. So the reveal only ever shows recognised answers. If something slipped through that is wrong in context, the moderation controls still let you knock a row back to zero.
 5. **Space** or **Enter** moves to the next prompt. After the seventh, the results screen shows the podium, the full leaderboard and everyone's position on the creek.
 6. **Play again** keeps the same players and resets depths. Change the prompt set in Setup first if you want different questions.
 
@@ -223,7 +223,7 @@ Message rate limiting (20 messages a second per socket) and input limits (16-cha
 | Railway deploy fails at build | `railway.json` already pins the Builder to Dockerfile; if a build still fails, confirm the service is this repo's root and the branch is pushed |
 | `/healthz` returns 502 on Railway | The service port must be 8787; check the Networking setting and the `PORT` variable. Railway's own healthcheck already targets `/healthz` via `railway.json` |
 | Postgres connection refused on a hosted DB | Use the pooled/external URL with `sslmode=require`; for Railway use the `DATABASE_URL` reference variable, not the public proxy URL |
-| Answers that are clearly right show as unverified | Expected: the bank cannot hold everything. They still score; Accept is the default. You can add them to `server/data/bank/<prompt>.json` for next time |
+| A clearly right answer keeps bouncing ("not on our list") | The bank cannot hold everything. Add it (with aliases) to `server/data/bank/<prompt>.json` and restart; or, on the night, add it as a host **special answer** in Setup — specials are always accepted |
 
 ---
 

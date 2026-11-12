@@ -303,6 +303,8 @@ export type ServerErrorCode =
   | 'wrong_phase'
   | 'too_late'
   | 'already_answered'
+  /** the answer is not in the curated bank (and not a host special) — try again */
+  | 'not_in_bank'
   | 'game_in_progress'
   | 'pin_required'
   | 'protocol_mismatch';

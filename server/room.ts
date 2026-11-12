@@ -18,7 +18,7 @@ import type {
 } from '../shared/types.js';
 import { LIMITS, MAX_ROUNDS } from '../shared/types.js';
 import { AVATAR_IDS, DEFAULT_SPECIAL_ANSWERS } from '../shared/theme.js';
-import { scoreNumericRound, scoreOpenRound } from '../shared/scoring.js';
+import { parseNumber, scoreNumericRound, scoreOpenRound } from '../shared/scoring.js';
 import type { BankLike } from './bank.js';
 import type { ParsedClientMessage } from './protocol.js';
 
@@ -388,10 +388,42 @@ export class Room {
     if (round.submissions.has(playerId)) return err('already_answered', 'You have already locked in an answer');
     const text = cleanText(textRaw).slice(0, LIMITS.maxAnswerLength);
     if (!text) return err('bad_request', 'Type an answer first');
+    // Strict validation: only answers the game recognises can be locked in.
+    // A rejected answer is never recorded, so the player can keep trying
+    // until the timer runs out.
+    const invalid = this.validateAnswer(round.promptId, text);
+    if (invalid) return invalid;
     round.submissions.set(playerId, { raw: text, at: now });
     this.maybeScheduleEarlyClose(now);
     this.bump(now);
     return ok(null);
+  }
+
+  /**
+   * null when `text` is an acceptable answer for the prompt: a number for
+   * closest-to-the-pin prompts, otherwise a bank match (typo-tolerant) or one
+   * of the host's special answers for this prompt.
+   */
+  private validateAnswer(promptId: string, text: string): RoomError | null {
+    const prompt = this.bank.getPrompt(promptId);
+    if (!prompt) return null; // prompt vanished between restarts: accept, scoring will cope
+    if (prompt.type === 'numeric') {
+      return parseNumber(text) === null
+        ? err('not_in_bank', 'That needs to be a number — digits like 240 work best')
+        : null;
+    }
+    const matcher = this.bank.matcherFor(promptId);
+    const m = matcher.match(text);
+    if (m?.matched) return null;
+    // Host specials are accepted even when they are not bank entries. They are
+    // indexed without typo tolerance, the same way scoring resolves them.
+    if (m) {
+      for (const s of this.config.specialAnswers[promptId] ?? []) {
+        const sk = matcher.match(s, { fuzzy: false });
+        if (sk && sk.key === m.key) return null;
+      }
+    }
+    return err('not_in_bank', `“${text}” isn't on our list for this one — have another crack`);
   }
 
   /** Arms the early-close grace timer when every connected player has answered. */

@@ -3364,6 +3364,114 @@
       ],
       "tier": "rare",
       "note": "Township on the metro fringe; lean accept"
+    },
+    {
+      "canonical": "Teesdale",
+      "aliases": [
+        "teesdale vic",
+        "teasdale"
+      ],
+      "tier": "rare",
+      "note": "Golden Plains hamlet between Geelong and Ballarat."
+    },
+    {
+      "canonical": "Snake Valley",
+      "aliases": [
+        "snake valley vic",
+        "snakes valley"
+      ],
+      "tier": "deep",
+      "note": "Tiny locality west of Ballarat. Great name."
+    },
+    {
+      "canonical": "Rokewood",
+      "aliases": [
+        "rokewood vic",
+        "rockwood"
+      ],
+      "tier": "deep",
+      "note": "Golden Plains, on the Colac-Ballarat road."
+    },
+    {
+      "canonical": "Cressy",
+      "aliases": [
+        "cressy vic",
+        "cressey"
+      ],
+      "tier": "rare",
+      "note": "Between Colac and Ballarat."
+    },
+    {
+      "canonical": "Darlington",
+      "aliases": [
+        "darlington vic"
+      ],
+      "tier": "deep",
+      "note": "Western District, on Mount Emu Creek."
+    },
+    {
+      "canonical": "Nullawarre",
+      "aliases": [
+        "nullawarre vic",
+        "nullawar",
+        "nullawere"
+      ],
+      "tier": "deep",
+      "note": "Dairy country near the Twelve Apostles end."
+    },
+    {
+      "canonical": "Killarney",
+      "aliases": [
+        "killarney vic",
+        "kilarney"
+      ],
+      "tier": "rare",
+      "note": "Between Warrnambool and Port Fairy."
+    },
+    {
+      "canonical": "Yambuk",
+      "aliases": [
+        "yambuk vic",
+        "yambuck"
+      ],
+      "tier": "deep",
+      "note": "West of Port Fairy; wind farm country."
+    },
+    {
+      "canonical": "Glenthompson",
+      "aliases": [
+        "glenthompson vic",
+        "glen thompson"
+      ],
+      "tier": "deep",
+      "note": "Near Dunkeld, under the Grampians."
+    },
+    {
+      "canonical": "Wickliffe",
+      "aliases": [
+        "wickliffe vic",
+        "wycliffe"
+      ],
+      "tier": "deep",
+      "note": "On the Hopkins River, west of Lake Bolac."
+    },
+    {
+      "canonical": "Landsborough",
+      "aliases": [
+        "landsborough vic",
+        "landsbrough"
+      ],
+      "tier": "deep",
+      "note": "Pyrenees wine country."
+    },
+    {
+      "canonical": "Navarre",
+      "aliases": [
+        "navarre vic",
+        "navare"
+      ],
+      "tier": "deep",
+      "note": "Tiny Pyrenees locality near St Arnaud."
     }
   ],
   "hostNotes": "Accept any gazetted town or locality in regional Victoria, including regional cities (Geelong, Ballarat, Bendigo) and alpine resort villages (Mount Buller, Falls Creek, Mount Hotham); spelling is forgiving, so match phonetically, and a town not in this bank is still correct if it exists (verify quickly and treat it as a deep cut). Yarra Valley and fringe townships (Healesville, Warburton, Gembrook, Koo Wee Rup, Whittlesea) sit inside the Greater Melbourne boundary but are universally treated as country towns, so accept them; Mornington Peninsula towns (Sorrento, Rye, Flinders) and outer suburbs (Sunbury, Melton, Pakenham, Werribee, Cranbourne) are the host's call, lean reject. Traps: Albury, Moama, Corowa, Mulwala, Barooga, Tocumwal and Deniliquin are NSW and Mount Gambier is SA, so reject them; 'Phillip Island', 'the Grampians', 'the Otways' and 'Wilsons Prom' are regions, not towns, so ask for a town (Cowes, Halls Gap, Apollo Bay, Foster)."

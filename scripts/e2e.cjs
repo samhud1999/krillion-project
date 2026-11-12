@@ -41,10 +41,15 @@ const ANSWERS = {
 const GENERIC = ['beach', 'coffee', 'sunscreen', 'esky', 'thongs', 'towel', 'hat', 'snacks', 'boardies', 'jumper', 'camera', 'book', 'speaker', 'pie', 'bait', 'ice', 'wine', 'beer', 'chips', 'sausages'];
 const answerFor = (promptId, i) => (ANSWERS[promptId] || GENERIC)[i % 20];
 
+/** Counted across all bots: answers the server bounced as not_in_bank (the duds in the lists above). */
+let bounced = 0;
+let retriesOk = 0;
+
 function bot(code, i) {
   return new Promise((resolve, reject) => {
     const ws = new WebSocket(wsUrl, { headers: { origin: base } });
     const answered = new Set();
+    let current = null; // {idx, promptId, retried}
     const timer = setTimeout(() => reject(new Error(`bot ${NAMES[i]} join timeout`)), 10_000);
     ws.on('open', () => ws.send(JSON.stringify({ t: 'player:join', code, name: NAMES[i], avatar: AVATARS[i] })));
     ws.on('message', (d) => {
@@ -53,10 +58,21 @@ function bot(code, i) {
         clearTimeout(timer);
         resolve(ws);
       }
-      if (m.t === 'error') console.log('bot', NAMES[i], 'error', m.code, m.message);
+      if (m.t === 'error' && m.code === 'not_in_bank' && current && !current.retried) {
+        // Strict validation bounced the dud — retry once with a known-good answer,
+        // exercising the keep-trying flow end to end.
+        bounced += 1;
+        current.retried = true;
+        const fallback = answerFor(current.promptId, 2);
+        ws.readyState === 1 && ws.send(JSON.stringify({ t: 'player:answer', roundIndex: current.idx, text: fallback }));
+        retriesOk += 1;
+      } else if (m.t === 'error' && m.code !== 'not_in_bank') {
+        console.log('bot', NAMES[i], 'error', m.code, m.message);
+      }
       if (m.t === 'state' && m.view.phase === 'prompt' && m.view.round && !answered.has(m.view.round.index)) {
         const idx = m.view.round.index;
         answered.add(idx);
+        current = { idx, promptId: m.view.round.promptId, retried: false };
         const text = answerFor(m.view.round.promptId, i);
         setTimeout(() => ws.readyState === 1 && ws.send(JSON.stringify({ t: 'player:answer', roundIndex: idx, text })), 400 + Math.random() * 3000);
       }
@@ -145,9 +161,19 @@ const shot = (p, name, opts = {}) => p.screenshot({ path: path.join(OUT, `${name
     await waitPhase(hp, 'prompt');
     const promptId = (await view(hp)).round.promptId;
     await pp.waitForSelector('#answer', { timeout: 10_000 });
-    await pp.fill('#answer', answerFor(promptId, 0));
     if (round === 0) {
-      await hp.waitForTimeout(1500);
+      // The phone fumbles first: a made-up answer must bounce ("not on our
+      // list"), unlock, and let the player try again.
+      await pp.fill('#answer', 'xyzzy blurp');
+      await pp.getByRole('button', { name: 'Lock it in' }).click();
+      await pp.waitForSelector('[role="alert"]', { timeout: 10_000 });
+      await shot(pp, 'phone-bounced');
+      await pp.fill('#answer', answerFor(promptId, 0));
+    } else {
+      await pp.fill('#answer', answerFor(promptId, 0));
+    }
+    if (round === 0) {
+      await hp.waitForTimeout(1200);
       await shot(hp, 'host-prompt');
       await shot(pp, 'phone-prompt');
     }
@@ -195,6 +221,11 @@ const shot = (p, name, opts = {}) => p.screenshot({ path: path.join(OUT, `${name
 
   for (const b of bots) b.close();
   await browser.close();
+  console.log(`strict validation: ${bounced} dud answer(s) bounced, ${retriesOk} retried fine`);
+  if (bounced === 0) {
+    console.log('EXPECTED at least one not_in_bank bounce (the dud answers in the bot lists)');
+    process.exitCode = 1;
+  }
   console.log(`done in ${Math.round((Date.now() - t0) / 1000)}s · screenshots in ${OUT}`);
   if (errors.length) {
     console.log('PAGE ERRORS:\n' + errors.join('\n'));

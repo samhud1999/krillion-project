@@ -49,7 +49,7 @@ Taken from a real 20-player game by `node scripts/e2e.cjs` (host at 1920×1080, 
    One point is one metre. Seven perfect answers reach the creek mouth at 700 m.
 
    **Obvious answers never score.** Entries flagged `"obvious": true` in the bank (Lorne, Wye River, Separation Creek and Kennett River on the two town prompts — the places you can see from the dinner table or the koala stop two bends south) are pinned to a puddle (10 m) no matter how few people say them, and show a **too obvious** tag on the reveal. A host special answer still trumps the flag.
-5. Answers the game did not recognise are tagged **unverified**. They still score, but a lone unverified answer sits at rock pool (60) until the host taps **Vouch**, which lifts it to deep cut (85); **Reject** sends a wrong or joke answer to zero. Everyone's phone updates live. This is what stops "Lorneeeee" out-scoring eight honest "Lorne"s.
+5. **Only answers the game recognises can be locked in.** Anything not in the curated bank (after typo-tolerant matching) bounces straight back — the phone shows *"not on our list — have another crack"* and the player can keep trying until the timer runs out. Host special answers are always accepted, and closest-to-the-pin prompts accept any number. The banks are deliberately generous (spelling variants, nicknames, plurals), so an honest answer almost always lands; a wrong-but-matched answer can still be knocked back by the host on the reveal.
 6. After seven prompts: podium, full leaderboard, a creek cross-section with everyone at their final depth, and a share card for the group chat.
 
 ### The zones

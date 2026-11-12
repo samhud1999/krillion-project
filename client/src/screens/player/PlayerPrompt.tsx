@@ -8,7 +8,7 @@ import { Button } from '../../components/Button';
 import { CountdownRing } from '../../components/CountdownRing';
 import { PromptText } from '../../components/PromptText';
 import { useCountdown } from '../../hooks/useCountdown';
-import { cancelQueued, send, useStore } from '../../ws';
+import { cancelQueued, describeError, send, useStore } from '../../ws';
 
 /**
  * One prompt. Mounted fresh per round (keyed by round index in PlayerGame),
@@ -29,14 +29,31 @@ export function PlayerPrompt({ view }: { view: PlayerView }) {
   const isNumeric = round?.prompt.type === 'numeric';
   const lockedCount = round?.submittedPlayerIds.length ?? 0;
   const total = view.players.filter((p) => p.connected).length || view.players.length;
-  const { status } = useStore();
+  const { status, lastError } = useStore();
   const online = status === 'open';
+  /** the server bounced the last answer (not on the list) — keep trying */
+  const [bounced, setBounced] = useState<string | null>(null);
+  const seenErrSeq = useRef(lastError?.seq ?? 0);
   /** sent but not yet confirmed by the server */
   const pendingOffline = optimistic !== null && serverSubmission === undefined && !online;
 
   useEffect(() => {
     if (serverSubmission !== undefined) setSending(false);
   }, [serverSubmission]);
+
+  // The server refused the answer (not on the list): unlock immediately so the
+  // player can edit and keep trying until the timer runs out.
+  useEffect(() => {
+    if (!lastError || lastError.seq === seenErrSeq.current) return;
+    seenErrSeq.current = lastError.seq;
+    if (lastError.code !== 'not_in_bank' || optimistic === null) return;
+    const roundIndex = round?.index;
+    cancelQueued((m) => m.t === 'player:answer' && m.roundIndex === roundIndex);
+    setOptimistic(null);
+    setSending(false);
+    setBounced(lastError.message || describeError('not_in_bank'));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [lastError]);
 
   // Online and the server never recorded the answer within 6 s (it answered
   // with an error, say): unlock for one clean retry, dropping anything still
@@ -63,6 +80,7 @@ export function PlayerPrompt({ view }: { view: PlayerView }) {
     const t = text.trim().slice(0, LIMITS.maxAnswerLength);
     if (!t) return;
     setSending(true);
+    setBounced(null);
     setOptimistic(t);
     send({ t: 'player:answer', roundIndex: round.index, text: t });
     inputRef.current?.blur();
@@ -122,12 +140,26 @@ export function PlayerPrompt({ view }: { view: PlayerView }) {
             <label className="sr-only" htmlFor="answer">
               Your answer
             </label>
+            {bounced && (
+              <motion.p
+                key={bounced}
+                initial={{ opacity: 0, y: 4 }}
+                animate={{ opacity: 1, y: 0 }}
+                className="animate-shake rounded-none notch-sm border-2 border-amber-400/40 bg-amber-500/10 px-3 py-2 text-center text-sm font-semibold text-amber-200"
+                role="alert"
+              >
+                {bounced}
+              </motion.p>
+            )}
             <div className="relative">
               <input
                 id="answer"
                 ref={inputRef}
                 value={text}
-                onChange={(e) => setText(e.target.value.slice(0, LIMITS.maxAnswerLength))}
+                onChange={(e) => {
+                  setText(e.target.value.slice(0, LIMITS.maxAnswerLength));
+                  if (bounced) setBounced(null);
+                }}
                 onFocus={(e) => {
                   const el = e.currentTarget;
                   setTimeout(() => el.scrollIntoView({ block: 'center', behavior: 'smooth' }), 250);

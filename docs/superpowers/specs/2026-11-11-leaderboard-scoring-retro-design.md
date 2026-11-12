@@ -88,6 +88,30 @@ Descent cinematic (`client/src/art/DescentScene.tsx`, exported via artApi):
   `separation creek`, `Lorne` → **puddle 10 m, OBVIOUS**; `Big Hill` →
   krillion; `Apollo Bay` → deepcut (unchanged).
 
+## Addendum (2026-11-12): strict answer validation + bank expansion
+
+User follow-up: wrong answers were scoring 60 (lone-unverified rule). Change:
+an answer can only be locked in if the game recognises it.
+
+- `Room.validateAnswer` (server/room.ts): open prompts require a bank match
+  (typo-tolerant) or a host special answer; numeric prompts require
+  `parseNumber` to succeed. Failures return new error `not_in_bank` and are
+  never recorded, so the player retries until the timer runs out.
+- Phone (PlayerPrompt): on `not_in_bank` the optimistic lock clears instantly,
+  an amber shake-banner shows the server message, typed text is kept for
+  editing. The old 6 s fallback unlock stays for other errors.
+- The unverified/vouch flow is now unreachable for new rounds but kept for
+  legacy/restored rounds (tested). Host Reject on matched groups still works.
+- e2e: bots deliberately submit duds and retry on bounce; the real phone
+  submits gibberish, asserts the banner, retries (phone-bounced.png).
+- Bank expansion so honest answers don't bounce: agent fan-out expanded
+  s1/s3/s4/s5/s7/s8/s9 (3,419 → 3,671+ answers, hundreds of new aliases);
+  s2 patched by hand (12 missing localities); s6 already held 649 players
+  (ambiguous surnames like "Selwood" correctly bounce and prompt a full name).
+  **Pending:** the 12 draft `l-*` prompts (opt-in only, not in the default
+  game) still await expansion — resume workflow wf_2b057728-ec9 when the
+  subagent quota resets.
+
 ## Out of scope / later
 
 - TV-takeover camera for Krillion moments (option B of the descent question).

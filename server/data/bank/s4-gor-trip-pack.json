@@ -21,7 +21,10 @@
         "banana boat",
         "cancer council sunscreen",
         "sunscreens",
-        "sun protection"
+        "sun protection",
+        "factor 50",
+        "le tan",
+        "nivea sun"
       ],
       "tier": "common",
       "note": "Zinc is its own entry; collapse brands (Banana Boat, Cancer Council) here."
@@ -91,7 +94,13 @@
         "sand-free towel",
         "microfibre towel",
         "towelie",
-        "towelling"
+        "towelling",
+        "towel for the beach",
+        "towels for the beach",
+        "swim towel",
+        "swimming towel",
+        "spare towels",
+        "extra towels"
       ],
       "tier": "common",
       "note": "Changing poncho / hooded towel is a separate deep entry."
@@ -344,7 +353,10 @@
         "cargo shorts",
         "footy shorts",
         "denim shorts",
-        "shorts and t-shirt"
+        "shorts and t-shirt",
+        "jorts",
+        "gym shorts",
+        "running shorts"
       ],
       "tier": "uncommon"
     },
@@ -483,7 +495,14 @@
         "nice outfit",
         "going out outfit",
         "dry clothes",
-        "spare set of clothes"
+        "spare set of clothes",
+        "dress",
+        "dresses",
+        "sundress",
+        "sun dress",
+        "summer dress",
+        "skirt",
+        "skirts"
       ],
       "tier": "uncommon",
       "note": "Generic 'clothes' or 'layers' is correct but scores as a group; push for a specific item if the room wants rarity."
@@ -606,7 +625,9 @@
         "crocs with socks",
         "pair of crocs",
         "crocks",
-        "clogs"
+        "clogs",
+        "my crocs",
+        "crocs in sport mode"
       ],
       "tier": "rare"
     },
@@ -742,7 +763,13 @@
         "surfing gear",
         "surf gear",
         "surf stuff",
-        "surfboards and wetsuits"
+        "surfboards and wetsuits",
+        "board bag",
+        "board bags",
+        "boardbag",
+        "board cover",
+        "surfboard bag",
+        "surfboard cover"
       ],
       "tier": "common",
       "note": "Bells, Winki, Lorne Point, Johanna. Wetsuit, wax and leg rope are separate entries."
@@ -776,7 +803,10 @@
         "neoprene",
         "wetsuit top",
         "wettie top",
-        "wetsuit vest"
+        "wetsuit vest",
+        "wetsuit hood",
+        "wettie hood",
+        "wetsuit gloves"
       ],
       "tier": "common",
       "note": "Southern Ocean is cold year-round. Steamer/springsuit/wettie all collapse here."
@@ -1045,7 +1075,10 @@
         "plastic cricket set",
         "cricket ball",
         "stumps",
-        "cricket stumps"
+        "cricket stumps",
+        "tennis ball",
+        "tennis balls",
+        "beach cricket bat"
       ],
       "tier": "uncommon"
     },
@@ -3365,7 +3398,14 @@
         "12v charger",
         "wireless charger",
         "charging cables",
-        "the charger"
+        "the charger",
+        "wall charger",
+        "charging block",
+        "charger block",
+        "charging brick",
+        "usb plug",
+        "power adapter",
+        "power adaptor"
       ],
       "tier": "common",
       "note": "Power bank collapses here."
@@ -3756,7 +3796,9 @@
         "the itinerary",
         "tickets",
         "airbnb details",
-        "confirmation email"
+        "confirmation email",
+        "medicare card",
+        "medicare"
       ],
       "tier": "uncommon",
       "note": "ID in any form; rego lumped here."
@@ -3810,7 +3852,13 @@
         "spare fuses",
         "fuses",
         "spare bulbs",
-        "car bits"
+        "car bits",
+        "engine oil",
+        "oil for the car",
+        "coolant",
+        "windscreen washer fluid",
+        "washer fluid",
+        "wiper fluid"
       ],
       "tier": "rare",
       "note": "Spare wheel, jack, tool kit, puncture kit. Jumper leads are separate."
@@ -4619,7 +4667,12 @@
         "flagpole",
         "footy flag",
         "cats flag",
-        "geelong flag"
+        "geelong flag",
+        "glow sticks",
+        "glow stick",
+        "glowsticks",
+        "glow bracelets",
+        "sparklers"
       ],
       "tier": "deep",
       "note": "Fairy/festoon lights and any campsite decoration (bunting, flags, balloons)."
@@ -5099,7 +5152,17 @@
         "konro",
         "yakitori grill",
         "bbq tongs",
-        "tongs"
+        "tongs",
+        "spatula",
+        "egg flip",
+        "bbq tools",
+        "bbq utensils",
+        "grill tools",
+        "bbq apron",
+        "apron",
+        "pizza oven",
+        "portable pizza oven",
+        "ooni"
       ],
       "tier": "uncommon",
       "note": "Portable BBQ, Weber Baby Q, hotplate, tongs and BBQ tools. Camping stove and gas bottle are separate."
@@ -5413,7 +5476,14 @@
         "water cooler",
         "camp water cooler",
         "camping water cooler",
-        "water for camping"
+        "water for camping",
+        "water purification tablets",
+        "purification tablets",
+        "water purifier",
+        "water filter",
+        "water filters",
+        "lifestraw",
+        "life straw"
       ],
       "tier": "rare",
       "note": "Bulk water (jerry/cube) and water-treatment gear for bush camps."
@@ -5486,7 +5556,20 @@
         "power board",
         "powerboard",
         "15 amp lead",
-        "caravan lead"
+        "caravan lead",
+        "solar panel",
+        "solar panels",
+        "solar blanket",
+        "portable solar panel",
+        "folding solar panel",
+        "generator",
+        "generators",
+        "genny",
+        "the genny",
+        "inverter",
+        "power inverter",
+        "double adaptor",
+        "double adapter"
       ],
       "tier": "deep",
       "note": "Battery box, solar panel, inverter or generator for off-grid power."
@@ -5553,7 +5636,14 @@
         "van awning",
         "camper awning",
         "motorhome awning",
-        "jayco awning"
+        "jayco awning",
+        "shade sail",
+        "shade sails",
+        "shade cloth",
+        "annex",
+        "annexe",
+        "caravan annex",
+        "caravan annexe"
       ],
       "tier": "rare",
       "note": "Gazebo, marquee, car awning, annex or shade sail."
@@ -7285,7 +7375,19 @@
         "mess tin",
         "mess tins",
         "dinner set",
-        "picnic set"
+        "picnic set",
+        "cups",
+        "plastic cups",
+        "party cups",
+        "red cups",
+        "paper cups",
+        "wine glasses",
+        "wine glass",
+        "plastic wine glasses",
+        "drinking glasses",
+        "serviettes",
+        "napkins",
+        "paper napkins"
       ],
       "tier": "uncommon",
       "note": "Plates, bowls, cutlery, party cups, wine glasses, serviettes, the picnic set. Keep Cup/mugs, stubby holders and bottle opener are separate."
@@ -7954,6 +8056,266 @@
       ],
       "tier": "deep",
       "note": "Victoria banned single-use plastic bags in 2019, so people do pack their green bags."
+    },
+    {
+      "canonical": "Phone",
+      "aliases": [
+        "phones",
+        "my phone",
+        "the phone",
+        "mobile",
+        "mobile phone",
+        "mobile phones",
+        "the mobile",
+        "iphone",
+        "iphones",
+        "my iphone",
+        "smartphone",
+        "smart phone",
+        "cell phone",
+        "cellphone",
+        "telephone",
+        "charged phone",
+        "fully charged phone",
+        "samsung phone",
+        "android phone"
+      ],
+      "tier": "common",
+      "note": "The phone itself. Charger, mount, headphones, camera and waterproof pouch are separate entries."
+    },
+    {
+      "canonical": "Sarong",
+      "aliases": [
+        "sarongs",
+        "a sarong",
+        "the sarong",
+        "beach sarong",
+        "pareo",
+        "kaftan",
+        "kaftans",
+        "cover up",
+        "coverup",
+        "beach cover up",
+        "swim cover up",
+        "beach wrap",
+        "sarong wrap"
+      ],
+      "tier": "rare",
+      "note": "Beach cover-up of any sort; kaftan collapses here."
+    },
+    {
+      "canonical": "Hammock",
+      "aliases": [
+        "hammocks",
+        "a hammock",
+        "the hammock",
+        "camping hammock",
+        "camp hammock",
+        "travel hammock",
+        "hammock and straps",
+        "hammock straps",
+        "hammick",
+        "hammok",
+        "hamock"
+      ],
+      "tier": "rare",
+      "note": "String it between trees at the campsite."
+    },
+    {
+      "canonical": "Picnic Basket",
+      "aliases": [
+        "picnic baskets",
+        "a picnic basket",
+        "the picnic basket",
+        "picnic hamper",
+        "picnic hampers",
+        "hamper",
+        "hampers",
+        "wicker basket",
+        "wicker picnic basket",
+        "picnic box"
+      ],
+      "tier": "rare",
+      "note": "The basket/hamper itself; picnic rug and picnic set are separate."
+    },
+    {
+      "canonical": "Salt and Pepper",
+      "aliases": [
+        "salt",
+        "pepper",
+        "salt n pepper",
+        "salt & pepper",
+        "salt and pepper shakers",
+        "seasoning",
+        "seasonings",
+        "spices",
+        "spice kit",
+        "herbs and spices",
+        "dried herbs",
+        "olive oil",
+        "cooking oil",
+        "vegetable oil",
+        "oil for the bbq",
+        "oil for cooking",
+        "cooking spray",
+        "olive oil spray",
+        "stock cubes"
+      ],
+      "tier": "rare",
+      "note": "Seasoning and cooking oil for the camp kitchen; sauces/condiments sit under Tomato Sauce."
+    },
+    {
+      "canonical": "Smokes",
+      "aliases": [
+        "durries",
+        "durry",
+        "ciggies",
+        "ciggy",
+        "cigs",
+        "cigarettes",
+        "cigarette",
+        "darts",
+        "pack of darts",
+        "packet of darts",
+        "packet of smokes",
+        "pack of smokes",
+        "vape",
+        "vapes",
+        "the vape",
+        "my vape",
+        "rollies",
+        "tobacco",
+        "pouch of tobacco",
+        "baccy",
+        "cigars",
+        "cigar",
+        "winnie blues",
+        "winfield blues"
+      ],
+      "tier": "rare",
+      "note": "Cigarettes or vape; adult crowd answer, host's call on whether to allow."
+    },
+    {
+      "canonical": "Golf Clubs",
+      "aliases": [
+        "golf club",
+        "the golf clubs",
+        "my golf clubs",
+        "clubs",
+        "the clubs",
+        "golf sticks",
+        "golf bag",
+        "golf gear",
+        "golf stuff",
+        "golf balls",
+        "golf set"
+      ],
+      "tier": "deep",
+      "note": "Anglesea Golf Club and its kangaroos; Apollo Bay and Lorne courses too."
+    },
+    {
+      "canonical": "Hiking Poles",
+      "aliases": [
+        "hiking pole",
+        "walking poles",
+        "walking pole",
+        "trekking poles",
+        "trekking pole",
+        "walking sticks",
+        "walking stick",
+        "hiking sticks",
+        "hiking stick",
+        "nordic walking poles",
+        "poles for the hike",
+        "poles for hiking"
+      ],
+      "tier": "deep",
+      "note": "Great Ocean Walk and Otways waterfall tracks."
+    },
+    {
+      "canonical": "Clothesline",
+      "aliases": [
+        "clothes line",
+        "clothes lines",
+        "washing line",
+        "travel clothesline",
+        "travel clothes line",
+        "portable clothesline",
+        "clothes pegs",
+        "clothes peg",
+        "pegs for the washing",
+        "peg bag",
+        "laundry powder",
+        "washing powder",
+        "laundry detergent",
+        "laundry liquid",
+        "washing detergent",
+        "laundry bag",
+        "laundry bags",
+        "washing bag",
+        "dirty clothes bag",
+        "dirty washing bag",
+        "laundry stuff"
+      ],
+      "tier": "deep",
+      "note": "Travel clothesline, clothes pegs and laundry supplies for drying wetsuits and towels."
+    },
+    {
+      "canonical": "Camp Heater",
+      "aliases": [
+        "heater",
+        "heaters",
+        "the heater",
+        "portable heater",
+        "gas heater",
+        "portable gas heater",
+        "camping heater",
+        "camp heaters",
+        "diesel heater",
+        "butane heater",
+        "electric heater",
+        "fan heater",
+        "blow heater",
+        "little heater"
+      ],
+      "tier": "deep",
+      "note": "Otways nights get genuinely cold; gas or diesel heater for the camp or van."
+    },
+    {
+      "canonical": "Beach Cart",
+      "aliases": [
+        "beach carts",
+        "beach trolley",
+        "beach trolleys",
+        "beach wagon",
+        "beach wagons",
+        "collapsible wagon",
+        "folding wagon",
+        "fold up wagon",
+        "foldable wagon",
+        "camp trolley",
+        "camping trolley",
+        "cart",
+        "trolley"
+      ],
+      "tier": "deep",
+      "note": "Collapsible wagon for lugging gear across the sand. 'The wagon' alone stays with the car (Caravan entry)."
+    },
+    {
+      "canonical": "Dash Cam",
+      "aliases": [
+        "dashcam",
+        "dash cams",
+        "dashcams",
+        "the dashcam",
+        "dash camera",
+        "dash cameras",
+        "car dash cam",
+        "car camera",
+        "in car camera"
+      ],
+      "tier": "deep",
+      "note": "For the winding road and the odd roo."
     }
   ],
   "hostNotes": "Open-ended starter: anything a Victorian would plausibly put in the car for a Great Ocean Road weekend is correct, so grade generously and use the bank mainly to group variants (bathers/togs/swimmers, esky/cooler, Aerogard/bug spray). Specific beats generic: 'snags' and 'food' both land on Snags, but 'chips' is separate from 'snacks'. Beer, wine, goon and cider are separate; a bare 'booze' or any spirit is Booze. 'Tinny' alone is beer, 'the tinny' is the boat (under Kayak). Reject intangibles ('patience', 'a good attitude'), things you buy down there rather than pack (fish and chips, a parma), and places or activities. A sensible item not in the bank is still correct; add it as a new entry."

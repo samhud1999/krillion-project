@@ -7,13 +7,13 @@
   "answers": [
     {
       "canonical": "Chicken parma",
-      "aliases": ["parma", "parmi", "parmy", "parmas", "chicken parmi", "chicken parmy", "chicken parmigiana", "parmigiana", "parmagiana", "chicken parmagiana", "parma and chips", "parmi and chips", "hawaiian parma", "eggplant parma", "vegetarian parma", "veg parma", "vego parma"],
+      "aliases": ["parma", "parmi", "parmy", "parmas", "chicken parmi", "chicken parmy", "chicken parmigiana", "parmigiana", "parmagiana", "chicken parmagiana", "parma and chips", "parmi and chips", "hawaiian parma", "eggplant parma", "vegetarian parma", "veg parma", "vego parma", "parmie", "chicken parmie", "parmo", "chicken parma and chips", "parma and salad"],
       "tier": "common",
       "note": "Confirmed: $30 on the 2020 menu; reviewers 2015-2025 call it the safe pick ('the parma is elite'). Accept any parma variant."
     },
     {
       "canonical": "Fish and chips",
-      "aliases": ["fish n chips", "fish & chips", "fish 'n' chips", "f&c", "f & c", "fish", "beer battered fish", "beer-battered fish", "battered fish", "battered fish and chips", "beer battered fish and chips", "flathead", "flathead tails", "flake", "battered flake", "grilled fish and chips", "fish and chips with salad", "fish and chips with tartare"],
+      "aliases": ["fish n chips", "fish & chips", "fish 'n' chips", "f&c", "f & c", "fish", "beer battered fish", "beer-battered fish", "battered fish", "battered fish and chips", "beer battered fish and chips", "flathead", "flathead tails", "flake", "battered flake", "grilled fish and chips", "fish and chips with salad", "fish and chips with tartare", "whiting", "battered whiting", "fish chips"],
       "tier": "common",
       "note": "Confirmed: beer-battered fish with chips, mixed leaf salad and tartare ($28, 2020); the most-reviewed dish. Bare 'fish' grades here."
     },

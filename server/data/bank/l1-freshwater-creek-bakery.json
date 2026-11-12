@@ -18,7 +18,15 @@
         "mince meat pie",
         "minced beef pie",
         "beef mince pie",
-        "aussie meat pie"
+        "aussie meat pie",
+        "meatpie",
+        "meat pye",
+        "pie and sauce",
+        "pie with sauce",
+        "pie n sauce",
+        "footy pie",
+        "dogs eye",
+        "dog's eye"
       ],
       "tier": "common",
       "note": "Confirmed on reviews (one called it dry). Any unspecified 'pie' lands here."
@@ -36,18 +44,27 @@
         "chunky beef pie",
         "steak and cheese pie",
         "steak and cheese",
-        "steak cheese pie"
+        "steak cheese pie",
+        "steak and kidney pie",
+        "steak kidney pie",
+        "steak and kidney",
+        "steak n onion pie",
+        "steak n cheese pie"
       ],
       "tier": "uncommon",
-      "note": "Unconfirmed specific flavour; standard pie-warmer stock. Chunky / onion / cheese variants merge here."
+      "note": "Unconfirmed specific flavour; standard pie-warmer stock. Chunky / onion / cheese / kidney variants merge here."
     },
     {
       "canonical": "Pepper steak pie",
       "aliases": [
         "pepper steak pies",
         "pepper pie",
+        "pepper pies",
         "pepper steak",
         "peppered steak pie",
+        "peppered steak",
+        "peppercorn pie",
+        "pepper beef pie",
         "cracked pepper pie",
         "cracked pepper steak pie"
       ],
@@ -63,10 +80,12 @@
         "curry beef pie",
         "curried beef pie",
         "chicken curry pie",
-        "curry chicken pie"
+        "curry chicken pie",
+        "curried chicken pie",
+        "butter chicken pie"
       ],
       "tier": "uncommon",
-      "note": "Unconfirmed; standard country-bakery flavour."
+      "note": "Unconfirmed; standard country-bakery flavour. Butter chicken merges here."
     },
     {
       "canonical": "Chicken pie",
@@ -80,7 +99,10 @@
         "chicken leek pie",
         "chicken and mushroom pie",
         "chicken mushroom pie",
-        "creamy chicken pie"
+        "creamy chicken pie",
+        "creamy chicken and leek pie",
+        "chicken pot pie",
+        "chook pie"
       ],
       "tier": "uncommon",
       "note": "Unconfirmed specific flavour."
@@ -93,7 +115,9 @@
         "steak mushroom pie",
         "beef and mushroom pie",
         "beef mushroom pie",
+        "beef and mushroom",
         "steak and mushroom",
+        "steak n mushroom pie",
         "mushroom pies"
       ],
       "tier": "uncommon",
@@ -104,12 +128,15 @@
       "aliases": [
         "lamb pies",
         "moroccan lamb pie",
+        "moroccan lamb pies",
         "moroccan lamb",
         "moroccan pie",
         "lamb and rosemary pie",
+        "lamb and rosemary pies",
         "lamb and rosemary",
         "lamb rosemary pie",
         "rosemary lamb pie",
+        "lamb shank pie",
         "gourmet pie",
         "gourmet pies"
       ],
@@ -117,17 +144,53 @@
       "note": "Moroccan lamb is the gourmet pie a Tripadvisor regular names as their favourite. 'Gourmet pie' with no flavour also lands here."
     },
     {
+      "canonical": "Vegetable pie",
+      "aliases": [
+        "vegetable pies",
+        "veggie pie",
+        "veggie pies",
+        "vegie pie",
+        "veg pie",
+        "vegetarian pie"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard pie-warmer flavour."
+    },
+    {
+      "canonical": "Potato top pie",
+      "aliases": [
+        "potato top pies",
+        "potato pie",
+        "potato pies",
+        "potato topped pie",
+        "potato top",
+        "spud pie",
+        "mashed potato pie",
+        "shepherds pie",
+        "shepherd's pie",
+        "cottage pie"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; potato-topped, shepherd's and cottage pies merge here."
+    },
+    {
       "canonical": "Pasty",
       "aliases": [
         "pasties",
         "cornish pasty",
         "cornish pasties",
+        "cornish pastie",
         "vegetable pasty",
+        "vegetable pastie",
         "veggie pasty",
+        "veggie pastie",
         "vegie pasty",
+        "vegie pastie",
         "beef pasty",
         "meat pasty",
-        "pastie"
+        "meat pastie",
+        "pastie",
+        "pastys"
       ],
       "tier": "uncommon",
       "note": "Unconfirmed on the menu; standard Victorian bakery stock."
@@ -137,9 +200,16 @@
       "aliases": [
         "sausage rolls",
         "sauso roll",
+        "sauso rolls",
         "sauso",
         "sausy roll",
+        "sausy rolls",
         "snag roll",
+        "snag rolls",
+        "sos roll",
+        "saus roll",
+        "sausage rol",
+        "sausuage roll",
         "sausage roll with sauce",
         "jumbo sausage roll"
       ],
@@ -153,10 +223,15 @@
         "quiche lorraine",
         "egg and bacon quiche",
         "bacon and egg quiche",
+        "bacon quiche",
         "spinach quiche",
         "spinach and feta quiche",
         "mini quiche",
-        "individual quiche"
+        "mini quiches",
+        "individual quiche",
+        "quiche slice",
+        "keesh",
+        "quich"
       ],
       "tier": "uncommon",
       "note": "Confirmed: a Tripadvisor review titled 'Beat this Quiche'."
@@ -169,6 +244,10 @@
         "spinach rolls",
         "spinach and cheese roll",
         "spinach ricotta roll",
+        "spinach ricotta rolls",
+        "ricotta roll",
+        "ricotta rolls",
+        "spinach and ricotta sausage roll",
         "spinach and feta roll",
         "veggie roll",
         "vegetarian roll",
@@ -184,7 +263,10 @@
         "party pies",
         "mini pie",
         "mini pies",
+        "little pie",
         "little pies",
+        "mini meat pie",
+        "mini meat pies",
         "cocktail pie",
         "cocktail pies",
         "mini sausage rolls",
@@ -193,6 +275,22 @@
       ],
       "tier": "rare",
       "note": "Unconfirmed; party-size pies and sausage rolls merge here."
+    },
+    {
+      "canonical": "Pizza slice",
+      "aliases": [
+        "pizza slices",
+        "pizza",
+        "pizzas",
+        "pizza roll",
+        "pizza round",
+        "pizza rounds",
+        "cheese pizza",
+        "bakery pizza",
+        "pizza bread"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; kids' pizza rounds are standard bakery stock."
     },
     {
       "canonical": "Apple pie",
@@ -204,6 +302,9 @@
         "apple rhubarb pie",
         "apple and blackberry pie",
         "apple berry pie",
+        "apple and cinnamon pie",
+        "warm apple pie",
+        "apple pie with cream",
         "fruit pie",
         "fruit pies"
       ],
@@ -218,7 +319,10 @@
         "egg and bacon rolls",
         "bacon egg roll",
         "breakfast roll",
+        "breakfast rolls",
         "brekkie roll",
+        "brekky roll",
+        "breaky roll",
         "egg and bacon pie",
         "bacon and egg pie"
       ],
@@ -231,9 +335,16 @@
         "cheese and bacon rolls",
         "bacon and cheese roll",
         "bacon and cheese rolls",
+        "cheese bacon roll",
         "cheesy bacon roll",
+        "cheesy roll",
         "cheese roll",
         "cheese rolls",
+        "cheese and bacon scroll",
+        "cheese and bacon bread",
+        "cheese pull apart",
+        "pull apart",
+        "pull apart bread",
         "cheese and vegemite scroll",
         "vegemite scroll",
         "vegemite scrolls",
@@ -241,7 +352,7 @@
         "cheesymite"
       ],
       "tier": "rare",
-      "note": "Unconfirmed; savoury bread rolls and scrolls merge here."
+      "note": "Unconfirmed; savoury bread rolls, scrolls and pull-aparts merge here."
     },
     {
       "canonical": "Sponge cake",
@@ -252,11 +363,16 @@
         "cream sponge",
         "cream sponges",
         "fresh cream sponge",
+        "fresh cream sponge cake",
         "jam and cream sponge",
+        "jam and cream sponge cake",
         "cream cake",
         "cream cakes",
         "cream filled sponge",
         "cream-filled sponge",
+        "sponge with cream",
+        "sponge cake with cream",
+        "spunge",
         "whole sponge",
         "half sponge"
       ],
@@ -268,10 +384,15 @@
       "aliases": [
         "passionfruit sponges",
         "passionfruit sponge cake",
+        "passionfruit sponge cakes",
         "passion fruit sponge",
+        "passion fruit sponge cake",
         "passionfruit cream sponge",
+        "passionfruit cream cake",
         "passionfruit cake",
         "passionfruit iced sponge",
+        "pashionfruit sponge",
+        "passionfruit spong",
         "vanilla passionfruit sponge",
         "vanilla sponge with passionfruit icing",
         "passionfruit and cream sponge"
@@ -285,7 +406,10 @@
         "chocolate sponges",
         "chocolate sponge cake",
         "choc sponge",
+        "choc sponge cake",
+        "choclate sponge",
         "chocolate cream sponge",
+        "chocolate cream sponge cake",
         "choc cream sponge",
         "vanilla chocolate sponge",
         "chocolate iced sponge"
@@ -298,6 +422,8 @@
       "aliases": [
         "ginger fluffs",
         "ginger fluff sponge",
+        "ginger fluff sponge cake",
+        "ginger fluf",
         "ginger sponge",
         "ginger fluff cake",
         "ginger sponge cake",
@@ -313,6 +439,9 @@
         "victoria sponges",
         "victoria sponge cake",
         "victoria sandwich",
+        "victorian sponge",
+        "vicky sponge",
+        "victoria cake",
         "jam and cream victoria sponge",
         "plain jam and cream sponge",
         "vanilla sponge",
@@ -326,6 +455,8 @@
       "aliases": [
         "gluten free sponge",
         "gf sponge",
+        "gf sponge cake",
+        "gluten free sponges",
         "gluten free sponge cake",
         "gluten-free sponge cake",
         "gluten free cake",
@@ -341,6 +472,10 @@
       "canonical": "Birthday cake",
       "aliases": [
         "birthday cakes",
+        "bday cake",
+        "birthday sponge",
+        "kids birthday cake",
+        "21st cake",
         "celebration cake",
         "celebration cakes",
         "occasion cake",
@@ -360,8 +495,11 @@
       "canonical": "Carrot cake",
       "aliases": [
         "carrot cakes",
+        "carrott cake",
+        "carot cake",
         "carrot and walnut cake",
         "carrot walnut cake",
+        "carrot cake with cream cheese icing",
         "carrot cake slice"
       ],
       "tier": "uncommon",
@@ -372,6 +510,8 @@
       "aliases": [
         "chocolate cakes",
         "choc cake",
+        "choclate cake",
+        "choccy cake",
         "chocolate mud cake",
         "mud cake",
         "choc mud cake",
@@ -385,6 +525,8 @@
       "aliases": [
         "lemon cakes",
         "lemon loaf",
+        "lemon loaf cake",
+        "lemon pound cake",
         "lemon syrup cake",
         "lemon drizzle cake",
         "lemon drizzle",
@@ -399,10 +541,12 @@
         "orange cakes",
         "orange loaf",
         "orange syrup cake",
+        "whole orange cake",
         "orange and almond cake",
         "orange almond cake",
         "orange and poppyseed cake",
-        "orange poppyseed cake"
+        "orange poppyseed cake",
+        "orange poppy seed cake"
       ],
       "tier": "rare",
       "note": "Confirmed (2011 review)."
@@ -415,7 +559,9 @@
         "boiled fruit cake",
         "christmas cake",
         "christmas cakes",
+        "christmas fruitcake",
         "xmas cake",
+        "xmas fruit cake",
         "rich fruit cake",
         "sultana cake",
         "christmas pudding",
@@ -432,19 +578,66 @@
         "teacakes",
         "cinnamon tea cake",
         "cinnamon teacake",
+        "cinamon teacake",
         "apple tea cake",
-        "apple teacake"
+        "apple teacake",
+        "apple and cinnamon teacake"
       ],
       "tier": "rare",
       "note": "Confirmed in a trade write-up."
     },
     {
+      "canonical": "Swiss roll",
+      "aliases": [
+        "swiss rolls",
+        "swissroll",
+        "jam roll",
+        "jam rolls",
+        "sponge roll",
+        "sponge rolls",
+        "jelly roll",
+        "chocolate swiss roll",
+        "roulade"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; rolled sponges suit the shop's sponge focus."
+    },
+    {
+      "canonical": "Rock cake",
+      "aliases": [
+        "rock cakes",
+        "rockcake",
+        "rockcakes",
+        "rock bun",
+        "rock buns"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned country-bakery item."
+    },
+    {
+      "canonical": "Friand",
+      "aliases": [
+        "friands",
+        "raspberry friand",
+        "almond friand",
+        "berry friand",
+        "blueberry friand",
+        "friand cake"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
       "canonical": "Banana bread",
       "aliases": [
         "banana breads",
+        "bannana bread",
         "banana loaf",
+        "banana loaf cake",
         "banana cake",
-        "banana and walnut bread"
+        "banana walnut cake",
+        "banana and walnut bread",
+        "toasted banana bread"
       ],
       "tier": "uncommon",
       "note": "Unconfirmed; standard cabinet item."
@@ -454,9 +647,14 @@
       "aliases": [
         "cheesecakes",
         "cheese cake",
+        "cheescake",
         "baked cheesecake",
+        "baked cheese cake",
         "lemon cheesecake",
         "strawberry cheesecake",
+        "passionfruit cheesecake",
+        "new york cheesecake",
+        "berry cheesecake",
         "cheesecake slice"
       ],
       "tier": "uncommon",
@@ -470,6 +668,9 @@
         "lammos",
         "lammington",
         "lammingtons",
+        "lemmington",
+        "lamington finger",
+        "lamington fingers",
         "cream lamington",
         "jam lamington",
         "jam and cream lamington",
@@ -504,6 +705,10 @@
         "cupcakes",
         "cup cake",
         "cup cakes",
+        "cuppy cake",
+        "mini cupcake",
+        "chocolate cupcake",
+        "vanilla cupcake",
         "patty cake",
         "patty cakes",
         "fairy cake",
@@ -522,7 +727,9 @@
         "jelly sponge",
         "jelly sponges",
         "jelly cream cake",
+        "jelly and cream cake",
         "raspberry jelly cake",
+        "raspberry jelly cakes",
         "jelly and coconut cake",
         "jelly coconut sponge"
       ],
@@ -533,13 +740,17 @@
       "canonical": "Muffin",
       "aliases": [
         "muffins",
+        "muffens",
         "blueberry muffin",
         "blueberry muffins",
         "choc chip muffin",
         "chocolate chip muffin",
+        "double choc muffin",
         "raspberry muffin",
+        "raspberry white choc muffin",
         "savoury muffin",
         "banana muffin",
+        "banana muffins",
         "apple muffin"
       ],
       "tier": "uncommon",
@@ -549,7 +760,11 @@
       "canonical": "Cream bun",
       "aliases": [
         "cream buns",
+        "creambun",
+        "cream bunn",
+        "fresh cream bun",
         "jam and cream bun",
+        "jam and cream buns",
         "cream filled bun",
         "cream-filled bun",
         "iced cream bun",
@@ -563,6 +778,8 @@
       "canonical": "Finger bun",
       "aliases": [
         "finger buns",
+        "fingerbun",
+        "finger bunn",
         "iced finger bun",
         "iced finger buns",
         "pink finger bun",
@@ -570,6 +787,7 @@
         "iced buns",
         "pink iced bun",
         "iced finger",
+        "iced fingers",
         "pink bun",
         "sticky bun"
       ],
@@ -580,7 +798,11 @@
       "canonical": "Boston bun",
       "aliases": [
         "boston buns",
+        "boston bunn",
+        "bostin bun",
+        "boston loaf",
         "coconut bun",
+        "coconut buns",
         "coconut iced bun",
         "coconut icing bun",
         "pink coconut bun"
@@ -592,6 +814,11 @@
       "canonical": "Hot cross bun",
       "aliases": [
         "hot cross buns",
+        "hotcross bun",
+        "hot cross bunns",
+        "hot crossed bun",
+        "hot crossed buns",
+        "hot x bun",
         "hcb",
         "hcbs",
         "easter bun",
@@ -608,12 +835,18 @@
         "jam doughnuts",
         "jam donut",
         "jam donuts",
+        "jam donought",
         "doughnut",
         "doughnuts",
         "donut",
         "donuts",
         "hot jam donut",
+        "hot jam donuts",
         "hot jam doughnut",
+        "jelly donut",
+        "jelly doughnut",
+        "jam ball",
+        "berliner",
         "cinnamon donut",
         "cinnamon doughnut",
         "sugar donut",
@@ -635,6 +868,9 @@
         "iced doughnut",
         "iced donuts",
         "chocolate iced donut",
+        "chocolate donut",
+        "chocolate doughnut",
+        "choc donut",
         "pink iced donut",
         "long john",
         "custard donut",
@@ -647,6 +883,8 @@
       "canonical": "Cinnamon scroll",
       "aliases": [
         "cinnamon scrolls",
+        "cinamon scroll",
+        "cinnammon scroll",
         "cinnamon roll",
         "cinnamon rolls",
         "cinnamon bun",
@@ -656,6 +894,8 @@
         "cinnamon swirl",
         "coffee scroll",
         "coffee scrolls",
+        "custard scroll",
+        "apple scroll",
         "sultana scroll",
         "fruit scroll"
       ],
@@ -666,14 +906,30 @@
       "canonical": "Apple turnover",
       "aliases": [
         "apple turnovers",
+        "apple turn over",
         "turnover",
         "turnovers",
         "apple and cream turnover",
         "cream turnover",
         "apple cream turnover",
+        "apple turnover with cream",
+        "turnover pastry",
         "apple puff"
       ],
       "tier": "uncommon",
+      "note": "Unconfirmed; standard cabinet item."
+    },
+    {
+      "canonical": "Apple strudel",
+      "aliases": [
+        "apple strudels",
+        "strudel",
+        "strudels",
+        "apple streudel",
+        "streudel",
+        "apple strudle"
+      ],
+      "tier": "rare",
       "note": "Unconfirmed; standard cabinet item."
     },
     {
@@ -682,8 +938,11 @@
         "eclair",
         "eclairs",
         "éclairs",
+        "ecclair",
+        "eclaire",
         "chocolate eclair",
         "chocolate eclairs",
+        "chocolate eclaire",
         "choc eclair",
         "chocolate éclair",
         "cream eclair",
@@ -701,9 +960,11 @@
       "canonical": "Cream horn",
       "aliases": [
         "cream horns",
+        "creamhorn",
         "cream cornet",
         "cream cornets",
         "pastry horn",
+        "cream horn pastry",
         "cream roll",
         "cream rolls"
       ],
@@ -714,9 +975,13 @@
       "canonical": "Custard tart",
       "aliases": [
         "custard tarts",
+        "custad tart",
+        "custart tart",
         "egg custard tart",
         "nutmeg custard tart",
+        "nutmeg tart",
         "baked custard tart",
+        "vanilla custard tart",
         "egg tart",
         "egg tarts",
         "custard tartlet",
@@ -734,6 +999,8 @@
         "nenish tart",
         "nenish tarts",
         "nenish",
+        "nennish tart",
+        "ninish tart",
         "neanish tart",
         "nienish tart",
         "neenish tartlet"
@@ -748,19 +1015,64 @@
         "lemon meringue tart",
         "lemon meringue pie",
         "lemon meringue",
+        "lemon merangue",
+        "lemon maringue",
+        "lemon merange",
         "lemon curd tart",
         "citrus tart",
+        "tarte au citron",
         "lemon tartlet"
       ],
       "tier": "rare",
       "note": "Unconfirmed."
     },
     {
+      "canonical": "Jam tart",
+      "aliases": [
+        "jam tarts",
+        "jam tartlet",
+        "jam tartlets",
+        "raspberry jam tart",
+        "strawberry jam tart"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned cabinet tart."
+    },
+    {
+      "canonical": "Caramel tart",
+      "aliases": [
+        "caramel tarts",
+        "caramel tartlet",
+        "chocolate caramel tart",
+        "salted caramel tart",
+        "banoffee tart",
+        "banoffee pie"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard cabinet tart."
+    },
+    {
+      "canonical": "Fruit tart",
+      "aliases": [
+        "fruit tarts",
+        "fruit flan",
+        "fruit flans",
+        "fresh fruit tart",
+        "strawberry tart",
+        "fruit tartlet",
+        "custard fruit tart"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard cabinet tart."
+    },
+    {
       "canonical": "Fruit mince tart",
       "aliases": [
         "fruit mince tarts",
+        "fruit mince tartlet",
         "mince tart",
         "mince tarts",
+        "mincemeat tart",
         "fruit mince pie",
         "fruit mince pies",
         "christmas mince pie",
@@ -777,10 +1089,13 @@
         "danishes",
         "danish pastry",
         "danish pastries",
+        "danish pastrie",
         "apricot danish",
+        "apricot danishes",
         "custard danish",
         "apple danish",
         "blueberry danish",
+        "raspberry danish",
         "fruit danish",
         "cherry danish"
       ],
@@ -791,8 +1106,14 @@
       "canonical": "Croissant",
       "aliases": [
         "croissants",
+        "croisant",
+        "crossant",
+        "crossaint",
+        "cresant",
+        "croissont",
         "plain croissant",
         "ham and cheese croissant",
+        "ham and cheese croissants",
         "ham cheese croissant",
         "almond croissant",
         "chocolate croissant",
@@ -805,6 +1126,7 @@
       "canonical": "Scone",
       "aliases": [
         "scones",
+        "scons",
         "plain scone",
         "plain scones",
         "date scone",
@@ -813,7 +1135,11 @@
         "pumpkin scones",
         "cheese scone",
         "cheese scones",
+        "cheese and chive scone",
+        "savoury scone",
+        "buttermilk scone",
         "scone with jam and cream",
+        "scone with cream",
         "jam and cream scone",
         "scones with jam and cream",
         "devonshire tea",
@@ -825,18 +1151,44 @@
       "note": "Unconfirmed; near-certain guess. Devonshire tea merges here."
     },
     {
+      "canonical": "Pikelet",
+      "aliases": [
+        "pikelets",
+        "pikelette",
+        "pikelet with jam",
+        "pikelets with jam and cream"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned country-bakery item."
+    },
+    {
+      "canonical": "Crumpet",
+      "aliases": [
+        "crumpets",
+        "crumpits",
+        "crumpet with butter",
+        "crumpet with honey"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned bakery item."
+    },
+    {
       "canonical": "Vanilla slice",
       "aliases": [
         "vanilla slices",
+        "vanila slice",
+        "vanilla slise",
         "snot block",
         "snot blocks",
+        "snotblock",
         "custard slice",
         "custard slices",
         "french vanilla slice",
         "passionfruit vanilla slice",
         "passionfruit slice",
         "custard square",
-        "vanilla custard slice"
+        "vanilla custard slice",
+        "vanilla slab"
       ],
       "tier": "common",
       "note": "Confirmed: listed among favourites on the shop's review page."
@@ -850,6 +1202,9 @@
         "cream matchstick",
         "cream matchsticks",
         "matchstick slice",
+        "matchstick pastry",
+        "jam matchstick",
+        "vanilla matchstick",
         "mille feuille",
         "mille-feuille",
         "millefeuille",
@@ -864,10 +1219,12 @@
       "aliases": [
         "apple slices",
         "apple crumble slice",
+        "apple crumble slices",
         "apple and custard slice",
         "apple custard slice",
         "apple shortcake",
         "apple shortcake slice",
+        "dutch apple slice",
         "apple and cinnamon slice",
         "apple and rhubarb slice"
       ],
@@ -878,8 +1235,11 @@
       "canonical": "Caramel slice",
       "aliases": [
         "caramel slices",
+        "carmel slice",
+        "caramel slise",
         "chocolate caramel slice",
         "choc caramel slice",
+        "salted caramel slice",
         "millionaire shortbread",
         "millionaire's shortbread",
         "millionaires shortbread",
@@ -894,6 +1254,8 @@
         "hedgehogs",
         "hedgehog slice",
         "hedgehog slices",
+        "hedghog slice",
+        "hedge hog slice",
         "hedgehog bar",
         "chocolate hedgehog",
         "chocolate biscuit slice"
@@ -906,7 +1268,9 @@
       "aliases": [
         "lemon slices",
         "lemon coconut slice",
+        "lemon coconut slices",
         "lemon and coconut slice",
+        "lemon coconut bar",
         "lemon cheesecake slice",
         "lemon bar"
       ],
@@ -918,6 +1282,7 @@
       "aliases": [
         "cherry ripe slices",
         "cherry ripe",
+        "chery ripe slice",
         "cherry slice",
         "cherry coconut slice",
         "cherry and coconut slice",
@@ -927,12 +1292,114 @@
       "note": "Unconfirmed; standard slice."
     },
     {
+      "canonical": "Jelly slice",
+      "aliases": [
+        "jelly slices",
+        "raspberry jelly slice",
+        "red jelly slice",
+        "jelly custard slice",
+        "custard jelly slice",
+        "jelly slice with coconut"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard slice."
+    },
+    {
+      "canonical": "Mars Bar slice",
+      "aliases": [
+        "mars bar slices",
+        "mars slice",
+        "marsbar slice",
+        "chocolate mars bar slice",
+        "mars bar slice with rice bubbles"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard slice."
+    },
+    {
+      "canonical": "Peppermint slice",
+      "aliases": [
+        "peppermint slices",
+        "mint slice",
+        "mint slices",
+        "choc mint slice",
+        "choc peppermint slice",
+        "chocolate peppermint slice",
+        "chocolate mint slice"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard slice."
+    },
+    {
+      "canonical": "Muesli slice",
+      "aliases": [
+        "muesli slices",
+        "museli slice",
+        "muesli bar",
+        "muesli bars",
+        "museli bar",
+        "oat slice"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard slice."
+    },
+    {
+      "canonical": "Date slice",
+      "aliases": [
+        "date slices",
+        "date and walnut slice",
+        "date bar",
+        "date loaf",
+        "date and walnut loaf"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; standard slice; date loaf merges here."
+    },
+    {
+      "canonical": "Coconut ice",
+      "aliases": [
+        "coconut ice slice",
+        "coconut ice pieces",
+        "coconut ice bar",
+        "pink coconut ice",
+        "coconutice"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned counter sweet."
+    },
+    {
+      "canonical": "White Christmas",
+      "aliases": [
+        "white christmas slice",
+        "white christmas slices",
+        "white xmas",
+        "white xmas slice"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; seasonal slice."
+    },
+    {
+      "canonical": "Rocky road",
+      "aliases": [
+        "rocky roads",
+        "rockyroad",
+        "rocky road slice",
+        "rocky road bar",
+        "rocky road bag",
+        "homemade rocky road"
+      ],
+      "tier": "uncommon",
+      "note": "Unconfirmed; standard counter item."
+    },
+    {
       "canonical": "Bee sting",
       "aliases": [
         "bee stings",
         "beesting",
         "beestings",
         "bee sting cake",
+        "bee sting bun",
+        "bee sting slice",
         "bee-sting",
         "bienenstich",
         "honey bee cake"
@@ -947,6 +1414,7 @@
         "rumball",
         "rumballs",
         "chocolate rum ball",
+        "chocolate rum balls",
         "rum and raisin ball"
       ],
       "tier": "uncommon",
@@ -958,8 +1426,10 @@
         "chocolate truffles",
         "truffle",
         "truffles",
+        "truffle balls",
         "choc truffle",
         "choc truffles",
+        "choc truffle balls",
         "chocolate ball",
         "chocolate balls"
       ],
@@ -970,10 +1440,14 @@
       "canonical": "Brownie",
       "aliases": [
         "brownies",
+        "browny",
         "chocolate brownie",
         "chocolate brownies",
+        "chocolate brownie slice",
         "choc brownie",
+        "choc brownies",
         "fudge brownie",
+        "caramel brownie",
         "walnut brownie"
       ],
       "tier": "uncommon",
@@ -985,12 +1459,14 @@
         "anzac biscuits",
         "anzac",
         "anzacs",
+        "anzak biscuit",
         "anzac bikkie",
         "anzac bikkies",
         "anzac cookie",
         "anzac cookies",
         "anzac bickie",
-        "anzac bickies"
+        "anzac bickies",
+        "anzac slice"
       ],
       "tier": "common",
       "note": "Unconfirmed; near-certain guess. Biscuits are confirmed generally."
@@ -1021,8 +1497,11 @@
         "melting moments",
         "custard melting moment",
         "custard melting moments",
+        "lemon melting moment",
+        "passionfruit melting moment",
         "melting moment biscuit",
-        "melting moment biscuits"
+        "melting moment biscuits",
+        "melting moments biscuits"
       ],
       "tier": "uncommon",
       "note": "Unconfirmed; near-identical to the yo-yo but scored separately."
@@ -1033,12 +1512,39 @@
         "monte carlos",
         "monte carlo biscuit",
         "monte carlo biscuits",
+        "monte carlo cookie",
+        "monty carlo",
         "montecarlo",
         "montecarlos",
         "monte carlo bikkie"
       ],
       "tier": "rare",
       "note": "Unconfirmed; old-fashioned cream biscuit that suits this shop."
+    },
+    {
+      "canonical": "Florentine",
+      "aliases": [
+        "florentines",
+        "florentine biscuit",
+        "florentine biscuits",
+        "florantine"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; old-fashioned cabinet biscuit."
+    },
+    {
+      "canonical": "Macaron",
+      "aliases": [
+        "macarons",
+        "macaroon",
+        "macaroons",
+        "coconut macaroon",
+        "coconut macaroons",
+        "french macaron",
+        "french macarons"
+      ],
+      "tier": "rare",
+      "note": "Unconfirmed; macarons and coconut macaroons merge here."
     },
     {
       "canonical": "Kiss biscuit",
@@ -1059,13 +1565,16 @@
       "canonical": "Shortbread",
       "aliases": [
         "shortbreads",
+        "short bread",
         "shortbread biscuit",
         "shortbread biscuits",
+        "shortbread cookie",
         "shortbread finger",
         "shortbread fingers",
         "scottish shortbread",
         "butter shortbread",
-        "shortbread cream"
+        "shortbread cream",
+        "shortbread creams"
       ],
       "tier": "uncommon",
       "note": "Unconfirmed; standard biscuit."
@@ -1075,10 +1584,13 @@
       "aliases": [
         "gingerbread men",
         "gingerbread",
+        "ginger bread",
+        "ginger bread man",
         "gingerbread person",
         "gingerbread people",
         "gingerbread biscuit",
         "gingerbread biscuits",
+        "gingerbread cookie",
         "ginger biscuit",
         "ginger biscuits",
         "gingernut",
@@ -1092,8 +1604,11 @@
       "canonical": "Biscuits",
       "aliases": [
         "biscuit",
+        "biscut",
+        "biscuts",
         "bikkie",
         "bikkies",
+        "bikky",
         "bickie",
         "bickies",
         "cookie",
@@ -1106,6 +1621,7 @@
         "choc chip biscuits",
         "homemade biscuits",
         "home made biscuits",
+        "assorted biscuits",
         "bag of biscuits"
       ],
       "tier": "common",
@@ -1115,8 +1631,11 @@
       "canonical": "Jam drop",
       "aliases": [
         "jam drops",
+        "jamdrop",
         "jam drop biscuit",
         "jam drop biscuits",
+        "jam drop cookie",
+        "jam drop cookies",
         "jam biscuit",
         "jam biscuits",
         "thumbprint biscuit",
@@ -1131,8 +1650,12 @@
       "canonical": "Meringue",
       "aliases": [
         "meringues",
+        "merange",
+        "merangue",
+        "maringue",
         "meringue nest",
         "meringue nests",
+        "meringue shell",
         "meringue kisses",
         "mini meringue",
         "mini meringues",
@@ -1160,12 +1683,25 @@
         "white loaf",
         "wholemeal bread",
         "wholemeal loaf",
+        "wholegrain bread",
+        "brown bread",
         "multigrain",
         "multigrain bread",
         "multigrain loaf",
+        "grain bread",
+        "seeded loaf",
+        "rye bread",
+        "rye loaf",
+        "ciabatta",
+        "french stick",
+        "french bread",
+        "cob loaf",
+        "cob",
+        "damper",
         "high top",
         "high top loaf",
         "hi top",
+        "tank loaf",
         "sandwich loaf",
         "vienna",
         "vienna loaf",
@@ -1187,6 +1723,7 @@
         "sourdough loaves",
         "sour dough",
         "sour dough bread",
+        "sour dough loaf",
         "sourdough roll",
         "sourdough rolls"
       ],
@@ -1202,8 +1739,10 @@
         "zealy bay bread",
         "zeally bay sourdough bread",
         "zealy bay sourdough",
+        "zealy bay sourdough bread",
         "zeally bay loaf",
         "zealy bay loaf",
+        "zeally bay organic",
         "zeally bay organic sourdough"
       ],
       "tier": "deep",
@@ -1223,6 +1762,7 @@
         "baps",
         "long roll",
         "long rolls",
+        "torpedo roll",
         "round roll",
         "white roll",
         "white rolls",
@@ -1239,12 +1779,14 @@
         "focaccias",
         "foccacia",
         "focacia",
+        "fokaccia",
         "foccacia bread",
         "toasted focaccia",
         "focaccia roll",
         "focaccia sandwich",
         "turkish bread",
         "turkish roll",
+        "turkish pide",
         "pide"
       ],
       "tier": "rare",
@@ -1260,13 +1802,17 @@
         "sambos",
         "sanger",
         "sangers",
+        "sammie",
+        "sammies",
         "ham salad sandwich",
         "ham and cheese sandwich",
         "ham and salad sandwich",
         "salad sandwich",
         "egg sandwich",
         "egg and lettuce sandwich",
+        "curried egg sandwich",
         "chicken sandwich",
+        "chicken and salad roll",
         "salad roll",
         "salad rolls",
         "ham salad roll",
@@ -1288,17 +1834,25 @@
       "canonical": "Coffee",
       "aliases": [
         "coffees",
+        "coffe",
+        "cuppa",
         "takeaway coffee",
         "cup of coffee",
         "latte",
         "lattes",
         "flat white",
         "flat whites",
+        "flatwhite",
         "cappuccino",
         "cappuccinos",
+        "cappucino",
+        "capuccino",
         "long black",
         "short black",
         "espresso",
+        "expresso",
+        "macchiato",
+        "piccolo",
         "mocha",
         "chai",
         "chai latte",
@@ -1326,22 +1880,31 @@
         "strawberry milkshake",
         "vanilla milkshake",
         "caramel milkshake",
-        "shake"
+        "banana milkshake",
+        "shake",
+        "spider",
+        "lime spider",
+        "coke spider"
       ],
       "tier": "uncommon",
-      "note": "Unconfirmed; typical country-bakery drink. Host call on 'cabinet'."
+      "note": "Unconfirmed; typical country-bakery drink. Spiders merge here. Host call on 'cabinet'."
     },
     {
       "canonical": "Soft drink",
       "aliases": [
         "soft drinks",
+        "soft drink can",
         "coke",
         "can of coke",
+        "bottle of coke",
+        "coca cola",
         "cans of drink",
         "can of drink",
         "cold drink",
         "cold drinks",
         "drinks",
+        "fizzy drink",
+        "soda",
         "bottled water",
         "water",
         "bottle of water",
@@ -1353,7 +1916,9 @@
         "farmers union",
         "farmers union iced coffee",
         "lemonade",
+        "lemon squash",
         "solo",
+        "lift",
         "fanta",
         "sprite",
         "pepsi",
@@ -1369,14 +1934,18 @@
         "big ms",
         "big m chocolate",
         "big m strawberry",
+        "big m iced coffee",
         "chocolate big m",
         "strawberry big m",
         "flavoured milk",
         "chocolate milk",
+        "choc milk",
         "choccy milk",
         "strawberry milk",
         "oak",
         "oak milk",
+        "moove",
+        "moove milk",
         "iced chocolate milk"
       ],
       "tier": "rare",
@@ -1396,6 +1965,7 @@
         "soft serve",
         "icy pole",
         "icy poles",
+        "icypole",
         "paddle pop",
         "paddle pops",
         "golden gaytime",
@@ -1403,6 +1973,10 @@
         "magnum",
         "cornetto",
         "drumstick",
+        "splice",
+        "bubble o bill",
+        "bubble o'bill",
+        "choc wedge",
         "ice creams in the freezer"
       ],
       "tier": "rare",
@@ -1425,13 +1999,17 @@
         "condiment",
         "relish",
         "relishes",
+        "jar of relish",
         "chutney",
         "chutneys",
         "preserves",
         "pickles",
         "sauces",
+        "sauce",
+        "tomato sauce",
         "honey",
         "local honey",
+        "jar of honey",
         "lemon butter",
         "lemon curd",
         "jars of stuff"

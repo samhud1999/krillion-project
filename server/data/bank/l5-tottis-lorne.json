@@ -85,7 +85,7 @@
     },
     {
       "canonical": "Pepperoni",
-      "aliases": ["peperoni", "peperroni", "pepporoni", "pepperonis", "pepperoni sausage", "pepperoni slices"],
+      "aliases": ["peperoni", "peperroni", "pepporoni", "pepperonis", "pepperonni", "pepparoni", "double pepperoni", "pepperoni sausage", "pepperoni slices"],
       "tier": "common",
       "note": "American name; not a Totti's item (they'd call it salami). Accept as the crowd staple it is."
     },
@@ -109,13 +109,13 @@
     },
     {
       "canonical": "Guanciale",
-      "aliases": ["guancale", "gaunciale", "guanciale pork cheek", "pork cheek", "pork jowl", "cured pork cheek"],
+      "aliases": ["guancale", "gaunciale", "guanchiale", "guanciale bacon", "guanciale pork cheek", "pork cheek", "pork jowl", "cured pork cheek"],
       "tier": "rare",
       "note": "Italian staple; unconfirmed at Totti's."
     },
     {
       "canonical": "Speck",
-      "aliases": ["speck ham", "smoked speck", "tyrolean speck", "speck alto adige"],
+      "aliases": ["speck ham", "smoked speck", "tyrolean speck", "speck alto adige", "spek", "smoked prosciutto", "speck prosciutto"],
       "tier": "rare",
       "note": "Italian staple; unconfirmed at Totti's."
     },
@@ -199,7 +199,7 @@
     },
     {
       "canonical": "Pecorino",
-      "aliases": ["peccorino", "pecorino romano", "pecorino sardo", "pecorino toscano", "pecorino cheese", "shaved pecorino"],
+      "aliases": ["peccorino", "pecarino", "romano", "pecorino romano", "pecorino sardo", "pecorino toscano", "pecorino pepato", "pecorino cheese", "shaved pecorino"],
       "tier": "uncommon",
       "note": "Italian staple; unconfirmed at Totti's."
     },
@@ -211,7 +211,7 @@
     },
     {
       "canonical": "Taleggio",
-      "aliases": ["talegio", "tallegio", "talleggio", "taleggio cheese", "taleggio dop"],
+      "aliases": ["talegio", "tallegio", "talleggio", "taleggio cheese", "taleggio dop", "telaggio", "taleggo"],
       "tier": "rare",
       "note": "Italian staple; unconfirmed at Totti's."
     },
@@ -229,7 +229,7 @@
     },
     {
       "canonical": "Feta",
-      "aliases": ["fetta", "feta cheese", "danish feta", "persian feta", "greek feta", "marinated feta"],
+      "aliases": ["fetta", "feta cheese", "fetta cheese", "danish feta", "persian feta", "greek feta", "marinated feta", "crumbled feta"],
       "tier": "rare",
       "note": "Aussie pub-pizza guess; not a Totti's item."
     },
