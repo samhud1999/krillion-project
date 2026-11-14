@@ -187,6 +187,8 @@ export interface AnswerGroup {
   bankTier?: BankTier;
   /** flagged obvious in the bank: pinned to a puddle regardless of rarity */
   obvious?: boolean;
+  /** the host manually pinned this group's tier — their call is final */
+  overridden?: boolean;
   /**
    * Unverified answers that only one person gave score a rock pool (60) until
    * the host vouches for them with host:moderate accepted=true, which sets
@@ -284,6 +286,8 @@ export type ClientMessage =
   | { t: 'host:next' }
   /** accept/reject an unverified or rejected group in the current reveal */
   | { t: 'host:moderate'; roundIndex: number; key: string; accepted: boolean }
+  /** host's call: pin an answer group to a tier (null clears the override) */
+  | { t: 'host:override'; roundIndex: number; key: string; tier: TierId | null }
   | { t: 'host:kick'; playerId: string }
   /** back to lobby with the same players, depths reset */
   | { t: 'host:restart' }

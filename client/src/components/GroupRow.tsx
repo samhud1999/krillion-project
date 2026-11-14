@@ -1,4 +1,5 @@
-import type { AnswerGroup, PlayerPublic } from '@shared/types';
+import { useState } from 'react';
+import type { AnswerGroup, PlayerPublic, TierId } from '@shared/types';
 import { TIERS } from '@shared/theme';
 import { Avatar, TierBadge } from '../artApi';
 import { Button } from './Button';
@@ -11,6 +12,8 @@ export interface GroupRowProps {
   showWho?: boolean;
   /** host moderation callbacks: accepted=true vouches for an unverified answer or un-rejects one */
   onModerate?: (key: string, accepted: boolean) => void;
+  /** host judging: pin the group to a tier, or null to clear the pin */
+  onOverride?: (key: string, tier: TierId | null) => void;
   compact?: boolean;
   /** TV density: tighter padding, viewport-scaled type so more rows fit at 720p/1080p */
   tv?: boolean;
@@ -18,12 +21,16 @@ export interface GroupRowProps {
   index?: number;
 }
 
+/** the five scoring tiers a host can pin an answer to (Reject covers zero) */
+const JUDGE_TIERS: TierId[] = ['puddle', 'shallows', 'rockpool', 'deepcut', 'krillion'];
+
 const TAG = 'pixel shrink-0 rounded-sm px-2 py-0.5 text-[11px] font-semibold uppercase tracking-wide';
 
-export function GroupRow({ group, players, highlight, showWho, onModerate, compact, tv, index }: GroupRowProps) {
+export function GroupRow({ group, players, highlight, showWho, onModerate, onOverride, compact, tv, index }: GroupRowProps) {
   const info = TIERS[group.tier];
   const rejected = group.status === 'rejected';
   const unverified = group.status === 'unverified';
+  const [judging, setJudging] = useState(false);
   const who = players ? group.playerIds.map((id) => players.find((p) => p.id === id)).filter((p): p is PlayerPublic => !!p) : [];
   const shown = who.slice(0, compact ? 4 : 8);
   const extra = who.length - shown.length;
@@ -49,7 +56,8 @@ export function GroupRow({ group, players, highlight, showWho, onModerate, compa
         <div className="flex items-baseline gap-2 min-w-0">
           <span className={['truncate font-semibold', nameSize, rejected ? 'line-through' : ''].join(' ')}>{group.display}</span>
           {group.status === 'special' && <span className={`${TAG} bg-tier-krillion/20 font-bold text-tier-krillion`}>special</span>}
-          {group.obvious && group.status === 'bank' && <span className={`${TAG} bg-white/8 text-foam-faint`}>too obvious</span>}
+          {group.overridden && <span className={`${TAG} bg-tier-krillion/15 text-tier-krillion`}>host's call</span>}
+          {group.obvious && group.status === 'bank' && !group.overridden && <span className={`${TAG} bg-white/8 text-foam-faint`}>too obvious</span>}
           {unverified && !group.vouched && <span className={`${TAG} bg-white/8 text-foam-faint`}>unverified</span>}
           {unverified && group.vouched && <span className={`${TAG} bg-emerald-500/15 text-emerald-200`}>vouched</span>}
           {rejected && <span className={`${TAG} bg-rose-500/15 text-rose-300`}>rejected</span>}
@@ -100,6 +108,54 @@ export function GroupRow({ group, players, highlight, showWho, onModerate, compa
           )}
         </div>
       )}
+      {onOverride &&
+        (judging ? (
+          <div className="flex shrink-0 items-center gap-1" role="group" aria-label={`Judge ${group.display}`}>
+            {JUDGE_TIERS.map((t) => (
+              <button
+                key={t}
+                type="button"
+                onClick={() => {
+                  onOverride(group.key, t);
+                  setJudging(false);
+                }}
+                title={`${TIERS[t].label} — ${TIERS[t].points} m`}
+                aria-label={`Score ${group.display} as ${TIERS[t].label}, ${TIERS[t].points} metres`}
+                className={[
+                  'pixel grid h-8 w-10 place-items-center rounded-sm border-2 text-xs font-bold transition-transform hover:scale-110',
+                  group.tier === t && group.overridden ? 'ring-2 ring-white/60' : '',
+                ].join(' ')}
+                style={{ color: `var(--tier-${t})`, borderColor: `var(--tier-${t})`, background: 'rgba(255,255,255,0.05)' }}
+              >
+                {TIERS[t].points}
+              </button>
+            ))}
+            {onModerate && !rejected && (
+              <Button size="sm" variant="danger" onClick={() => { onModerate(group.key, false); setJudging(false); }} aria-label={`Reject ${group.display}`}>
+                0
+              </Button>
+            )}
+            {group.overridden && (
+              <Button size="sm" variant="ghost" onClick={() => { onOverride(group.key, null); setJudging(false); }} aria-label={`Clear the host's call on ${group.display}`}>
+                Auto
+              </Button>
+            )}
+            <Button size="sm" variant="ghost" onClick={() => setJudging(false)} aria-label="Close judging">
+              ✕
+            </Button>
+          </div>
+        ) : (
+          <Button
+            size="sm"
+            variant="ghost"
+            className="shrink-0"
+            onClick={() => setJudging(true)}
+            aria-label={`Judge ${group.display}`}
+            title="Set this answer's score by hand"
+          >
+            Judge
+          </Button>
+        ))}
     </div>
   );
 }

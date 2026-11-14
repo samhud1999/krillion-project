@@ -182,7 +182,7 @@ Any provider works as long as it runs one long-lived Node or Docker process and 
 1. Start the server, open `/host` full screen on the TV.
 2. Get everyone to join while people arrive. Names must be unique. There are 20 animals and each can be picked once; if all 20 are taken, latecomers can double up, to a room cap of 24.
 3. Press **Start**. During a prompt the TV shows who has locked in. Press **E** to end a prompt early.
-4. Answers that are not in the curated bank can no longer be locked in at all — the phone bounces them ("not on our list") and the player keeps trying until the timer runs out. So the reveal only ever shows recognised answers. If something slipped through that is wrong in context, the moderation controls still let you knock a row back to zero.
+4. Answers that are not in the curated bank can no longer be locked in at all — the phone bounces them ("not on our list") and the player keeps trying until the timer runs out. So the reveal only ever shows recognised answers. **Your call is final:** tap **Judge** on any row to pin its score by hand (10/30/60/85/100), **0** to reject it, or **Auto** to go back to the automatic score. The row shows a **host's call** tag and every phone updates instantly.
 5. **Space** or **Enter** moves to the next prompt. After the seventh, the results screen shows the podium, the full leaderboard and everyone's position on the creek.
 6. **Play again** keeps the same players and resets depths. Change the prompt set in Setup first if you want different questions.
 

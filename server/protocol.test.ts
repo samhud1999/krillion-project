@@ -12,6 +12,8 @@ describe('parseClientMessage', () => {
       { t: 'host:end_round' },
       { t: 'host:next' },
       { t: 'host:moderate', roundIndex: 0, key: 'free:weet bix', accepted: false },
+      { t: 'host:override', roundIndex: 0, key: 'bank:mint slice', tier: 'krillion' },
+      { t: 'host:override', roundIndex: 0, key: 'bank:mint slice', tier: null },
       { t: 'host:kick', playerId: 'p1' },
       { t: 'host:restart' },
       { t: 'player:join', code: 'ABCD', name: 'Sam', avatar: 'koala' },
@@ -40,6 +42,7 @@ describe('parseClientMessage', () => {
     expect(parseClientMessage(JSON.stringify({ t: 'host:config', patch: { secondsPerPrompt: 999 } })).ok).toBe(false);
     expect(parseClientMessage(JSON.stringify({ t: 'host:config', patch: { bogus: 1 } })).ok).toBe(false);
     expect(parseClientMessage(JSON.stringify({ t: 'player:answer', roundIndex: -1, text: 'x' })).ok).toBe(false);
+    expect(parseClientMessage(JSON.stringify({ t: 'host:override', roundIndex: 0, key: 'k', tier: 'legendary' })).ok).toBe(false);
     expect(parseClientMessage(Buffer.from(JSON.stringify({ t: 'ping', sentAt: 1 }))).ok).toBe(true);
     expect(parseClientMessage(12 as unknown as string).ok).toBe(false);
     expect(parseClientMessage('x'.repeat(10_000)).ok).toBe(false);

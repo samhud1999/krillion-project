@@ -97,11 +97,11 @@ export function HostReveal({ view }: { view: HostView }) {
               {answered} {answered === 1 ? 'answer' : 'answers'} · rarest first
               {silent.length > 0 && ` · ${silent.length} ${silent.length === 1 ? 'person' : 'people'} missed it`}
             </p>
-            {unverified > 0 && (
-              <p className="text-xs text-foam-faint">
-                {unverified} not in the answer bank — vouch for the good ones (+85), reject the wrong ones
-              </p>
-            )}
+            <p className="text-xs text-foam-faint">
+              {unverified > 0
+                ? `${unverified} not in the answer bank — vouch for the good ones (+85), reject the wrong ones`
+                : 'your call is final — Judge any answer to set its score by hand'}
+            </p>
           </div>
 
           <ol
@@ -126,6 +126,7 @@ export function HostReveal({ view }: { view: HostView }) {
                     showWho
                     tv
                     onModerate={(key, accepted) => send({ t: 'host:moderate', roundIndex: round.index, key, accepted })}
+                    onOverride={(key, tier) => send({ t: 'host:override', roundIndex: round.index, key, tier })}
                   />
                 </motion.li>
               ))}

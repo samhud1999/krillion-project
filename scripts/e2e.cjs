@@ -193,6 +193,17 @@ const shot = (p, name, opts = {}) => p.screenshot({ path: path.join(OUT, `${name
         await hp.waitForTimeout(900);
         await shot(hp, 'host-reveal-moderated');
       }
+      // the host judges an answer: pin the top row to One in a Krillion
+      const judge = hp.getByRole('button', { name: /^Judge/ }).first();
+      if (await judge.count()) {
+        await judge.click();
+        await hp.getByRole('button', { name: /as One in a Krillion, 100 metres$/ }).first().click();
+        await hp.waitForTimeout(800);
+        if (!(await hp.getByText("host's call").count())) errors.push('host: judge override did not apply');
+        await shot(hp, 'host-reveal-judged');
+      } else {
+        errors.push('host: no Judge button on the reveal');
+      }
     }
     if (round === 2) await shot(hp, 'host-reveal-round-3');
     console.log(`round ${round + 1}/${want.length} · ${promptId} · ${Math.round((Date.now() - t0) / 1000)}s`);

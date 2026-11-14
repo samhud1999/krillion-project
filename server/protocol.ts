@@ -4,11 +4,12 @@
  * host:create (used when HOST_PIN is configured).
  */
 import { z } from 'zod';
-import type { AvatarId } from '../shared/types.js';
+import type { AvatarId, TierId } from '../shared/types.js';
 import { LIMITS, MAX_ROUNDS } from '../shared/types.js';
-import { AVATAR_IDS } from '../shared/theme.js';
+import { AVATAR_IDS, TIER_ORDER } from '../shared/theme.js';
 
 export const avatarIdSchema = z.enum(AVATAR_IDS as [AvatarId, ...AvatarId[]]);
+export const tierIdSchema = z.enum(TIER_ORDER as [TierId, ...TierId[]]);
 
 const roomCode = z
   .string()
@@ -41,6 +42,12 @@ export const clientMessageSchema = z.discriminatedUnion('t', [
     roundIndex: z.number().int().min(0).max(MAX_ROUNDS - 1),
     key: z.string().min(1).max(200),
     accepted: z.boolean(),
+  }),
+  z.object({
+    t: z.literal('host:override'),
+    roundIndex: z.number().int().min(0).max(MAX_ROUNDS - 1),
+    key: z.string().min(1).max(200),
+    tier: tierIdSchema.nullable(),
   }),
   z.object({ t: z.literal('host:kick'), playerId: z.string().min(1).max(64) }),
   z.object({ t: z.literal('host:restart') }),

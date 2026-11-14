@@ -266,6 +266,38 @@ describe('a full 7-round game with 20 players', () => {
     expect(room.moderate(1, 'bank:mint slice', false, now)).toMatchObject({ ok: false, code: 'wrong_phase' });
   });
 
+  it("lets the host judge any answer — their call is final", () => {
+    const p20 = byName.get('Player 20')!;
+    // pin Mint Slice (auto: capped rockpool 60) to One in a Krillion
+    expect(room.override(0, 'bank:mint slice', 'krillion', now + 3_500)).toMatchObject({ ok: true });
+    let g = room.currentRound!.groups!.find((x) => x.key === 'bank:mint slice')!;
+    expect(g.tier).toBe('krillion');
+    expect(g.overridden).toBe(true);
+    expect(room.players.get(p20.id)!.depth).toBe(100);
+
+    // the pin survives re-scores triggered by other moderation
+    expect(room.moderate(0, 'bank:jatz', false, now + 3_600)).toMatchObject({ ok: true });
+    g = room.currentRound!.groups!.find((x) => x.key === 'bank:mint slice')!;
+    expect(g.tier).toBe('krillion');
+    expect(room.moderate(0, 'bank:jatz', true, now + 3_650)).toMatchObject({ ok: true });
+
+    // judging a rejected answer puts it back in play at the judged tier
+    expect(room.moderate(0, 'bank:mint slice', false, now + 3_700)).toMatchObject({ ok: true });
+    expect(room.players.get(p20.id)!.depth).toBe(0);
+    expect(room.override(0, 'bank:mint slice', 'shallows', now + 3_800)).toMatchObject({ ok: true });
+    expect(room.players.get(p20.id)!.depth).toBe(30);
+
+    // clearing the pin returns to automatic scoring (capped rock pool)
+    expect(room.override(0, 'bank:mint slice', null, now + 3_900)).toMatchObject({ ok: true });
+    g = room.currentRound!.groups!.find((x) => x.key === 'bank:mint slice')!;
+    expect(g.tier).toBe('rockpool');
+    expect(g.overridden).toBeUndefined();
+    expect(room.players.get(p20.id)!.depth).toBe(60);
+
+    expect(room.override(0, 'bank:nothing', 'puddle', now)).toMatchObject({ ok: false, code: 'bad_request' });
+    expect(room.override(1, 'bank:mint slice', 'puddle', now)).toMatchObject({ ok: false, code: 'wrong_phase' });
+  });
+
   it('still vouches legacy unverified answers (rounds recorded before strict validation)', () => {
     const room2 = makeRoom();
     const ps = join20(room2);

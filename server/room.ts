@@ -70,6 +70,8 @@ export interface RoundRecord {
   rejectedKeys: Set<string>;
   /** unverified groups the host has vouched for (lifts a lone unknown answer to a deep cut) */
   acceptedKeys: Set<string>;
+  /** host's calls: group key → pinned tier */
+  tierOverrides: Map<string, TierId>;
   groups?: AnswerGroup[];
   results?: Record<string, RoundResultEntry>;
   validCount?: number;
@@ -89,11 +91,13 @@ export interface RoomSnapshot {
   config: RoomConfig;
   players: PlayerRecord[];
   rounds: Array<
-    Omit<RoundRecord, 'submissions' | 'rejectedKeys' | 'acceptedKeys'> & {
+    Omit<RoundRecord, 'submissions' | 'rejectedKeys' | 'acceptedKeys' | 'tierOverrides'> & {
       submissions: Array<[string, SubmissionRecord]>;
       rejectedKeys: string[];
       /** absent in snapshots written before vouching existed */
       acceptedKeys?: string[];
+      /** absent in snapshots written before host overrides existed */
+      tierOverrides?: Array<[string, TierId]>;
     }
   >;
 }
@@ -370,6 +374,7 @@ export class Room {
       depthBefore,
       rejectedKeys: new Set(),
       acceptedKeys: new Set(),
+      tierOverrides: new Map(),
     });
     this.phase = 'prompt';
   }
@@ -476,6 +481,7 @@ export class Room {
             specialAnswers: this.config.specialAnswers[round.promptId] ?? [],
             rejectedKeys: round.rejectedKeys,
             acceptedKeys: round.acceptedKeys,
+            tierOverrides: round.tierOverrides,
             depthBefore: round.depthBefore,
             playerIds,
           });
@@ -513,6 +519,28 @@ export class Room {
     } else {
       round.acceptedKeys.delete(key);
       round.rejectedKeys.add(key);
+    }
+    this.scoreRound(round);
+    this.bump(now);
+    return ok(null);
+  }
+
+  /** Host's call: pin a group to `tier`, or clear the pin with null. */
+  override(roundIndex: number, key: string, tier: TierId | null, now: number): RoomResult {
+    const round = this.currentRound;
+    if (this.phase !== 'reveal' || !round || round.index !== roundIndex) {
+      return err('wrong_phase', 'Scores can only be judged during the reveal of the current prompt');
+    }
+    if (this.bank.getPrompt(round.promptId)?.type === 'numeric') {
+      return err('bad_request', 'Closest-to-the-pin prompts are scored by distance and cannot be judged');
+    }
+    const group = round.groups?.find((g) => g.key === key);
+    if (!group) return err('bad_request', 'No such answer group');
+    if (tier === null) round.tierOverrides.delete(key);
+    else {
+      round.tierOverrides.set(key, tier);
+      // Judging an answer back into play clears any rejection on it.
+      round.rejectedKeys.delete(key);
     }
     this.scoreRound(round);
     this.bump(now);
@@ -576,6 +604,7 @@ export class Room {
       case 'host:end_round':
       case 'host:next':
       case 'host:moderate':
+      case 'host:override':
       case 'host:kick':
       case 'host:restart': {
         if (actor.kind !== 'host') return err('not_host', 'Only the host can do that');
@@ -590,6 +619,8 @@ export class Room {
             return this.next(now);
           case 'host:moderate':
             return this.moderate(msg.roundIndex, msg.key, msg.accepted, now);
+          case 'host:override':
+            return this.override(msg.roundIndex, msg.key, msg.tier, now);
           case 'host:kick':
             return this.kick(msg.playerId, now);
           case 'host:restart':
@@ -626,6 +657,7 @@ export class Room {
         submissions: [...r.submissions.entries()],
         rejectedKeys: [...r.rejectedKeys],
         acceptedKeys: [...r.acceptedKeys],
+        tierOverrides: [...r.tierOverrides.entries()],
         groups: r.groups ? structuredClone(r.groups) : undefined,
         results: r.results ? structuredClone(r.results) : undefined,
         depthBefore: { ...r.depthBefore },
@@ -651,6 +683,7 @@ export class Room {
       submissions: new Map(r.submissions),
       rejectedKeys: new Set(r.rejectedKeys),
       acceptedKeys: new Set(r.acceptedKeys ?? []),
+      tierOverrides: new Map(r.tierOverrides ?? []),
     }));
     // A round that was open when we went down: re-score if its deadline already passed.
     if (room.phase === 'prompt') {

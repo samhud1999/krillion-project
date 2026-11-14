@@ -361,6 +361,8 @@ export interface ScoreOpenOptions {
   rejectedKeys?: Set<string>;
   /** unverified group keys the host has vouched for */
   acceptedKeys?: Set<string>;
+  /** host's calls: group key → pinned tier. Trumps everything except a rejection. */
+  tierOverrides?: Map<string, TierId>;
   /** depth of each player before this round */
   depthBefore: Record<string, number>;
   /** every player who should get a result row, including ones who never answered */
@@ -422,6 +424,7 @@ export function scoreOpenRound(subs: OpenSubmission[], opts: ScoreOpenOptions): 
   const groups = [...byKey.values()];
   const validCount = groups.filter((g) => g.status !== 'rejected').reduce((n, g) => n + g.count, 0);
 
+  const overrides = opts.tierOverrides;
   for (const g of groups) {
     if (g.status === 'rejected') {
       g.tier = 'dry';
@@ -437,6 +440,12 @@ export function scoreOpenRound(subs: OpenSubmission[], opts: ScoreOpenOptions): 
       unverified: g.status === 'unverified',
       vouched: g.vouched,
     });
+    // The host's call is final: a pinned tier beats rarity, caps and flags.
+    const pinned = overrides?.get(g.key);
+    if (pinned) {
+      g.tier = pinned;
+      g.overridden = true;
+    }
     g.points = TIERS[g.tier].points;
   }
 
