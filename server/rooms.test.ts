@@ -231,15 +231,15 @@ describe('a full 7-round game with 20 players', () => {
     expect(g['Tim Tam']!.count).toBe(8);
     expect(g['Tim Tam']!.tier).toBe('puddle');
     expect(g['Anzac']!.tier).toBe('shallows'); // 5/20 = 25 %
-    expect(g['Kingston']!.tier).toBe('rockpool'); // 3/20
+    expect(g['Kingston']!.tier).toBe('shallows'); // 3/20 → rockpool, capped: graded 'common'
     expect(g['Jatz']!.tier).toBe('rockpool'); // 2/20
     expect(g['Gaiety']!.tier).toBe('krillion');
     expect(g['Mint Slice']!.status).toBe('bank');
-    expect(g['Mint Slice']!.tier).toBe('deepcut'); // unique bank answer
+    expect(g['Mint Slice']!.tier).toBe('rockpool'); // unique, but graded 'uncommon' → capped at 60
     expect(room.players.get(byName.get('Player 19')!.id)!.depth).toBe(100);
     expect(room.players.get(byName.get('Player 1')!.id)!.depth).toBe(10);
     const pv = buildPlayerView(room, byName.get('Player 20')!.id, now)!;
-    expect(pv.me.result?.tier).toBe('deepcut');
+    expect(pv.me.result?.tier).toBe('rockpool');
     expect(pv.config.specialAnswers).toEqual({});
     expect(pv.config.promptIds).toEqual([]);
     expect(pv.me.history).toHaveLength(1);
@@ -256,11 +256,11 @@ describe('a full 7-round game with 20 players', () => {
     // Anzac is now 5/19 = 26 % → still shallows; Tim Tam 8/19 = 42 % → still puddle
     expect(round.groups!.find((g) => g.display === 'Anzac')!.tier).toBe('shallows');
 
-    // and accept it again — idempotent re-score, back to a lone deep cut
+    // and accept it again — idempotent re-score, back to its capped rock pool
     expect(room.moderate(0, 'bank:mint slice', true, now + 3_100)).toMatchObject({ ok: true });
     round = room.currentRound!;
     expect(round.validCount).toBe(20);
-    expect(room.players.get(p20.id)!.depth).toBe(85);
+    expect(room.players.get(p20.id)!.depth).toBe(60);
 
     expect(room.moderate(0, 'bank:nothing', false, now)).toMatchObject({ ok: false, code: 'bad_request' });
     expect(room.moderate(1, 'bank:mint slice', false, now)).toMatchObject({ ok: false, code: 'wrong_phase' });
@@ -333,9 +333,10 @@ describe('a full 7-round game with 20 players', () => {
     expect(room.endRound(now + 100)).toMatchObject({ ok: false, code: 'wrong_phase' });
     const r = room.currentRound!;
     expect(r.validCount).toBe(2);
-    // only two valid answers: both unique, but the room is too small for a krillion
+    // both unique: Furphy ('deep') holds a deepcut in a tiny room; Arvo is a
+    // 'common' everyone knows, so the cap holds it to a schooler
     expect(r.results![players[0]!.id]!.tier).toBe('deepcut');
-    expect(r.results![players[1]!.id]!.tier).toBe('deepcut');
+    expect(r.results![players[1]!.id]!.tier).toBe('shallows');
   });
 
   it('plays rounds 4 and 5 with typo-tolerant matching', () => {
@@ -358,8 +359,8 @@ describe('a full 7-round game with 20 players', () => {
     const g = Object.fromEntries(room.currentRound!.groups!.map((x) => [x.display, x]));
     expect(g['Separation Creek']!.status).toBe('bank');
     expect(g['Separation Creek']!.bankTier).toBe('rare');
-    expect(g['Separation Creek']!.tier).toBe('deepcut'); // unique, but only a 'rare' in the bank
-    expect(g['Wye River']!.tier).toBe('deepcut');
+    expect(g['Separation Creek']!.tier).toBe('deepcut'); // unique, graded 'rare' → cap is exactly a deep cut
+    expect(g['Wye River']!.tier).toBe('rockpool'); // unique, but graded 'uncommon' → capped at 60
   });
 
   it('scores the numeric closest-to-the-pin round by rank', () => {
@@ -446,7 +447,8 @@ describe('snapshot restore of an open prompt', () => {
     const snap = JSON.parse(JSON.stringify(room.snapshot()));
     const later = Room.fromSnapshot(snap, Bank.fromPrompts(PROMPTS), T0 + 60_000);
     expect(later.phase).toBe('reveal');
-    expect(later.currentRound!.results![ps[0]!.id]!.tier).toBe('deepcut');
+    // lone answer, but 'Tim Tam' is graded 'common': capped at a schooler
+    expect(later.currentRound!.results![ps[0]!.id]!.tier).toBe('shallows');
   });
 
   it('keeps a round open when its deadline is still ahead', () => {

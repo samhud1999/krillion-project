@@ -22,7 +22,10 @@
         "flesh",
         "real meat",
         "actual meat",
-        "meaty bits"
+        "meaty bits",
+        "alleged meat",
+        "25% meat",
+        "minimum 25% meat"
       ],
       "tier": "common",
       "note": "Generic. If the player names a specific meat, score that instead. FSANZ requires a 'meat pie' to be at least 25% meat flesh."
@@ -44,7 +47,11 @@
         "beef bits",
         "cubed beef",
         "beefy bits",
-        "aussie beef"
+        "aussie beef",
+        "slow cooked beef",
+        "braised beef",
+        "wagyu",
+        "wagyu beef"
       ],
       "tier": "common",
       "note": "The headline ingredient on every Four'N Twenty and Mrs Mac's pack ('Beef, minimum 25%')."
@@ -61,7 +68,9 @@
         "the mince",
         "minced",
         "savoury mince",
-        "mince beef"
+        "mince beef",
+        "mince filling",
+        "savory mince"
       ],
       "tier": "common",
       "note": "Kept separate from Beef because the room will say both; collapse them only if the table agrees they meant the same thing."
@@ -223,7 +232,9 @@
         "smokey bbq",
         "bbq sauce instead of tomato",
         "the bbq sauce",
-        "bbq sauce on top"
+        "bbq sauce on top",
+        "barbie sauce",
+        "bbq sause"
       ],
       "tier": "uncommon",
       "note": "The other pump at the sauce station. On the pie rather than in it, same as tomato sauce; accept."
@@ -241,7 +252,12 @@
         "bits of onion",
         "chopped onion",
         "white onion",
-        "onion flakes"
+        "onion flakes",
+        "caramelised onion",
+        "caramelized onion",
+        "shallots",
+        "spring onion",
+        "red onion"
       ],
       "tier": "common",
       "note": "On every pack list after beef and water."
@@ -307,7 +323,10 @@
         "connective tissue",
         "grissle",
         "gristel",
-        "chewy lumps"
+        "chewy lumps",
+        "tough bits",
+        "grisle",
+        "gristle bits"
       ],
       "tier": "uncommon",
       "note": "Cartilage, sinew, tendon and 'the chewy bit' are all the same answer. Classic Aussie go-to; expect several."
@@ -355,7 +374,15 @@
         "slurry",
         "grey meat",
         "gray meat",
-        "mysterious meat"
+        "mysterious meat",
+        "the other 75%",
+        "a surprise",
+        "dog food",
+        "cat food",
+        "pet food",
+        "soylent green",
+        "human meat",
+        "who knows"
       ],
       "tier": "uncommon",
       "note": "The cynical catch-all. Distinct from generic 'meat' because the player is making a joke; keep it separate."
@@ -389,7 +416,10 @@
         "awful",
         "gizzards",
         "sweetbreads",
-        "stomach"
+        "stomach",
+        "livers",
+        "ox heart",
+        "lambs fry"
       ],
       "tier": "rare",
       "note": "Accept any named organ except kidney (own entry). Real pies use offal less than the legend suggests, but it's a defensible answer."

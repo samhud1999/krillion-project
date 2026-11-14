@@ -7,435 +7,1337 @@
   "answers": [
     {
       "canonical": "Slow-Cooked Lamb Shoulder",
-      "aliases": ["lamb shoulder", "lamb", "slow cooked lamb", "slow cooked lamb shoulder", "slow-cooked lamb", "slow roasted lamb shoulder", "slow-roasted lamb", "roast lamb", "lamb for two", "the lamb", "slow-braised lamb", "braised lamb", "lamb shoulder for two", "lamb with labneh", "lamb shoulder with tahini labneh"],
+      "aliases": [
+        "lamb shoulder",
+        "lamb",
+        "slow cooked lamb",
+        "slow cooked lamb shoulder",
+        "slow-cooked lamb",
+        "slow roasted lamb shoulder",
+        "slow-roasted lamb",
+        "roast lamb",
+        "lamb for two",
+        "the lamb",
+        "slow-braised lamb",
+        "braised lamb",
+        "lamb shoulder for two",
+        "lamb with labneh",
+        "lamb shoulder with tahini labneh"
+      ],
       "tier": "common",
       "note": "Confirmed signature: slow cooked lamb shoulder, tahini labneh, parsley, sumac (for 2, ~$72). Any bare 'lamb' answer lands here unless they specify cutlets, ribs, souvlaki etc."
     },
     {
       "canonical": "Grilled Octopus",
-      "aliases": ["octopus", "chargrilled octopus", "char-grilled octopus", "charred octopus", "twice-cooked octopus", "twice cooked octopus", "grilled octopus with kipfler potatoes", "octopus with kipfler potatoes", "octopus and potatoes", "octopus with tomato salsa", "htapodi", "octopus salad", "bbq octopus", "barbecued octopus"],
+      "aliases": [
+        "octopus",
+        "chargrilled octopus",
+        "char-grilled octopus",
+        "charred octopus",
+        "twice-cooked octopus",
+        "twice cooked octopus",
+        "grilled octopus with kipfler potatoes",
+        "octopus with kipfler potatoes",
+        "octopus and potatoes",
+        "octopus with tomato salsa",
+        "htapodi",
+        "octopus salad",
+        "bbq octopus",
+        "barbecued octopus"
+      ],
       "tier": "common",
       "note": "Confirmed and repeatedly reviewed: chargrilled/twice-cooked octopus with kipfler potatoes and tomato salsa."
     },
     {
       "canonical": "Saganaki",
-      "aliases": ["saganaki cheese", "fried cheese", "sagnaki", "saganki", "cheese saganaki", "grilled cheese", "flaming cheese", "saganaki with honey", "honey saganaki", "pan-fried cheese"],
+      "aliases": [
+        "saganaki cheese",
+        "fried cheese",
+        "sagnaki",
+        "saganki",
+        "cheese saganaki",
+        "grilled cheese",
+        "flaming cheese",
+        "saganaki with honey",
+        "honey saganaki",
+        "pan-fried cheese"
+      ],
       "tier": "common",
       "note": "Reviewers call it saganaki; on the menu it appears as grilled kefalograviera. Host's call whether to merge with that entry."
     },
     {
       "canonical": "Grilled Kefalograviera with Figs",
-      "aliases": ["kefalograviera", "grilled kefalograviera", "kefalograviera with figs", "kefalograviera with spiced figs", "grilled kefalograviera with spiced figs and pistachio", "kefalograviera with apricot", "kefalograviera with apricot puree", "kefalograviera and figs", "cheese with figs", "cheese with figs and pistachio", "kefalotyri", "grilled kefalotyri"],
+      "aliases": [
+        "kefalograviera",
+        "grilled kefalograviera",
+        "kefalograviera with figs",
+        "kefalograviera with spiced figs",
+        "grilled kefalograviera with spiced figs and pistachio",
+        "kefalograviera with apricot",
+        "kefalograviera with apricot puree",
+        "kefalograviera and figs",
+        "cheese with figs",
+        "cheese with figs and pistachio",
+        "kefalotyri",
+        "grilled kefalotyri"
+      ],
       "tier": "deep",
       "note": "Confirmed on the official menu (figs/pistachio in one season, apricot puree in another). Technically Ipsos' saganaki; genuine deep cut if named as such."
     },
     {
       "canonical": "Taramasalata",
-      "aliases": ["tarama", "taramosalata", "taramasalata dip", "tarama dip", "cod roe dip", "fish roe dip", "roe dip", "taramasalata with seaweed chips", "tarama and seaweed chips", "taramasalata with salmon roe", "taramasalata and seaweed chips", "tarama with seaweed chips"],
+      "aliases": [
+        "tarama",
+        "taramosalata",
+        "taramasalata dip",
+        "tarama dip",
+        "cod roe dip",
+        "fish roe dip",
+        "roe dip",
+        "taramasalata with seaweed chips",
+        "tarama and seaweed chips",
+        "taramasalata with salmon roe",
+        "taramasalata and seaweed chips",
+        "tarama with seaweed chips"
+      ],
       "tier": "common",
       "note": "Confirmed: taramasalata, seaweed chips, salmon roe. Reviewers call it the best they've had."
     },
     {
       "canonical": "Fava",
-      "aliases": ["fava dip", "fava bean dip", "fava with pickled beetroot", "fava with beetroot and caper", "split pea dip", "yellow split pea puree", "yellow split pea dip", "fava puree", "santorini fava"],
+      "aliases": [
+        "fava dip",
+        "fava bean dip",
+        "fava with pickled beetroot",
+        "fava with beetroot and caper",
+        "split pea dip",
+        "yellow split pea puree",
+        "yellow split pea dip",
+        "fava puree",
+        "santorini fava"
+      ],
       "tier": "rare",
       "note": "Confirmed: fava bean dip, pickled beetroot, caper. Yellow split pea puree, not broad beans."
     },
     {
       "canonical": "Keftedes",
-      "aliases": ["keftethes", "kefthetes", "keftedakia", "meatballs", "lamb meatballs", "greek meatballs", "lamb and pork keftedes", "lamb & pork keftedes", "pork and lamb keftedes", "lamb keftedes", "keftedes with tzatziki", "meatballs with tzatziki", "lamb and pork meatballs"],
+      "aliases": [
+        "keftethes",
+        "kefthetes",
+        "keftedakia",
+        "meatballs",
+        "lamb meatballs",
+        "greek meatballs",
+        "lamb and pork keftedes",
+        "lamb & pork keftedes",
+        "pork and lamb keftedes",
+        "lamb keftedes",
+        "keftedes with tzatziki",
+        "meatballs with tzatziki",
+        "lamb and pork meatballs"
+      ],
       "tier": "uncommon",
       "note": "Confirmed: lamb & pork keftedes with pligouri and fennel salad (earlier with pickled baby vegetables and herb labneh)."
     },
     {
       "canonical": "Manti",
-      "aliases": ["lamb manti", "manti dumplings", "dumplings", "lamb dumplings", "greek dumplings", "spiced lamb dumplings", "manti with yoghurt", "dumplings with yoghurt and paprika"],
+      "aliases": [
+        "lamb manti",
+        "manti dumplings",
+        "dumplings",
+        "lamb dumplings",
+        "greek dumplings",
+        "spiced lamb dumplings",
+        "manti with yoghurt",
+        "dumplings with yoghurt and paprika"
+      ],
       "tier": "deep",
       "note": "Confirmed starter: spiced lamb dumplings with Greek yoghurt and paprika. Genuine deep cut."
     },
     {
       "canonical": "Fried Calamari",
-      "aliases": ["calamari", "squid", "fried squid", "kalamari", "kalamarakia", "fried local calamari", "calamari with verde aioli", "calamari with aioli", "crispy calamari", "grilled calamari", "local calamari", "squid with aioli"],
+      "aliases": [
+        "calamari",
+        "squid",
+        "fried squid",
+        "kalamari",
+        "kalamarakia",
+        "fried local calamari",
+        "calamari with verde aioli",
+        "calamari with aioli",
+        "crispy calamari",
+        "grilled calamari",
+        "local calamari",
+        "squid with aioli"
+      ],
       "tier": "common",
       "note": "Confirmed: fried local calamari, verde aioli. Several reviews single it out."
     },
     {
       "canonical": "Baked Mussels",
-      "aliases": ["mussels", "mussel", "mussels in tomato", "mydia", "mussels saganaki", "mussel saganaki", "steamed mussels", "mussels with feta"],
+      "aliases": [
+        "mussels",
+        "mussel",
+        "mussels in tomato",
+        "mydia",
+        "mussels saganaki",
+        "mussel saganaki",
+        "steamed mussels",
+        "mussels with feta"
+      ],
       "tier": "rare",
       "note": "Confirmed on the official menu snippet as baked mussels."
     },
     {
       "canonical": "Labneh Cheesecake",
-      "aliases": ["cheesecake", "labne cheesecake", "labneh cheese cake", "greek cheesecake", "yoghurt cheesecake", "labneh cheesecake with honey"],
+      "aliases": [
+        "cheesecake",
+        "labne cheesecake",
+        "labneh cheese cake",
+        "greek cheesecake",
+        "yoghurt cheesecake",
+        "labneh cheesecake with honey"
+      ],
       "tier": "deep",
       "note": "Confirmed dessert on the official menu snippet. Reviewers rave about the desserts generally."
     },
     {
       "canonical": "Chef's Selection",
-      "aliases": ["chefs selection", "chef's selection menu", "chef's menu", "chef's choice", "feed me", "feed me menu", "sharing menu", "banquet", "the banquet", "set menu", "tasting menu", "let the chef decide", "chefs choice", "share menu"],
+      "aliases": [
+        "chefs selection",
+        "chef's selection menu",
+        "chef's menu",
+        "chef's choice",
+        "feed me",
+        "feed me menu",
+        "sharing menu",
+        "banquet",
+        "the banquet",
+        "set menu",
+        "tasting menu",
+        "let the chef decide",
+        "chefs choice",
+        "share menu"
+      ],
       "tier": "rare",
       "note": "Confirmed: chef's selection for groups of 2+, around $85-95 per person. It is how a lot of tables order, so accept it as a 'dish'."
     },
     {
       "canonical": "Wood-Baked Snapper",
-      "aliases": ["snapper", "baked snapper", "whole snapper", "wood baked snapper", "roasted snapper", "wood-fired snapper", "roast snapper", "whole baked snapper", "snapper fillet"],
+      "aliases": [
+        "snapper",
+        "baked snapper",
+        "whole snapper",
+        "wood baked snapper",
+        "roasted snapper",
+        "wood-fired snapper",
+        "roast snapper",
+        "whole baked snapper",
+        "snapper fillet"
+      ],
       "tier": "rare",
       "note": "Listed by Australian Traveller as an Ipsos dish. Seasonal; accept."
     },
     {
       "canonical": "Ouzo-Cured Kingfish",
-      "aliases": ["kingfish", "cured kingfish", "ouzo cured kingfish", "kingfish crudo", "kingfish carpaccio", "raw kingfish", "kingfish ceviche", "kingfish sashimi", "ouzo kingfish"],
+      "aliases": [
+        "kingfish",
+        "cured kingfish",
+        "ouzo cured kingfish",
+        "kingfish crudo",
+        "kingfish carpaccio",
+        "raw kingfish",
+        "kingfish ceviche",
+        "kingfish sashimi",
+        "ouzo kingfish"
+      ],
       "tier": "deep",
       "note": "Listed by Australian Traveller as an Ipsos dish. Genuine deep cut if they say ouzo-cured."
     },
     {
       "canonical": "Pita with House Labneh",
-      "aliases": ["pita", "pita bread", "labneh", "house labneh", "pita and labneh", "pita with labneh", "flatbread", "bread", "greek bread", "warm pita", "labne", "pita and labne", "bread and labneh"],
+      "aliases": [
+        "pita",
+        "pita bread",
+        "labneh",
+        "house labneh",
+        "pita and labneh",
+        "pita with labneh",
+        "flatbread",
+        "bread",
+        "greek bread",
+        "warm pita",
+        "labne",
+        "pita and labne",
+        "bread and labneh"
+      ],
       "tier": "uncommon",
       "note": "Confirmed: pita with house labneh. Bare 'pita' or 'bread' lands here; 'dips and pita' has its own entry."
     },
     {
       "canonical": "Smoked Eggplant Dip",
-      "aliases": ["melitzanosalata", "eggplant dip", "smoked eggplant", "smoky eggplant", "smokey eggplant", "aubergine dip", "baba ganoush", "babaganoush", "baba ghanoush", "eggplant", "grilled eggplant", "roasted eggplant", "charred eggplant", "eggplant salad"],
+      "aliases": [
+        "melitzanosalata",
+        "eggplant dip",
+        "smoked eggplant",
+        "smoky eggplant",
+        "smokey eggplant",
+        "aubergine dip",
+        "baba ganoush",
+        "babaganoush",
+        "baba ghanoush",
+        "eggplant",
+        "grilled eggplant",
+        "roasted eggplant",
+        "charred eggplant",
+        "eggplant salad"
+      ],
       "tier": "uncommon",
       "note": "Smoked eggplant mentioned in the Good Food review. Melitzanosalata is the Greek name; accept baba ganoush as the same idea."
     },
     {
       "canonical": "Mushroom Pita",
-      "aliases": ["mushroom pie", "mushroom flatbread", "mushrooms on pita", "mushroom pita bread", "mushrooms", "wild mushroom pita", "mushroom"],
+      "aliases": [
+        "mushroom pie",
+        "mushroom flatbread",
+        "mushrooms on pita",
+        "mushroom pita bread",
+        "mushrooms",
+        "wild mushroom pita",
+        "mushroom"
+      ],
       "tier": "deep",
       "note": "Mentioned in one diner review alongside the lamb shoulder. Seasonal; accept."
     },
     {
       "canonical": "Scallops",
-      "aliases": ["seared scallops", "grilled scallops", "scallop", "scallops in the shell", "scallops in the half shell", "pan-fried scallops", "scallops with skordalia"],
+      "aliases": [
+        "seared scallops",
+        "grilled scallops",
+        "scallop",
+        "scallops in the shell",
+        "scallops in the half shell",
+        "pan-fried scallops",
+        "scallops with skordalia"
+      ],
       "tier": "rare",
       "note": "Praised in a diner review ('the scallops WOW'). Seasonal; accept."
     },
     {
       "canonical": "Tuna",
-      "aliases": ["seared tuna", "tuna crudo", "raw tuna", "tuna tartare", "tuna carpaccio", "grilled tuna", "tuna tataki", "cured tuna"],
+      "aliases": [
+        "seared tuna",
+        "tuna crudo",
+        "raw tuna",
+        "tuna tartare",
+        "tuna carpaccio",
+        "grilled tuna",
+        "tuna tataki",
+        "cured tuna"
+      ],
       "tier": "rare",
       "note": "An 'octopus and tuna dish' is named in one review. Seasonal; accept."
     },
     {
       "canonical": "Beetroot Salad",
-      "aliases": ["beetroot", "beetroot side", "beetroot with yoghurt", "roasted beetroot", "roast beetroot", "pantzaria", "beetroot and skordalia", "beetroot salad with feta", "beetroot with feta", "pickled beetroot", "beets"],
+      "aliases": [
+        "beetroot",
+        "beetroot side",
+        "beetroot with yoghurt",
+        "roasted beetroot",
+        "roast beetroot",
+        "pantzaria",
+        "beetroot and skordalia",
+        "beetroot salad with feta",
+        "beetroot with feta",
+        "pickled beetroot",
+        "beets"
+      ],
       "tier": "rare",
       "note": "A beetroot side is named in one review; pickled beetroot also appears with the fava. Accept."
     },
     {
       "canonical": "Roast Potatoes",
-      "aliases": ["potatoes", "roasted potatoes", "roast potato", "lemon potatoes", "greek potatoes", "greek lemon potatoes", "lemon oregano potatoes", "potatoes with oregano", "patates", "patates tiganites", "chips", "greek chips", "chips with oregano", "fried potatoes with oregano", "fried potatoes", "oregano chips", "kipfler potatoes", "crispy potatoes", "hand cut chips", "fries", "chips with feta and oregano"],
+      "aliases": [
+        "potatoes",
+        "roasted potatoes",
+        "roast potato",
+        "lemon potatoes",
+        "greek potatoes",
+        "greek lemon potatoes",
+        "lemon oregano potatoes",
+        "potatoes with oregano",
+        "patates",
+        "patates tiganites",
+        "chips",
+        "greek chips",
+        "chips with oregano",
+        "fried potatoes with oregano",
+        "fried potatoes",
+        "oregano chips",
+        "kipfler potatoes",
+        "crispy potatoes",
+        "hand cut chips",
+        "fries",
+        "chips with feta and oregano"
+      ],
       "tier": "uncommon",
       "note": "Roast potatoes praised in reviews; all potato/chip answers merge here."
     },
     {
       "canonical": "Whitebait",
-      "aliases": ["fried whitebait", "white bait", "crispy whitebait", "marides", "marida", "white baiting", "whitebait fritters", "fried white bait"],
+      "aliases": [
+        "fried whitebait",
+        "white bait",
+        "crispy whitebait",
+        "marides",
+        "marida",
+        "white baiting",
+        "whitebait fritters",
+        "fried white bait"
+      ],
       "tier": "uncommon",
       "note": "Mentioned in a diner review ('fine bones so eat with care'). Greek staple; accept."
     },
     {
       "canonical": "Grilled Prawns",
-      "aliases": ["prawns", "prawn", "garlic prawns", "chargrilled prawns", "king prawns", "prawn saganaki", "saganaki prawns", "prawns saganaki", "prawns in tomato and feta", "bbq prawns", "grilled king prawns", "prawn entree", "prawns with ouzo", "ouzo prawns"],
+      "aliases": [
+        "prawns",
+        "prawn",
+        "garlic prawns",
+        "chargrilled prawns",
+        "king prawns",
+        "prawn saganaki",
+        "saganaki prawns",
+        "prawns saganaki",
+        "prawns in tomato and feta",
+        "bbq prawns",
+        "grilled king prawns",
+        "prawn entree",
+        "prawns with ouzo",
+        "ouzo prawns"
+      ],
       "tier": "uncommon",
       "note": "Prawns named in reviews ('fresh and juicy'). Greek staple; accept any prawn preparation."
     },
     {
       "canonical": "Cauliflower",
-      "aliases": ["roasted cauliflower", "roast cauliflower", "fried cauliflower", "cauliflower with tahini", "charred cauliflower", "whole roasted cauliflower", "crispy cauliflower", "cauliflower main"],
+      "aliases": [
+        "roasted cauliflower",
+        "roast cauliflower",
+        "fried cauliflower",
+        "cauliflower with tahini",
+        "charred cauliflower",
+        "whole roasted cauliflower",
+        "crispy cauliflower",
+        "cauliflower main"
+      ],
       "tier": "rare",
       "note": "A cauliflower main is named in one review. Seasonal; accept."
     },
     {
       "canonical": "Steak",
-      "aliases": ["grilled steak", "beef", "scotch fillet", "rib eye", "ribeye", "eye fillet", "sirloin", "grilled beef", "beef fillet", "porterhouse", "the steak", "chargrilled steak", "brisola", "bifteki"],
+      "aliases": [
+        "grilled steak",
+        "beef",
+        "scotch fillet",
+        "rib eye",
+        "ribeye",
+        "eye fillet",
+        "sirloin",
+        "grilled beef",
+        "beef fillet",
+        "porterhouse",
+        "the steak",
+        "chargrilled steak",
+        "brisola",
+        "bifteki"
+      ],
       "tier": "rare",
       "note": "A steak main is named in one (possibly older) review. Plausible at a modern Greek grill; accept."
     },
     {
       "canonical": "Fennel Salad",
-      "aliases": ["fennel", "shaved fennel salad", "fennel and orange salad", "shaved fennel", "fennel and herb salad", "fennel slaw"],
+      "aliases": [
+        "fennel",
+        "shaved fennel salad",
+        "fennel and orange salad",
+        "shaved fennel",
+        "fennel and herb salad",
+        "fennel slaw"
+      ],
       "tier": "deep",
       "note": "Confirmed on the menu snippet as the side to the keftedes. Genuine deep cut."
     },
     {
       "canonical": "Pligouri",
-      "aliases": ["bulgur", "bulgur wheat", "bulgur salad", "cracked wheat", "pligouri salad", "pourgouri", "bulghur", "burghul", "pligouri bulgur"],
+      "aliases": [
+        "bulgur",
+        "bulgur wheat",
+        "bulgur salad",
+        "cracked wheat",
+        "pligouri salad",
+        "pourgouri",
+        "bulghur",
+        "burghul",
+        "pligouri bulgur"
+      ],
       "tier": "deep",
       "note": "Confirmed on the menu snippet (served with the keftedes). Genuine deep cut."
     },
     {
       "canonical": "Grilled Haloumi",
-      "aliases": ["haloumi", "halloumi", "halumi", "grilled halloumi", "haloumi cheese", "fried haloumi", "pan-fried haloumi", "haloumi with honey", "haloumi with lemon"],
+      "aliases": [
+        "haloumi",
+        "halloumi",
+        "halumi",
+        "grilled halloumi",
+        "haloumi cheese",
+        "fried haloumi",
+        "pan-fried haloumi",
+        "haloumi with honey",
+        "haloumi with lemon"
+      ],
       "tier": "common",
       "note": "Greek staple — accept. Not confirmed on the Ipsos menu (their grilled cheese is kefalograviera)."
     },
     {
       "canonical": "Tzatziki",
-      "aliases": ["tsatsiki", "tzaziki", "zatziki", "tzatsiki", "tzatziki dip", "yoghurt dip", "cucumber yoghurt dip", "cucumber and yoghurt dip", "garlic yoghurt dip", "tzatziki and pita"],
+      "aliases": [
+        "tsatsiki",
+        "tzaziki",
+        "zatziki",
+        "tzatsiki",
+        "tzatziki dip",
+        "yoghurt dip",
+        "cucumber yoghurt dip",
+        "cucumber and yoghurt dip",
+        "garlic yoghurt dip",
+        "tzatziki and pita"
+      ],
       "tier": "common",
       "note": "Greek staple — accept. Reviews mention keftedes with tzatziki."
     },
     {
       "canonical": "Dips and Pita",
-      "aliases": ["dips", "dip plate", "dip platter", "trio of dips", "three dips", "mezze", "meze", "mezze plate", "mezze platter", "meze plate", "mezedes", "dips and bread", "dips with pita", "bread and dips", "mixed dips", "selection of dips", "dips with bread", "mezethes", "mezze board"],
+      "aliases": [
+        "dips",
+        "dip plate",
+        "dip platter",
+        "trio of dips",
+        "three dips",
+        "mezze",
+        "meze",
+        "mezze plate",
+        "mezze platter",
+        "meze plate",
+        "mezedes",
+        "dips and bread",
+        "dips with pita",
+        "bread and dips",
+        "mixed dips",
+        "selection of dips",
+        "dips with bread",
+        "mezethes",
+        "mezze board"
+      ],
       "tier": "common",
       "note": "Generic mezze/dip answers land here. If they name a specific dip (tarama, tzatziki, fava, eggplant) use that entry instead."
     },
     {
       "canonical": "Greek Salad",
-      "aliases": ["horiatiki", "horiatiki salad", "choriatiki", "xoriatiki", "village salad", "greek village salad", "salad", "tomato and feta salad", "tomato feta and olive salad", "horiatiki greek salad", "the greek salad", "cucumber and tomato salad", "tomato cucumber feta salad"],
+      "aliases": [
+        "horiatiki",
+        "horiatiki salad",
+        "choriatiki",
+        "xoriatiki",
+        "village salad",
+        "greek village salad",
+        "salad",
+        "tomato and feta salad",
+        "tomato feta and olive salad",
+        "horiatiki greek salad",
+        "the greek salad",
+        "cucumber and tomato salad",
+        "tomato cucumber feta salad"
+      ],
       "tier": "common",
       "note": "Greek staple — accept. Horiatiki and Greek salad are the same dish; merged."
     },
     {
       "canonical": "Lamb Cutlets",
-      "aliases": ["cutlets", "lamb chops", "chops", "paidakia", "paithakia", "grilled lamb cutlets", "lamb cutlet", "chargrilled cutlets", "chargrilled lamb cutlets", "bbq lamb cutlets", "lamb chop", "grilled cutlets", "lamb loin chops"],
+      "aliases": [
+        "cutlets",
+        "lamb chops",
+        "chops",
+        "paidakia",
+        "paithakia",
+        "grilled lamb cutlets",
+        "lamb cutlet",
+        "chargrilled cutlets",
+        "chargrilled lamb cutlets",
+        "bbq lamb cutlets",
+        "lamb chop",
+        "grilled cutlets",
+        "lamb loin chops"
+      ],
       "tier": "common",
       "note": "Greek staple — accept. Distinct from the lamb shoulder."
     },
     {
       "canonical": "Souvlaki",
-      "aliases": ["souva", "souvlakia", "lamb souvlaki", "pork souvlaki", "souvlaki wrap", "souvlaki plate", "skewers", "meat skewers", "lamb skewers", "pork skewers", "souvlakis", "souvlaki skewers", "lamb souva", "pork souva", "kebab", "lamb kebab", "greek kebab", "beef souvlaki"],
+      "aliases": [
+        "souva",
+        "souvlakia",
+        "lamb souvlaki",
+        "pork souvlaki",
+        "souvlaki wrap",
+        "souvlaki plate",
+        "skewers",
+        "meat skewers",
+        "lamb skewers",
+        "pork skewers",
+        "souvlakis",
+        "souvlaki skewers",
+        "lamb souva",
+        "pork souva",
+        "kebab",
+        "lamb kebab",
+        "greek kebab",
+        "beef souvlaki"
+      ],
       "tier": "common",
       "note": "Greek staple — accept, though Ipsos is a share-plate restaurant, not a souva shop. Chicken skewers have their own entry."
     },
     {
       "canonical": "Chicken Skewers",
-      "aliases": ["chicken souvlaki", "chicken souva", "chicken kalamaki", "kalamaki", "chicken skewer", "chicken kebab", "grilled chicken skewers", "chicken souvlakia", "chicken on skewers", "chicken kebabs"],
+      "aliases": [
+        "chicken souvlaki",
+        "chicken souva",
+        "chicken kalamaki",
+        "kalamaki",
+        "chicken skewer",
+        "chicken kebab",
+        "grilled chicken skewers",
+        "chicken souvlakia",
+        "chicken on skewers",
+        "chicken kebabs"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Gyros",
-      "aliases": ["gyro", "yiros", "yeeros", "yiro", "gyros plate", "gyros wrap", "pork gyros", "lamb gyros", "chicken gyros", "gyros pita", "yeros", "doner"],
+      "aliases": [
+        "gyro",
+        "yiros",
+        "yeeros",
+        "yiro",
+        "gyros plate",
+        "gyros wrap",
+        "pork gyros",
+        "lamb gyros",
+        "chicken gyros",
+        "gyros pita",
+        "yeros",
+        "doner"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept, though it is a takeaway item rather than Ipsos' style."
     },
     {
       "canonical": "Moussaka",
-      "aliases": ["mousaka", "mousakka", "mousakas", "moussaka with eggplant", "lamb moussaka", "beef moussaka", "vegetarian moussaka", "vegetable moussaka", "eggplant moussaka", "musaka", "moussaka bake"],
+      "aliases": [
+        "mousaka",
+        "mousakka",
+        "mousakas",
+        "moussaka with eggplant",
+        "lamb moussaka",
+        "beef moussaka",
+        "vegetarian moussaka",
+        "vegetable moussaka",
+        "eggplant moussaka",
+        "musaka",
+        "moussaka bake"
+      ],
       "tier": "common",
       "note": "Greek staple — accept; not a confirmed Ipsos dish."
     },
     {
       "canonical": "Spanakopita",
-      "aliases": ["spinach pie", "spinach and feta pie", "spinach and cheese pie", "spanakopita triangles", "spanikopita", "spanokopita", "spinach pastry", "spinach triangles", "spinach filo", "spinach and feta triangles", "spanakopitakia", "spinach and feta pastry", "spinach feta pie"],
+      "aliases": [
+        "spinach pie",
+        "spinach and feta pie",
+        "spinach and cheese pie",
+        "spanakopita triangles",
+        "spanikopita",
+        "spanokopita",
+        "spinach pastry",
+        "spinach triangles",
+        "spinach filo",
+        "spinach and feta triangles",
+        "spanakopitakia",
+        "spinach and feta pastry",
+        "spinach feta pie"
+      ],
       "tier": "common",
       "note": "Greek staple — accept; not a confirmed Ipsos dish."
     },
     {
       "canonical": "Dolmades",
-      "aliases": ["vine leaves", "stuffed vine leaves", "dolma", "dolmas", "dolmathes", "dolmadakia", "dolmathakia", "rice in vine leaves", "grape leaves", "stuffed grape leaves", "dolmades with yoghurt", "dolmade", "vine leaf rolls"],
+      "aliases": [
+        "vine leaves",
+        "stuffed vine leaves",
+        "dolma",
+        "dolmas",
+        "dolmathes",
+        "dolmadakia",
+        "dolmathakia",
+        "rice in vine leaves",
+        "grape leaves",
+        "stuffed grape leaves",
+        "dolmades with yoghurt",
+        "dolmade",
+        "vine leaf rolls"
+      ],
       "tier": "common",
       "note": "Greek staple — accept; not a confirmed Ipsos dish."
     },
     {
       "canonical": "Loukoumades",
-      "aliases": ["greek donuts", "greek doughnuts", "honey puffs", "loukoumathes", "lokma", "lokmades", "loukoumades with honey", "honey donuts", "honey doughnuts", "lukumades", "loukamades", "doughnuts", "donuts", "honey balls", "greek honey donuts", "doughnuts with honey and walnuts", "loukoumades with ice cream"],
+      "aliases": [
+        "greek donuts",
+        "greek doughnuts",
+        "honey puffs",
+        "loukoumathes",
+        "lokma",
+        "lokmades",
+        "loukoumades with honey",
+        "honey donuts",
+        "honey doughnuts",
+        "lukumades",
+        "loukamades",
+        "doughnuts",
+        "donuts",
+        "honey balls",
+        "greek honey donuts",
+        "doughnuts with honey and walnuts",
+        "loukoumades with ice cream"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept. Any doughnut answer merges here."
     },
     {
       "canonical": "Baklava",
-      "aliases": ["baclava", "baklawa", "baklava with ice cream", "pistachio baklava", "walnut baklava", "baklava ice cream", "baklava and ice cream", "baklavas", "filo and nuts"],
+      "aliases": [
+        "baclava",
+        "baklawa",
+        "baklava with ice cream",
+        "pistachio baklava",
+        "walnut baklava",
+        "baklava ice cream",
+        "baklava and ice cream",
+        "baklavas",
+        "filo and nuts"
+      ],
       "tier": "common",
       "note": "Greek staple — accept. Desserts at Ipsos are well reviewed but the exact list is seasonal."
     },
     {
       "canonical": "Galaktoboureko",
-      "aliases": ["custard pie", "galaktobouriko", "galaktoboureko custard pie", "greek custard pie", "custard filo", "filo custard", "galatoboureko", "galaktabouriko", "semolina custard pie", "custard slice"],
+      "aliases": [
+        "custard pie",
+        "galaktobouriko",
+        "galaktoboureko custard pie",
+        "greek custard pie",
+        "custard filo",
+        "filo custard",
+        "galatoboureko",
+        "galaktabouriko",
+        "semolina custard pie",
+        "custard slice"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept; not confirmed on the Ipsos menu."
     },
     {
       "canonical": "Flathead",
-      "aliases": ["flathead tails", "fried flathead", "flathead fillets", "local flathead", "flatty", "grilled flathead", "pan-fried flathead", "beer battered flathead", "crumbed flathead", "flathead fillet"],
+      "aliases": [
+        "flathead tails",
+        "fried flathead",
+        "flathead fillets",
+        "local flathead",
+        "flatty",
+        "grilled flathead",
+        "pan-fried flathead",
+        "beer battered flathead",
+        "crumbed flathead",
+        "flathead fillet"
+      ],
       "tier": "rare",
       "note": "Local Surf Coast fish; plausible seasonal special at Ipsos. Accept."
     },
     {
       "canonical": "Market Fish",
-      "aliases": ["fish of the day", "fish", "grilled fish", "whole fish", "whole grilled fish", "whole baked fish", "catch of the day", "fresh fish", "psari", "fish of the day with lemon", "grilled whole fish", "market fish of the day", "fish with lemon and oregano", "baked fish", "whole fish with ladolemono", "local fish", "white fish", "pan-fried fish"],
+      "aliases": [
+        "fish of the day",
+        "fish",
+        "grilled fish",
+        "whole fish",
+        "whole grilled fish",
+        "whole baked fish",
+        "catch of the day",
+        "fresh fish",
+        "psari",
+        "fish of the day with lemon",
+        "grilled whole fish",
+        "market fish of the day",
+        "fish with lemon and oregano",
+        "baked fish",
+        "whole fish with ladolemono",
+        "local fish",
+        "white fish",
+        "pan-fried fish"
+      ],
       "tier": "uncommon",
       "note": "Generic fish answers land here; snapper, kingfish, flathead and tuna have their own entries."
     },
     {
       "canonical": "Kataifi",
-      "aliases": ["kataifi with ice cream", "kadaifi", "kataifi pastry", "shredded pastry", "shredded filo", "kadayif", "ekmek", "ekmek kataifi", "kataifi with custard", "kataifi with pistachio", "kataifi nest"],
+      "aliases": [
+        "kataifi with ice cream",
+        "kadaifi",
+        "kataifi pastry",
+        "shredded pastry",
+        "shredded filo",
+        "kadayif",
+        "ekmek",
+        "ekmek kataifi",
+        "kataifi with custard",
+        "kataifi with pistachio",
+        "kataifi nest"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept; not confirmed on the Ipsos menu."
     },
     {
       "canonical": "Baked Feta",
-      "aliases": ["feta", "feta cheese", "bouyiourdi", "bougiourdi", "feta saganaki", "feta in filo", "feta with honey", "feta with honey and sesame", "honey feta", "marinated feta", "feta in the oven", "feta and olives", "baked feta with tomato", "feta with filo and honey", "greek feta"],
+      "aliases": [
+        "feta",
+        "feta cheese",
+        "bouyiourdi",
+        "bougiourdi",
+        "feta saganaki",
+        "feta in filo",
+        "feta with honey",
+        "feta with honey and sesame",
+        "honey feta",
+        "marinated feta",
+        "feta in the oven",
+        "feta and olives",
+        "baked feta with tomato",
+        "feta with filo and honey",
+        "greek feta"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept. Whipped or spicy feta dip goes to Tirokafteri."
     },
     {
       "canonical": "Olives",
-      "aliases": ["marinated olives", "kalamata olives", "mixed olives", "warm olives", "greek olives", "bowl of olives", "olives and feta", "marinated kalamata olives", "olive", "olives and bread"],
+      "aliases": [
+        "marinated olives",
+        "kalamata olives",
+        "mixed olives",
+        "warm olives",
+        "greek olives",
+        "bowl of olives",
+        "olives and feta",
+        "marinated kalamata olives",
+        "olive",
+        "olives and bread"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Pastitsio",
-      "aliases": ["pastichio", "pasticcio", "pastitso", "greek lasagne", "greek lasagna", "pastitsio bake", "greek pasta bake", "pastizio", "baked pasta"],
+      "aliases": [
+        "pastichio",
+        "pasticcio",
+        "pastitso",
+        "greek lasagne",
+        "greek lasagna",
+        "pastitsio bake",
+        "greek pasta bake",
+        "pastizio",
+        "baked pasta"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept; not confirmed on the Ipsos menu."
     },
     {
       "canonical": "Souvla",
-      "aliases": ["spit roast", "spit lamb", "spit-roasted lamb", "spit roasted lamb", "lamb on the spit", "souvla lamb", "lamb souvla", "spit roast lamb", "pork souvla", "lamb off the spit", "whole lamb on the spit"],
+      "aliases": [
+        "spit roast",
+        "spit lamb",
+        "spit-roasted lamb",
+        "spit roasted lamb",
+        "lamb on the spit",
+        "souvla lamb",
+        "lamb souvla",
+        "spit roast lamb",
+        "pork souvla",
+        "lamb off the spit",
+        "whole lamb on the spit"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept. Any 'lamb on the spit' answer lands here, not lamb shoulder."
     },
     {
       "canonical": "Lamb Ribs",
-      "aliases": ["ribs", "lamb rib", "sticky lamb ribs", "greek lamb ribs", "grilled lamb ribs", "bbq lamb ribs", "lamb riblets", "lamb spare ribs"],
+      "aliases": [
+        "ribs",
+        "lamb rib",
+        "sticky lamb ribs",
+        "greek lamb ribs",
+        "grilled lamb ribs",
+        "bbq lamb ribs",
+        "lamb riblets",
+        "lamb spare ribs"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Briam",
-      "aliases": ["briami", "greek ratatouille", "baked vegetables", "roasted vegetables", "roast vegetables", "oven baked vegetables", "greek baked vegetables", "briam vegetables", "roasted veg", "tourlou"],
+      "aliases": [
+        "briami",
+        "greek ratatouille",
+        "baked vegetables",
+        "roasted vegetables",
+        "roast vegetables",
+        "oven baked vegetables",
+        "greek baked vegetables",
+        "briam vegetables",
+        "roasted veg",
+        "tourlou"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Skordalia",
-      "aliases": ["skordalia dip", "garlic dip", "garlic potato dip", "skorthalia", "skordhalia", "potato and garlic dip", "garlic and potato dip", "skordalia with beetroot", "garlic sauce", "garlic puree"],
+      "aliases": [
+        "skordalia dip",
+        "garlic dip",
+        "garlic potato dip",
+        "skorthalia",
+        "skordhalia",
+        "potato and garlic dip",
+        "garlic and potato dip",
+        "skordalia with beetroot",
+        "garlic sauce",
+        "garlic puree"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Zucchini Fritters",
-      "aliases": ["kolokithokeftedes", "kolokithokeftethes", "zucchini chips", "zucchini balls", "courgette fritters", "zucchini and feta fritters", "zucchini keftedes", "fried zucchini", "zucchini fritter", "zucchini and haloumi fritters", "zucchini", "courgette chips", "fried zucchini chips", "zucchini flowers", "stuffed zucchini flowers"],
+      "aliases": [
+        "kolokithokeftedes",
+        "kolokithokeftethes",
+        "zucchini chips",
+        "zucchini balls",
+        "courgette fritters",
+        "zucchini and feta fritters",
+        "zucchini keftedes",
+        "fried zucchini",
+        "zucchini fritter",
+        "zucchini and haloumi fritters",
+        "zucchini",
+        "courgette chips",
+        "fried zucchini chips",
+        "zucchini flowers",
+        "stuffed zucchini flowers"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept. Covers zucchini chips, fritters and flowers."
     },
     {
       "canonical": "Tiropita",
-      "aliases": ["cheese pie", "tyropita", "cheese triangles", "feta pie", "cheese filo", "tiropitakia", "cheese pastry", "feta triangles", "cheese and filo pie", "tiropites"],
+      "aliases": [
+        "cheese pie",
+        "tyropita",
+        "cheese triangles",
+        "feta pie",
+        "cheese filo",
+        "tiropitakia",
+        "cheese pastry",
+        "feta triangles",
+        "cheese and filo pie",
+        "tiropites"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Gigantes",
-      "aliases": ["giant beans", "gigandes", "gigantes plaki", "greek baked beans", "baked beans", "butter beans", "giant baked beans", "beans in tomato", "gigante beans", "lima beans in tomato", "greek beans", "beans"],
+      "aliases": [
+        "giant beans",
+        "gigandes",
+        "gigantes plaki",
+        "greek baked beans",
+        "baked beans",
+        "butter beans",
+        "giant baked beans",
+        "beans in tomato",
+        "gigante beans",
+        "lima beans in tomato",
+        "greek beans",
+        "beans"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Horta",
-      "aliases": ["greens", "wild greens", "boiled greens", "horta with lemon", "wilted greens", "greek greens", "horta vrasta", "greens with lemon and oil", "boiled wild greens", "lemon greens", "braised greens", "silverbeet"],
+      "aliases": [
+        "greens",
+        "wild greens",
+        "boiled greens",
+        "horta with lemon",
+        "wilted greens",
+        "greek greens",
+        "horta vrasta",
+        "greens with lemon and oil",
+        "boiled wild greens",
+        "lemon greens",
+        "braised greens",
+        "silverbeet"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Avgolemono",
-      "aliases": ["egg and lemon soup", "avgolemono soup", "chicken and lemon soup", "lemon chicken soup", "egg lemon soup", "avgolemono chicken soup", "soup", "greek chicken soup", "lemon rice soup"],
+      "aliases": [
+        "egg and lemon soup",
+        "avgolemono soup",
+        "chicken and lemon soup",
+        "lemon chicken soup",
+        "egg lemon soup",
+        "avgolemono chicken soup",
+        "soup",
+        "greek chicken soup",
+        "lemon rice soup"
+      ],
       "tier": "deep",
       "note": "Greek staple — accept. Generic 'soup' answers land here."
     },
     {
       "canonical": "Kleftiko",
-      "aliases": ["lamb kleftiko", "kleftico", "lamb in paper", "lamb baked in paper", "kleftiko lamb", "slow baked lamb in paper", "lamb kleftico", "kleftiko with potatoes"],
+      "aliases": [
+        "lamb kleftiko",
+        "kleftico",
+        "lamb in paper",
+        "lamb baked in paper",
+        "kleftiko lamb",
+        "slow baked lamb in paper",
+        "lamb kleftico",
+        "kleftiko with potatoes"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept. Host's call whether to fold into Slow-Cooked Lamb Shoulder; kept separate because it is a named dish."
     },
     {
       "canonical": "Stifado",
-      "aliases": ["beef stifado", "stifatho", "beef stew", "greek beef stew", "rabbit stifado", "stifado stew", "lamb stifado", "octopus stifado", "onion stew", "greek stew"],
+      "aliases": [
+        "beef stifado",
+        "stifatho",
+        "beef stew",
+        "greek beef stew",
+        "rabbit stifado",
+        "stifado stew",
+        "lamb stifado",
+        "octopus stifado",
+        "onion stew",
+        "greek stew"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Yemista",
-      "aliases": ["gemista", "stuffed tomatoes", "stuffed capsicums", "stuffed peppers", "stuffed vegetables", "yemistes", "gemistes", "stuffed tomatoes and capsicums", "stuffed tomato", "rice stuffed tomatoes", "stuffed capsicum"],
+      "aliases": [
+        "gemista",
+        "stuffed tomatoes",
+        "stuffed capsicums",
+        "stuffed peppers",
+        "stuffed vegetables",
+        "yemistes",
+        "gemistes",
+        "stuffed tomatoes and capsicums",
+        "stuffed tomato",
+        "rice stuffed tomatoes",
+        "stuffed capsicum"
+      ],
       "tier": "deep",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Rizogalo",
-      "aliases": ["rice pudding", "greek rice pudding", "rizogalo rice pudding", "ryzogalo", "cinnamon rice pudding", "rizogalo with cinnamon"],
+      "aliases": [
+        "rice pudding",
+        "greek rice pudding",
+        "rizogalo rice pudding",
+        "ryzogalo",
+        "cinnamon rice pudding",
+        "rizogalo with cinnamon"
+      ],
       "tier": "deep",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Bougatsa",
-      "aliases": ["bougatsa custard", "custard pastry", "bougatsa with cinnamon", "bugatsa", "semolina custard pastry", "bougatsa with icing sugar", "custard filo pastry"],
+      "aliases": [
+        "bougatsa custard",
+        "custard pastry",
+        "bougatsa with cinnamon",
+        "bugatsa",
+        "semolina custard pastry",
+        "bougatsa with icing sugar",
+        "custard filo pastry"
+      ],
       "tier": "deep",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Greek Yoghurt with Honey",
-      "aliases": ["yoghurt and honey", "yoghurt with honey", "yogurt and honey", "yogurt with honey", "yoghurt honey and walnuts", "yoghurt with honey and walnuts", "greek yoghurt", "greek yogurt", "honey and walnuts", "honey yoghurt", "yiaourti me meli", "strained yoghurt with honey", "yoghurt with honey and nuts", "yoghurt", "honey walnut yoghurt", "thick yoghurt with honey"],
+      "aliases": [
+        "yoghurt and honey",
+        "yoghurt with honey",
+        "yogurt and honey",
+        "yogurt with honey",
+        "yoghurt honey and walnuts",
+        "yoghurt with honey and walnuts",
+        "greek yoghurt",
+        "greek yogurt",
+        "honey and walnuts",
+        "honey yoghurt",
+        "yiaourti me meli",
+        "strained yoghurt with honey",
+        "yoghurt with honey and nuts",
+        "yoghurt",
+        "honey walnut yoghurt",
+        "thick yoghurt with honey"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Halva",
-      "aliases": ["halva ice cream", "semolina halva", "tahini halva", "halvas", "halva with pistachio", "halwa", "halva parfait", "halva dessert", "chocolate halva", "halva and chocolate"],
+      "aliases": [
+        "halva ice cream",
+        "semolina halva",
+        "tahini halva",
+        "halvas",
+        "halva with pistachio",
+        "halwa",
+        "halva parfait",
+        "halva dessert",
+        "chocolate halva",
+        "halva and chocolate"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Lemon Chicken",
-      "aliases": ["chicken", "roast chicken", "grilled chicken", "lemon and oregano chicken", "oregano chicken", "chicken thigh", "chicken thighs", "kotopoulo", "lemon oregano chicken", "chargrilled chicken", "chicken with lemon potatoes", "roast chicken with lemon", "half chicken", "greek chicken", "chicken maryland", "chicken with lemon and oregano"],
+      "aliases": [
+        "chicken",
+        "roast chicken",
+        "grilled chicken",
+        "lemon and oregano chicken",
+        "oregano chicken",
+        "chicken thigh",
+        "chicken thighs",
+        "kotopoulo",
+        "lemon oregano chicken",
+        "chargrilled chicken",
+        "chicken with lemon potatoes",
+        "roast chicken with lemon",
+        "half chicken",
+        "greek chicken",
+        "chicken maryland",
+        "chicken with lemon and oregano"
+      ],
       "tier": "uncommon",
       "note": "Greek staple — accept. Generic chicken answers land here; skewers have their own entry."
     },
     {
       "canonical": "Pork Belly",
-      "aliases": ["pork", "crispy pork belly", "roast pork", "pork chop", "pork cutlet", "slow-cooked pork", "slow cooked pork", "pork shoulder", "roast pork belly", "pork neck", "grilled pork", "pork belly with apple", "crackling pork", "pork ribs"],
+      "aliases": [
+        "pork",
+        "crispy pork belly",
+        "roast pork",
+        "pork chop",
+        "pork cutlet",
+        "slow-cooked pork",
+        "slow cooked pork",
+        "pork shoulder",
+        "roast pork belly",
+        "pork neck",
+        "grilled pork",
+        "pork belly with apple",
+        "crackling pork",
+        "pork ribs"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept. Generic pork answers land here."
     },
     {
       "canonical": "Olive Oil Cake",
-      "aliases": ["orange and olive oil cake", "orange cake", "portokalopita", "greek orange cake", "lemon olive oil cake", "cake", "orange olive oil cake", "olive oil and orange cake", "filo orange cake", "syrup cake", "greek orange syrup cake", "revani", "ravani", "semolina cake", "walnut cake", "karidopita", "karithopita"],
+      "aliases": [
+        "orange and olive oil cake",
+        "orange cake",
+        "portokalopita",
+        "greek orange cake",
+        "lemon olive oil cake",
+        "cake",
+        "orange olive oil cake",
+        "olive oil and orange cake",
+        "filo orange cake",
+        "syrup cake",
+        "greek orange syrup cake",
+        "revani",
+        "ravani",
+        "semolina cake",
+        "walnut cake",
+        "karidopita",
+        "karithopita"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept. Any Greek syrup/orange/semolina/walnut cake merges here."
     },
     {
       "canonical": "Kaimaki Ice Cream",
-      "aliases": ["kaimaki", "mastic ice cream", "mastiha ice cream", "ice cream", "greek ice cream", "kaimaki gelato", "mastic gelato", "sorbet", "gelato", "pagoto"],
+      "aliases": [
+        "kaimaki",
+        "mastic ice cream",
+        "mastiha ice cream",
+        "ice cream",
+        "greek ice cream",
+        "kaimaki gelato",
+        "mastic gelato",
+        "sorbet",
+        "gelato",
+        "pagoto"
+      ],
       "tier": "deep",
       "note": "Greek staple — accept. Generic ice cream/sorbet answers land here."
     },
     {
       "canonical": "Spoon Sweets",
-      "aliases": ["glyko tou koutaliou", "spoon sweet", "quince spoon sweet", "glyko", "glyka tou koutaliou", "preserved fruit", "fruit preserve with yoghurt", "cherry spoon sweet", "fig spoon sweet", "vissino"],
+      "aliases": [
+        "glyko tou koutaliou",
+        "spoon sweet",
+        "quince spoon sweet",
+        "glyko",
+        "glyka tou koutaliou",
+        "preserved fruit",
+        "fruit preserve with yoghurt",
+        "cherry spoon sweet",
+        "fig spoon sweet",
+        "vissino"
+      ],
       "tier": "deep",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Grilled Sardines",
-      "aliases": ["sardines", "sardeles", "bbq sardines", "chargrilled sardines", "fried sardines", "sardine", "sardines on toast", "sardines with lemon", "sardeles psites"],
+      "aliases": [
+        "sardines",
+        "sardeles",
+        "bbq sardines",
+        "chargrilled sardines",
+        "fried sardines",
+        "sardine",
+        "sardines on toast",
+        "sardines with lemon",
+        "sardeles psites"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Bakaliaros",
-      "aliases": ["salt cod", "fried salt cod", "cod fritters", "salt cod fritters", "bakaliaros skordalia", "bakaliaros with skordalia", "salt cod with skordalia", "bacalao", "salt cod croquettes", "cod croquettes", "fish croquettes"],
+      "aliases": [
+        "salt cod",
+        "fried salt cod",
+        "cod fritters",
+        "salt cod fritters",
+        "bakaliaros skordalia",
+        "bakaliaros with skordalia",
+        "salt cod with skordalia",
+        "bacalao",
+        "salt cod croquettes",
+        "cod croquettes",
+        "fish croquettes"
+      ],
       "tier": "deep",
       "note": "Greek staple — accept."
     },
     {
       "canonical": "Tirokafteri",
-      "aliases": ["spicy feta dip", "htipiti", "ktipiti", "tyrokafteri", "spicy feta", "feta dip", "whipped feta", "whipped feta dip", "spicy cheese dip", "red pepper and feta dip", "roasted pepper feta dip", "chilli feta dip"],
+      "aliases": [
+        "spicy feta dip",
+        "htipiti",
+        "ktipiti",
+        "tyrokafteri",
+        "spicy feta",
+        "feta dip",
+        "whipped feta",
+        "whipped feta dip",
+        "spicy cheese dip",
+        "red pepper and feta dip",
+        "roasted pepper feta dip",
+        "chilli feta dip"
+      ],
       "tier": "rare",
       "note": "Greek staple — accept. Any whipped or spicy feta dip lands here."
     },
     {
       "canonical": "Soutzoukakia",
-      "aliases": ["smyrna meatballs", "soutzoukakia smyrneika", "meatballs in tomato sauce", "soutzoukakia meatballs", "cumin meatballs", "soutzoukia", "meatballs in red sauce", "baked meatballs in tomato"],
+      "aliases": [
+        "smyrna meatballs",
+        "soutzoukakia smyrneika",
+        "meatballs in tomato sauce",
+        "soutzoukakia meatballs",
+        "cumin meatballs",
+        "soutzoukia",
+        "meatballs in red sauce",
+        "baked meatballs in tomato"
+      ],
       "tier": "deep",
       "note": "Greek staple — accept. Plain 'meatballs' goes to Keftedes; this needs the tomato-sauce or Smyrna detail."
+    },
+    {
+      "canonical": "Ouzo",
+      "aliases": [
+        "ouzo shot",
+        "oozo",
+        "uzo"
+      ],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Retsina",
+      "aliases": [
+        "greek wine",
+        "retzina"
+      ],
+      "tier": "rare"
     }
   ],
   "hostNotes": "Ipsos (48 Mountjoy Pde) runs a seasonal modern-Greek share menu, so accept any plausible Greek dish; entries marked 'Greek staple — accept' are not confirmed on the menu. Confirmed signatures are lamb shoulder, octopus, saganaki/kefalograviera, taramasalata and calamari: a bare 'lamb' answer is the lamb shoulder unless they say cutlets, ribs, souvla or souvlaki, and generic 'dips', 'fish', 'potatoes' or 'chicken' answers fold into those catch-all entries. Kefalograviera is technically Ipsos' saganaki (host's call whether to merge). Reject drinks (ouzo, retsina, Greek coffee, frappe) and non-Greek dishes (falafel, hummus; or lump hummus into Dips and Pita if feeling generous)."

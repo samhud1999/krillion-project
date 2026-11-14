@@ -7,497 +7,1311 @@
   "answers": [
     {
       "canonical": "Play golf",
-      "aliases": ["golf", "a round of golf", "18 holes", "9 holes", "golfing", "hit the golf course", "play a round", "play the links", "golf course", "racv torquay golf club", "the links course", "links golf"],
+      "aliases": [
+        "golf",
+        "a round of golf",
+        "18 holes",
+        "9 holes",
+        "golfing",
+        "hit the golf course",
+        "play a round",
+        "play the links",
+        "golf course",
+        "racv torquay golf club",
+        "the links course",
+        "links golf"
+      ],
       "tier": "common",
       "note": "18-hole par-71 links designed by Ogilvy Clayton (Geoff Ogilvy and Mike Clayton); public course, open to non-guests."
     },
     {
       "canonical": "Visit One Spa (the day spa)",
-      "aliases": ["spa", "day spa", "one spa", "spa day", "go to the spa", "spa treatment", "spa treatments", "treatments", "pamper session", "get pampered"],
+      "aliases": [
+        "spa",
+        "day spa",
+        "one spa",
+        "spa day",
+        "go to the spa",
+        "spa treatment",
+        "spa treatments",
+        "treatments",
+        "pamper session",
+        "get pampered"
+      ],
       "tier": "common",
       "note": "Bare 'spa' counts here unless they clearly mean the hot tub (see Soak in the spa pool)."
     },
     {
       "canonical": "Get a massage",
-      "aliases": ["massage", "massages", "remedial massage", "relaxation massage", "couples massage", "get a rub down", "hot stone massage"],
+      "aliases": [
+        "massage",
+        "massages",
+        "remedial massage",
+        "relaxation massage",
+        "couples massage",
+        "get a rub down",
+        "hot stone massage"
+      ],
       "tier": "common"
     },
     {
       "canonical": "Swim in the indoor pool",
-      "aliases": ["pool", "swim", "swimming", "indoor pool", "swimming pool", "swim laps", "laps", "lap swimming", "25m pool", "heated pool", "go for a swim", "indoor swimming pool"],
+      "aliases": [
+        "pool",
+        "swim",
+        "swimming",
+        "indoor pool",
+        "swimming pool",
+        "swim laps",
+        "laps",
+        "lap swimming",
+        "25m pool",
+        "heated pool",
+        "go for a swim",
+        "indoor swimming pool"
+      ],
       "tier": "common",
       "note": "25-metre indoor lap pool with a separate recreation area; there is no outdoor pool."
     },
     {
       "canonical": "Work out in the gym",
-      "aliases": ["gym", "workout", "work out", "exercise", "fitness centre", "one lifestyle gym", "weights", "treadmill", "cardio", "lift weights", "go to the gym"],
+      "aliases": [
+        "gym",
+        "workout",
+        "work out",
+        "exercise",
+        "fitness centre",
+        "one lifestyle gym",
+        "weights",
+        "treadmill",
+        "cardio",
+        "lift weights",
+        "go to the gym"
+      ],
       "tier": "common",
       "note": "Branded One Lifestyle; open 6am-9pm, also sold as a local membership."
     },
     {
       "canonical": "Eat at Number One restaurant",
-      "aliases": ["restaurant", "dinner", "lunch", "eat", "eating", "dining", "dine", "number one", "number one restaurant", "a la carte", "go out for dinner", "have a meal", "food", "dinner at the restaurant", "fine dining"],
+      "aliases": [
+        "restaurant",
+        "dinner",
+        "lunch",
+        "eat",
+        "eating",
+        "dining",
+        "dine",
+        "number one",
+        "number one restaurant",
+        "a la carte",
+        "go out for dinner",
+        "have a meal",
+        "food",
+        "dinner at the restaurant",
+        "fine dining"
+      ],
       "tier": "common",
       "note": "The restaurant is called Number One (open kitchen, a la carte dinner 5:30-9pm)."
     },
     {
       "canonical": "Have a drink at Hardings Lounge",
-      "aliases": ["bar", "drinks", "drink", "have a drink", "beer", "beers", "wine", "hardings", "harding's lounge", "hardings lounge", "harding's", "the lounge", "lounge bar", "have a wine", "have a beer", "go to the bar", "the bar"],
+      "aliases": [
+        "bar",
+        "drinks",
+        "drink",
+        "have a drink",
+        "beer",
+        "beers",
+        "wine",
+        "hardings",
+        "harding's lounge",
+        "hardings lounge",
+        "harding's",
+        "the lounge",
+        "lounge bar",
+        "have a wine",
+        "have a beer",
+        "go to the bar",
+        "the bar"
+      ],
       "tier": "common",
       "note": "The bar/lounge is Hardings Lounge (all-day menu 12-9pm)."
     },
     {
       "canonical": "Walk to the beach",
-      "aliases": ["beach", "the beach", "go to the beach", "beach walk", "walk on the beach", "jan juc beach", "torquay beach", "swim at the beach", "walk to jan juc", "surf beach", "swim in the ocean", "go to jan juc", "jan juc", "walk down to the beach", "torquay front beach", "front beach"],
+      "aliases": [
+        "beach",
+        "the beach",
+        "go to the beach",
+        "beach walk",
+        "walk on the beach",
+        "jan juc beach",
+        "torquay beach",
+        "swim at the beach",
+        "walk to jan juc",
+        "surf beach",
+        "swim in the ocean",
+        "go to jan juc",
+        "jan juc",
+        "walk down to the beach",
+        "torquay front beach",
+        "front beach"
+      ],
       "tier": "common",
       "note": "About 1.2 km walk or ride to the patrolled Jan Juc and Torquay surf beaches."
     },
     {
       "canonical": "Sit in the sauna",
-      "aliases": ["sauna", "have a sauna", "sweat it out", "go in the sauna"],
+      "aliases": [
+        "sauna",
+        "have a sauna",
+        "sweat it out",
+        "go in the sauna"
+      ],
       "tier": "common"
     },
     {
       "canonical": "Soak in the spa pool",
-      "aliases": ["spa pool", "jacuzzi", "hot tub", "spa bath", "soak in the spa", "hot spa", "sit in the spa", "the spa pool", "bubbles"],
+      "aliases": [
+        "spa pool",
+        "jacuzzi",
+        "hot tub",
+        "spa bath",
+        "soak in the spa",
+        "hot spa",
+        "sit in the spa",
+        "the spa pool",
+        "bubbles"
+      ],
       "tier": "common",
       "note": "Heated spa next to the indoor pool/sauna. Only count here if they clearly mean the hot tub, not the day spa."
     },
     {
       "canonical": "Hit balls at the driving range",
-      "aliases": ["driving range", "the range", "hit balls", "hit a bucket of balls", "bucket of balls", "practice range", "hit some balls", "range"],
+      "aliases": [
+        "driving range",
+        "the range",
+        "hit balls",
+        "hit a bucket of balls",
+        "bucket of balls",
+        "practice range",
+        "hit some balls",
+        "range"
+      ],
       "tier": "uncommon",
       "note": "Six-bay range plus three practice fairways."
     },
     {
       "canonical": "Practise on the putting green",
-      "aliases": ["putting green", "putting", "practise putting", "practice putting", "putt", "putting practice", "have a putt"],
+      "aliases": [
+        "putting green",
+        "putting",
+        "practise putting",
+        "practice putting",
+        "putt",
+        "putting practice",
+        "have a putt"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Play tennis",
-      "aliases": ["tennis", "a hit of tennis", "hit of tennis", "tennis court", "tennis courts", "have a hit"],
+      "aliases": [
+        "tennis",
+        "a hit of tennis",
+        "hit of tennis",
+        "tennis court",
+        "tennis courts",
+        "have a hit"
+      ],
       "tier": "uncommon",
       "note": "Racquets and balls available for hire at reception."
     },
     {
       "canonical": "Hang out in the games room",
-      "aliases": ["games room", "game room", "arcade", "play games", "games", "the games room", "rec room"],
+      "aliases": [
+        "games room",
+        "game room",
+        "arcade",
+        "play games",
+        "games",
+        "the games room",
+        "rec room"
+      ],
       "tier": "uncommon",
       "note": "Pool table, table tennis and arcade machines."
     },
     {
       "canonical": "Play table tennis",
-      "aliases": ["table tennis", "ping pong", "ping-pong", "pingpong"],
+      "aliases": [
+        "table tennis",
+        "ping pong",
+        "ping-pong",
+        "pingpong"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Play pool on the pool table",
-      "aliases": ["pool table", "billiards", "play pool", "shoot pool", "snooker", "eight ball", "8 ball", "game of pool"],
+      "aliases": [
+        "pool table",
+        "billiards",
+        "play pool",
+        "shoot pool",
+        "snooker",
+        "eight ball",
+        "8 ball",
+        "game of pool"
+      ],
       "tier": "uncommon",
       "note": "'Pool' on its own means the swimming pool; needs 'table', 'billiards' or similar."
     },
     {
       "canonical": "Use the steam room",
-      "aliases": ["steam room", "steam", "have a steam", "steam bath"],
+      "aliases": [
+        "steam room",
+        "steam",
+        "have a steam",
+        "steam bath"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Do a yoga class",
-      "aliases": ["yoga", "do yoga", "yoga studio", "morning yoga"],
+      "aliases": [
+        "yoga",
+        "do yoga",
+        "yoga studio",
+        "morning yoga"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Do a pilates class",
-      "aliases": ["pilates", "do pilates", "reformer pilates", "mat pilates"],
+      "aliases": [
+        "pilates",
+        "do pilates",
+        "reformer pilates",
+        "mat pilates"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Do a spin class",
-      "aliases": ["spin", "spin class", "rpm", "rpm class", "spin studio", "cycle class", "spin bike", "indoor cycling"],
+      "aliases": [
+        "spin",
+        "spin class",
+        "rpm",
+        "rpm class",
+        "spin studio",
+        "cycle class",
+        "spin bike",
+        "indoor cycling"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "High tea at Hardings Lounge",
-      "aliases": ["high tea", "afternoon tea", "sparkling high tea", "scones", "devonshire tea", "tea and scones"],
+      "aliases": [
+        "high tea",
+        "afternoon tea",
+        "sparkling high tea",
+        "scones",
+        "devonshire tea",
+        "tea and scones"
+      ],
       "tier": "uncommon",
       "note": "Traditional high tea about $47pp, $75 with free-flowing sparkling; 48 hours' notice."
     },
     {
       "canonical": "Have the buffet breakfast",
-      "aliases": ["breakfast", "buffet breakfast", "breakfast buffet", "brekkie", "buffet", "bacon and eggs", "cooked breakfast", "big breakfast"],
+      "aliases": [
+        "breakfast",
+        "buffet breakfast",
+        "breakfast buffet",
+        "brekkie",
+        "buffet",
+        "bacon and eggs",
+        "cooked breakfast",
+        "big breakfast"
+      ],
       "tier": "uncommon",
       "note": "Served in Number One; about $42 adults."
     },
     {
       "canonical": "Order a cocktail",
-      "aliases": ["cocktail", "cocktails", "racv sidecar", "sidecar", "espresso martini", "have a cocktail"],
+      "aliases": [
+        "cocktail",
+        "cocktails",
+        "racv sidecar",
+        "sidecar",
+        "espresso martini",
+        "have a cocktail"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Splash in the kids' pool",
-      "aliases": ["kids pool", "kids' pool", "children's pool", "childrens pool", "toddler pool", "wading pool", "kids swimming", "take the kids swimming"],
+      "aliases": [
+        "kids pool",
+        "kids' pool",
+        "children's pool",
+        "childrens pool",
+        "toddler pool",
+        "wading pool",
+        "kids swimming",
+        "take the kids swimming"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Take the kids to the playground",
-      "aliases": ["playground", "play equipment", "spider net", "climbing net", "slide", "kids playground", "the playground", "play area"],
+      "aliases": [
+        "playground",
+        "play equipment",
+        "spider net",
+        "climbing net",
+        "slide",
+        "kids playground",
+        "the playground",
+        "play area"
+      ],
       "tier": "uncommon",
       "note": "Six-metre spider net, rockers, slide and a giant jumping pillow."
     },
     {
       "canonical": "Go surfing nearby",
-      "aliases": ["surf", "surfing", "go for a surf", "catch a wave", "surf lesson", "surf lessons", "learn to surf", "surf school", "torquay surf academy", "go ride a wave", "bodyboard", "boogie board"],
+      "aliases": [
+        "surf",
+        "surfing",
+        "go for a surf",
+        "catch a wave",
+        "surf lesson",
+        "surf lessons",
+        "learn to surf",
+        "surf school",
+        "torquay surf academy",
+        "go ride a wave",
+        "bodyboard",
+        "boogie board"
+      ],
       "tier": "uncommon",
       "note": "Off-site but part of the pitch: Jan Juc and Torquay beaches, lessons via Go Ride A Wave / Torquay Surf Academy."
     },
     {
       "canonical": "Attend a conference",
-      "aliases": ["conference", "conferences", "work conference", "corporate retreat", "meeting", "meetings", "offsite", "work offsite", "business event", "seminar", "work trip", "work thing"],
+      "aliases": [
+        "conference",
+        "conferences",
+        "work conference",
+        "corporate retreat",
+        "meeting",
+        "meetings",
+        "offsite",
+        "work offsite",
+        "business event",
+        "seminar",
+        "work trip",
+        "work thing"
+      ],
       "tier": "uncommon",
       "note": "Big conference venue; most Victorians who have been there went for work."
     },
     {
       "canonical": "Attend a wedding",
-      "aliases": ["wedding", "weddings", "get married", "wedding reception", "have a wedding", "go to a wedding"],
+      "aliases": [
+        "wedding",
+        "weddings",
+        "get married",
+        "wedding reception",
+        "have a wedding",
+        "go to a wedding"
+      ],
       "tier": "uncommon",
       "note": "Receptions from 10 to about 410 guests."
     },
     {
       "canonical": "Book Christmas lunch",
-      "aliases": ["christmas lunch", "christmas day lunch", "xmas lunch", "christmas buffet", "christmas", "christmas day"],
+      "aliases": [
+        "christmas lunch",
+        "christmas day lunch",
+        "xmas lunch",
+        "christmas buffet",
+        "christmas",
+        "christmas day"
+      ],
       "tier": "uncommon",
       "note": "Annual Christmas Day lunch at Number One; often sells out."
     },
     {
       "canonical": "Order room service",
-      "aliases": ["room service", "in-room dining", "in room dining", "breakfast in bed", "order room service"],
+      "aliases": [
+        "room service",
+        "in-room dining",
+        "in room dining",
+        "breakfast in bed",
+        "order room service"
+      ],
       "tier": "uncommon",
       "note": "Listed as 24-hour."
     },
     {
       "canonical": "Enjoy the view from the balcony",
-      "aliases": ["balcony", "sit on the balcony", "ocean view", "the view", "admire the view", "views", "look at the ocean", "enjoy the view", "ocean views", "golf course view", "stare at the ocean", "look at the view"],
+      "aliases": [
+        "balcony",
+        "sit on the balcony",
+        "ocean view",
+        "the view",
+        "admire the view",
+        "views",
+        "look at the ocean",
+        "enjoy the view",
+        "ocean views",
+        "golf course view",
+        "stare at the ocean",
+        "look at the view"
+      ],
       "tier": "uncommon",
       "note": "Every room has a balcony facing the ocean or the course."
     },
     {
       "canonical": "Walk the Surf Coast Walk",
-      "aliases": ["surf coast walk", "coastal walk", "cliff walk", "clifftop walk", "walking track", "go for a walk", "walk", "walking", "hike", "bushwalk", "nature walk", "walking trail", "point danger", "walk to point danger", "coastal trail"],
+      "aliases": [
+        "surf coast walk",
+        "coastal walk",
+        "cliff walk",
+        "clifftop walk",
+        "walking track",
+        "go for a walk",
+        "walk",
+        "walking",
+        "hike",
+        "bushwalk",
+        "nature walk",
+        "walking trail",
+        "point danger",
+        "walk to point danger",
+        "coastal trail"
+      ],
       "tier": "uncommon",
       "note": "The Point Danger to Bird Rock section (about 3.3 km) runs right past the resort."
     },
     {
       "canonical": "Have a facial",
-      "aliases": ["facial", "facials", "skin treatment", "face treatment"],
+      "aliases": [
+        "facial",
+        "facials",
+        "skin treatment",
+        "face treatment"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Do aqua aerobics",
-      "aliases": ["aqua aerobics", "aqua", "water aerobics", "aquarobics", "aqua class", "aquatic exercise", "aqua fitness"],
+      "aliases": [
+        "aqua aerobics",
+        "aqua",
+        "water aerobics",
+        "aquarobics",
+        "aqua class",
+        "aquatic exercise",
+        "aqua fitness"
+      ],
       "tier": "uncommon"
     },
     {
       "canonical": "Relax and do nothing",
-      "aliases": ["relax", "relaxing", "chill", "chill out", "do nothing", "sleep in", "sleep", "nap", "have a nap", "lie in", "lounge around", "unwind", "rest", "nothing"],
+      "aliases": [
+        "relax",
+        "relaxing",
+        "chill",
+        "chill out",
+        "do nothing",
+        "sleep in",
+        "sleep",
+        "nap",
+        "have a nap",
+        "lie in",
+        "lounge around",
+        "unwind",
+        "rest",
+        "nothing"
+      ],
       "tier": "uncommon",
       "note": "Accept the cheeky answer; it is a resort."
     },
     {
       "canonical": "Day trip along the Great Ocean Road",
-      "aliases": ["great ocean road", "drive the great ocean road", "day trip", "lorne", "twelve apostles", "12 apostles", "road trip", "explore the great ocean road", "anglesea", "drive to lorne", "go for a drive", "scenic drive"],
+      "aliases": [
+        "great ocean road",
+        "drive the great ocean road",
+        "day trip",
+        "lorne",
+        "twelve apostles",
+        "12 apostles",
+        "road trip",
+        "explore the great ocean road",
+        "anglesea",
+        "drive to lorne",
+        "go for a drive",
+        "scenic drive"
+      ],
       "tier": "uncommon",
       "note": "Off-site; the resort sells itself as the base for it, so accept."
     },
     {
       "canonical": "Visit the hammam / thermal suite at One Spa",
-      "aliases": ["hammam", "turkish bath", "thermal suite", "thermal area", "floatation pool", "float pool", "thermal stone room", "experience showers", "thermal experience", "bathhouse", "bath house", "hot stone room"],
+      "aliases": [
+        "hammam",
+        "turkish bath",
+        "thermal suite",
+        "thermal area",
+        "floatation pool",
+        "float pool",
+        "thermal stone room",
+        "experience showers",
+        "thermal experience",
+        "bathhouse",
+        "bath house",
+        "hot stone room"
+      ],
       "tier": "rare",
       "note": "One Spa's hammam has a floatation pool, spa pool, thermal stone room, steam room and experience showers."
     },
     {
       "canonical": "Practise your short game",
-      "aliases": ["chipping", "chipping area", "chipping green", "short game", "practice fairway", "practice fairways", "practice bunker", "bunker practice", "pitching"],
+      "aliases": [
+        "chipping",
+        "chipping area",
+        "chipping green",
+        "short game",
+        "practice fairway",
+        "practice fairways",
+        "practice bunker",
+        "bunker practice",
+        "pitching"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Take a golf lesson",
-      "aliases": ["golf lesson", "golf lessons", "pga lesson", "lesson with the pro", "golf clinic", "golf coaching", "golf academy"],
+      "aliases": [
+        "golf lesson",
+        "golf lessons",
+        "pga lesson",
+        "lesson with the pro",
+        "golf clinic",
+        "golf coaching",
+        "golf academy"
+      ],
       "tier": "rare",
       "note": "PGA professionals teach out of the golf shop."
     },
     {
       "canonical": "Hire a golf cart",
-      "aliases": ["golf cart", "hire a cart", "cart hire", "buggy", "golf buggy", "buggy hire", "motorised cart", "drive a golf buggy", "drive a golf cart", "pull buggy"],
+      "aliases": [
+        "golf cart",
+        "hire a cart",
+        "cart hire",
+        "buggy",
+        "golf buggy",
+        "buggy hire",
+        "motorised cart",
+        "drive a golf buggy",
+        "drive a golf cart",
+        "pull buggy"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Browse the golf pro shop",
-      "aliases": ["pro shop", "golf shop", "buy golf gear", "golf apparel", "club hire", "hire clubs", "hire golf clubs", "proshop"],
+      "aliases": [
+        "pro shop",
+        "golf shop",
+        "buy golf gear",
+        "golf apparel",
+        "club hire",
+        "hire clubs",
+        "hire golf clubs",
+        "proshop"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Play twilight golf",
-      "aliases": ["twilight golf", "twilight round", "friday twilight golf", "late afternoon golf", "twilight"],
+      "aliases": [
+        "twilight golf",
+        "twilight round",
+        "friday twilight golf",
+        "late afternoon golf",
+        "twilight"
+      ],
       "tier": "rare",
       "note": "Cheap Friday twilight rounds have been offered seasonally."
     },
     {
       "canonical": "Play arcade games",
-      "aliases": ["arcade games", "arcade machines", "video games", "play arcade games", "air hockey", "pinball", "foosball", "table soccer"],
+      "aliases": [
+        "arcade games",
+        "arcade machines",
+        "video games",
+        "play arcade games",
+        "air hockey",
+        "pinball",
+        "foosball",
+        "table soccer"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Bounce on the jumping pillow",
-      "aliases": ["jumping pillow", "giant jumping pillow", "bouncy pillow", "jumping castle", "bouncing pillow"],
+      "aliases": [
+        "jumping pillow",
+        "giant jumping pillow",
+        "bouncy pillow",
+        "jumping castle",
+        "bouncing pillow"
+      ],
       "tier": "rare",
       "note": "Part of the playground; a real deep cut if someone names it."
     },
     {
       "canonical": "Play mini golf",
-      "aliases": ["mini golf", "minigolf", "putt putt", "putt-putt", "miniature golf", "crazy golf"],
+      "aliases": [
+        "mini golf",
+        "minigolf",
+        "putt putt",
+        "putt-putt",
+        "miniature golf",
+        "crazy golf"
+      ],
       "tier": "rare",
       "note": "Appears only on third-party booking sites, not RACV's own pages. Treat as unconfirmed; accept if the room agrees it exists."
     },
     {
       "canonical": "Have a hydrotherapy session",
-      "aliases": ["hydrotherapy", "hydro", "hydrotherapy session", "hydrotherapy pool", "water therapy"],
+      "aliases": [
+        "hydrotherapy",
+        "hydro",
+        "hydrotherapy session",
+        "hydrotherapy pool",
+        "water therapy"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Soak in a geisha tub",
-      "aliases": ["geisha tub", "geisha bath", "soak in a tub", "bath soak", "soaking tub", "milk bath"],
+      "aliases": [
+        "geisha tub",
+        "geisha bath",
+        "soak in a tub",
+        "bath soak",
+        "soaking tub",
+        "milk bath"
+      ],
       "tier": "rare",
       "note": "One Spa signature soak."
     },
     {
       "canonical": "Get a manicure or pedicure",
-      "aliases": ["manicure", "pedicure", "mani pedi", "mani-pedi", "nails", "get your nails done", "get my nails done"],
+      "aliases": [
+        "manicure",
+        "pedicure",
+        "mani pedi",
+        "mani-pedi",
+        "nails",
+        "get your nails done",
+        "get my nails done"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Have a body wrap or scrub",
-      "aliases": ["body wrap", "body scrub", "body treatment", "exfoliation", "body polish", "salt scrub"],
+      "aliases": [
+        "body wrap",
+        "body scrub",
+        "body treatment",
+        "exfoliation",
+        "body polish",
+        "salt scrub"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Book a personal training session",
-      "aliases": ["personal training", "personal trainer", "pt session", "pt", "trainer"],
+      "aliases": [
+        "personal training",
+        "personal trainer",
+        "pt session",
+        "pt",
+        "trainer"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Do a meditation class",
-      "aliases": ["meditation", "meditate", "mindfulness", "mindfulness class", "guided meditation"],
+      "aliases": [
+        "meditation",
+        "meditate",
+        "mindfulness",
+        "mindfulness class",
+        "guided meditation"
+      ],
       "tier": "rare",
       "note": "Offered through One Lifestyle and the team-building menu."
     },
     {
       "canonical": "Do a tai chi class",
-      "aliases": ["tai chi", "taichi", "tai chi class", "tai-chi"],
+      "aliases": [
+        "tai chi",
+        "taichi",
+        "tai chi class",
+        "tai-chi"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Join a group fitness class",
-      "aliases": ["group fitness", "fitness class", "fitness classes", "circuit class", "circuit", "boot camp", "bootcamp", "hiit", "class", "gym class", "group class"],
+      "aliases": [
+        "group fitness",
+        "fitness class",
+        "fitness classes",
+        "circuit class",
+        "circuit",
+        "boot camp",
+        "bootcamp",
+        "hiit",
+        "class",
+        "gym class",
+        "group class"
+      ],
       "tier": "rare",
       "note": "Generic catch-all for a class they cannot name; if they name yoga/pilates/spin use those entries."
     },
     {
       "canonical": "Bottomless coffee at Hardings Lounge",
-      "aliases": ["bottomless coffee", "coffee", "have a coffee", "coffee and cake", "cake", "get a coffee", "latte", "cappuccino", "flat white", "morning coffee"],
+      "aliases": [
+        "bottomless coffee",
+        "coffee",
+        "have a coffee",
+        "coffee and cake",
+        "cake",
+        "get a coffee",
+        "latte",
+        "cappuccino",
+        "flat white",
+        "morning coffee"
+      ],
       "tier": "rare",
       "note": "Two-hour bottomless coffee sitting with cake or muffin, about $15."
     },
     {
       "canonical": "Father's Day carvery lunch",
-      "aliases": ["fathers day lunch", "father's day lunch", "carvery", "carvery lunch", "fathers day carvery", "father's day", "fathers day", "roast lunch"],
+      "aliases": [
+        "fathers day lunch",
+        "father's day lunch",
+        "carvery",
+        "carvery lunch",
+        "fathers day carvery",
+        "father's day",
+        "fathers day",
+        "roast lunch"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Mother's Day breakfast",
-      "aliases": ["mothers day breakfast", "mother's day breakfast", "mothers day", "mother's day", "bottomless mimosas", "mimosas", "mothers day lunch", "mother's day lunch"],
+      "aliases": [
+        "mothers day breakfast",
+        "mother's day breakfast",
+        "mothers day",
+        "mother's day",
+        "bottomless mimosas",
+        "mimosas",
+        "mothers day lunch",
+        "mother's day lunch"
+      ],
       "tier": "rare",
       "note": "Mother's Day buffet breakfast with optional bottomless mimosas."
     },
     {
       "canonical": "Friday wine special at Number One",
-      "aliases": ["friday wine special", "wine deal", "wine special", "cheap wine", "bottle special", "wednesday wine deal", "wine night", "bottle of wine with dinner"],
+      "aliases": [
+        "friday wine special",
+        "wine deal",
+        "wine special",
+        "cheap wine",
+        "bottle special",
+        "wednesday wine deal",
+        "wine night",
+        "bottle of wine with dinner"
+      ],
       "tier": "rare",
       "note": "Select bottles from about $25 on Fridays; a midweek wine deal has also run."
     },
     {
       "canonical": "Watch the sunset",
-      "aliases": ["sunset", "watch the sunset", "sunset drinks", "sundowner", "sundowners", "sunset over the ocean", "sunset over the water", "sunrise", "watch the sunrise"],
+      "aliases": [
+        "sunset",
+        "watch the sunset",
+        "sunset drinks",
+        "sundowner",
+        "sundowners",
+        "sunset over the ocean",
+        "sunset over the water",
+        "sunrise",
+        "watch the sunrise"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Walk to Bird Rock / Rocky Point lookout",
-      "aliases": ["bird rock", "rocky point", "rocky point lookout", "lookout", "the lookout", "bird rock lookout", "walk to bird rock", "headland walk"],
+      "aliases": [
+        "bird rock",
+        "rocky point",
+        "rocky point lookout",
+        "lookout",
+        "the lookout",
+        "bird rock lookout",
+        "walk to bird rock",
+        "headland walk"
+      ],
       "tier": "rare",
       "note": "Headland lookouts between Torquay Surf Beach and Jan Juc, on the Surf Coast Walk."
     },
     {
       "canonical": "Walk the Spring Creek boardwalk",
-      "aliases": ["spring creek", "spring creek boardwalk", "boardwalk", "the boardwalk", "creek walk"],
+      "aliases": [
+        "spring creek",
+        "spring creek boardwalk",
+        "boardwalk",
+        "the boardwalk",
+        "creek walk"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Go whale watching",
-      "aliases": ["whale watching", "whales", "spot whales", "watch for whales", "whale spotting", "look for whales", "see a whale"],
+      "aliases": [
+        "whale watching",
+        "whales",
+        "spot whales",
+        "watch for whales",
+        "whale spotting",
+        "look for whales",
+        "see a whale"
+      ],
       "tier": "rare",
       "note": "Southern right and humpback whales pass May to October; binoculars from the clifftop."
     },
     {
       "canonical": "Visit Bells Beach",
-      "aliases": ["bells beach", "bells", "drive to bells", "watch surfers at bells", "rip curl pro", "go to bells"],
+      "aliases": [
+        "bells beach",
+        "bells",
+        "drive to bells",
+        "watch surfers at bells",
+        "rip curl pro",
+        "go to bells"
+      ],
       "tier": "rare",
       "note": "Off-site, about 7 km; accept as a resort day-out."
     },
     {
       "canonical": "Go for a bike ride",
-      "aliases": ["bike ride", "ride a bike", "cycle", "cycling", "bike", "go for a ride", "ride to the beach", "bikes", "bike hire", "hire a bike", "mountain bike"],
+      "aliases": [
+        "bike ride",
+        "ride a bike",
+        "cycle",
+        "cycling",
+        "bike",
+        "go for a ride",
+        "ride to the beach",
+        "bikes",
+        "bike hire",
+        "hire a bike",
+        "mountain bike"
+      ],
       "tier": "rare",
       "note": "Bike hire is NOT confirmed on site; bringing your own bike to ride the shared path to the beach is a fair answer."
     },
     {
       "canonical": "Go for a run",
-      "aliases": ["run", "running", "jog", "jogging", "go for a jog", "go for a run", "morning run", "parkrun"],
+      "aliases": [
+        "run",
+        "running",
+        "jog",
+        "jogging",
+        "go for a jog",
+        "go for a run",
+        "morning run",
+        "parkrun"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Do a team-building activity",
-      "aliases": ["team building", "team-building", "teambuilding", "dodgeball", "dodgeball tournament", "amazing race", "corporate games", "team games", "trust falls"],
+      "aliases": [
+        "team building",
+        "team-building",
+        "teambuilding",
+        "dodgeball",
+        "dodgeball tournament",
+        "amazing race",
+        "corporate games",
+        "team games",
+        "trust falls"
+      ],
       "tier": "rare",
       "note": "Conference menu lists dodgeball, RPM sessions, yoga/meditation and beach games with Torquay SLSC trainers."
     },
     {
       "canonical": "Book babysitting",
-      "aliases": ["babysitting", "babysitter", "book a babysitter", "child minding", "childminding", "babysitting service"],
+      "aliases": [
+        "babysitting",
+        "babysitter",
+        "book a babysitter",
+        "child minding",
+        "childminding",
+        "babysitting service"
+      ],
       "tier": "rare",
       "note": "Listed on booking sites as available for a fee; arranged through the resort."
     },
     {
       "canonical": "Charge your electric car",
-      "aliases": ["ev charging", "charge the car", "charge your ev", "ev charger", "electric car charging", "charge the tesla", "ev charge", "plug in the car"],
+      "aliases": [
+        "ev charging",
+        "charge the car",
+        "charge your ev",
+        "ev charger",
+        "electric car charging",
+        "charge the tesla",
+        "ev charge",
+        "plug in the car"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Have a nightcap",
-      "aliases": ["nightcap", "night cap", "late drink", "whisky", "whiskey", "digestif", "port", "late night drink"],
+      "aliases": [
+        "nightcap",
+        "night cap",
+        "late drink",
+        "whisky",
+        "whiskey",
+        "digestif",
+        "port",
+        "late night drink"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Read a book",
-      "aliases": ["read", "reading", "read a book", "read by the fire", "book", "read by the pool", "read on the balcony", "a good book"],
+      "aliases": [
+        "read",
+        "reading",
+        "read a book",
+        "read by the fire",
+        "book",
+        "read by the pool",
+        "read on the balcony",
+        "a good book"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Go bird watching",
-      "aliases": ["bird watching", "birdwatching", "birds", "watch birds", "wetland birds", "spot birds", "birding"],
+      "aliases": [
+        "bird watching",
+        "birdwatching",
+        "birds",
+        "watch birds",
+        "wetland birds",
+        "spot birds",
+        "birding"
+      ],
       "tier": "rare",
       "note": "Wetlands on the golf course and the Spring Creek estuary; accept."
     },
     {
       "canonical": "Watch the surfers",
-      "aliases": ["watch surfers", "watch the surfers", "surf watching", "watch people surf", "check the surf", "surf check"],
+      "aliases": [
+        "watch surfers",
+        "watch the surfers",
+        "surf watching",
+        "watch people surf",
+        "check the surf",
+        "surf check"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Take photos",
-      "aliases": ["photos", "take photos", "photography", "take pictures", "instagram", "selfies", "take a selfie"],
+      "aliases": [
+        "photos",
+        "take photos",
+        "photography",
+        "take pictures",
+        "instagram",
+        "selfies",
+        "take a selfie"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Raid the minibar",
-      "aliases": ["minibar", "mini bar", "mini-bar", "drink the minibar", "snacks from the minibar"],
+      "aliases": [
+        "minibar",
+        "mini bar",
+        "mini-bar",
+        "drink the minibar",
+        "snacks from the minibar"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Watch a movie in your room",
-      "aliases": ["tv", "watch tv", "netflix", "watch a movie", "movie", "movie night", "foxtel", "watch the footy", "footy on tv", "watch telly", "telly"],
+      "aliases": [
+        "tv",
+        "watch tv",
+        "netflix",
+        "watch a movie",
+        "movie",
+        "movie night",
+        "foxtel",
+        "watch the footy",
+        "footy on tv",
+        "watch telly",
+        "telly"
+      ],
       "tier": "rare",
       "note": "There is no cinema at the resort; in-room TV only."
     },
     {
       "canonical": "Have a bath in a spa suite",
-      "aliases": ["in-room spa", "spa suite", "ocean spa suite", "have a bath", "bath", "bubble bath", "in room spa", "bath with a view"],
+      "aliases": [
+        "in-room spa",
+        "spa suite",
+        "ocean spa suite",
+        "have a bath",
+        "bath",
+        "bubble bath",
+        "in room spa",
+        "bath with a view"
+      ],
       "tier": "rare",
       "note": "Ocean Spa Suites have an in-room spa bath."
     },
     {
       "canonical": "Hold a private function",
-      "aliases": ["function", "private function", "birthday", "birthday party", "anniversary dinner", "celebrate", "celebration", "party", "christmas party", "work christmas party", "private dinner", "event"],
+      "aliases": [
+        "function",
+        "private function",
+        "birthday",
+        "birthday party",
+        "anniversary dinner",
+        "celebrate",
+        "celebration",
+        "party",
+        "christmas party",
+        "work christmas party",
+        "private dinner",
+        "event"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Shop the Torquay surf outlets",
-      "aliases": ["surf shops", "rip curl", "quiksilver", "surf city plaza", "outlet shopping", "shopping", "surfing museum", "surf museum", "australian national surfing museum", "go shopping", "retail therapy"],
+      "aliases": [
+        "surf shops",
+        "rip curl",
+        "quiksilver",
+        "surf city plaza",
+        "outlet shopping",
+        "shopping",
+        "surfing museum",
+        "surf museum",
+        "australian national surfing museum",
+        "go shopping",
+        "retail therapy"
+      ],
       "tier": "rare",
       "note": "Off-site in Torquay township; accept as a day-out answer."
     },
     {
       "canonical": "Do some work on the free wifi",
-      "aliases": ["wifi", "work", "work remotely", "laptop", "emails", "check emails", "catch up on work", "work from the resort"],
+      "aliases": [
+        "wifi",
+        "work",
+        "work remotely",
+        "laptop",
+        "emails",
+        "check emails",
+        "catch up on work",
+        "work from the resort"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Walk around the golf course wetlands",
-      "aliases": ["walk the course", "walk around the course", "golf course walk", "wetlands", "walk the golf course", "look at the wetlands"],
+      "aliases": [
+        "walk the course",
+        "walk around the course",
+        "golf course walk",
+        "wetlands",
+        "walk the golf course",
+        "look at the wetlands"
+      ],
       "tier": "rare"
     },
     {
       "canonical": "Grab a drink at the golf shop cafe",
-      "aliases": ["golf shop cafe", "golf cafe", "halfway house", "19th hole", "nineteenth hole", "clubhouse", "the clubhouse", "drink after golf", "beer after golf"],
+      "aliases": [
+        "golf shop cafe",
+        "golf cafe",
+        "halfway house",
+        "19th hole",
+        "nineteenth hole",
+        "clubhouse",
+        "the clubhouse",
+        "drink after golf",
+        "beer after golf"
+      ],
       "tier": "rare",
       "note": "The golf shop sells food and drink; the main bar is Hardings Lounge."
     },
     {
       "canonical": "Kids' club or school holiday activities",
-      "aliases": ["kids club", "kids' club", "kids activities", "kids' activities", "school holiday program", "school holiday activities", "kids craft", "kids entertainment", "holiday program", "children's activities"],
+      "aliases": [
+        "kids club",
+        "kids' club",
+        "kids activities",
+        "kids' activities",
+        "school holiday program",
+        "school holiday activities",
+        "kids craft",
+        "kids entertainment",
+        "holiday program",
+        "children's activities"
+      ],
       "tier": "rare",
       "note": "RACV runs holiday programs at Cobram, Goldfields and Inverloch; a Torquay program is not confirmed. Accept but flag."
     },
     {
       "canonical": "Visit a nearby winery or brewery",
-      "aliases": ["winery", "wine tasting", "bellbrae estate", "brewery", "blackmans brewery", "blackman's brewery", "bells beach brewing", "cellar door", "beer tasting"],
+      "aliases": [
+        "winery",
+        "wine tasting",
+        "bellbrae estate",
+        "brewery",
+        "blackmans brewery",
+        "blackman's brewery",
+        "bells beach brewing",
+        "cellar door",
+        "beer tasting"
+      ],
       "tier": "deep",
       "note": "Off-site (Bellbrae Estate, Blackman's); no wine tasting on site. Host's call."
     },
     {
       "canonical": "Go to a live music or jazz night",
-      "aliases": ["live music", "jazz", "jazz night", "jazz for zayli", "band", "music", "see a band", "big band"],
+      "aliases": [
+        "live music",
+        "jazz",
+        "jazz night",
+        "jazz for zayli",
+        "band",
+        "music",
+        "see a band",
+        "big band"
+      ],
       "tier": "deep",
       "note": "Occasional events only (e.g. Torquay Golf Club jazz fundraiser); not a regular program."
     },
     {
       "canonical": "Join One Lifestyle as a local member",
-      "aliases": ["one lifestyle", "one lifestyle membership", "gym membership", "join the gym", "become a member", "local membership", "pool membership"],
+      "aliases": [
+        "one lifestyle",
+        "one lifestyle membership",
+        "gym membership",
+        "join the gym",
+        "become a member",
+        "local membership",
+        "pool membership"
+      ],
       "tier": "deep",
       "note": "The gym/pool complex sells memberships to Surf Coast locals."
     },
     {
       "canonical": "Buy a golf season pass",
-      "aliases": ["season pass", "golf season pass", "golf membership", "join the golf club", "torquay golf club membership", "club member", "golf club member"],
+      "aliases": [
+        "season pass",
+        "golf season pass",
+        "golf membership",
+        "join the golf club",
+        "torquay golf club membership",
+        "club member",
+        "golf club member"
+      ],
       "tier": "deep",
       "note": "Season pass holders skip green fees and get 10% off at the golf shop."
     },
     {
       "canonical": "Play in a Torquay Golf Club competition",
-      "aliases": ["golf comp", "golf competition", "saturday comp", "stableford", "pennant", "club comp", "torquay golf club comp", "wednesday comp", "club championship", "play pennant"],
+      "aliases": [
+        "golf comp",
+        "golf competition",
+        "saturday comp",
+        "stableford",
+        "pennant",
+        "club comp",
+        "torquay golf club comp",
+        "wednesday comp",
+        "club championship",
+        "play pennant"
+      ],
       "tier": "deep",
       "note": "Torquay Golf Club is the members' club that plays out of the RACV course."
     },
     {
       "canonical": "Over-55s circuit class",
-      "aliases": ["over 55 class", "over 55s", "over-55s", "seniors class", "seniors fitness", "living longer living stronger", "over-55 circuit", "seniors gym"],
+      "aliases": [
+        "over 55 class",
+        "over 55s",
+        "over-55s",
+        "seniors class",
+        "seniors fitness",
+        "living longer living stronger",
+        "over-55 circuit",
+        "seniors gym"
+      ],
       "tier": "deep",
       "note": "One Lifestyle runs a circuit/gym program for over-55s and people with medical conditions."
     },
     {
       "canonical": "Beach games with Torquay Surf Life Saving Club",
-      "aliases": ["torquay surf life saving club", "torquay slsc", "surf club games", "beach games", "beach volleyball", "surf club", "beach cricket", "nippers"],
+      "aliases": [
+        "torquay surf life saving club",
+        "torquay slsc",
+        "surf club games",
+        "beach games",
+        "beach volleyball",
+        "surf club",
+        "beach cricket",
+        "nippers"
+      ],
       "tier": "deep",
       "note": "Part of the team-building menu; SLSC trainers run games sessions on the beach."
+    },
+    {
+      "canonical": "Board Games",
+      "aliases": [
+        "board game",
+        "boardgames",
+        "playing board games"
+      ],
+      "tier": "common"
     }
   ],
   "hostNotes": "Accept any real on-site facility plus the nearby stuff the resort sells itself on (Jan Juc/Torquay beach, Surf Coast Walk, Bells, Great Ocean Road day trip). Names to recognise: restaurant = Number One, bar = Hardings Lounge, day spa = One Spa, gym/pool complex = One Lifestyle, golf = public 18-hole Ogilvy Clayton links. Bare 'spa' means the day spa; 'spa pool/hot tub/jacuzzi' is a separate answer, and bare 'pool' is the swimming pool. Traps: there is NO cinema, outdoor pool, bowls green or basketball court, and mini golf, kids' club, bike hire and lawn games are not confirmed on RACV's own pages - accept only if the room agrees."

@@ -24,7 +24,7 @@
         "melbun",
         "melbourne vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "The CBD itself is the suburb \"Melbourne\" (3000), so \"the city\" counts"
     },
     {
@@ -52,7 +52,7 @@
         "nthcarlton",
         "carlton north vic"
       ],
-      "tier": "common",
+      "tier": "uncommon",
       "note": "Kept separate from Carlton; Princes Hill is its own entry"
     },
     {
@@ -82,7 +82,7 @@
         "east melburn",
         "east melbourne vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Jolimont is a neighbourhood inside East Melbourne"
     },
     {
@@ -97,7 +97,7 @@
         "flemingtown",
         "flemington vic"
       ],
-      "tier": "common"
+      "tier": "uncommon"
     },
     {
       "canonical": "Kensington",
@@ -140,7 +140,7 @@
         "parkville melbourne",
         "parkville vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Southbank",
@@ -166,7 +166,7 @@
         "southwarf",
         "south wharf vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Gazetted suburb (3006) between Southbank and the river; tiny but official"
     },
     {
@@ -468,7 +468,7 @@
         "abbottsford vic",
         "abbotsford vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Collingwood",
@@ -493,7 +493,7 @@
         "clifton hil",
         "clifton hill vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Fitzroy",
@@ -599,7 +599,7 @@
         "canterbury vic",
         "canterburry"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Surrey Hills",
@@ -612,7 +612,7 @@
         "surreyhils",
         "surrey hills vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Surry Hills (no e) is Sydney; accept the slip"
     },
     {
@@ -657,7 +657,7 @@
         "depdene",
         "deepdene vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Ashburton",
@@ -744,7 +744,7 @@
         "carneige",
         "carnegie vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Murrumbeena",
@@ -808,7 +808,7 @@
         "bentlee",
         "bentleigh vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Brighton",
@@ -877,7 +877,7 @@
         "bewmaris",
         "beaumaris vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Highett",
@@ -903,7 +903,7 @@
         "cheltenham vic",
         "cheltnham"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Moorabbin",
@@ -915,7 +915,7 @@
         "murrabin",
         "moorabbin vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Chadstone",
@@ -927,7 +927,7 @@
         "chadstne",
         "chadstone vic"
       ],
-      "tier": "common"
+      "tier": "uncommon"
     },
     {
       "canonical": "Oakleigh",
@@ -946,7 +946,7 @@
         "oaklee",
         "oakleigh vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Huntingdale",
@@ -972,7 +972,7 @@
         "clayton vic",
         "claytn"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Notting Hill",
@@ -983,7 +983,7 @@
         "notting hil",
         "notting hill vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Tiny pocket by Monash Uni; also a London suburb, so check they mean Melbourne"
     },
     {
@@ -1000,7 +1000,7 @@
         "mnt waverley",
         "mount waverley vic"
       ],
-      "tier": "common"
+      "tier": "uncommon"
     },
     {
       "canonical": "Glen Waverley",
@@ -1036,7 +1036,7 @@
         "mulgrave vic",
         "mulgrav"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Ashwood",
@@ -1060,7 +1060,7 @@
         "burwood vic",
         "berwood"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Box Hill",
@@ -1115,7 +1115,7 @@
         "nunnawadding",
         "nunawading vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Mitcham",
@@ -1248,7 +1248,7 @@
         "wonga parke",
         "wonga park vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Heidelberg",
@@ -1352,7 +1352,7 @@
         "greenborough",
         "greensborough vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Montmorency",
@@ -1526,7 +1526,7 @@
         "brunnie",
         "brunswick vic"
       ],
-      "tier": "common"
+      "tier": "rare"
     },
     {
       "canonical": "Coburg",
@@ -1572,7 +1572,7 @@
         "glennroy",
         "glenroy vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Fawkner",
@@ -1595,7 +1595,7 @@
         "hadfild",
         "hadfield vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Oak Park",
@@ -1606,7 +1606,7 @@
         "oake park",
         "oak park vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Gowanbrae",
@@ -1618,7 +1618,7 @@
         "gowanbrea",
         "gowanbrae vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Pocket suburb beside the Tullamarine Freeway, gazetted 1997"
     },
     {
@@ -1635,7 +1635,7 @@
         "mooneponds",
         "moonee ponds vic"
       ],
-      "tier": "common"
+      "tier": "uncommon"
     },
     {
       "canonical": "Essendon",
@@ -1693,7 +1693,7 @@
         "abberfeldie",
         "aberfeldie vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Avondale Heights",
@@ -1871,7 +1871,7 @@
         "tottnam",
         "tottenham vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Industrial pocket west of Footscray; also a London suburb, check they mean Melbourne"
     },
     {
@@ -1891,7 +1891,7 @@
         "willi",
         "williamstown vic"
       ],
-      "tier": "common"
+      "tier": "deep"
     },
     {
       "canonical": "Newport",
@@ -1940,7 +1940,7 @@
         "altona medow",
         "altona meadows vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Seaholme",
@@ -2021,7 +2021,7 @@
         "snt albans",
         "st albens"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Deer Park",
@@ -2137,7 +2137,7 @@
         "keelbah",
         "kealba vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Tiny pocket between Keilor and St Albans; proper deep cut"
     },
     {
@@ -2170,7 +2170,7 @@
         "kealor downs",
         "keilor downs vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Keilor Lodge",
@@ -2207,7 +2207,7 @@
         "kings park melbourne",
         "kings park vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Brimbank pocket next to St Albans, not the Perth park"
     },
     {
@@ -2249,7 +2249,7 @@
         "melton vic",
         "meltin"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Caroline Springs",
@@ -2283,7 +2283,7 @@
         "burnside vic",
         "bernside"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Burnside Heights",
@@ -2331,7 +2331,7 @@
         "digers rest",
         "diggers rest vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Exford",
@@ -2354,7 +2354,7 @@
         "einesbury",
         "eynesbury vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Golf-estate suburb split between Melton and Wyndham"
     },
     {
@@ -2379,7 +2379,7 @@
         "toolern",
         "toolern vale vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Plumpton",
@@ -2390,7 +2390,7 @@
         "plumpten",
         "plumpton vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Growth suburb north of Rockbank, shares postcode 3335"
     },
     {
@@ -2402,7 +2402,7 @@
         "rockbanks",
         "rockbank vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Mount Cottrell",
@@ -2419,7 +2419,7 @@
         "mnt cottrell",
         "mount cottrell vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Rural locality split between Melton and Wyndham"
     },
     {
@@ -2431,7 +2431,7 @@
         "ravenall",
         "ravenhall vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Industrial pocket; home of the Metropolitan Remand Centre"
     },
     {
@@ -2444,7 +2444,7 @@
         "ayntree",
         "aintree vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Gazetted 2017 in the Melton growth corridor"
     },
     {
@@ -2457,7 +2457,7 @@
         "bonniebrooke",
         "bonnie brook vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Gazetted 2017"
     },
     {
@@ -2469,7 +2469,7 @@
         "cobble banks",
         "cobblebank vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Gazetted 2017; has its own station"
     },
     {
@@ -2481,7 +2481,7 @@
         "deansyde",
         "deanside vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Gazetted 2017"
     },
     {
@@ -2494,7 +2494,7 @@
         "frasers rise",
         "fraser rise vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Gazetted 2017"
     },
     {
@@ -2519,7 +2519,7 @@
         "harknass",
         "harkness vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Gazetted 2017"
     },
     {
@@ -2533,7 +2533,7 @@
         "strath tullo",
         "strathtulloh vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Gazetted 2017"
     },
     {
@@ -2546,7 +2546,7 @@
         "thornill park",
         "thornhill park vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Gazetted 2017"
     },
     {
@@ -2559,7 +2559,7 @@
         "weirview",
         "weir views vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Gazetted 2017"
     },
     {
@@ -2605,7 +2605,7 @@
         "piont cook",
         "point cook vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Sanctuary Lakes is an estate inside Point Cook"
     },
     {
@@ -2619,7 +2619,7 @@
         "tarnite",
         "tarneit vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Truganina",
@@ -2632,7 +2632,7 @@
         "truganena",
         "truganina vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Wyndham Vale",
@@ -2657,7 +2657,7 @@
         "manner lakes",
         "manor lakes vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Williams Landing",
@@ -2680,7 +2680,7 @@
         "litle river",
         "little river vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Split between Wyndham and Geelong; technically a Melbourne locality"
     },
     {
@@ -2693,7 +2693,7 @@
         "mambourn",
         "mambourin vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "New growth suburb west of Wyndham Vale"
     },
     {
@@ -2705,7 +2705,7 @@
         "kwandong",
         "quandong vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Rural locality north of Werribee; genuine deep cut"
     },
     {
@@ -2717,7 +2717,7 @@
         "kokoroc",
         "cocoroc vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Locality of the Western Treatment Plant; almost nobody lives there"
     },
     {
@@ -2744,7 +2744,7 @@
         "creigieburn",
         "craigieburn vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Sunbury",
@@ -2755,7 +2755,7 @@
         "sunbury vic",
         "sunbry"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Hume LGA, so it counts as metropolitan"
     },
     {
@@ -2851,7 +2851,7 @@
         "koolaroo",
         "coolaroo vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Dallas",
@@ -2898,7 +2898,7 @@
         "sumerton",
         "somerton vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Mickleham",
@@ -2909,7 +2909,7 @@
         "micklam",
         "mickleham vic"
       ],
-      "tier": "rare"
+      "tier": "common"
     },
     {
       "canonical": "Kalkallo",
@@ -2921,7 +2921,7 @@
         "kalkalloo",
         "kalkallo vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Oaklands Junction",
@@ -2933,7 +2933,7 @@
         "oaklands",
         "oaklands junction vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Bulla",
@@ -2943,7 +2943,7 @@
         "bulla vic",
         "bulla melbourne"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Yuroke",
@@ -2965,7 +2965,7 @@
         "wildwood vic",
         "wildwood melbourne"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Donnybrook",
@@ -2976,7 +2976,7 @@
         "donibrook",
         "donnybrook vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Growth suburb straddling Hume and Whittlesea"
     },
     {
@@ -2988,7 +2988,7 @@
         "bevridge",
         "beveridge vic"
       ],
-      "tier": "deep",
+      "tier": "common",
       "note": "Mostly Mitchell Shire, but the locality crosses into Hume and Whittlesea; accept"
     },
     {
@@ -3000,7 +3000,7 @@
         "epping north",
         "epping melbourne"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Lalor",
@@ -3023,7 +3023,7 @@
         "tomas town",
         "thomastown vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Mill Park",
@@ -3092,7 +3092,7 @@
         "whittlessea",
         "whittlesea vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Township inside the City of Whittlesea; accept"
     },
     {
@@ -3211,7 +3211,7 @@
         "plentey",
         "plenty melbourne"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Yarrambat",
@@ -3258,7 +3258,7 @@
         "st andrews vic",
         "st andrews melbourne"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "The Nillumbik one near Hurstbridge; St Andrews Beach is a separate Peninsula entry"
     },
     {
@@ -3282,7 +3282,7 @@
         "cristmas hills",
         "christmas hills vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Arthurs Creek",
@@ -3294,7 +3294,7 @@
         "aurthurs creek",
         "arthurs creek vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Strathewen",
@@ -3353,7 +3353,7 @@
         "bends of islands",
         "bend of islands vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Conservation locality on the Yarra near Kangaroo Ground; official suburb"
     },
     {
@@ -3393,7 +3393,7 @@
         "croydn",
         "croydon melbourne"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Croydon Hills",
@@ -3458,7 +3458,7 @@
         "bayswater vic",
         "baywater"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Boronia",
@@ -3470,7 +3470,7 @@
         "boroniea",
         "boronia vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Ferntree Gully",
@@ -3488,7 +3488,7 @@
         "fern tree gulley",
         "ferntree gully vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "The Basin",
@@ -3499,7 +3499,7 @@
         "the bason",
         "the basin vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Wantirna",
@@ -3567,7 +3567,7 @@
         "lysterfeld",
         "lysterfield vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Lilydale",
@@ -3578,7 +3578,7 @@
         "lillidale",
         "lilydale vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Mooroolbark",
@@ -3656,7 +3656,7 @@
         "bellgrave heights",
         "belgrave heights vic"
       ],
-      "tier": "rare"
+      "tier": "deep"
     },
     {
       "canonical": "Upwey",
@@ -3786,7 +3786,7 @@
         "coldstrem",
         "coldstream vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Yarra Glen",
@@ -3797,7 +3797,7 @@
         "yarraglenn",
         "yarra glen vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Kallista",
@@ -3876,7 +3876,7 @@
         "menzys creek",
         "menzies creek vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Macclesfield",
@@ -3887,7 +3887,7 @@
         "macclesfeld",
         "macclesfield vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Yering",
@@ -3898,7 +3898,7 @@
         "yeering",
         "yering vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Gruyere",
@@ -3908,7 +3908,7 @@
         "gruyere vic",
         "gruyeer"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Chum Creek",
@@ -3941,7 +3941,7 @@
         "heelsville",
         "healesville vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Yarra Ranges township inside metro Melbourne; accept, but it is more country town than suburb"
     },
     {
@@ -3966,7 +3966,7 @@
         "lauching place",
         "launching place vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Yarra Junction",
@@ -3989,7 +3989,7 @@
         "wesbern",
         "wesburn vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Millgrove",
@@ -4000,7 +4000,7 @@
         "millgroove",
         "millgrove vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Warburton",
@@ -4014,7 +4014,7 @@
         "warby",
         "warburton vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Upper Yarra township in the Yarra Ranges LGA; host's call"
     },
     {
@@ -4035,7 +4035,7 @@
         "pakenham east",
         "pakenham vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Officer",
@@ -4050,7 +4050,7 @@
         "officer vic",
         "offcer"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Beaconsfield",
@@ -4087,7 +4087,7 @@
         "cocatoo",
         "cockatoo melbourne"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Gembrook",
@@ -4098,7 +4098,7 @@
         "gembroke",
         "gembrook vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Koo Wee Rup",
@@ -4112,7 +4112,7 @@
         "kooweeroop",
         "koo wee rup vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Cardinia Shire township; accept, overlaps with the country-town prompt"
     },
     {
@@ -4128,7 +4128,7 @@
         "bunyip vic",
         "bunip"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Garfield",
@@ -4138,7 +4138,7 @@
         "garfield vic",
         "garfeld"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Nar Nar Goon",
@@ -4154,7 +4154,7 @@
         "narnar goon",
         "nar nar goon vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Tynong",
@@ -4180,7 +4180,7 @@
         "lang lang vic",
         "lang langs"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Cardinia",
@@ -4189,7 +4189,7 @@
         "cardinia vic",
         "cardina"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Also the shire's name, but Cardinia is a gazetted locality (3978) in its own right"
     },
     {
@@ -4202,7 +4202,7 @@
         "mary knol",
         "maryknoll vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Clematis",
@@ -4212,7 +4212,7 @@
         "clematis vic",
         "clemattis"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Avonsleigh",
@@ -4269,7 +4269,7 @@
         "bayless",
         "bayles vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Catani",
@@ -4280,7 +4280,7 @@
         "catanni",
         "catani vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Dandenong",
@@ -4335,7 +4335,7 @@
         "springy",
         "springvale vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Keysborough",
@@ -4358,7 +4358,7 @@
         "bangholmes",
         "bangholme vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Semi-rural pocket between Dandenong South and Patterson Lakes"
     },
     {
@@ -4370,7 +4370,7 @@
         "berwick vic",
         "berwik"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Narre Warren",
@@ -4396,7 +4396,7 @@
         "narewarren",
         "narre warren vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Cranbourne",
@@ -4435,7 +4435,7 @@
         "hallem",
         "hallam vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Doveton",
@@ -4506,7 +4506,7 @@
         "umemmering",
         "eumemmerring vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Tiny pocket by Doveton; nobody can spell it"
     },
     {
@@ -4556,7 +4556,7 @@
         "junction villge",
         "junction village vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Devon Meadows",
@@ -4747,7 +4747,7 @@
         "mentone beach",
         "mentone vic"
       ],
-      "tier": "common"
+      "tier": "uncommon"
     },
     {
       "canonical": "Parkdale",
@@ -4792,7 +4792,7 @@
         "edithval",
         "edithvale vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Chelsea",
@@ -4825,7 +4825,7 @@
         "bon beech",
         "bonbeach vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Carrum",
@@ -4836,7 +4836,7 @@
         "carrum beach",
         "carrum vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Patterson Lakes",
@@ -4859,7 +4859,7 @@
         "waterway",
         "waterways melbourne"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Estate suburb near Braeside, gazetted 1998"
     },
     {
@@ -4871,7 +4871,7 @@
         "breaside",
         "braeside vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Dingley Village",
@@ -4884,7 +4884,7 @@
         "dingley vic",
         "dingley village vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Heatherton",
@@ -4895,7 +4895,7 @@
         "heatherton melbourne",
         "heatherton vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Clarinda",
@@ -4906,7 +4906,7 @@
         "clarindah",
         "clarinda vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Mornington",
@@ -4917,7 +4917,7 @@
         "morningtin",
         "mornington vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Mornington Peninsula Shire is a metropolitan LGA, so technically a suburb; host's call if the room objects"
     },
     {
@@ -4933,7 +4933,7 @@
         "mnt eliza",
         "mount eliza vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Mornington Peninsula Shire, metropolitan LGA; accept"
     },
     {
@@ -4949,7 +4949,7 @@
         "mnt martha",
         "mount martha vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -4961,7 +4961,7 @@
         "sommervile",
         "somerville vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -4996,7 +4996,7 @@
         "hastings vic",
         "hasting"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5007,7 +5007,7 @@
         "bittern vic",
         "bitten"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5042,7 +5042,7 @@
         "somers vic",
         "somers beach"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5053,7 +5053,7 @@
         "flinders township",
         "flinders melbourne"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; accept, though most would call it a town"
     },
     {
@@ -5070,7 +5070,7 @@
         "red hil",
         "red hill vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; Red Hill South merged here"
     },
     {
@@ -5082,7 +5082,7 @@
         "dromarna",
         "dromana vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5094,7 +5094,7 @@
         "saftey beach",
         "safety beach vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5120,7 +5120,7 @@
         "rosebut",
         "rosebud melbourne"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5134,7 +5134,7 @@
         "chapel sound",
         "capel sound vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Gazetted 2016, formerly Rosebud West; deep cut"
     },
     {
@@ -5157,7 +5157,7 @@
         "rye beach",
         "rye melbourne"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5169,7 +5169,7 @@
         "blairgowrey",
         "blairgowrie vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5181,7 +5181,7 @@
         "sorrento victoria",
         "sorrento vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Mornington Peninsula Shire; accept, though most would call it a town"
     },
     {
@@ -5193,7 +5193,7 @@
         "portsear",
         "portsea vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Mornington Peninsula Shire; accept"
     },
     {
@@ -5217,7 +5217,7 @@
         "arthurs seats",
         "arthurs seat vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Gazetted locality on the Peninsula, not just the lookout"
     },
     {
@@ -5275,7 +5275,7 @@
         "cape shanck",
         "cape schanck vic"
       ],
-      "tier": "rare"
+      "tier": "common"
     },
     {
       "canonical": "Fingal",
@@ -5285,7 +5285,7 @@
         "fingal vic",
         "fingal melbourne"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "St Andrews Beach",
@@ -5298,7 +5298,7 @@
         "st andrew beach",
         "st andrews beach vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Main Ridge",
@@ -5332,7 +5332,7 @@
         "melborne airport",
         "melbourne airport vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Gazetted suburb (3045) covering the airport itself; distinct from neighbouring Tullamarine"
     },
     {
@@ -5345,7 +5345,7 @@
         "moorabbin airfield",
         "moorabbin airport vic"
       ],
-      "tier": "deep",
+      "tier": "common",
       "note": "The airfield precinct is its own gazetted suburb (3194)"
     },
     {
@@ -5359,7 +5359,7 @@
         "cerberus naval base",
         "hmas cerberus vic"
       ],
-      "tier": "deep",
+      "tier": "common",
       "note": "The Western Port naval base is a gazetted suburb (3920) in Mornington Peninsula Shire"
     },
     {
@@ -5385,7 +5385,7 @@
         "hodles creek",
         "hoddles creek vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Yarra Ranges locality south of Launching Place"
     },
     {
@@ -5397,7 +5397,7 @@
         "don vally",
         "don valley vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Yarra Ranges locality between Launching Place and Healesville"
     },
     {
@@ -5410,7 +5410,7 @@
         "steeles creek",
         "steels creek vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Yarra Valley locality north of Yarra Glen"
     },
     {
@@ -5423,7 +5423,7 @@
         "dicksons creek",
         "dixons creek vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Yarra Valley wine locality"
     },
     {
@@ -5448,7 +5448,7 @@
         "tree bridges",
         "three bridges vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Upper Yarra locality near Powelltown"
     },
     {
@@ -5460,7 +5460,7 @@
         "powellton",
         "powelltown vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Old timber town in the Yarra Ranges LGA"
     },
     {
@@ -5472,7 +5472,7 @@
         "yellingbow",
         "yellingbo vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Yarra Ranges locality, helmeted honeyeater country"
     },
     {

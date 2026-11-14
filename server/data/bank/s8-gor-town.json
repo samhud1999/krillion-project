@@ -32,7 +32,7 @@
         "janjuck",
         "jan jook"
       ],
-      "tier": "common"
+      "tier": "uncommon"
     },
     {
       "canonical": "Bells Beach",
@@ -44,7 +44,7 @@
         "bellz beach",
         "bels beach"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "A gazetted locality as well as a surf break, just off the road near Jan Juc - accept."
     },
     {
@@ -94,7 +94,7 @@
         "airees inlet",
         "aires inlet"
       ],
-      "tier": "common",
+      "tier": "uncommon",
       "note": "Expect many spellings; Split Point lighthouse is here."
     },
     {
@@ -108,7 +108,7 @@
         "fair havan",
         "farehaven"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Moggs Creek",
@@ -133,7 +133,7 @@
         "easten view",
         "eastern vew"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Where the Memorial Arch stands; old tollgate site. If they say 'Memorial Arch' ask for the town."
     },
     {
@@ -243,7 +243,7 @@
         "grey riv",
         "grey rivr"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Locality just west of Kennett River, before Wongarra; signposted on the road."
     },
     {
@@ -300,7 +300,7 @@
         "skeans creek",
         "skenes crk"
       ],
-      "tier": "uncommon"
+      "tier": "deep"
     },
     {
       "canonical": "Apollo Bay",
@@ -326,7 +326,7 @@
         "merango",
         "maringo"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Just south of Apollo Bay, last coastal settlement before the road turns inland."
     },
     {
@@ -354,7 +354,7 @@
         "capeotway",
         "cape otaway"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Gazetted locality; the lighthouse itself is 12 km down a side road - accept as a near-miss. 'The Otways' alone is a region, not a town."
     },
     {
@@ -367,7 +367,7 @@
         "glen air",
         "glenayre"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Castle Cove lookout and the Johanna turn-off are here; signposted on the road."
     },
     {
@@ -398,7 +398,7 @@
         "larvers hill",
         "leavers hill"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Wattle Hill",
@@ -450,7 +450,7 @@
         "princetwon",
         "princes town"
       ],
-      "tier": "uncommon",
+      "tier": "rare",
       "note": "Nearest town to the Twelve Apostles."
     },
     {
@@ -530,7 +530,7 @@
         "waare",
         "waarre vic"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not quite on the road - locality just inland of Port Campbell towards the Curdies River. Near-miss; host's call."
     },
     {
@@ -620,7 +620,7 @@
         "tiboon",
         "timbun"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Not on the road - 15 km inland from Port Campbell. Classic near-miss; accept generously."
     },
     {
@@ -641,7 +641,7 @@
         "coorymungle",
         "cooriemungel"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - dairy country between Timboon and Princetown. Near-miss; host's call."
     },
     {
@@ -652,7 +652,7 @@
         "scots creek",
         "scotts"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - inland between Timboon and Cobden. Near-miss; host's call."
     },
     {
@@ -676,7 +676,7 @@
         "cobdin",
         "kobden"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Not on the road - 30 km inland from Port Campbell. Near-miss; host's call."
     },
     {
@@ -702,7 +702,7 @@
         "curdies vale",
         "curdie"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - up the Curdies River from Peterborough. Near-miss; host's call."
     },
     {
@@ -712,7 +712,7 @@
         "camper down",
         "camperdoun"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Not on the road - Princes Highway, well inland. Reasonable to reject."
     },
     {
@@ -725,7 +725,7 @@
         "beech forest vic",
         "beach forrest"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Not on the road - Otway hinterland near the Otway Fly. Near-miss; host's call."
     },
     {
@@ -767,7 +767,7 @@
         "carlisle rv",
         "carlyle river"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - Otway hinterland on the Gellibrand River. Near-miss; host's call."
     },
     {
@@ -814,7 +814,7 @@
         "barwon down",
         "barwin downs"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - Otways hinterland between Birregurra and Forrest. Near-miss; host's call."
     },
     {
@@ -824,7 +824,7 @@
         "mount sabean",
         "mountsabine"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - high Otways locality on the Forrest-Apollo Bay road. Host's call."
     },
     {
@@ -834,7 +834,7 @@
         "tanybrin",
         "tannybryn"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - up Skenes Creek Road towards Forrest. Near-miss; host's call."
     },
     {
@@ -846,7 +846,7 @@
         "kolac",
         "colak"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Not on the road - Princes Highway, 40 km inland. Reasonable to reject."
     },
     {
@@ -869,7 +869,7 @@
         "benwerin",
         "benwarrin"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - halfway up the Deans Marsh-Lorne road. Near-miss; host's call."
     },
     {
@@ -889,7 +889,7 @@
         "pennyroyal valley",
         "pennyroyale"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Not on the road - valley locality near Deans Marsh. Near-miss; host's call."
     },
     {
@@ -903,7 +903,7 @@
         "birrigurra",
         "berregurra"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Not on the road - inland near Colac. Reasonable to reject."
     },
     {
@@ -917,7 +917,7 @@
         "winchilsea",
         "winchel sea"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Not on the road - Princes Highway. Reasonable to reject."
     },
     {
@@ -953,7 +953,7 @@
         "barwan heads",
         "barwon heads vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Not on the road - Bellarine side of the Barwon River. Reasonable to reject."
     },
     {
@@ -966,7 +966,7 @@
         "osean grove",
         "oceon grove"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Not on the road - Bellarine Peninsula. Reasonable to reject."
     },
     {
@@ -976,7 +976,7 @@
         "queens cliff",
         "queenscliff vic"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Not on the road - Bellarine Peninsula. Reasonable to reject."
     },
     {
@@ -987,7 +987,7 @@
         "point lonsdale vic",
         "point lonsdail"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Not on the road - Bellarine Peninsula. Reasonable to reject."
     },
     {
@@ -1001,7 +1001,7 @@
         "geolong",
         "jealong"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Not on the road - gateway city only. Host can reject."
     },
     {
@@ -1015,7 +1015,7 @@
         "port fairy vic",
         "pt fairey"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Not on the road - the Great Ocean Road ends at Allansford; Port Fairy is 30 km further along the Princes Highway. Commonly conflated; host can reject."
     },
     {
@@ -1026,7 +1026,7 @@
         "porland",
         "portland victoria"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Not on the road - 100 km past the Allansford end. Host can reject."
     }
   ],

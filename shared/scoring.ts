@@ -290,7 +290,22 @@ export interface RarityInput {
 }
 
 /**
- * Live rarity among the people in the room.
+ * The bank's rarity grade is a CEILING on what an answer can score: the crowd
+ * can drag a score down (half the room said it → puddle) but never lift a
+ * well-known answer above its grade. Grades come from impartial data
+ * (Wikipedia pageviews, Australian-weighted — see scripts/grade-bank.ts).
+ */
+const BANK_TIER_CAP: Record<BankTier, TierId> = {
+  common: 'shallows', // everyone knows it: a schooler at best, even said alone
+  uncommon: 'rockpool',
+  rare: 'deepcut',
+  deep: 'krillion',
+};
+
+const TIER_RANK: Record<TierId, number> = { dry: 0, puddle: 1, shallows: 2, rockpool: 3, deepcut: 4, krillion: 5 };
+
+/**
+ * Live rarity among the people in the room, capped by the bank grade.
  *   special answer                     → krillion, always
  *   obvious answer (bank-flagged)      → puddle, always — rarity can't save it
  *   count = 1, in the bank             → deepcut, or krillion if the bank calls it a deep cut
@@ -299,6 +314,8 @@ export interface RarityInput {
  *   share ≥ 30 %                       → puddle
  *   20 % ≤ share < 30 %                → shallows
  *   otherwise                          → rockpool
+ * …then a bank answer is capped at BANK_TIER_CAP[its grade]: a lone 'common'
+ * answer is only ever a schooler (30), a lone 'uncommon' a rock pool (60).
  * With a tiny room (validCount < 4) a lone bank answer is only a deepcut:
  * being unique among three people proves little.
  */
@@ -307,20 +324,24 @@ export function tierForRarity(input: RarityInput): TierId {
   if (special) return 'krillion';
   if (count <= 0 || validCount <= 0) return 'dry';
   if (obvious) return 'puddle';
+
+  let tier: TierId;
   if (count === 1) {
-    if (unverified && !vouched) return 'rockpool';
-    if (bankTier === 'deep' && validCount >= 4) return 'krillion';
-    return 'deepcut';
+    if (unverified && !vouched) tier = 'rockpool';
+    else if (bankTier === 'deep' && validCount >= 4) tier = 'krillion';
+    else tier = 'deepcut';
+  } else if (count === 2) {
+    tier = validCount >= 8 ? 'rockpool' : validCount >= 5 ? 'shallows' : 'puddle';
+  } else {
+    const share = count / validCount;
+    tier = share >= 0.3 ? 'puddle' : share >= 0.2 ? 'shallows' : 'rockpool';
   }
-  if (count === 2) {
-    if (validCount >= 8) return 'rockpool';
-    if (validCount >= 5) return 'shallows';
-    return 'puddle';
+
+  if (bankTier && !unverified) {
+    const cap = BANK_TIER_CAP[bankTier];
+    if (TIER_RANK[cap] < TIER_RANK[tier]) tier = cap;
   }
-  const share = count / validCount;
-  if (share >= 0.3) return 'puddle';
-  if (share >= 0.2) return 'shallows';
-  return 'rockpool';
+  return tier;
 }
 
 // ---------------------------------------------------------------------------

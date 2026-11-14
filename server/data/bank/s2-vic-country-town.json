@@ -64,7 +64,7 @@
         "aries inlet",
         "airies"
       ],
-      "tier": "common",
+      "tier": "uncommon",
       "note": "Split Point lighthouse (Round the Twist)"
     },
     {
@@ -143,7 +143,7 @@
         "skenes ck",
         "skeenes creek"
       ],
-      "tier": "uncommon"
+      "tier": "deep"
     },
     {
       "canonical": "Apollo Bay",
@@ -164,7 +164,7 @@
         "marrengo",
         "morengo"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Just past Apollo Bay"
     },
     {
@@ -176,7 +176,7 @@
         "cape otway lightstation",
         "cape otway vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "A locality rather than a township; lean generous"
     },
     {
@@ -197,7 +197,7 @@
         "lavers",
         "lavers hills"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Beech Forest",
@@ -207,7 +207,7 @@
         "beechy",
         "beech forrest"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Gellibrand",
@@ -226,7 +226,7 @@
         "forest",
         "forrest vic"
       ],
-      "tier": "uncommon",
+      "tier": "rare",
       "note": "Otways MTB and brewery town; accept the single-r 'Forest' misspelling"
     },
     {
@@ -238,7 +238,7 @@
         "deans march",
         "dean marsh"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Birregurra",
@@ -272,7 +272,7 @@
         "princeton",
         "princetown vic"
       ],
-      "tier": "uncommon",
+      "tier": "rare",
       "note": "Twelve Apostles gateway"
     },
     {
@@ -410,7 +410,7 @@
         "nelson vic",
         "nelson victoria"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Glenelg River mouth on the SA border"
     },
     {
@@ -421,7 +421,7 @@
         "casterson",
         "casterton vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Kelpie capital"
     },
     {
@@ -441,7 +441,7 @@
         "harrow vic",
         "harrow victoria"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Johnny Mullagh / 1868 Aboriginal cricket team"
     },
     {
@@ -462,7 +462,7 @@
         "garoke",
         "goroke vic"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Balmoral",
@@ -471,7 +471,7 @@
         "balmoral vic",
         "balmoral victoria"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Cavendish",
@@ -480,7 +480,7 @@
         "cavendish vic",
         "cavendish victoria"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Hamilton",
@@ -512,7 +512,7 @@
         "penhurst",
         "penshurst vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Macarthur",
@@ -522,7 +522,7 @@
         "mac arthur",
         "macarthur vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Mortlake",
@@ -550,7 +550,7 @@
         "nourat",
         "noorat vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Alan Marshall's hometown"
     },
     {
@@ -561,7 +561,7 @@
         "camperdoon",
         "camperdown vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Derrinallum",
@@ -571,7 +571,7 @@
         "derrinallam",
         "derrinallum vic"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Lismore",
@@ -580,7 +580,7 @@
         "lismore vic",
         "lismore victoria"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Victorian Lismore on the Hamilton Hwy, not the NSW one"
     },
     {
@@ -600,7 +600,7 @@
         "bee ac",
         "beeac vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Colac",
@@ -632,7 +632,7 @@
         "lara vic",
         "lara victoria"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Geelong satellite township; accept"
     },
     {
@@ -642,7 +642,7 @@
         "littleriver",
         "little river vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Anakie",
@@ -652,7 +652,7 @@
         "anaki",
         "anakie vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Fairy Park"
     },
     {
@@ -672,7 +672,7 @@
         "inverlay",
         "inverleigh vic"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Meredith",
@@ -693,7 +693,7 @@
         "steiglitz ghost town",
         "steiglitz vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Historic gold ghost town; still a gazetted locality"
     },
     {
@@ -703,7 +703,7 @@
         "oceangrove",
         "ocean grove vic"
       ],
-      "tier": "common"
+      "tier": "uncommon"
     },
     {
       "canonical": "Barwon Heads",
@@ -714,7 +714,7 @@
         "barwon heds",
         "barwon heads vic"
       ],
-      "tier": "common",
+      "tier": "uncommon",
       "note": "SeaChange"
     },
     {
@@ -747,7 +747,7 @@
         "porto",
         "portarlington vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Drysdale",
@@ -769,7 +769,7 @@
         "st leonard",
         "saint leonards vic"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Indented Head",
@@ -779,7 +779,7 @@
         "indented heads",
         "indented head vic"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Ballarat",
@@ -822,7 +822,7 @@
         "cloons",
         "clunes vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Booktown"
     },
     {
@@ -863,7 +863,7 @@
         "blackwood vic",
         "blackwood victoria"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Ballan",
@@ -881,7 +881,7 @@
         "gordon vic",
         "gordon victoria"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Linton",
@@ -890,7 +890,7 @@
         "linton vic",
         "linton victoria"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Smythesdale",
@@ -900,7 +900,7 @@
         "smithsdale",
         "smythesdale vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Beaufort",
@@ -910,7 +910,7 @@
         "bewfort",
         "beaufort vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Learmonth",
@@ -938,7 +938,7 @@
         "moonambell",
         "moonambel vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Pyrenees wine village"
     },
     {
@@ -948,7 +948,7 @@
         "lakebolac",
         "lake bollac"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Willaura",
@@ -957,7 +957,7 @@
         "wilaura",
         "willaura vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Ararat",
@@ -986,7 +986,7 @@
         "pomonall",
         "pomonal vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Halls Gap",
@@ -997,7 +997,7 @@
         "halls gaps",
         "hals gap"
       ],
-      "tier": "common"
+      "tier": "uncommon"
     },
     {
       "canonical": "Stawell",
@@ -1018,7 +1018,7 @@
         "greatwestern",
         "great western vic"
       ],
-      "tier": "uncommon",
+      "tier": "rare",
       "note": "Seppelt"
     },
     {
@@ -1030,7 +1030,7 @@
         "marybrough",
         "maryborough vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Victorian Maryborough, not the QLD one"
     },
     {
@@ -1049,7 +1049,7 @@
         "talbot vic",
         "talbot victoria"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Dunolly",
@@ -1069,7 +1069,7 @@
         "molliagul",
         "moliagul vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Welcome Stranger nugget"
     },
     {
@@ -1090,7 +1090,7 @@
         "gilford",
         "guildford vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Castlemaine",
@@ -1129,7 +1129,7 @@
         "malden",
         "maldon vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Taradale",
@@ -1209,7 +1209,7 @@
         "mount macedon vic",
         "mt macedon vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Riddells Creek",
@@ -1429,7 +1429,7 @@
         "karang",
         "kerang vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Lake Boga",
@@ -1438,7 +1438,7 @@
         "lakeboga",
         "lake boga vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Catalina flying boat museum"
     },
     {
@@ -1458,7 +1458,7 @@
         "nyah west",
         "nyah vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Nyah and Nyah West: treat as one answer"
     },
     {
@@ -1469,7 +1469,7 @@
         "robin vale",
         "robinvale vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Boort",
@@ -1488,7 +1488,7 @@
         "pyramid",
         "pyramid hill vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Bridgewater",
@@ -1532,7 +1532,7 @@
         "saint arnard",
         "st arnaud vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Charlton",
@@ -1593,7 +1593,7 @@
         "nullawill",
         "nullawil vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Silo art"
     },
     {
@@ -1603,7 +1603,7 @@
         "lascells",
         "lascelles vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Silo art"
     },
     {
@@ -1623,7 +1623,7 @@
         "beula",
         "beulah vic"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Rainbow",
@@ -1664,7 +1664,7 @@
         "ouyen vic",
         "ouen"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Vanilla slice capital"
     },
     {
@@ -1675,7 +1675,7 @@
         "murray ville",
         "murrayville vic"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Manangatang",
@@ -1684,7 +1684,7 @@
         "manang",
         "manangatang vic"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Mildura",
@@ -1704,7 +1704,7 @@
         "irimple",
         "irymple vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Red Cliffs",
@@ -1763,7 +1763,7 @@
         "dimbula",
         "dimboola vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Nhill",
@@ -1774,7 +1774,7 @@
         "knill",
         "nhill vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Kaniva",
@@ -1783,7 +1783,7 @@
         "kanniva",
         "kaniva vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Serviceton",
@@ -1791,7 +1791,7 @@
         "serviceton",
         "serviceton vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Grand border railway station"
     },
     {
@@ -1811,7 +1811,7 @@
         "rup",
         "rupanyup vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Silo art"
     },
     {
@@ -1821,7 +1821,7 @@
         "minip",
         "minyip vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Coopers Crossing in The Flying Doctors"
     },
     {
@@ -1835,7 +1835,7 @@
         "warracknabeal vic",
         "warrackanbeal"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Nick Cave's birthplace"
     },
     {
@@ -1877,7 +1877,7 @@
         "dadswells",
         "dadswells bridge vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Giant Koala"
     },
     {
@@ -1919,7 +1919,7 @@
         "nagambee",
         "nagambie vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Avenel",
@@ -1928,7 +1928,7 @@
         "avenell",
         "avenel vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Ned Kelly's boyhood town"
     },
     {
@@ -1948,7 +1948,7 @@
         "eurora",
         "euroa vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Benalla",
@@ -1968,7 +1968,7 @@
         "glenrowen",
         "glenrowan vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Ned Kelly"
     },
     {
@@ -2001,7 +2001,7 @@
         "yakandandah",
         "yackandandah vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Chiltern",
@@ -2030,7 +2030,7 @@
         "wahgunya",
         "wahgunyah vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Corowa is across the river in NSW"
     },
     {
@@ -2064,7 +2064,7 @@
         "mitta",
         "mitta mitta vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Corryong",
@@ -2094,7 +2094,7 @@
         "punkah",
         "porepunkah vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Bright",
@@ -2144,7 +2144,7 @@
         "dinnerplain",
         "dinner plains"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Alpine village; accept"
     },
     {
@@ -2155,7 +2155,7 @@
         "falls",
         "falls creek vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Alpine resort village; accept"
     },
     {
@@ -2168,7 +2168,7 @@
         "buller",
         "mount buller vic"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Alpine resort village; accept"
     },
     {
@@ -2189,7 +2189,7 @@
         "tawonga south",
         "tawonga vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Stanley",
@@ -2198,7 +2198,7 @@
         "stanley vic",
         "stanley victoria"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Eldorado",
@@ -2207,7 +2207,7 @@
         "el dorado",
         "eldorado vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Milawa",
@@ -2216,7 +2216,7 @@
         "millawa",
         "milawa vic"
       ],
-      "tier": "uncommon",
+      "tier": "rare",
       "note": "Gourmet region (Brown Brothers)"
     },
     {
@@ -2226,7 +2226,7 @@
         "whitfield vic",
         "whitfield victoria"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "King Valley"
     },
     {
@@ -2255,7 +2255,7 @@
         "jameison",
         "jamieson vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Woods Point",
@@ -2265,7 +2265,7 @@
         "wood's point",
         "woods point vic"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Historic gold town at the end of a very long dirt road"
     },
     {
@@ -2276,7 +2276,7 @@
         "bonnie doone",
         "bonny doon"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "The Castle: 'how's the serenity'"
     },
     {
@@ -2286,7 +2286,7 @@
         "yark",
         "yarck vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Alexandra",
@@ -2296,7 +2296,7 @@
         "alex",
         "alexandra vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Eildon",
@@ -2351,7 +2351,7 @@
         "flowerdale vic",
         "flowerdale victoria"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Kinglake",
@@ -2388,7 +2388,7 @@
         "talarook",
         "tallarook vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Seymour",
@@ -2545,7 +2545,7 @@
         "greta vic",
         "greta victoria"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Kelly country"
     },
     {
@@ -2568,7 +2568,7 @@
         "drewin",
         "drouin vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Longwarry",
@@ -2578,7 +2578,7 @@
         "longwary",
         "longwarry vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Bunyip",
@@ -2596,7 +2596,7 @@
         "garfield vic",
         "garfield victoria"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Nar Nar Goon",
@@ -2606,7 +2606,7 @@
         "nar nar goon north",
         "nar-nar-goon"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Koo Wee Rup",
@@ -2669,7 +2669,7 @@
         "philip island",
         "phillip is"
       ],
-      "tier": "common",
+      "tier": "uncommon",
       "note": "Phillip Island is an island, not a town; steer answerers to Cowes"
     },
     {
@@ -2690,7 +2690,7 @@
         "cape woolomai",
         "cape woolamai vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Kilcunda",
@@ -2699,7 +2699,7 @@
         "kilkunda",
         "kilcunda vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Wonthaggi",
@@ -2720,7 +2720,7 @@
         "cape patterson",
         "cape paterson vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Inverloch",
@@ -2739,7 +2739,7 @@
         "venusbay",
         "venus bay vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Tarwin Lower",
@@ -2749,7 +2749,7 @@
         "tarwin",
         "tarwin lower vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Sandy Point",
@@ -2758,7 +2758,7 @@
         "sandypoint",
         "sandy point vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Fish Creek",
@@ -2796,7 +2796,7 @@
         "port welshpool",
         "welshpool vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Not the Perth suburb"
     },
     {
@@ -2826,7 +2826,7 @@
         "sea spray",
         "seaspray vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Loch Sport",
@@ -2836,7 +2836,7 @@
         "lock sport",
         "loch sport vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Meeniyan",
@@ -2845,7 +2845,7 @@
         "meenyan",
         "meeniyan vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Koonwarra",
@@ -2854,7 +2854,7 @@
         "koonwara",
         "koonwarra vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Leongatha",
@@ -2864,7 +2864,7 @@
         "leon gatha",
         "leongatha vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Korumburra",
@@ -2874,7 +2874,7 @@
         "korumbura",
         "korumburra vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Loch",
@@ -2883,7 +2883,7 @@
         "loch vic",
         "lock vic"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Poowong",
@@ -2892,7 +2892,7 @@
         "poowong vic",
         "poowong victoria"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Mirboo North",
@@ -2903,7 +2903,7 @@
         "mirboo nth",
         "mirboo north vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Boolarra",
@@ -2912,7 +2912,7 @@
         "boolara",
         "boolarra vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Yinnar",
@@ -2921,7 +2921,7 @@
         "yinnar vic",
         "yinnar victoria"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Churchill",
@@ -2978,7 +2978,7 @@
         "yaragon",
         "yarragon vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Thorpdale",
@@ -2999,7 +2999,7 @@
         "neerim sth",
         "nerim south"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Noojee",
@@ -3039,7 +3039,7 @@
         "walhala",
         "walhalla vic"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Toongabbie",
@@ -3048,7 +3048,7 @@
         "toongabie",
         "toongabbie vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Not the Sydney suburb"
     },
     {
@@ -3116,7 +3116,7 @@
         "briag",
         "briagolong vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Licola",
@@ -3125,7 +3125,7 @@
         "licola vic",
         "licola victoria"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Victoria's only privately owned town (Lions Clubs)"
     },
     {
@@ -3135,7 +3135,7 @@
         "dargo vic",
         "dargo victoria"
       ],
-      "tier": "rare"
+      "tier": "uncommon"
     },
     {
       "canonical": "Bairnsdale",
@@ -3164,7 +3164,7 @@
         "raymondisland",
         "raymond island vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Koalas"
     },
     {
@@ -3194,7 +3194,7 @@
         "laketyers",
         "lake tyers beach"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Nowa Nowa",
@@ -3203,7 +3203,7 @@
         "nowanowa",
         "nowa nowa vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Bruthen",
@@ -3212,7 +3212,7 @@
         "brutheny",
         "bruthen vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Buchan",
@@ -3222,7 +3222,7 @@
         "bucken",
         "buchan vic"
       ],
-      "tier": "uncommon"
+      "tier": "rare"
     },
     {
       "canonical": "Swifts Creek",
@@ -3232,7 +3232,7 @@
         "swift's creek",
         "swift creek"
       ],
-      "tier": "deep"
+      "tier": "uncommon"
     },
     {
       "canonical": "Omeo",
@@ -3321,7 +3321,7 @@
         "yarrajunction",
         "yarra junction vic"
       ],
-      "tier": "uncommon",
+      "tier": "rare",
       "note": "Yarra Ranges; accept"
     },
     {
@@ -3342,7 +3342,7 @@
         "powell town",
         "powelltown vic"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Gembrook",
@@ -3362,7 +3362,7 @@
         "whitlesea",
         "whittlesea vic"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Township on the metro fringe; lean accept"
     },
     {
@@ -3371,7 +3371,7 @@
         "teesdale vic",
         "teasdale"
       ],
-      "tier": "rare",
+      "tier": "uncommon",
       "note": "Golden Plains hamlet between Geelong and Ballarat."
     },
     {
@@ -3380,7 +3380,7 @@
         "snake valley vic",
         "snakes valley"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Tiny locality west of Ballarat. Great name."
     },
     {
@@ -3389,7 +3389,7 @@
         "rokewood vic",
         "rockwood"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Golden Plains, on the Colac-Ballarat road."
     },
     {
@@ -3406,7 +3406,7 @@
       "aliases": [
         "darlington vic"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Western District, on Mount Emu Creek."
     },
     {
@@ -3425,7 +3425,7 @@
         "killarney vic",
         "kilarney"
       ],
-      "tier": "rare",
+      "tier": "deep",
       "note": "Between Warrnambool and Port Fairy."
     },
     {
@@ -3434,7 +3434,7 @@
         "yambuk vic",
         "yambuck"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "West of Port Fairy; wind farm country."
     },
     {
@@ -3443,7 +3443,7 @@
         "glenthompson vic",
         "glen thompson"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Near Dunkeld, under the Grampians."
     },
     {
@@ -3452,7 +3452,7 @@
         "wickliffe vic",
         "wycliffe"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "On the Hopkins River, west of Lake Bolac."
     },
     {
@@ -3461,7 +3461,7 @@
         "landsborough vic",
         "landsbrough"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Pyrenees wine country."
     },
     {
@@ -3470,7 +3470,7 @@
         "navarre vic",
         "navare"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Tiny Pyrenees locality near St Arnaud."
     }
   ],

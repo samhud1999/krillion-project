@@ -164,6 +164,17 @@ describe('tierForRarity', () => {
   it('special answers always hit the top tier', () => {
     expect(tierForRarity({ count: 15, validCount: 20, special: true })).toBe('krillion');
   });
+  it('caps a bank answer at its rarity grade, however few say it', () => {
+    expect(tierForRarity({ count: 1, validCount: 20, bankTier: 'common' })).toBe('shallows');
+    expect(tierForRarity({ count: 1, validCount: 20, bankTier: 'uncommon' })).toBe('rockpool');
+    expect(tierForRarity({ count: 1, validCount: 20, bankTier: 'rare' })).toBe('deepcut');
+    // the crowd can still drag a graded answer below its cap…
+    expect(tierForRarity({ count: 8, validCount: 20, bankTier: 'rare' })).toBe('puddle');
+    // …and the cap still bites when only a few say a well-known answer
+    expect(tierForRarity({ count: 3, validCount: 20, bankTier: 'common' })).toBe('shallows');
+    // unverified answers are never capped (legacy rounds only)
+    expect(tierForRarity({ count: 1, validCount: 20, unverified: true, vouched: true })).toBe('deepcut');
+  });
   it('pins obvious answers to a puddle, even when only one person says them', () => {
     expect(tierForRarity({ count: 1, validCount: 20, bankTier: 'common', obvious: true })).toBe('puddle');
     expect(tierForRarity({ count: 1, validCount: 20, bankTier: 'deep', obvious: true })).toBe('puddle');
@@ -207,8 +218,8 @@ describe('scoreOpenRound', () => {
     const byKey = Object.fromEntries(out.groups.map((g) => [g.display, g]));
     expect(byKey['Tim Tam']!.count).toBe(4);
     expect(byKey['Tim Tam']!.tier).toBe('puddle'); // 4/9 = 44 %
-    expect(byKey['Anzac biscuit']!.tier).toBe('rockpool'); // two of nine
-    expect(byKey['Kingston']!.tier).toBe('deepcut');
+    expect(byKey['Anzac biscuit']!.tier).toBe('shallows'); // two of nine → rockpool, capped: it's a 'common'
+    expect(byKey['Kingston']!.tier).toBe('rockpool'); // alone, but graded 'uncommon' → capped at 60
     expect(byKey['Gaiety']!.tier).toBe('krillion');
     expect(byKey['Yo-yo']!.status).toBe('unverified');
     expect(byKey['Yo-yo']!.tier).toBe('rockpool'); // unknown and alone: 60 until the host vouches

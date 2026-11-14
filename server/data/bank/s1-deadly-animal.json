@@ -80,7 +80,7 @@
         "coastal tai pan",
         "queensland taipan"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Unqualified 'taipan' lands here. Host may merge all taipans into one bucket if the table prefers."
     },
     {
@@ -138,7 +138,7 @@
         "mulgas",
         "kingbrown"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Actually a black snake despite the name; delivers the largest venom yield of any Australian snake."
     },
     {
@@ -158,7 +158,7 @@
         "copper head snake",
         "common copperhead"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Victoria's cold-tolerant local; found around Lorne and the Otways. All three copperhead species grouped."
     },
     {
@@ -185,7 +185,7 @@
         "dugite snakes",
         "spotted brown"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "WA's brown snake; a Perth transplant may offer it."
     },
     {
@@ -198,7 +198,7 @@
         "rough scale snake",
         "roughscale snake"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Often mistaken for a harmless keelback; has caused human deaths."
     },
     {
@@ -224,7 +224,7 @@
         "collets snake",
         "colletts snakes"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Queensland black snake; bites have caused life-threatening kidney failure and coagulopathy."
     },
     {
@@ -259,7 +259,7 @@
         "hoplocephalus bungaroides",
         "broad head snake"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Endangered Sydney sandstone specialist; dangerously venomous."
     },
     {
@@ -283,7 +283,7 @@
         "oxyuranus temporalis",
         "western desert taipans"
       ],
-      "tier": "deep",
+      "tier": "common",
       "note": "Third taipan species, only described in 2007 from the WA/NT border deserts."
     },
     {
@@ -296,7 +296,7 @@
         "curled snake",
         "myalls"
       ],
-      "tier": "deep",
+      "tier": "rare",
       "note": "Inland snake listed as potentially dangerous to humans; a reasonable deep cut."
     },
     {
@@ -317,7 +317,7 @@
         "pseudonaja aspidorhyncha",
         "strap snouted brown snakes"
       ],
-      "tier": "deep"
+      "tier": "rare"
     },
     {
       "canonical": "Peninsula Brown Snake",
@@ -354,7 +354,7 @@
         "banded sea krait",
         "banded sea snake"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Generic answer; specific species have their own entries below. Host may merge all sea snakes."
     },
     {
@@ -367,7 +367,7 @@
         "yellow belly sea snake",
         "yellowbelly sea snake"
       ],
-      "tier": "deep",
+      "tier": "common",
       "note": "Washes up on Victorian beaches occasionally; highly venomous."
     },
     {
@@ -381,7 +381,7 @@
         "beaked seasnake",
         "hook nose sea snake"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Responsible for most sea snake deaths worldwide."
     },
     {
@@ -536,7 +536,7 @@
         "redheaded mouse spider",
         "missulena occatoria"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Venom similar to funnel-web venom; funnel-web antivenom works on it. Found in Victoria."
     },
     {
@@ -551,7 +551,7 @@
         "poisonous spider",
         "poisonous spiders"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Generic answer with no species. Score as its own bucket or merge into Sydney Funnel-web Spider if the table agrees."
     },
     {
@@ -594,7 +594,7 @@
         "urukandji",
         "erukandji"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Two confirmed deaths in 2002. Thumbnail-sized; expanding range south along the Queensland coast."
     },
     {
@@ -621,7 +621,7 @@
         "king slayer",
         "king slayer jellyfish"
       ],
-      "tier": "deep",
+      "tier": "uncommon",
       "note": "Irukandji species named after Robert King, the US tourist it killed off Port Douglas in 2002."
     },
     {
@@ -721,7 +721,7 @@
         "jelly",
         "deadly jellyfish"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Generic answer. Score as its own bucket or merge into Box Jellyfish if the table agrees."
     },
     {
@@ -767,7 +767,7 @@
         "globe fish",
         "puffa fish"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Kills only if eaten (tetrodotoxin); Australian deaths recorded, including fishers eating toadfish. Accept."
     },
     {
@@ -785,7 +785,7 @@
         "pterois volitans",
         "devil firefish"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Venomous spines; deaths are very rare but documented. Accept."
     },
     {
@@ -843,7 +843,7 @@
         "bull whaler",
         "swan river whaler"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Swims up rivers; responsible for many Sydney Harbour and Queensland fatalities."
     },
     {
@@ -853,7 +853,7 @@
         "galeocerdo cuvier",
         "tigershark"
       ],
-      "tier": "uncommon"
+      "tier": "common"
     },
     {
       "canonical": "Whaler Shark",
@@ -887,7 +887,7 @@
         "whitetip shark",
         "white tip shark"
       ],
-      "tier": "deep",
+      "tier": "common",
       "note": "Open-ocean shark blamed for many shipwreck deaths; present in Australian tropical waters."
     },
     {
@@ -902,7 +902,7 @@
         "isurus oxyrinchus",
         "blue pointer"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Fast pelagic shark with recorded attacks on people and boats; caught off Victoria."
     },
     {
@@ -919,7 +919,7 @@
         "hammer head",
         "hammer head shark"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Large and potentially dangerous; unprovoked attacks recorded, fatalities doubtful. Accept with a shrug."
     },
     {
@@ -978,7 +978,7 @@
         "fresh water croc",
         "johnstone river crocodile"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Weaker answer: no confirmed deaths, but bites have caused serious injuries and a 3m croc could kill. Accept."
     },
     {
@@ -1048,7 +1048,7 @@
         "wild hogs",
         "feral boar"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Big tusked boars have killed hunters and dogs; accept 'pig' or 'boar'."
     },
     {
@@ -1065,7 +1065,7 @@
         "bubalus bubalis",
         "feral water buffalo"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Feral in the Top End; Crocodile Dundee's hypnosis trick notwithstanding, they have killed people in the NT."
     },
     {
@@ -1096,7 +1096,7 @@
         "northern hairy-nosed wombat",
         "vombatus ursinus"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Borderline but accepted: a 2010 Victorian attack caused severe injuries, and wombat collisions have killed drivers. Otways locals will know."
     },
     {
@@ -1116,7 +1116,7 @@
         "wild deer",
         "pet deer"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "A Victorian deep cut: Paul McDonald was killed by his pet red deer stag at Moyhu near Wangaratta in April 2019. Sambar also cause fatal car crashes."
     },
     {
@@ -1142,7 +1142,7 @@
         "oxen",
         "angry bull"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Cattle kill several Australians every year on farms; feral scrub bulls and NT banteng included. Not native, but a defensible answer."
     },
     {
@@ -1163,7 +1163,7 @@
         "stallion",
         "mare"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Statistically the deadliest animal in Australia (around 20 deaths a year, mostly falls) and the Hendra virus carrier. Not native; accept unless the table has agreed on native-only."
     },
     {
@@ -1182,7 +1182,7 @@
         "mastiff",
         "bull arab"
       ],
-      "tier": "uncommon",
+      "tier": "common",
       "note": "Domestic dog attacks kill one or two Australians a year. Not native; accept unless the table has agreed on native-only. Dingo is a separate entry."
     },
     {
@@ -1495,7 +1495,7 @@
         "simalia kinghorni",
         "morelia amethistina"
       ],
-      "tier": "deep",
+      "tier": "common",
       "note": "Australia's largest snake (5m+); non-venomous constrictor with recorded attacks on children, no confirmed deaths. Host-discretion half-credit per hostNotes. Unqualified 'python' lands here."
     },
     {
@@ -1507,7 +1507,7 @@
         "crown of thorns sea star",
         "acanthaster planci"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Venomous spines cause serious injuries to divers; no confirmed Australian deaths. Host-discretion half-credit per hostNotes."
     },
     {
@@ -1521,7 +1521,7 @@
         "sand tiger",
         "carcharias taurus"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Historically blamed and culled as a man-eater; the modern view is it is placid. Old-school answer; host discretion, lean accept."
     },
     {
@@ -1538,7 +1538,7 @@
         "spotted wobbegong",
         "banded wobbegong"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Bites waders and divers who step on or grab them; many recorded attacks, none fatal. Weak answer; host discretion."
     },
     {
@@ -1585,7 +1585,7 @@
         "killerwhale",
         "orcinus orca"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Apex predator in Australian waters (the Eden orcas hunted whales for decades); no recorded wild attacks on humans here, but unquestionably capable. Host discretion, lean accept."
     },
     {
@@ -1596,7 +1596,7 @@
         "blue whalers",
         "prionace glauca"
       ],
-      "tier": "deep",
+      "tier": "common",
       "note": "Oceanic shark with recorded fatal attacks worldwide; found off southern Australia."
     },
     {
@@ -1608,7 +1608,7 @@
         "venomous ant",
         "venomous ants"
       ],
-      "tier": "rare",
+      "tier": "common",
       "note": "Generic answer; ant-sting anaphylaxis genuinely kills Australians. Score as its own bucket or merge into Jack Jumper/Bull Ant/Fire Ant if the table agrees."
     }
   ],
