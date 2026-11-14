@@ -5,108 +5,6 @@ Median monthly en.wikipedia pageviews (12 months, real users), Australian topics
 Tiers by fixed thresholds on effective views: ≥3000 common · ≥1000 uncommon · ≥300 rare · below deep.
 Entries with no on-topic article keep their editorial tier (marked). `obvious`-pinned entries keep their tier.
 
-## s1-deadly-animal
-
-| answer | article | views/mo | AU | tier | → |
-|---|---|---:|:-:|---|---|
-| Kangaroo | Kangaroo | 52025 | 🇦🇺 | common | · |
-| Saltwater Crocodile | Saltwater crocodile | 51559 | 🇦🇺 | common | · |
-| Blue-ringed Octopus | Blue-ringed octopus | 49094 | 🇦🇺 | common | · |
-| Dingo | Dingo | 47461 | 🇦🇺 | common | · |
-| Dog | Dog | 164222 |  | uncommon | **common** |
-| Inland Taipan | Inland taipan | 33951 | 🇦🇺 | common | · |
-| Wombat | Wombat | 32201 | 🇦🇺 | rare | **common** |
-| Water Buffalo | Water buffalo | 28843 | 🇦🇺 | uncommon | **common** |
-| Killer Whale | Orca | 104978 |  | rare | **common** |
-| Eastern Brown Snake | Eastern brown snake | 21359 | 🇦🇺 | common | · |
-| Horse | Horse | 80243 |  | uncommon | **common** |
-| Snake | Snake | 74847 |  | common | · |
-| Redback Spider | Redback spider | 18270 | 🇦🇺 | common | · |
-| Feral Pig | Feral pig | 16112 | 🇦🇺 | uncommon | **common** |
-| Great White Shark | Great white shark | 59337 |  | common | · |
-| Shark | Shark | 58675 |  | common | · |
-| Jellyfish | Jellyfish | 54148 |  | uncommon | **common** |
-| Tiger Snake | Tiger snake | 13470 | 🇦🇺 | common | · |
-| Deer | Deer | 50534 |  | rare | **common** |
-| Sydney Funnel-web Spider | Sydney funnel-web spider | 11921 | 🇦🇺 | common | · |
-| Spider | Spider | 43561 |  | uncommon | **common** |
-| Red-bellied Black Snake | Red-bellied black snake | 10232 | 🇦🇺 | common | · |
-| Coastal Taipan | Coastal taipan | 9254 | 🇦🇺 | uncommon | **common** |
-| Grey Nurse Shark | Sand tiger shark | 8484 | 🇦🇺 | rare | **common** |
-| Bull Shark | Bull shark | 33543 |  | uncommon | **common** |
-| Ant | Ant | 31825 |  | rare | **common** |
-| Wobbegong | Wobbegong | 6951 | 🇦🇺 | rare | **common** |
-| Lionfish | Lionfish | 26550 |  | rare | **common** |
-| Stingray | Stingray | 25615 |  | common | · |
-| Tiger Shark | Tiger shark | 25374 |  | uncommon | **common** |
-| Box Jellyfish | Box jellyfish | 25340 |  | common | · |
-| King Brown Snake | King brown snake | 5707 | 🇦🇺 | uncommon | **common** |
-| Freshwater Crocodile | Freshwater crocodile | 5202 | 🇦🇺 | rare | **common** |
-| Copperhead | Eastern copperhead | 19020 |  | uncommon | **common** |
-| Pufferfish | Tetraodontidae | 17825 |  | uncommon | **common** |
-| Bull | Bull | 17414 |  | uncommon | **common** |
-| Shortfin Mako | Shortfin mako shark | 14787 |  | rare | **common** |
-| Sea Snake | Sea snake | 12931 |  | uncommon | **common** |
-| Dugite | Dugite | 3020 | 🇦🇺 | rare | **common** |
-| Oceanic Whitetip Shark | Oceanic whitetip shark | 12040 |  | deep | **common** |
-| Stonefish | Synanceia | 11458 |  | common | · |
-| Yellow-bellied Sea Snake | Yellow-bellied sea snake | 10509 |  | deep | **common** |
-| Crown-of-thorns Starfish | Crown-of-thorns starfish | 10405 |  | rare | **common** |
-| Scrub Python | Australian scrub python | 2276 | 🇦🇺 | deep | **common** |
-| Mouse Spider | Missulena | 2238 | 🇦🇺 | rare | **common** |
-| Blue Shark | Blue shark | 8782 |  | deep | **common** |
-| Great Hammerhead | Great hammerhead | 8421 |  | rare | **common** |
-| Central Ranges Taipan | Central Ranges taipan | 1330 | 🇦🇺 | deep | **common** |
-| Irukandji | Irukandji syndrome | 5304 |  | uncommon | **common** |
-| Rough-scaled Snake | Rough-scaled snake | 707 | 🇦🇺 | deep | **uncommon** |
-| Collett's Snake | Collett's snake | 586 | 🇦🇺 | deep | **uncommon** |
-| Broad-headed Snake | Broad-headed snake | 500 | 🇦🇺 | deep | **uncommon** |
-| Malo kingi | Malo kingi | 1870 |  | deep | **uncommon** |
-| Beaked Sea Snake | Hydrophis schistosus | 1852 |  | deep | **uncommon** |
-| Curl Snake | Curl snake | 246 | 🇦🇺 | deep | **rare** |
-| Strap-snouted Brown Snake | Strap-snouted brown snake | 191 | 🇦🇺 | deep | **rare** |
-| Morbakka | Morbakka | 25 |  | deep | · |
-| Western Brown Snake | — | — |  | rare | no data — kept |
-| Eastern Small-eyed Snake | — | — |  | deep | no data — kept |
-| Death Adder | — | — |  | uncommon | no data — kept |
-| Spotted Black Snake | — | — |  | deep | no data — kept |
-| Pale-headed Snake | — | — |  | deep | no data — kept |
-| Stephens' Banded Snake | — | — |  | deep | no data — kept |
-| Peninsula Brown Snake | — | — |  | deep | no data — kept |
-| Speckled Brown Snake | — | — |  | deep | no data — kept |
-| Ingram's Brown Snake | — | — |  | deep | no data — kept |
-| Stokes' Sea Snake | — | — |  | deep | no data — kept |
-| Olive Sea Snake | — | — |  | deep | no data — kept |
-| Blue Mountains Funnel-web Spider | — | — |  | deep | no data — kept |
-| Northern Tree Funnel-web Spider | — | — |  | deep | no data — kept |
-| Newcastle Funnel-web Spider | — | — |  | deep | no data — kept |
-| Southern Tree Funnel-web Spider | — | — |  | deep | no data — kept |
-| Bluebottle | — | — |  | rare | no data — kept |
-| Cone Snail | — | — |  | uncommon | no data — kept |
-| Flower Urchin | — | — |  | deep | no data — kept |
-| Whaler Shark | — | — |  | rare | no data — kept |
-| Slug | — | — |  | rare | no data — kept |
-| Leopard Seal | Leopard seal | — |  | deep | · |
-| Feral Camel | — | — |  | rare | no data — kept |
-| Human | Human | — |  | rare | · |
-| Cassowary | Cassowary | — | 🇦🇺 | common | · |
-| Flying Fox | Pteropus | — | 🇦🇺 | rare | · |
-| Magpie | — | — |  | uncommon | no data — kept |
-| Honey Bee | — | — |  | uncommon | no data — kept |
-| European Wasp | — | — |  | rare | no data — kept |
-| Jack Jumper Ant | — | — |  | rare | no data — kept |
-| Bull Ant | — | — |  | rare | no data — kept |
-| Fire Ant | — | — |  | rare | no data — kept |
-| Mosquito | Mosquito | — |  | uncommon | · |
-| Paralysis Tick | — | — |  | uncommon | no data — kept |
-| Platypus | — | — |  | uncommon | no data — kept |
-| Emu | — | — |  | uncommon | no data — kept |
-| Goanna | — | — |  | rare | no data — kept |
-| Cane Toad | — | — |  | uncommon | no data — kept |
-| Dubois' Sea Snake | — | — |  | deep | no data — kept |
-| Elegant Sea Snake | — | — |  | deep | no data — kept |
-| Darling Downs Funnel-web Spider | — | — |  | deep | no data — kept |
-
 ## s2-vic-country-town
 
 | answer | article | views/mo | AU | tier | → |
@@ -122,10 +20,10 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Horsham | Horsham, Victoria | 2714 | 🇦🇺 | common | · |
 | Traralgon | Traralgon | 2695 | 🇦🇺 | common | · |
 | Portland | Portland, Victoria | 2562 | 🇦🇺 | common | · |
-| Walhalla | Walhalla, Victoria | 2512 | 🇦🇺 | uncommon | **common** |
+| Walhalla | Walhalla, Victoria | 2512 | 🇦🇺 | common | · |
 | Wodonga | Wodonga | 2449 | 🇦🇺 | common | · |
 | Sale | Sale, Victoria | 2426 | 🇦🇺 | common | · |
-| Warracknabeal | Warracknabeal | 2402 | 🇦🇺 | uncommon | **common** |
+| Warracknabeal | Warracknabeal | 2402 | 🇦🇺 | common | · |
 | Swan Hill | Swan Hill | 2073 | 🇦🇺 | common | · |
 | Hamilton | Hamilton, Victoria | 2060 | 🇦🇺 | common | · |
 | Bacchus Marsh | Bacchus Marsh | 2040 | 🇦🇺 | common | · |
@@ -135,293 +33,1425 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Warragul | Warragul | 1924 | 🇦🇺 | common | · |
 | Port Fairy | Port Fairy | 1896 | 🇦🇺 | common | · |
 | Torquay | Torquay, Victoria | 1870 | 🇦🇺 | common | · |
-| Maryborough | Maryborough, Victoria | 1841 | 🇦🇺 | uncommon | **common** |
+| Bells Beach | Bells Beach | 1856 | 🇦🇺 | rare | **common** |
+| Maryborough | Maryborough, Victoria | 1841 | 🇦🇺 | common | · |
 | Kyneton | Kyneton | 1805 | 🇦🇺 | common | · |
 | Bairnsdale | Bairnsdale | 1789 | 🇦🇺 | common | · |
+| French Island | French Island (Victoria) | 1749 | 🇦🇺 | rare | **common** |
 | Beechworth | Beechworth | 1656 | 🇦🇺 | common | · |
 | Mansfield | Mansfield, Victoria | 1624 | 🇦🇺 | common | · |
-| Leongatha | Leongatha | 1547 | 🇦🇺 | uncommon | **common** |
+| Pakenham | Pakenham, Victoria | 1569 | 🇦🇺 | rare | **common** |
+| Leongatha | Leongatha | 1547 | 🇦🇺 | common | · |
+| Beveridge | Beveridge, Victoria | 1504 | 🇦🇺 | rare | **common** |
 | Moe | Moe, Victoria | 1420 | 🇦🇺 | common | · |
 | Inverloch | Inverloch, Victoria | 1342 | 🇦🇺 | common | · |
 | Morwell | Morwell | 1339 | 🇦🇺 | common | · |
-| Drouin | Drouin, Victoria | 1326 | 🇦🇺 | uncommon | **common** |
-| Glenrowan | Glenrowan, Victoria | 1322 | 🇦🇺 | uncommon | **common** |
+| Drouin | Drouin, Victoria | 1326 | 🇦🇺 | common | · |
+| Glenrowan | Glenrowan, Victoria | 1322 | 🇦🇺 | common | · |
 | Warburton | Warburton, Victoria | 1321 | 🇦🇺 | common | · |
 | Seymour | Seymour, Victoria | 1314 | 🇦🇺 | common | · |
 | Bright | Bright, Victoria | 1296 | 🇦🇺 | common | · |
-| Bonnie Doon | Bonnie Doon, Victoria | 1199 | 🇦🇺 | uncommon | **common** |
+| Bonnie Doon | Bonnie Doon, Victoria | 1199 | 🇦🇺 | common | · |
 | Stawell | Stawell, Victoria | 1190 | 🇦🇺 | common | · |
-| Camperdown | Camperdown, Victoria | 1182 | 🇦🇺 | uncommon | **common** |
-| Euroa | Euroa | 1160 | 🇦🇺 | uncommon | **common** |
+| Camperdown | Camperdown, Victoria | 1182 | 🇦🇺 | common | · |
+| Euroa | Euroa | 1160 | 🇦🇺 | common | · |
 | Wonthaggi | Wonthaggi | 1102 | 🇦🇺 | common | · |
-| Korumburra | Korumburra | 1071 | 🇦🇺 | uncommon | **common** |
-| Maldon | Maldon, Victoria | 1051 | 🇦🇺 | uncommon | **common** |
-| St Arnaud | St Arnaud, Victoria | 1037 | 🇦🇺 | uncommon | **common** |
+| Korumburra | Korumburra | 1071 | 🇦🇺 | common | · |
+| Maldon | Maldon, Victoria | 1051 | 🇦🇺 | common | · |
+| St Arnaud | St Arnaud, Victoria | 1037 | 🇦🇺 | common | · |
+| Sorrento | Sorrento, Victoria | 1030 | 🇦🇺 | rare | **common** |
 | Gisborne | Gisborne, Victoria | 1021 | 🇦🇺 | common | · |
-| Nagambie | Nagambie | 1009 | 🇦🇺 | uncommon | **common** |
-| Mount Macedon | Mount Macedon, Victoria | 1002 | 🇦🇺 | uncommon | **common** |
+| New Gisborne | Gisborne, Victoria | 1021 | 🇦🇺 | rare | **common** |
+| Nagambie | Nagambie | 1009 | 🇦🇺 | common | · |
+| Mount Macedon | Mount Macedon, Victoria | 1002 | 🇦🇺 | common | · |
 | Marysville | Marysville, Victoria | 1000 | 🇦🇺 | common | · |
 | Queenscliff | Queenscliff, Victoria | 991 | 🇦🇺 | common | · |
 | Healesville | Healesville | 986 | 🇦🇺 | common | · |
 | Lorne | Lorne, Victoria | 979 | 🇦🇺 | common | obvious |
-| Lara | Lara, Victoria | 964 | 🇦🇺 | uncommon | **common** |
-| Portarlington | Portarlington, Victoria | 917 | 🇦🇺 | uncommon | **common** |
+| HMAS Cerberus | HMAS Cerberus (naval base) | 974 | 🇦🇺 | rare | **common** |
+| Lara | Lara, Victoria | 964 | 🇦🇺 | common | · |
+| Portarlington | Portarlington, Victoria | 917 | 🇦🇺 | common | · |
 | Apollo Bay | Apollo Bay | 916 | 🇦🇺 | common | · |
-| Clunes | Clunes, Victoria | 910 | 🇦🇺 | uncommon | **common** |
-| Alexandra | Alexandra, Victoria | 908 | 🇦🇺 | uncommon | **common** |
-| Kerang | Kerang | 906 | 🇦🇺 | uncommon | **common** |
-| Mount Buller | Mount Buller, Victoria | 889 | 🇦🇺 | uncommon | **common** |
-| Beaufort | Beaufort, Victoria | 882 | 🇦🇺 | uncommon | **common** |
-| Nhill | Nhill | 873 | 🇦🇺 | uncommon | **common** |
-| Kaniva | Kaniva | 872 | 🇦🇺 | uncommon | **common** |
-| Dimboola | Dimboola | 850 | 🇦🇺 | uncommon | **common** |
+| Clunes | Clunes, Victoria | 910 | 🇦🇺 | common | · |
+| Alexandra | Alexandra, Victoria | 908 | 🇦🇺 | common | · |
+| Kerang | Kerang | 906 | 🇦🇺 | common | · |
+| Altona | Altona, Victoria | 894 | 🇦🇺 | rare | **common** |
+| Mount Buller | Mount Buller, Victoria | 889 | 🇦🇺 | common | · |
+| Mickleham | Mickleham, Victoria | 889 | 🇦🇺 | rare | **common** |
+| Mount Buller Alpine Resort | Mount Buller, Victoria | 889 | 🇦🇺 | rare | **common** |
+| Beaufort | Beaufort, Victoria | 882 | 🇦🇺 | common | · |
+| Nhill | Nhill | 873 | 🇦🇺 | common | · |
+| Kaniva | Kaniva | 872 | 🇦🇺 | common | · |
+| Dimboola | Dimboola | 850 | 🇦🇺 | common | · |
 | Anglesea | Anglesea, Victoria | 849 | 🇦🇺 | common | · |
-| Porepunkah | Porepunkah | 848 | 🇦🇺 | uncommon | **common** |
-| Yackandandah | Yackandandah | 831 | 🇦🇺 | uncommon | **common** |
-| Casterton | Casterton, Victoria | 826 | 🇦🇺 | uncommon | **common** |
+| Hastings | Hastings, Victoria | 849 | 🇦🇺 | rare | **common** |
+| Porepunkah | Porepunkah | 848 | 🇦🇺 | common | · |
+| Arthurs Seat | Arthurs Seat, Victoria | 836 | 🇦🇺 | rare | **common** |
+| Yackandandah | Yackandandah | 831 | 🇦🇺 | common | · |
+| Donnybrook | Donnybrook, Victoria | 831 | 🇦🇺 | rare | **common** |
+| Casterton | Casterton, Victoria | 826 | 🇦🇺 | common | · |
 | Woodend | Woodend, Victoria | 824 | 🇦🇺 | common | · |
-| Ouyen | Ouyen | 806 | 🇦🇺 | uncommon | **common** |
+| Cape Schanck | Cape Schanck | 812 | 🇦🇺 | rare | **common** |
+| Portsea | Portsea, Victoria | 808 | 🇦🇺 | rare | **common** |
+| Ouyen | Ouyen | 806 | 🇦🇺 | common | · |
 | Rutherglen | Rutherglen, Victoria | 803 | 🇦🇺 | common | · |
 | Port Campbell | Port Campbell | 783 | 🇦🇺 | common | · |
-| Robinvale | Robinvale | 774 | 🇦🇺 | uncommon | **common** |
+| Robinvale | Robinvale | 774 | 🇦🇺 | common | · |
 | Lakes Entrance | Lakes Entrance | 753 | 🇦🇺 | common | · |
 | Violet Town | Violet Town | 749 | 🇦🇺 | uncommon | · |
 | Corryong | Corryong | 749 | 🇦🇺 | uncommon | · |
 | Trentham | Trentham, Victoria | 748 | 🇦🇺 | uncommon | · |
 | Tatura | Tatura | 745 | 🇦🇺 | uncommon | · |
 | Kinglake | Kinglake, Victoria | 739 | 🇦🇺 | uncommon | · |
-| Ocean Grove | Ocean Grove, Victoria | 729 | 🇦🇺 | common | **uncommon** |
+| Warrandyte | Warrandyte | 738 | 🇦🇺 | rare | **uncommon** |
+| Ocean Grove | Ocean Grove, Victoria | 729 | 🇦🇺 | uncommon | · |
 | Myrtleford | Myrtleford | 728 | 🇦🇺 | uncommon | · |
 | Omeo | Omeo | 727 | 🇦🇺 | uncommon | · |
 | Ballan | Ballan, Victoria | 726 | 🇦🇺 | uncommon | · |
+| Swan Island | Swan Island (Victoria) | 709 | 🇦🇺 | rare | **uncommon** |
+| Darley | Darley, Victoria | 690 | 🇦🇺 | rare | **uncommon** |
 | Charlton | Charlton, Victoria | 680 | 🇦🇺 | uncommon | · |
 | Wycheproof | Wycheproof | 678 | 🇦🇺 | uncommon | · |
 | Maffra | Maffra | 677 | 🇦🇺 | uncommon | · |
-| Venus Bay | Venus Bay, Victoria | 673 | 🇦🇺 | rare | **uncommon** |
+| Venus Bay | Venus Bay, Victoria | 673 | 🇦🇺 | uncommon | · |
 | Broadford | Broadford, Victoria | 661 | 🇦🇺 | uncommon | · |
 | Koroit | Koroit | 658 | 🇦🇺 | uncommon | · |
 | Donald | Donald, Victoria | 658 | 🇦🇺 | uncommon | · |
 | Mooroopna | Mooroopna | 658 | 🇦🇺 | uncommon | · |
 | Sea Lake | Sea Lake | 657 | 🇦🇺 | uncommon | · |
 | Tallangatta | Tallangatta | 654 | 🇦🇺 | uncommon | · |
-| Aireys Inlet | Aireys Inlet | 649 | 🇦🇺 | common | **uncommon** |
+| Somerville | Somerville, Victoria | 651 | 🇦🇺 | rare | **uncommon** |
+| Aireys Inlet | Aireys Inlet | 649 | 🇦🇺 | uncommon | · |
 | Foster | Foster, Victoria | 641 | 🇦🇺 | uncommon | · |
-| Cowes | Cowes, Victoria | 631 | 🇦🇺 | common | **uncommon** |
+| Cowes | Cowes, Victoria | 631 | 🇦🇺 | uncommon | · |
 | Creswick | Creswick | 618 | 🇦🇺 | uncommon | · |
 | Mount Beauty | Mount Beauty | 618 | 🇦🇺 | uncommon | · |
+| Tittybong | Tittybong | 616 | 🇦🇺 | rare | **uncommon** |
 | Avoca | Avoca, Victoria | 611 | 🇦🇺 | uncommon | · |
 | Hopetoun | Hopetoun, Victoria | 608 | 🇦🇺 | uncommon | · |
 | Chiltern | Chiltern, Victoria | 582 | 🇦🇺 | uncommon | · |
-| Whittlesea | Whittlesea, Victoria | 581 | 🇦🇺 | rare | **uncommon** |
+| Whittlesea | Whittlesea, Victoria | 581 | 🇦🇺 | uncommon | · |
 | Cobden | Cobden, Victoria | 569 | 🇦🇺 | uncommon | · |
 | Yarram | Yarram | 561 | 🇦🇺 | uncommon | · |
+| Wonga Park | Wonga Park | 561 | 🇦🇺 | rare | **uncommon** |
 | Mortlake | Mortlake, Victoria | 559 | 🇦🇺 | uncommon | · |
 | Winchelsea | Winchelsea, Victoria | 558 | 🇦🇺 | uncommon | · |
-| St Leonards | St Leonards, Victoria | 557 | 🇦🇺 | deep | **uncommon** |
+| St Leonards | St Leonards, Victoria | 557 | 🇦🇺 | uncommon | · |
 | Koo Wee Rup | Koo Wee Rup | 550 | 🇦🇺 | uncommon | · |
-| Nar Nar Goon | Nar Nar Goon | 544 | 🇦🇺 | rare | **uncommon** |
-| Falls Creek | Falls Creek Alpine Resort | 539 | 🇦🇺 | rare | **uncommon** |
+| Koo Wee Rup North | Koo Wee Rup | 550 | 🇦🇺 | rare | **uncommon** |
+| Nar Nar Goon | Nar Nar Goon | 544 | 🇦🇺 | uncommon | · |
+| Falls Creek | Falls Creek Alpine Resort | 539 | 🇦🇺 | uncommon | · |
+| Falls Creek Alpine Resort | Falls Creek Alpine Resort | 539 | 🇦🇺 | rare | **uncommon** |
 | Metung | Metung | 536 | 🇦🇺 | uncommon | · |
 | Paynesville | Paynesville, Victoria | 525 | 🇦🇺 | uncommon | · |
 | Wedderburn | Wedderburn, Victoria | 521 | 🇦🇺 | uncommon | · |
 | Bannockburn | Bannockburn, Victoria | 514 | 🇦🇺 | uncommon | · |
-| Little River | Little River, Victoria | 511 | 🇦🇺 | rare | **uncommon** |
-| Dinner Plain | Dinner Plain | 511 | 🇦🇺 | rare | **uncommon** |
+| Little River | Little River, Victoria | 511 | 🇦🇺 | uncommon | · |
+| Dinner Plain | Dinner Plain | 511 | 🇦🇺 | uncommon | · |
 | Rainbow | Rainbow, Victoria | 509 | 🇦🇺 | uncommon | · |
-| Blackwood | Blackwood, Victoria | 507 | 🇦🇺 | rare | **uncommon** |
+| Blackwood | Blackwood, Victoria | 507 | 🇦🇺 | uncommon | · |
+| Kalkallo | Kalkallo | 507 | 🇦🇺 | rare | **uncommon** |
+| Olinda | Olinda, Victoria | 507 | 🇦🇺 | rare | **uncommon** |
 | Point Lonsdale | Point Lonsdale | 500 | 🇦🇺 | uncommon | · |
 | Dunkeld | Dunkeld, Victoria | 499 | 🇦🇺 | uncommon | · |
 | Jeparit | Jeparit | 497 | 🇦🇺 | uncommon | · |
-| Jamieson | Jamieson, Victoria | 494 | 🇦🇺 | rare | **uncommon** |
+| Diggers Rest | Diggers Rest | 495 | 🇦🇺 | rare | **uncommon** |
+| Jamieson | Jamieson, Victoria | 494 | 🇦🇺 | uncommon | · |
 | Bunyip | Bunyip, Victoria | 491 | 🇦🇺 | uncommon | · |
+| Eynesbury | Eynesbury, Victoria | 491 | 🇦🇺 | rare | **uncommon** |
 | Churchill | Churchill, Victoria | 477 | 🇦🇺 | uncommon | · |
-| Cape Otway | Cape Otway | 475 | 🇦🇺 | rare | **uncommon** |
+| Cape Otway | Cape Otway | 475 | 🇦🇺 | uncommon | · |
 | Boort | Boort | 473 | 🇦🇺 | uncommon | · |
 | San Remo | San Remo, Victoria | 472 | 🇦🇺 | uncommon | · |
 | Hepburn Springs | Hepburn Springs | 471 | 🇦🇺 | uncommon | · |
-| Greta | Greta, Victoria | 471 | 🇦🇺 | deep | **uncommon** |
-| Barwon Heads | Barwon Heads | 470 | 🇦🇺 | common | **uncommon** |
+| Greta | Greta, Victoria | 471 | 🇦🇺 | uncommon | · |
+| Greta West | Greta, Victoria | 471 | 🇦🇺 | rare | **uncommon** |
+| Barwon Heads | Barwon Heads | 470 | 🇦🇺 | uncommon | · |
 | Inglewood | Inglewood, Victoria | 469 | 🇦🇺 | uncommon | · |
 | Coleraine | Coleraine, Victoria | 468 | 🇦🇺 | uncommon | · |
+| Sebastopol | Sebastopol, Victoria | 468 | 🇦🇺 | rare | **uncommon** |
 | Red Cliffs | Red Cliffs, Victoria | 466 | 🇦🇺 | uncommon | · |
-| Raymond Island | Raymond Island | 465 | 🇦🇺 | rare | **uncommon** |
+| Raymond Island | Raymond Island | 465 | 🇦🇺 | uncommon | · |
 | Macedon | Macedon, Victoria | 464 | 🇦🇺 | uncommon | · |
 | Trafalgar | Trafalgar, Victoria | 461 | 🇦🇺 | uncommon | · |
-| Woods Point | Woods Point, Victoria | 455 | 🇦🇺 | deep | **uncommon** |
-| Halls Gap | Halls Gap | 451 | 🇦🇺 | common | **uncommon** |
+| Woods Point | Woods Point, Victoria | 455 | 🇦🇺 | uncommon | · |
+| Halls Gap | Halls Gap | 451 | 🇦🇺 | uncommon | · |
 | Meredith | Meredith, Victoria | 450 | 🇦🇺 | uncommon | · |
-| Inverleigh | Inverleigh | 445 | 🇦🇺 | deep | **uncommon** |
+| Inverleigh | Inverleigh | 445 | 🇦🇺 | uncommon | · |
+| Lockington | Lockington, Victoria | 444 | 🇦🇺 | rare | **uncommon** |
 | Terang | Terang | 437 | 🇦🇺 | uncommon | · |
-| Wahgunyah | Wahgunyah | 429 | 🇦🇺 | rare | **uncommon** |
+| Wahgunyah | Wahgunyah | 429 | 🇦🇺 | uncommon | · |
 | Birregurra | Birregurra | 426 | 🇦🇺 | uncommon | · |
 | Fish Creek | Fish Creek, Victoria | 426 | 🇦🇺 | uncommon | · |
+| Sassafras | Sassafras, Victoria | 422 | 🇦🇺 | rare | **uncommon** |
+| Mambourin | Mambourin | 420 | 🇦🇺 | rare | **uncommon** |
+| Dartmoor | Dartmoor, Victoria | 416 | 🇦🇺 | rare | **uncommon** |
 | Noojee | Noojee | 415 | 🇦🇺 | uncommon | · |
-| Avenel | Avenel, Victoria | 412 | 🇦🇺 | rare | **uncommon** |
-| Murrayville | Murrayville, Victoria | 408 | 🇦🇺 | deep | **uncommon** |
+| Avenel | Avenel, Victoria | 412 | 🇦🇺 | uncommon | · |
+| Murrayville | Murrayville, Victoria | 408 | 🇦🇺 | uncommon | · |
+| Flinders | Flinders, Victoria | 408 | 🇦🇺 | rare | **uncommon** |
 | Port Albert | Port Albert | 407 | 🇦🇺 | uncommon | · |
 | Malmsbury | Malmsbury | 404 | 🇦🇺 | uncommon | · |
 | Murtoa | Murtoa | 404 | 🇦🇺 | uncommon | · |
 | Riddells Creek | Riddells Creek | 400 | 🇦🇺 | uncommon | · |
-| Beulah | Beulah, Victoria | 399 | 🇦🇺 | deep | **uncommon** |
-| Teesdale | Teesdale, Victoria | 396 | 🇦🇺 | rare | **uncommon** |
+| Beulah | Beulah, Victoria | 399 | 🇦🇺 | uncommon | · |
+| Teesdale | Teesdale, Victoria | 396 | 🇦🇺 | uncommon | · |
 | Edenhope | Edenhope | 395 | 🇦🇺 | uncommon | · |
-| Loch Sport | Loch Sport | 390 | 🇦🇺 | rare | **uncommon** |
+| Loch Sport | Loch Sport | 390 | 🇦🇺 | uncommon | · |
+| Coldstream | Coldstream, Victoria | 389 | 🇦🇺 | rare | **uncommon** |
 | Stratford | Stratford, Victoria | 388 | 🇦🇺 | uncommon | · |
 | Birchip | Birchip | 387 | 🇦🇺 | uncommon | · |
-| Minyip | Minyip | 387 | 🇦🇺 | rare | **uncommon** |
+| Minyip | Minyip | 387 | 🇦🇺 | uncommon | · |
+| St Andrews | St Andrews, Victoria | 386 | 🇦🇺 | rare | **uncommon** |
 | Wye River | Wye River, Victoria | 379 | 🇦🇺 | common | obvious |
 | Lang Lang | Lang Lang, Victoria | 379 | 🇦🇺 | uncommon | · |
-| Pyramid Hill | Pyramid Hill, Victoria | 376 | 🇦🇺 | rare | **uncommon** |
-| Nelson | Nelson, Victoria | 374 | 🇦🇺 | rare | **uncommon** |
+| Mount Dandenong | Mount Dandenong | 379 | 🇦🇺 | rare | **uncommon** |
+| Pyramid Hill | Pyramid Hill, Victoria | 376 | 🇦🇺 | uncommon | · |
+| Nelson | Nelson, Victoria | 374 | 🇦🇺 | uncommon | · |
 | Eildon | Eildon, Victoria | 372 | 🇦🇺 | uncommon | · |
-| Cape Paterson | Cape Paterson | 371 | 🇦🇺 | rare | **uncommon** |
+| Cape Paterson | Cape Paterson | 371 | 🇦🇺 | uncommon | · |
 | Dunolly | Dunolly | 368 | 🇦🇺 | uncommon | · |
 | Buninyong | Buninyong | 366 | 🇦🇺 | uncommon | · |
-| Lake Boga | Lake Boga | 364 | 🇦🇺 | rare | **uncommon** |
+| Cockatoo | Cockatoo, Victoria | 365 | 🇦🇺 | rare | **uncommon** |
+| Lake Boga | Lake Boga | 364 | 🇦🇺 | uncommon | · |
 | Heyfield | Heyfield | 364 | 🇦🇺 | uncommon | · |
-| Moliagul | Moliagul | 360 | 🇦🇺 | deep | **uncommon** |
+| Moliagul | Moliagul | 360 | 🇦🇺 | uncommon | · |
 | Harcourt | Harcourt, Victoria | 358 | 🇦🇺 | uncommon | · |
 | Drysdale | Drysdale, Victoria | 350 | 🇦🇺 | uncommon | · |
 | Newstead | Newstead, Victoria | 347 | 🇦🇺 | uncommon | · |
-| Loch | Loch, Victoria | 345 | 🇦🇺 | rare | **uncommon** |
-| Flowerdale | Flowerdale, Victoria | 343 | 🇦🇺 | deep | **uncommon** |
-| Mitta Mitta | Mitta Mitta, Victoria | 342 | 🇦🇺 | rare | **uncommon** |
-| Dargo | Dargo, Victoria | 338 | 🇦🇺 | rare | **uncommon** |
+| Leopold | Leopold, Victoria | 347 | 🇦🇺 | rare | **uncommon** |
+| Loch | Loch, Victoria | 345 | 🇦🇺 | uncommon | · |
+| Blairgowrie | Blairgowrie, Victoria | 344 | 🇦🇺 | rare | **uncommon** |
+| Flowerdale | Flowerdale, Victoria | 343 | 🇦🇺 | uncommon | · |
+| Mitta Mitta | Mitta Mitta, Victoria | 342 | 🇦🇺 | uncommon | · |
+| Golden Beach | Golden Beach, Victoria | 341 | 🇦🇺 | rare | **uncommon** |
+| Dederang | Dederang | 340 | 🇦🇺 | rare | **uncommon** |
+| Dargo | Dargo, Victoria | 338 | 🇦🇺 | uncommon | · |
+| Red Hill | Red Hill, Victoria | 336 | 🇦🇺 | rare | **uncommon** |
 | Skipton | Skipton, Victoria | 335 | 🇦🇺 | uncommon | · |
 | Timboon | Timboon | 334 | 🇦🇺 | uncommon | · |
 | Heywood | Heywood, Victoria | 328 | 🇦🇺 | uncommon | · |
-| Steiglitz | Steiglitz, Victoria | 327 | 🇦🇺 | deep | **uncommon** |
+| Steiglitz | Steiglitz, Victoria | 327 | 🇦🇺 | uncommon | · |
 | Lancefield | Lancefield | 327 | 🇦🇺 | uncommon | · |
+| Mangalore | Mangalore, Victoria | 327 | 🇦🇺 | rare | **uncommon** |
 | Rosedale | Rosedale, Victoria | 323 | 🇦🇺 | uncommon | · |
+| Bulla | Bulla, Victoria | 320 | 🇦🇺 | rare | **uncommon** |
 | Harrietville | Harrietville | 315 | 🇦🇺 | uncommon | · |
-| Harrow | Harrow, Victoria | 314 | 🇦🇺 | rare | **uncommon** |
-| Lismore | Lismore, Victoria | 314 | 🇦🇺 | rare | **uncommon** |
-| Talbot | Talbot, Victoria | 310 | 🇦🇺 | rare | **uncommon** |
-| Garfield | Garfield, Victoria | 306 | 🇦🇺 | rare | **uncommon** |
-| Gordon | Gordon, Victoria | 305 | 🇦🇺 | rare | **uncommon** |
+| Harrow | Harrow, Victoria | 314 | 🇦🇺 | uncommon | · |
+| Lismore | Lismore, Victoria | 314 | 🇦🇺 | uncommon | · |
+| Newborough | Newborough, Victoria | 313 | 🇦🇺 | rare | **uncommon** |
+| Talbot | Talbot, Victoria | 310 | 🇦🇺 | uncommon | · |
+| Tooradin | Tooradin | 310 | 🇦🇺 | rare | **uncommon** |
+| Garfield | Garfield, Victoria | 306 | 🇦🇺 | uncommon | · |
+| Gordon | Gordon, Victoria | 305 | 🇦🇺 | uncommon | · |
 | Yarra Glen | Yarra Glen | 305 | 🇦🇺 | uncommon | · |
-| Manangatang | Manangatang | 302 | 🇦🇺 | deep | **uncommon** |
+| Baddaginnie | Baddaginnie | 304 | 🇦🇺 | rare | **uncommon** |
+| Manangatang | Manangatang | 302 | 🇦🇺 | uncommon | · |
+| Monbulk | Monbulk | 301 | 🇦🇺 | rare | **uncommon** |
 | Jan Juc | Jan Juc | 300 | 🇦🇺 | uncommon | · |
-| Tallarook | Tallarook | 299 | 🇦🇺 | rare | **uncommon** |
-| Eldorado | Eldorado, Victoria | 298 | 🇦🇺 | rare | **uncommon** |
-| Licola | Licola, Victoria | 297 | 🇦🇺 | deep | **uncommon** |
+| Tallarook | Tallarook | 299 | 🇦🇺 | uncommon | · |
+| Eldorado | Eldorado, Victoria | 298 | 🇦🇺 | uncommon | · |
+| Licola | Licola, Victoria | 297 | 🇦🇺 | uncommon | · |
+| Plenty | Plenty, Victoria | 296 | 🇦🇺 | rare | **uncommon** |
 | Merbein | Merbein | 293 | 🇦🇺 | uncommon | · |
-| Beech Forest | Beech Forest, Victoria | 289 | 🇦🇺 | rare | **uncommon** |
-| Swifts Creek | Swifts Creek | 288 | 🇦🇺 | deep | **uncommon** |
-| Lake Bolac | Lake Bolac | 286 | 🇦🇺 | rare | **uncommon** |
-| Balmoral | Balmoral, Victoria | 274 | 🇦🇺 | deep | **uncommon** |
+| Beech Forest | Beech Forest, Victoria | 289 | 🇦🇺 | uncommon | · |
+| Swifts Creek | Swifts Creek | 288 | 🇦🇺 | uncommon | · |
+| Lake Bolac | Lake Bolac | 286 | 🇦🇺 | uncommon | · |
+| Jindivick | Jindivick | 280 | 🇦🇺 | rare | **uncommon** |
+| Newtown | Newtown, Victoria | 279 | 🇦🇺 | rare | **uncommon** |
+| Bittern | Bittern, Victoria | 278 | 🇦🇺 | rare | **uncommon** |
+| Lethbridge | Lethbridge, Victoria | 278 | 🇦🇺 | rare | **uncommon** |
+| Balmoral | Balmoral, Victoria | 274 | 🇦🇺 | uncommon | · |
 | Natimuk | Natimuk | 274 | 🇦🇺 | uncommon | · |
-| Sandy Point | Sandy Point, Victoria | 272 | 🇦🇺 | rare | **uncommon** |
-| Indented Head | Indented Head | 268 | 🇦🇺 | deep | **uncommon** |
-| Seaspray | Seaspray, Victoria | 268 | 🇦🇺 | rare | **uncommon** |
-| Goroke | Goroke, Victoria | 267 | 🇦🇺 | deep | **uncommon** |
-| Cape Woolamai | Cape Woolamai | 267 | 🇦🇺 | rare | **uncommon** |
-| Derrinallum | Derrinallum | 265 | 🇦🇺 | deep | **uncommon** |
-| Kilcunda | Kilcunda | 263 | 🇦🇺 | rare | **uncommon** |
+| Walwa | Walwa, Victoria | 274 | 🇦🇺 | rare | **uncommon** |
+| Sandy Point | Sandy Point, Victoria | 272 | 🇦🇺 | uncommon | · |
+| Clifton Springs | Clifton Springs, Victoria | 272 | 🇦🇺 | rare | **uncommon** |
+| Pearcedale | Pearcedale | 270 | 🇦🇺 | rare | **uncommon** |
+| Indented Head | Indented Head | 268 | 🇦🇺 | uncommon | · |
+| Seaspray | Seaspray, Victoria | 268 | 🇦🇺 | uncommon | · |
+| Thologolong | Thologolong | 268 | 🇦🇺 | rare | **uncommon** |
+| Goroke | Goroke, Victoria | 267 | 🇦🇺 | uncommon | · |
+| Cape Woolamai | Cape Woolamai | 267 | 🇦🇺 | uncommon | · |
+| Derrinallum | Derrinallum | 265 | 🇦🇺 | uncommon | · |
+| Bonegilla | Bonegilla | 265 | 🇦🇺 | rare | **uncommon** |
+| Barnawartha | Barnawartha | 264 | 🇦🇺 | rare | **uncommon** |
+| Kilcunda | Kilcunda | 263 | 🇦🇺 | uncommon | · |
 | Gembrook | Gembrook | 261 | 🇦🇺 | uncommon | · |
-| Anakie | Anakie, Victoria | 258 | 🇦🇺 | rare | **uncommon** |
+| Somers | Somers, Victoria | 260 | 🇦🇺 | rare | **uncommon** |
+| Anakie | Anakie, Victoria | 258 | 🇦🇺 | uncommon | · |
+| Quambatook | Quambatook | 257 | 🇦🇺 | rare | **uncommon** |
 | Peterborough | Peterborough, Victoria | 253 | 🇦🇺 | uncommon | · |
-| Longwarry | Longwarry | 251 | 🇦🇺 | rare | **uncommon** |
-| Rupanyup | Rupanyup | 248 | 🇦🇺 | deep | **rare** |
-| Buchan | Buchan, Victoria | 248 | 🇦🇺 | uncommon | **rare** |
-| Yarck | Yarck | 246 | 🇦🇺 | deep | **rare** |
+| Longwarry | Longwarry | 251 | 🇦🇺 | uncommon | · |
+| Devon Meadows | Devon Meadows | 249 | 🇦🇺 | rare | · |
+| Rupanyup | Rupanyup | 248 | 🇦🇺 | rare | · |
+| Buchan | Buchan, Victoria | 248 | 🇦🇺 | rare | · |
+| Yarck | Yarck | 246 | 🇦🇺 | rare | · |
+| Baxter | Baxter, Victoria | 246 | 🇦🇺 | rare | · |
 | Bass | Bass, Victoria | 245 | 🇦🇺 | rare | · |
 | Carisbrook | Carisbrook, Victoria | 244 | 🇦🇺 | rare | · |
 | Koondrook | Koondrook | 240 | 🇦🇺 | rare | · |
-| Mirboo North | Mirboo North | 240 | 🇦🇺 | uncommon | **rare** |
-| Penshurst | Penshurst, Victoria | 239 | 🇦🇺 | deep | **rare** |
+| Mirboo North | Mirboo North | 240 | 🇦🇺 | rare | · |
+| Penshurst | Penshurst, Victoria | 239 | 🇦🇺 | rare | · |
 | Cressy | Cressy, Victoria | 239 | 🇦🇺 | rare | · |
+| Christmas Hills | Christmas Hills, Victoria | 234 | 🇦🇺 | rare | · |
 | Merrijig | Merrijig | 233 | 🇦🇺 | rare | · |
-| Meeniyan | Meeniyan | 232 | 🇦🇺 | uncommon | **rare** |
-| Linton | Linton, Victoria | 230 | 🇦🇺 | deep | **rare** |
-| Snake Valley | Snake Valley, Victoria | 229 | 🇦🇺 | deep | **rare** |
-| Neerim South | Neerim South | 220 | 🇦🇺 | uncommon | **rare** |
+| Meeniyan | Meeniyan | 232 | 🇦🇺 | rare | · |
+| Aberfeldy | Aberfeldy, Victoria | 232 | 🇦🇺 | rare | · |
+| Silvan | Silvan, Victoria | 231 | 🇦🇺 | rare | · |
+| Linton | Linton, Victoria | 230 | 🇦🇺 | rare | · |
+| Snake Valley | Snake Valley, Victoria | 229 | 🇦🇺 | rare | · |
+| Kallista | Kallista | 228 | 🇦🇺 | rare | · |
+| Tolmie | Tolmie, Victoria | 228 | 🇦🇺 | rare | · |
+| Strath Creek | Strath Creek | 227 | 🇦🇺 | rare | · |
+| Balnarring | Balnarring | 222 | 🇦🇺 | rare | · |
+| Neerim South | Neerim South | 220 | 🇦🇺 | rare | · |
 | Erica | Erica, Victoria | 220 | 🇦🇺 | rare | · |
+| Crib Point | Crib Point | 220 | 🇦🇺 | rare | · |
+| Buxton | Buxton, Victoria | 219 | 🇦🇺 | rare | · |
 | Learmonth | Learmonth, Victoria | 218 | 🇦🇺 | rare | · |
-| Yarragon | Yarragon | 218 | 🇦🇺 | uncommon | **rare** |
-| Guildford | Guildford, Victoria | 217 | 🇦🇺 | deep | **rare** |
-| Milawa | Milawa | 214 | 🇦🇺 | uncommon | **rare** |
-| Nyah | Nyah, Victoria | 211 | 🇦🇺 | deep | **rare** |
+| Yarragon | Yarragon | 218 | 🇦🇺 | rare | · |
+| Guildford | Guildford, Victoria | 217 | 🇦🇺 | rare | · |
+| Seville | Seville, Victoria | 217 | 🇦🇺 | rare | · |
+| Walkerville | Walkerville, Victoria | 217 | 🇦🇺 | rare | · |
+| Corinella | Corinella | 216 | 🇦🇺 | rare | · |
+| Longwood | Longwood, Victoria | 216 | 🇦🇺 | rare | · |
+| Kangaroo Ground | Kangaroo Ground | 215 | 🇦🇺 | rare | · |
+| Mount Stirling | Mount Stirling | 215 | 🇦🇺 | rare | · |
+| Milawa | Milawa | 214 | 🇦🇺 | rare | · |
+| Nyah | Nyah, Victoria | 211 | 🇦🇺 | rare | · |
+| Longford | Longford, Victoria | 210 | 🇦🇺 | rare | · |
+| Mount Cottrell | Mount Cottrell | 209 | 🇦🇺 | rare | · |
+| Walpeup | Walpeup | 209 | 🇦🇺 | rare | · |
+| Wandong | Wandong | 209 | 🇦🇺 | rare | · |
 | Chewton | Chewton, Victoria | 208 | 🇦🇺 | rare | · |
-| Whitfield | Whitfield, Victoria | 208 | 🇦🇺 | deep | **rare** |
-| Poowong | Poowong | 207 | 🇦🇺 | deep | **rare** |
+| Whitfield | Whitfield, Victoria | 208 | 🇦🇺 | rare | · |
+| Tangambalanga | Tangambalanga | 208 | 🇦🇺 | rare | · |
+| Tyabb | Tyabb | 208 | 🇦🇺 | rare | · |
+| Poowong | Poowong | 207 | 🇦🇺 | rare | · |
 | Woori Yallock | Woori Yallock | 207 | 🇦🇺 | rare | · |
 | Cape Bridgewater | Cape Bridgewater | 206 | 🇦🇺 | rare | · |
 | Toora | Toora | 206 | 🇦🇺 | rare | · |
-| Irymple | Irymple, Victoria | 204 | 🇦🇺 | uncommon | **rare** |
+| Serpentine | Serpentine, Victoria | 205 | 🇦🇺 | rare | · |
+| Irymple | Irymple, Victoria | 204 | 🇦🇺 | rare | · |
 | Wandiligong | Wandiligong | 203 | 🇦🇺 | rare | · |
-| Smythesdale | Smythesdale | 202 | 🇦🇺 | deep | **rare** |
+| Smythesdale | Smythesdale | 202 | 🇦🇺 | rare | · |
 | Narbethong | Narbethong, Victoria | 199 | 🇦🇺 | rare | · |
 | Rawson | Rawson, Victoria | 199 | 🇦🇺 | rare | · |
 | Brim | Brim, Victoria | 198 | 🇦🇺 | rare | · |
 | Taradale | Taradale, Victoria | 197 | 🇦🇺 | rare | · |
-| Stanley | Stanley, Victoria | 191 | 🇦🇺 | deep | **rare** |
-| Great Western | Great Western, Victoria | 190 | 🇦🇺 | uncommon | **rare** |
+| Tarnagulla | Tarnagulla | 195 | 🇦🇺 | rare | · |
+| Woodside | Woodside, Victoria | 195 | 🇦🇺 | rare | · |
+| Curlewis | Curlewis, Victoria | 194 | 🇦🇺 | rare | · |
+| Strathbogie | Strathbogie, Victoria | 193 | 🇦🇺 | rare | · |
+| Stanley | Stanley, Victoria | 191 | 🇦🇺 | rare | · |
+| Stanhope | Stanhope, Victoria | 191 | 🇦🇺 | rare | · |
+| Great Western | Great Western, Victoria | 190 | 🇦🇺 | rare | · |
 | Patchewollock | Patchewollock | 190 | 🇦🇺 | rare | · |
-| Serviceton | Serviceton | 190 | 🇦🇺 | deep | **rare** |
-| Forrest | Forrest, Victoria | 189 | 🇦🇺 | uncommon | **rare** |
+| Serviceton | Serviceton | 190 | 🇦🇺 | rare | · |
+| Forrest | Forrest, Victoria | 189 | 🇦🇺 | rare | · |
+| Clarkefield | Clarkefield | 189 | 🇦🇺 | rare | · |
+| Elaine | Elaine, Victoria | 189 | 🇦🇺 | rare | · |
+| Nyora | Nyora | 189 | 🇦🇺 | rare | · |
+| Point Wilson | Point Wilson, Victoria | 189 | 🇦🇺 | rare | · |
+| Campbells Creek | Campbells Creek, Victoria | 188 | 🇦🇺 | rare | · |
+| Thornton | Thornton, Victoria | 188 | 🇦🇺 | rare | · |
 | Moyston | Moyston | 187 | 🇦🇺 | rare | · |
-| Macarthur | Macarthur, Victoria | 185 | 🇦🇺 | deep | **rare** |
-| Welshpool | Welshpool, Victoria | 184 | 🇦🇺 | deep | **rare** |
-| Briagolong | Briagolong | 184 | 🇦🇺 | deep | **rare** |
+| Glengarry | Glengarry, Victoria | 186 | 🇦🇺 | rare | · |
+| Macarthur | Macarthur, Victoria | 185 | 🇦🇺 | rare | · |
+| Welshpool | Welshpool, Victoria | 184 | 🇦🇺 | rare | · |
+| Briagolong | Briagolong | 184 | 🇦🇺 | rare | · |
+| Genoa | Genoa, Victoria | 184 | 🇦🇺 | rare | · |
+| Underbool | Underbool | 183 | 🇦🇺 | rare | · |
 | Taggerty | Taggerty | 182 | 🇦🇺 | rare | · |
-| Toongabbie | Toongabbie, Victoria | 180 | 🇦🇺 | deep | **rare** |
+| Toongabbie | Toongabbie, Victoria | 180 | 🇦🇺 | rare | · |
+| Yarrambat | Yarrambat | 180 | 🇦🇺 | rare | · |
+| Coronet Bay | Coronet Bay | 178 | 🇦🇺 | rare | · |
+| Macclesfield | Macclesfield, Victoria | 178 | 🇦🇺 | rare | · |
+| Panton Hill | Panton Hill | 177 | 🇦🇺 | rare | · |
+| Smoko | Smoko, Victoria | 177 | 🇦🇺 | rare | · |
+| Cardinia | Cardinia, Victoria | 176 | 🇦🇺 | rare | · |
+| Merino | Merino, Victoria | 176 | 🇦🇺 | rare | · |
+| Apsley | Apsley, Victoria | 175 | 🇦🇺 | rare | · |
+| Torrumbarry | Torrumbarry | 175 | 🇦🇺 | rare | · |
 | Gellibrand | Gellibrand, Victoria | 174 | 🇦🇺 | rare | · |
-| Willaura | Willaura | 174 | 🇦🇺 | deep | **rare** |
-| Lake Tyers | Lake Tyers Mission | 174 | 🇦🇺 | deep | **rare** |
-| Bruthen | Bruthen | 172 | 🇦🇺 | uncommon | **rare** |
+| Willaura | Willaura | 174 | 🇦🇺 | rare | · |
+| Lake Tyers | Lake Tyers Mission | 174 | 🇦🇺 | rare | · |
+| Huntly | Huntly, Victoria | 174 | 🇦🇺 | rare | · |
+| Lake Tyers Mission | Lake Tyers Mission | 174 | 🇦🇺 | rare | · |
+| Launching Place | Launching Place | 174 | 🇦🇺 | rare | · |
+| Woomelang | Woomelang | 174 | 🇦🇺 | rare | · |
+| Bruthen | Bruthen | 172 | 🇦🇺 | rare | · |
 | Toolangi | Toolangi | 171 | 🇦🇺 | rare | · |
-| Yarra Junction | Yarra Junction | 171 | 🇦🇺 | uncommon | **rare** |
+| Yarra Junction | Yarra Junction | 171 | 🇦🇺 | rare | · |
+| Dartmouth | Dartmouth, Victoria | 171 | 🇦🇺 | rare | · |
+| Eden Park | Eden Park, Victoria | 171 | 🇦🇺 | rare | · |
 | Fairhaven | Fairhaven, Victoria | 169 | 🇦🇺 | rare | · |
+| Darraweit Guim | Darraweit Guim | 169 | 🇦🇺 | rare | · |
+| Elphinstone | Elphinstone, Victoria | 169 | 🇦🇺 | rare | · |
+| Pyalong | Pyalong | 169 | 🇦🇺 | rare | · |
+| Eagle Point | Eagle Point, Victoria | 168 | 🇦🇺 | rare | · |
+| Ruffy | Ruffy, Victoria | 168 | 🇦🇺 | rare | · |
 | Simpson | Simpson, Victoria | 166 | 🇦🇺 | rare | · |
-| Powelltown | Powelltown | 166 | 🇦🇺 | deep | **rare** |
-| Cavendish | Cavendish, Victoria | 164 | 🇦🇺 | deep | **rare** |
+| Powelltown | Powelltown | 166 | 🇦🇺 | rare | · |
+| Amphitheatre | Amphitheatre, Victoria | 166 | 🇦🇺 | rare | · |
+| Ensay | Ensay, Victoria | 165 | 🇦🇺 | rare | · |
+| Mount Egerton | Mount Egerton, Victoria | 165 | 🇦🇺 | rare | · |
+| Cavendish | Cavendish, Victoria | 164 | 🇦🇺 | rare | · |
 | Kennett River | Kennett River, Victoria | 163 | 🇦🇺 | common | obvious |
 | Glenlyon | Glenlyon, Victoria | 163 | 🇦🇺 | rare | · |
+| Speed | Speed, Victoria | 163 | 🇦🇺 | rare | · |
+| Fingal | Fingal, Victoria | 162 | 🇦🇺 | rare | · |
+| Nicholson | Nicholson, Victoria | 162 | 🇦🇺 | rare | · |
+| Lexton | Lexton, Victoria | 161 | 🇦🇺 | rare | · |
+| Bundalong | Bundalong | 160 | 🇦🇺 | rare | · |
+| Mia Mia | Mia Mia, Victoria | 160 | 🇦🇺 | rare | · |
 | Allansford | Allansford | 159 | 🇦🇺 | rare | · |
-| Boolarra | Boolarra | 159 | 🇦🇺 | deep | **rare** |
-| Princetown | Princetown, Victoria | 158 | 🇦🇺 | uncommon | **rare** |
-| Koonwarra | Koonwarra | 157 | 🇦🇺 | deep | **rare** |
-| Beeac | Beeac | 155 | 🇦🇺 | deep | **rare** |
+| Boolarra | Boolarra | 159 | 🇦🇺 | rare | · |
+| Bandiana | Bandiana | 159 | 🇦🇺 | rare | · |
+| Princetown | Princetown, Victoria | 158 | 🇦🇺 | rare | · |
+| Gruyere | Gruyere, Victoria | 158 | 🇦🇺 | rare | · |
+| Koonwarra | Koonwarra | 157 | 🇦🇺 | rare | · |
+| Shoreham | Shoreham, Victoria | 157 | 🇦🇺 | rare | · |
+| Beeac | Beeac | 155 | 🇦🇺 | rare | · |
+| Woodstock | Woodstock, Victoria | 155 | 🇦🇺 | rare | · |
+| Yanakie | Yanakie, Victoria | 155 | 🇦🇺 | rare | · |
+| Bangholme | Bangholme | 154 | 🇦🇺 | rare | · |
+| Lucknow | Lucknow, Victoria | 154 | 🇦🇺 | rare | · |
 | Bellbrae | Bellbrae | 153 | 🇦🇺 | rare | · |
-| Yinnar | Yinnar | 149 | 🇦🇺 | deep | **rare** |
-| Lavers Hill | Lavers Hill | 146 | 🇦🇺 | uncommon | **rare** |
-| Tarwin Lower | Tarwin Lower | 144 | 🇦🇺 | deep | **rare** |
-| Tawonga | Tawonga | 141 | 🇦🇺 | deep | **rare** |
+| Clonbinane | Clonbinane | 152 | 🇦🇺 | rare | · |
+| Cocoroc | Cocoroc | 152 | 🇦🇺 | rare | · |
+| Culgoa | Culgoa | 152 | 🇦🇺 | rare | · |
+| Quandong | Quandong, Victoria | 152 | 🇦🇺 | rare | · |
+| Tooborac | Tooborac | 152 | 🇦🇺 | rare | · |
+| Ventnor | Ventnor, Victoria | 152 | 🇦🇺 | rare | · |
+| Yinnar | Yinnar | 149 | 🇦🇺 | rare | · |
+| Glenmaggie | Glenmaggie | 149 | 🇦🇺 | rare | · |
+| Kialla | Kialla | 149 | 🇦🇺 | rare | · |
+| Bend of Islands | Bend of Islands | 148 | 🇦🇺 | rare | · |
+| Blind Bight | Blind Bight, Victoria | 147 | 🇦🇺 | rare | · |
+| Hoddles Creek | Hoddles Creek, Victoria | 147 | 🇦🇺 | rare | · |
+| Lavers Hill | Lavers Hill | 146 | 🇦🇺 | rare | · |
+| Berriwillock | Berriwillock | 146 | 🇦🇺 | rare | · |
+| Dennington | Dennington, Victoria | 146 | 🇦🇺 | rare | · |
+| Hesse | Hesse, Victoria | 145 | 🇦🇺 | rare | · |
+| Katunga | Katunga | 145 | 🇦🇺 | rare | · |
+| Tarwin Lower | Tarwin Lower | 144 | 🇦🇺 | rare | · |
+| Murrindindi | Murrindindi | 144 | 🇦🇺 | rare | · |
+| St Andrews Beach | St Andrews Beach | 144 | 🇦🇺 | rare | · |
+| Ultima | Ultima, Victoria | 144 | 🇦🇺 | rare | · |
+| Big Desert | Big Desert, Victoria | 143 | 🇦🇺 | rare | · |
+| Smeaton | Smeaton, Victoria | 142 | 🇦🇺 | rare | · |
+| Stony Creek | Stony Creek, Victoria | 142 | 🇦🇺 | rare | · |
+| Tawonga | Tawonga | 141 | 🇦🇺 | rare | · |
 | Newhaven | Newhaven, Victoria | 139 | 🇦🇺 | rare | · |
-| Lascelles | Lascelles, Victoria | 134 | 🇦🇺 | deep | **rare** |
+| Main Ridge | Main Ridge, Victoria | 139 | 🇦🇺 | rare | · |
+| Moggs Creek | Moggs Creek | 139 | 🇦🇺 | rare | · |
+| Tyers | Tyers, Victoria | 139 | 🇦🇺 | rare | · |
+| Boundary Bend | Boundary Bend | 138 | 🇦🇺 | rare | · |
+| Lal Lal | Lal Lal | 138 | 🇦🇺 | rare | · |
+| Millgrove | Millgrove, Victoria | 138 | 🇦🇺 | rare | · |
+| Redesdale | Redesdale, Victoria | 137 | 🇦🇺 | rare | · |
+| Tylden | Tylden, Victoria | 137 | 🇦🇺 | rare | · |
+| Willow Grove | Willow Grove, Victoria | 137 | 🇦🇺 | rare | · |
+| Ceres | Ceres, Victoria | 136 | 🇦🇺 | rare | · |
+| Greendale | Greendale, Victoria | 136 | 🇦🇺 | rare | · |
+| Swan Reach | Swan Reach, Victoria | 136 | 🇦🇺 | rare | · |
+| Tallygaroopna | Tallygaroopna | 136 | 🇦🇺 | rare | · |
+| Aubrey | Aubrey, Victoria | 135 | 🇦🇺 | rare | · |
+| Gnarwarre | Gnarwarre | 135 | 🇦🇺 | rare | · |
+| Tatong | Tatong | 135 | 🇦🇺 | rare | · |
+| Lascelles | Lascelles, Victoria | 134 | 🇦🇺 | rare | · |
+| Labertouche | Labertouche | 134 | 🇦🇺 | rare | · |
+| Korong Vale | Korong Vale | 131 | 🇦🇺 | rare | · |
+| Point Leo | Point Leo | 131 | 🇦🇺 | rare | · |
 | Thorpdale | Thorpdale | 130 | 🇦🇺 | rare | · |
-| Noorat | Noorat | 128 | 🇦🇺 | deep | **rare** |
-| Moonambel | Moonambel | 126 | 🇦🇺 | deep | **rare** |
-| Glenthompson | Glenthompson | 125 | 🇦🇺 | deep | **rare** |
-| Yambuk | Yambuk | 124 | 🇦🇺 | deep | **rare** |
-| Nullawil | Nullawil | 121 | 🇦🇺 | deep | **rare** |
+| Newbridge | Newbridge, Victoria | 130 | 🇦🇺 | rare | · |
+| Piangil | Piangil | 130 | 🇦🇺 | rare | · |
+| Badger Creek | Badger Creek, Victoria | 129 | 🇦🇺 | rare | · |
+| Noorat | Noorat | 128 | 🇦🇺 | rare | · |
+| Jung | Jung, Victoria | 128 | 🇦🇺 | rare | · |
+| Tynong | Tynong | 128 | 🇦🇺 | rare | · |
+| Bealiba | Bealiba | 127 | 🇦🇺 | rare | · |
+| Moonambel | Moonambel | 126 | 🇦🇺 | rare | · |
+| Cannons Creek | Cannons Creek, Victoria | 126 | 🇦🇺 | rare | · |
+| Cheshunt | Cheshunt, Victoria | 126 | 🇦🇺 | rare | · |
+| Coopers Creek | Coopers Creek, Victoria | 126 | 🇦🇺 | rare | · |
+| Dalyston | Dalyston | 126 | 🇦🇺 | rare | · |
+| Elmhurst | Elmhurst, Victoria | 126 | 🇦🇺 | rare | · |
+| Glenthompson | Glenthompson | 125 | 🇦🇺 | rare | · |
+| Alberton | Alberton, Victoria | 125 | 🇦🇺 | rare | · |
+| Moyhu | Moyhu | 125 | 🇦🇺 | rare | · |
+| Muckleford | Muckleford, Victoria | 125 | 🇦🇺 | rare | · |
+| Tidal River | Tidal River, Victoria | 125 | 🇦🇺 | rare | · |
+| Yambuk | Yambuk | 124 | 🇦🇺 | rare | · |
+| Molesworth | Molesworth, Victoria | 124 | 🇦🇺 | rare | · |
+| Suggan Buggan | Suggan Buggan | 123 | 🇦🇺 | rare | · |
+| A1 Mine Settlement | A1 Mine Settlement | 122 | 🇦🇺 | rare | · |
+| Amherst | Amherst, Victoria | 122 | 🇦🇺 | rare | · |
+| Ravenswood | Ravenswood, Victoria | 122 | 🇦🇺 | rare | · |
+| Wallington | Wallington, Victoria | 122 | 🇦🇺 | rare | · |
+| Nullawil | Nullawil | 121 | 🇦🇺 | rare | · |
+| Breamlea | Breamlea | 121 | 🇦🇺 | rare | · |
+| Millbrook | Millbrook, Victoria | 121 | 🇦🇺 | rare | · |
+| Parwan | Parwan, Victoria | 119 | 🇦🇺 | rare | · |
 | Yallourn North | Yallourn North | 118 | 🇦🇺 | rare | · |
-| Navarre | Navarre, Victoria | 117 | 🇦🇺 | deep | **rare** |
-| Darlington | Darlington, Victoria | 116 | 🇦🇺 | deep | **rare** |
+| Moriac | Moriac | 118 | 🇦🇺 | rare | · |
+| Werribee South | Werribee South | 118 | 🇦🇺 | rare | · |
+| Navarre | Navarre, Victoria | 117 | 🇦🇺 | rare | · |
+| Streatham | Streatham, Victoria | 117 | 🇦🇺 | rare | · |
+| Watchem | Watchem | 117 | 🇦🇺 | rare | · |
+| Darlington | Darlington, Victoria | 116 | 🇦🇺 | rare | · |
+| Gaffneys Creek | Gaffneys Creek | 116 | 🇦🇺 | rare | · |
+| Newham | Newham, Victoria | 116 | 🇦🇺 | rare | · |
+| Redbank | Redbank, Victoria | 116 | 🇦🇺 | rare | · |
+| Sherbrooke | Sherbrooke, Victoria | 116 | 🇦🇺 | rare | · |
+| Toolern Vale | Toolern Vale | 116 | 🇦🇺 | rare | · |
+| Warneet | Warneet | 116 | 🇦🇺 | rare | · |
+| Yan Yean | Yan Yean | 116 | 🇦🇺 | rare | · |
 | Johanna | Johanna, Victoria | 115 | 🇦🇺 | rare | · |
+| Cape Conran | Cape Conran | 115 | 🇦🇺 | rare | · |
+| Everton | Everton, Victoria | 115 | 🇦🇺 | rare | · |
+| Myrniong | Myrniong | 115 | 🇦🇺 | rare | · |
+| Waratah Bay | Waratah Bay, Victoria | 115 | 🇦🇺 | rare | · |
+| Girgarre | Girgarre | 114 | 🇦🇺 | rare | · |
+| Lindenow | Lindenow, Victoria | 114 | 🇦🇺 | rare | · |
+| Branxholme | Branxholme, Victoria | 113 | 🇦🇺 | rare | · |
+| Hazelwood | Hazelwood, Victoria | 113 | 🇦🇺 | rare | · |
+| Raywood | Raywood, Victoria | 113 | 🇦🇺 | rare | · |
+| Wandin North | Wandin North | 113 | 🇦🇺 | rare | · |
 | Rhyll | Rhyll | 112 | 🇦🇺 | rare | · |
-| Nowa Nowa | Nowa Nowa | 109 | 🇦🇺 | deep | **rare** |
-| Dadswells Bridge | Dadswells Bridge | 108 | 🇦🇺 | deep | **rare** |
-| Rokewood | Rokewood | 108 | 🇦🇺 | deep | **rare** |
-| Pomonal | Pomonal | 103 | 🇦🇺 | deep | **rare** |
-| Wickliffe | Wickliffe, Victoria | 93 | 🇦🇺 | deep | **rare** |
-| Landsborough | Landsborough, Victoria | 93 | 🇦🇺 | deep | **rare** |
-| Deans Marsh | Deans Marsh | 89 | 🇦🇺 | uncommon | **rare** |
-| Marengo | Marengo, Victoria | 71 | 🇦🇺 | rare | **deep** |
-| Skenes Creek | Skenes Creek | 70 | 🇦🇺 | uncommon | **deep** |
-| Killarney | Killarney, Victoria | 68 | 🇦🇺 | rare | **deep** |
+| Invergordon | Invergordon, Victoria | 112 | 🇦🇺 | rare | · |
+| Mitiamo | Mitiamo | 112 | 🇦🇺 | rare | · |
+| Scarsdale | Scarsdale, Victoria | 112 | 🇦🇺 | rare | · |
+| St James | St James, Victoria | 112 | 🇦🇺 | rare | · |
+| Waaia | Waaia | 112 | 🇦🇺 | rare | · |
+| Freshwater Creek | Freshwater Creek, Victoria | 111 | 🇦🇺 | rare | · |
+| Majorca | Majorca, Victoria | 111 | 🇦🇺 | rare | · |
+| Monegeetta | Monegeetta | 111 | 🇦🇺 | rare | · |
+| Wildwood | Wildwood, Victoria | 111 | 🇦🇺 | rare | · |
+| Bethanga | Bethanga | 110 | 🇦🇺 | rare | · |
+| Enfield | Enfield, Victoria | 110 | 🇦🇺 | rare | · |
+| Redan | Redan, Victoria | 110 | 🇦🇺 | rare | · |
+| Nowa Nowa | Nowa Nowa | 109 | 🇦🇺 | rare | · |
+| Glenburn | Glenburn, Victoria | 109 | 🇦🇺 | rare | · |
+| Koonoomoo | Koonoomoo | 109 | 🇦🇺 | rare | · |
+| Dadswells Bridge | Dadswells Bridge | 108 | 🇦🇺 | rare | · |
+| Rokewood | Rokewood | 108 | 🇦🇺 | rare | · |
+| Merton | Merton, Victoria | 108 | 🇦🇺 | rare | · |
+| Toolleen | Toolleen | 108 | 🇦🇺 | rare | · |
+| Werrimull | Werrimull | 108 | 🇦🇺 | rare | · |
+| Arthurs Creek | Arthurs Creek | 107 | 🇦🇺 | rare | · |
+| Faraday | Faraday, Victoria | 107 | 🇦🇺 | rare | · |
+| Fryerstown | Fryerstown | 107 | 🇦🇺 | rare | · |
+| Merrigum | Merrigum | 107 | 🇦🇺 | rare | · |
+| Acheron | Acheron, Victoria | 106 | 🇦🇺 | rare | · |
+| Bungaree | Bungaree, Victoria | 106 | 🇦🇺 | rare | · |
+| Caramut | Caramut | 106 | 🇦🇺 | rare | · |
+| Woodside Beach | Woodside Beach | 106 | 🇦🇺 | rare | · |
+| Goornong | Goornong | 105 | 🇦🇺 | rare | · |
+| Lemnos | Lemnos, Victoria | 105 | 🇦🇺 | rare | · |
+| Murrabit | Murrabit | 105 | 🇦🇺 | rare | · |
+| Bogong | Bogong, Victoria | 104 | 🇦🇺 | rare | · |
+| Eskdale | Eskdale, Victoria | 104 | 🇦🇺 | rare | · |
+| Lancaster | Lancaster, Victoria | 104 | 🇦🇺 | rare | · |
+| Pomonal | Pomonal | 103 | 🇦🇺 | rare | · |
+| Buln Buln | Buln Buln, Victoria | 103 | 🇦🇺 | rare | · |
+| Dingee | Dingee | 103 | 🇦🇺 | rare | · |
+| Bung Bong | Bung Bong | 102 | 🇦🇺 | rare | · |
+| Panmure | Panmure, Victoria | 102 | 🇦🇺 | rare | · |
+| Paradise Beach | Paradise Beach, Victoria | 102 | 🇦🇺 | rare | · |
+| Picola | Picola | 102 | 🇦🇺 | rare | · |
+| Springhurst | Springhurst, Victoria | 102 | 🇦🇺 | rare | · |
+| Tanjil Bren | Tanjil Bren | 102 | 🇦🇺 | rare | · |
+| Kilmore East | Kilmore East | 101 | 🇦🇺 | rare | · |
+| The Gurdies | The Gurdies | 101 | 🇦🇺 | rare | · |
+| W Tree | W Tree | 101 | 🇦🇺 | rare | · |
+| Boneo | Boneo | 100 | 🇦🇺 | rare | · |
+| Smiths Beach | Smiths Beach, Victoria | 100 | 🇦🇺 | rare | · |
+| Whroo | Whroo | 100 | 🇦🇺 | rare | · |
+| Anglers Rest | Anglers Rest, Victoria | 99 | 🇦🇺 | rare | · |
+| Beaconsfield Upper | Beaconsfield Upper | 99 | 🇦🇺 | rare | · |
+| Canary Island | Canary Island, Victoria | 99 | 🇦🇺 | rare | · |
+| Leitchville | Leitchville | 99 | 🇦🇺 | rare | · |
+| Menzies Creek | Menzies Creek | 99 | 🇦🇺 | rare | · |
+| Metcalfe | Metcalfe, Victoria | 99 | 🇦🇺 | rare | · |
+| Shelford | Shelford, Victoria | 99 | 🇦🇺 | rare | · |
+| Black Hill | Black Hill, Victoria | 98 | 🇦🇺 | rare | · |
+| Blampied | Blampied, Victoria | 98 | 🇦🇺 | rare | · |
+| Little Desert | Little Desert, Victoria | 98 | 🇦🇺 | rare | · |
+| Pental Island | Pental Island | 98 | 🇦🇺 | rare | · |
+| Stuart Mill | Stuart Mill, Victoria | 98 | 🇦🇺 | rare | · |
+| White Hills | White Hills, Victoria | 98 | 🇦🇺 | rare | · |
+| Whorouly | Whorouly | 98 | 🇦🇺 | rare | · |
+| Connewarre | Connewarre | 97 | 🇦🇺 | rare | · |
+| Cowwarr | Cowwarr | 97 | 🇦🇺 | rare | · |
+| Wy Yung | Wy Yung | 97 | 🇦🇺 | rare | · |
+| Dereel | Dereel | 96 | 🇦🇺 | rare | · |
+| Lauriston | Lauriston, Victoria | 96 | 🇦🇺 | rare | · |
+| Oaklands Junction | Oaklands Junction | 96 | 🇦🇺 | rare | · |
+| Wonnangatta | Wonnangatta | 96 | 🇦🇺 | rare | · |
+| Coongulla | Coongulla | 95 | 🇦🇺 | rare | · |
+| Don Valley | Don Valley, Victoria | 95 | 🇦🇺 | rare | · |
+| Swanpool | Swanpool, Victoria | 95 | 🇦🇺 | rare | · |
+| Woolsthorpe | Woolsthorpe, Victoria | 95 | 🇦🇺 | rare | · |
+| Batesford | Batesford | 94 | 🇦🇺 | rare | · |
+| Merricks | Merricks | 94 | 🇦🇺 | rare | · |
+| Trawalla | Trawalla | 94 | 🇦🇺 | rare | · |
+| Wensleydale | Wensleydale, Victoria | 94 | 🇦🇺 | rare | · |
+| Yellingbo | Yellingbo | 94 | 🇦🇺 | rare | · |
+| Wickliffe | Wickliffe, Victoria | 93 | 🇦🇺 | rare | · |
+| Landsborough | Landsborough, Victoria | 93 | 🇦🇺 | rare | · |
+| Darnum | Darnum | 93 | 🇦🇺 | rare | · |
+| Laanecoorie | Laanecoorie | 93 | 🇦🇺 | rare | · |
+| Mount Toolebewong | Mount Toolebewong | 93 | 🇦🇺 | rare | · |
+| Wunghnu | Wunghnu | 93 | 🇦🇺 | rare | · |
+| Newlyn | Newlyn, Victoria | 92 | 🇦🇺 | rare | · |
+| Raglan | Raglan, Victoria | 92 | 🇦🇺 | rare | · |
+| Kevington | Kevington, Victoria | 91 | 🇦🇺 | rare | · |
+| Munro | Munro, Victoria | 91 | 🇦🇺 | rare | · |
+| Tinamba | Tinamba | 91 | 🇦🇺 | rare | · |
+| Toolamba | Toolamba | 91 | 🇦🇺 | rare | · |
+| Winton | Winton, Victoria | 91 | 🇦🇺 | rare | · |
+| Yandoit | Yandoit | 91 | 🇦🇺 | rare | · |
+| Digby | Digby, Victoria | 90 | 🇦🇺 | rare | · |
+| Glenorchy | Glenorchy, Victoria | 90 | 🇦🇺 | rare | · |
+| Junction Village | Junction Village | 90 | 🇦🇺 | rare | · |
+| Lockwood | Lockwood, Victoria | 90 | 🇦🇺 | rare | · |
+| Newry | Newry, Victoria | 90 | 🇦🇺 | rare | · |
+| Deans Marsh | Deans Marsh | 89 | 🇦🇺 | rare | · |
+| Moorooduc | Moorooduc | 89 | 🇦🇺 | rare | · |
+| Wallace | Wallace, Victoria | 89 | 🇦🇺 | rare | · |
+| Buffalo | Buffalo, Victoria | 88 | 🇦🇺 | rare | · |
+| Hexham | Hexham, Victoria | 88 | 🇦🇺 | rare | · |
+| Irishtown | Irishtown, Victoria | 88 | 🇦🇺 | rare | · |
+| Johnsonville | Johnsonville, Victoria | 88 | 🇦🇺 | rare | · |
+| Summerlands | Summerlands, Victoria | 88 | 🇦🇺 | rare | · |
+| Tintaldra | Tintaldra | 88 | 🇦🇺 | rare | · |
+| Timor | Timor, Victoria | 88 | 🇦🇺 | rare | · |
+| Yarroweyah | Yarroweyah | 88 | 🇦🇺 | rare | · |
+| Dixons Creek | Dixons Creek | 87 | 🇦🇺 | rare | · |
+| Eddington | Eddington, Victoria | 87 | 🇦🇺 | rare | · |
+| Haddon | Haddon, Victoria | 87 | 🇦🇺 | rare | · |
+| Mystic Park | Mystic Park | 87 | 🇦🇺 | rare | · |
+| Tarrawarra | Tarrawarra | 87 | 🇦🇺 | rare | · |
+| Tarrawingee | Tarrawingee, Victoria | 87 | 🇦🇺 | rare | · |
+| Undera | Undera | 87 | 🇦🇺 | rare | · |
+| Logan | Logan, Victoria | 86 | 🇦🇺 | rare | · |
+| Netherby | Netherby, Victoria | 86 | 🇦🇺 | rare | · |
+| Three Bridges | Three Bridges, Victoria | 86 | 🇦🇺 | rare | · |
+| Winslow | Winslow, Victoria | 86 | 🇦🇺 | rare | · |
+| Bullengarook | Bullengarook | 85 | 🇦🇺 | rare | · |
+| Clematis | Clematis, Victoria | 85 | 🇦🇺 | rare | · |
+| Kiewa | Kiewa | 85 | 🇦🇺 | rare | · |
+| Mafeking | Mafeking, Victoria | 85 | 🇦🇺 | rare | · |
+| Mount Moriac | Mount Moriac | 85 | 🇦🇺 | rare | · |
+| Stonehaven | Stonehaven, Victoria | 85 | 🇦🇺 | rare | · |
+| Corop | Corop | 84 | 🇦🇺 | rare | · |
+| Heathcote Junction | Heathcote Junction | 84 | 🇦🇺 | rare | · |
+| Quarry Hill | Quarry Hill, Victoria | 84 | 🇦🇺 | rare | · |
+| Tyrendarra | Tyrendarra | 84 | 🇦🇺 | rare | · |
+| Wemen | Wemen | 84 | 🇦🇺 | rare | · |
+| Bayles | Bayles, Victoria | 83 | 🇦🇺 | rare | · |
+| Campbelltown | Campbelltown, Victoria | 83 | 🇦🇺 | rare | · |
+| Elliminyt | Elliminyt | 83 | 🇦🇺 | rare | · |
+| Hawkesdale | Hawkesdale, Victoria | 83 | 🇦🇺 | rare | · |
+| Allendale | Allendale, Victoria | 82 | 🇦🇺 | rare | · |
+| Archies Creek | Archies Creek | 82 | 🇦🇺 | rare | · |
+| Cudgewa | Cudgewa | 82 | 🇦🇺 | rare | · |
+| Cullulleraine | Cullulleraine | 82 | 🇦🇺 | rare | · |
+| Hill End | Hill End, Victoria | 82 | 🇦🇺 | rare | · |
+| Yelta | Yelta, Victoria | 82 | 🇦🇺 | rare | · |
+| Oxley | Oxley, Victoria | 81 | 🇦🇺 | rare | · |
+| Steels Creek | Steels Creek, Victoria | 81 | 🇦🇺 | rare | · |
+| Bullarto | Bullarto | 80 | 🇦🇺 | rare | · |
+| Gelantipy | Gelantipy | 80 | 🇦🇺 | rare | · |
+| Iona | Iona, Victoria | 80 | 🇦🇺 | rare | · |
+| Mount Rothwell | Mount Rothwell | 80 | 🇦🇺 | rare | · |
+| Scotsburn | Scotsburn, Victoria | 80 | 🇦🇺 | rare | · |
+| Bambra | Bambra | 79 | 🇦🇺 | rare | · |
+| Boisdale | Boisdale, Victoria | 79 | 🇦🇺 | rare | · |
+| Buangor | Buangor | 79 | 🇦🇺 | rare | · |
+| Cambarville | Cambarville | 79 | 🇦🇺 | rare | · |
+| Chinkapook | Chinkapook | 79 | 🇦🇺 | rare | · |
+| Cora Lynn | Cora Lynn | 79 | 🇦🇺 | rare | · |
+| Cowangie | Cowangie | 79 | 🇦🇺 | rare | · |
+| Hollands Landing | Hollands Landing | 79 | 🇦🇺 | rare | · |
+| Ovens | Ovens, Victoria | 79 | 🇦🇺 | rare | · |
+| Wimbledon Heights | Wimbledon Heights | 79 | 🇦🇺 | rare | · |
+| Yapeen | Yapeen | 79 | 🇦🇺 | rare | · |
+| Barrabool | Barrabool | 78 | 🇦🇺 | rare | · |
+| Dean | Dean, Victoria | 78 | 🇦🇺 | rare | · |
+| Moorabool | Moorabool | 78 | 🇦🇺 | rare | · |
+| Nandaly | Nandaly | 78 | 🇦🇺 | rare | · |
+| Yering | Yering | 78 | 🇦🇺 | rare | · |
+| Zumsteins | Zumsteins | 78 | 🇦🇺 | rare | · |
+| Gherang | Gherang | 77 | 🇦🇺 | rare | · |
+| Wesburn | Wesburn | 77 | 🇦🇺 | rare | · |
+| Wyuna | Wyuna, Victoria | 77 | 🇦🇺 | rare | · |
+| Catani | Catani | 76 | 🇦🇺 | rare | · |
+| Coal Creek | Coal Creek, Victoria | 76 | 🇦🇺 | rare | · |
+| Daisy Hill | Daisy Hill, Victoria | 76 | 🇦🇺 | rare | · |
+| Denver | Denver, Victoria | 76 | 🇦🇺 | rare | · |
+| Locksley | Locksley, Victoria | 76 | 🇦🇺 | rare | · |
+| Antwerp | Antwerp, Victoria | 75 | 🇦🇺 | rare | · |
+| Jumbunna | Jumbunna | 75 | 🇦🇺 | rare | · |
+| Port Franklin | Port Franklin | 75 | 🇦🇺 | rare | · |
+| Shelbourne | Shelbourne, Victoria | 75 | 🇦🇺 | rare | · |
+| Upotipotpon | Upotipotpon | 75 | 🇦🇺 | rare | · |
+| Hesket | Hesket, Victoria | 74 | 🇦🇺 | rare | **deep** |
+| Napoleons | Napoleons | 74 | 🇦🇺 | rare | **deep** |
+| Seaton | Seaton, Victoria | 74 | 🇦🇺 | rare | **deep** |
+| Towong | Towong | 74 | 🇦🇺 | rare | **deep** |
+| Durham Ox | Durham Ox, Victoria | 72 | 🇦🇺 | rare | **deep** |
+| Flora Hill | Flora Hill | 72 | 🇦🇺 | rare | **deep** |
+| Newbury | Newbury, Victoria | 72 | 🇦🇺 | rare | **deep** |
+| Sedgwick | Sedgwick, Victoria | 72 | 🇦🇺 | rare | **deep** |
+| Smythes Creek | Smythes Creek | 72 | 🇦🇺 | rare | **deep** |
+| Woodford | Woodford, Victoria | 72 | 🇦🇺 | rare | **deep** |
+| Marengo | Marengo, Victoria | 71 | 🇦🇺 | deep | · |
+| Arcadia | Arcadia, Victoria | 71 | 🇦🇺 | rare | **deep** |
+| Balliang | Balliang | 71 | 🇦🇺 | rare | **deep** |
+| Barkly | Barkly, Victoria | 71 | 🇦🇺 | rare | **deep** |
+| Bearii | Bearii | 71 | 🇦🇺 | rare | **deep** |
+| Burrumbeet | Burrumbeet | 71 | 🇦🇺 | rare | **deep** |
+| Chum Creek | Chum Creek | 71 | 🇦🇺 | rare | **deep** |
+| Cottles Bridge | Cottles Bridge | 71 | 🇦🇺 | rare | **deep** |
+| Cranbourne South | Cranbourne South | 71 | 🇦🇺 | rare | **deep** |
+| Old Tallangatta | Old Tallangatta | 71 | 🇦🇺 | rare | **deep** |
+| Outtrim | Outtrim | 71 | 🇦🇺 | rare | **deep** |
+| Sutton Grange | Sutton Grange, Victoria | 71 | 🇦🇺 | rare | **deep** |
+| Woorndoo | Woorndoo | 71 | 🇦🇺 | rare | **deep** |
+| Skenes Creek | Skenes Creek | 70 | 🇦🇺 | deep | · |
+| Agnes | Agnes, Victoria | 70 | 🇦🇺 | rare | **deep** |
+| Eurobin | Eurobin | 70 | 🇦🇺 | rare | **deep** |
+| Gormandale | Gormandale | 70 | 🇦🇺 | rare | **deep** |
+| Hattah | Hattah | 70 | 🇦🇺 | rare | **deep** |
+| Ironbark | Ironbark, Victoria | 70 | 🇦🇺 | rare | **deep** |
+| Lake Charm | Lake Charm | 70 | 🇦🇺 | rare | **deep** |
+| Maindample | Maindample | 70 | 🇦🇺 | rare | **deep** |
+| Trawool | Trawool | 70 | 🇦🇺 | rare | **deep** |
+| Alvie | Alvie, Victoria | 69 | 🇦🇺 | rare | **deep** |
+| Bamawm | Bamawm | 69 | 🇦🇺 | rare | **deep** |
+| Costerfield | Costerfield | 69 | 🇦🇺 | rare | **deep** |
+| East Bendigo | East Bendigo | 69 | 🇦🇺 | rare | **deep** |
+| Musk | Musk, Victoria | 69 | 🇦🇺 | rare | **deep** |
+| Killarney | Killarney, Victoria | 68 | 🇦🇺 | deep | · |
+| Bolinda | Bolinda | 68 | 🇦🇺 | rare | **deep** |
+| Coimadai | Coimadai | 68 | 🇦🇺 | rare | **deep** |
+| Gladysdale | Gladysdale | 68 | 🇦🇺 | rare | **deep** |
+| Golden Gully | Golden Gully | 68 | 🇦🇺 | rare | **deep** |
 | Nangiloc | Nangiloc | 67 | 🇦🇺 | deep | · |
+| Addington | Addington, Victoria | 67 | 🇦🇺 | rare | **deep** |
+| Athlone | Athlone, Victoria | 67 | 🇦🇺 | rare | **deep** |
+| Balnarring Beach | Balnarring Beach | 67 | 🇦🇺 | rare | **deep** |
+| Congupna | Congupna | 67 | 🇦🇺 | rare | **deep** |
+| Henty | Henty, Victoria | 67 | 🇦🇺 | rare | **deep** |
+| Blowhard | Blowhard, Victoria | 66 | 🇦🇺 | rare | **deep** |
+| Homebush | Homebush, Victoria | 66 | 🇦🇺 | rare | **deep** |
+| Mandurang | Mandurang | 66 | 🇦🇺 | rare | **deep** |
+| Mudgegonga | Mudgegonga | 66 | 🇦🇺 | rare | **deep** |
+| Nichols Point | Nichols Point | 66 | 🇦🇺 | rare | **deep** |
+| Smiths Gully | Smiths Gully | 66 | 🇦🇺 | rare | **deep** |
+| Spring Gully | Spring Gully, Victoria | 66 | 🇦🇺 | rare | **deep** |
+| Tynong North | Tynong North | 66 | 🇦🇺 | rare | **deep** |
+| Vaughan | Vaughan, Victoria | 66 | 🇦🇺 | rare | **deep** |
 | Lyonville | Lyonville | 65 | 🇦🇺 | deep | · |
+| Adelaide Lead | Adelaide Lead | 65 | 🇦🇺 | rare | **deep** |
+| Chute | Chute, Victoria | 65 | 🇦🇺 | rare | **deep** |
+| Gheringhap | Gheringhap | 65 | 🇦🇺 | rare | **deep** |
+| Gisborne South | Gisborne South | 65 | 🇦🇺 | rare | **deep** |
+| Morrisons | Morrisons, Victoria | 65 | 🇦🇺 | rare | **deep** |
+| Wurruk | Wurruk | 65 | 🇦🇺 | rare | **deep** |
+| Ellerslie | Ellerslie, Victoria | 64 | 🇦🇺 | rare | **deep** |
+| Redcastle | Redcastle, Victoria | 64 | 🇦🇺 | rare | **deep** |
+| Tower Hill | Tower Hill, Victoria | 64 | 🇦🇺 | rare | **deep** |
+| Wilby | Wilby, Victoria | 64 | 🇦🇺 | rare | **deep** |
+| Baringhup | Baringhup | 63 | 🇦🇺 | rare | **deep** |
+| Barwon Downs | Barwon Downs | 63 | 🇦🇺 | rare | **deep** |
+| Indigo Valley | Indigo Valley | 63 | 🇦🇺 | rare | **deep** |
+| Pioneer Bay | Pioneer Bay, Victoria | 63 | 🇦🇺 | rare | **deep** |
+| Strangways | Strangways, Victoria | 63 | 🇦🇺 | rare | **deep** |
+| Wood Wood | Wood Wood, Victoria | 63 | 🇦🇺 | rare | **deep** |
+| Baynton | Baynton, Victoria | 62 | 🇦🇺 | rare | **deep** |
+| McMahons Creek | McMahons Creek, Victoria | 62 | 🇦🇺 | rare | **deep** |
+| Nutfield | Nutfield, Victoria | 62 | 🇦🇺 | rare | **deep** |
+| Pennyroyal | Pennyroyal, Victoria | 62 | 🇦🇺 | rare | **deep** |
+| Peechelba | Peechelba | 62 | 🇦🇺 | rare | **deep** |
+| Strathewen | Strathewen | 62 | 🇦🇺 | rare | **deep** |
+| Swan Bay | Swan Bay, Victoria | 62 | 🇦🇺 | rare | **deep** |
+| Boomahnoomoonah | Boomahnoomoonah | 61 | 🇦🇺 | rare | **deep** |
+| Exford | Exford, Victoria | 61 | 🇦🇺 | rare | **deep** |
+| Lindsay Point | Lindsay Point, Victoria | 61 | 🇦🇺 | rare | **deep** |
+| Silverleaves | Silverleaves | 61 | 🇦🇺 | rare | **deep** |
+| Surf Beach | Surf Beach, Victoria | 61 | 🇦🇺 | rare | **deep** |
+| Tom Groggin | Tom Groggin | 61 | 🇦🇺 | rare | **deep** |
+| Tuerong | Tuerong | 61 | 🇦🇺 | rare | **deep** |
+| Bolwarra | Bolwarra, Victoria | 60 | 🇦🇺 | rare | **deep** |
+| Meringur | Meringur | 60 | 🇦🇺 | rare | **deep** |
+| She Oaks | She Oaks | 60 | 🇦🇺 | rare | **deep** |
+| Ardmona | Ardmona | 59 | 🇦🇺 | rare | **deep** |
+| Bagshot | Bagshot, Victoria | 59 | 🇦🇺 | rare | **deep** |
+| Berringa | Berringa | 59 | 🇦🇺 | rare | **deep** |
+| Dooen | Dooen | 59 | 🇦🇺 | rare | **deep** |
+| Fosterville | Fosterville, Victoria | 59 | 🇦🇺 | rare | **deep** |
+| Minimay | Minimay | 59 | 🇦🇺 | rare | **deep** |
+| Modewarre | Modewarre | 59 | 🇦🇺 | rare | **deep** |
+| Sandford | Sandford, Victoria | 59 | 🇦🇺 | rare | **deep** |
+| Sunday Creek | Sunday Creek, Victoria | 59 | 🇦🇺 | rare | **deep** |
+| Wooragee | Wooragee | 59 | 🇦🇺 | rare | **deep** |
+| Avonsleigh | Avonsleigh | 58 | 🇦🇺 | rare | **deep** |
+| Glenaroua | Glenaroua | 58 | 🇦🇺 | rare | **deep** |
+| Joel Joel | Joel Joel | 58 | 🇦🇺 | rare | **deep** |
+| Ulupna | Ulupna | 58 | 🇦🇺 | rare | **deep** |
 | Sheep Hills | Sheep Hills, Victoria | 57 | 🇦🇺 | deep | · |
+| Byaduk | Byaduk | 57 | 🇦🇺 | rare | **deep** |
+| Flynn | Flynn, Victoria | 57 | 🇦🇺 | rare | **deep** |
+| Yaapeet | Yaapeet | 57 | 🇦🇺 | rare | **deep** |
+| Yuroke | Yuroke | 57 | 🇦🇺 | rare | **deep** |
+| Buckley | Buckley, Victoria | 56 | 🇦🇺 | rare | **deep** |
+| Bushfield | Bushfield, Victoria | 56 | 🇦🇺 | rare | **deep** |
+| Flagstaff | Flagstaff, Victoria | 56 | 🇦🇺 | rare | **deep** |
+| Goongerah | Goongerah | 56 | 🇦🇺 | rare | **deep** |
+| Sailors Falls | Sailors Falls | 56 | 🇦🇺 | rare | **deep** |
+| Wangoom | Wangoom | 56 | 🇦🇺 | rare | **deep** |
 | Rosebery | Rosebery, Victoria | 55 | 🇦🇺 | deep | · |
+| Abbeyard | Abbeyard | 55 | 🇦🇺 | rare | **deep** |
+| Clarendon | Clarendon, Victoria | 55 | 🇦🇺 | rare | **deep** |
+| Colac Colac | Colac Colac | 55 | 🇦🇺 | rare | **deep** |
+| Cooma | Cooma, Victoria | 55 | 🇦🇺 | rare | **deep** |
+| Eyres House, Soldiers Hill, Ballarat | Eyres House, Soldiers Hill, Ballarat | 55 | 🇦🇺 | rare | **deep** |
+| Kerrie | Kerrie, Victoria | 55 | 🇦🇺 | rare | **deep** |
+| Kiata | Kiata | 55 | 🇦🇺 | rare | **deep** |
+| McLoughlins Beach | McLoughlins Beach | 55 | 🇦🇺 | rare | **deep** |
+| Mount Burnett | Mount Burnett, Victoria | 55 | 🇦🇺 | rare | **deep** |
+| Wandin East | Wandin East | 55 | 🇦🇺 | rare | **deep** |
+| Garvoc | Garvoc | 54 | 🇦🇺 | rare | **deep** |
+| Haven | Haven, Victoria | 54 | 🇦🇺 | rare | **deep** |
+| Irrewarra | Irrewarra | 54 | 🇦🇺 | rare | **deep** |
+| Kergunyah | Kergunyah | 54 | 🇦🇺 | rare | **deep** |
+| Lake Powell | Lake Powell, Victoria | 54 | 🇦🇺 | rare | **deep** |
+| Langley | Langley, Victoria | 54 | 🇦🇺 | rare | **deep** |
+| Rowsley | Rowsley, Victoria | 54 | 🇦🇺 | rare | **deep** |
+| Sebastian | Sebastian, Victoria | 54 | 🇦🇺 | rare | **deep** |
+| Ashbourne | Ashbourne, Victoria | 53 | 🇦🇺 | rare | **deep** |
+| Ascot, Bendigo | Ascot, Bendigo | 53 | 🇦🇺 | rare | **deep** |
+| Crowlands | Crowlands, Victoria | 53 | 🇦🇺 | rare | **deep** |
+| Katandra | Katandra | 53 | 🇦🇺 | rare | **deep** |
+| Macorna | Macorna | 53 | 🇦🇺 | rare | **deep** |
+| Mitchellstown | Mitchellstown | 53 | 🇦🇺 | rare | **deep** |
+| Pimpinio | Pimpinio | 53 | 🇦🇺 | rare | **deep** |
 | Nullawarre | Nullawarre | 52 | 🇦🇺 | deep | · |
+| Bald Hills | Bald Hills, Victoria | 52 | 🇦🇺 | rare | **deep** |
+| Condah | Condah | 52 | 🇦🇺 | rare | **deep** |
+| Eganstown | Eganstown | 52 | 🇦🇺 | rare | **deep** |
+| Emu Creek | Emu Creek, Victoria | 52 | 🇦🇺 | rare | **deep** |
+| Tonimbuk | Tonimbuk | 52 | 🇦🇺 | rare | **deep** |
+| Woorinen | Woorinen | 52 | 🇦🇺 | rare | **deep** |
+| Ancona | Ancona, Victoria | 51 | 🇦🇺 | rare | **deep** |
+| Armstrong | Armstrong, Victoria | 51 | 🇦🇺 | rare | **deep** |
+| Barkers Creek | Barkers Creek, Victoria | 51 | 🇦🇺 | rare | **deep** |
+| Bears Lagoon | Bears Lagoon | 51 | 🇦🇺 | rare | **deep** |
+| Dalmore | Dalmore, Victoria | 51 | 🇦🇺 | rare | **deep** |
+| Ebden | Ebden, Victoria | 51 | 🇦🇺 | rare | **deep** |
+| Hazelwood North | Hazelwood North | 51 | 🇦🇺 | rare | **deep** |
+| Langwarrin South | Langwarrin South | 51 | 🇦🇺 | rare | **deep** |
+| Longerenong | Longerenong | 51 | 🇦🇺 | rare | **deep** |
+| Muckatah | Muckatah | 51 | 🇦🇺 | rare | **deep** |
+| Nilma | Nilma | 51 | 🇦🇺 | rare | **deep** |
+| Paraparap | Paraparap | 51 | 🇦🇺 | rare | **deep** |
+| Windermere | Windermere, Victoria | 51 | 🇦🇺 | rare | **deep** |
+| Anderson | Anderson, Victoria | 50 | 🇦🇺 | rare | **deep** |
+| Bessiebelle | Bessiebelle | 50 | 🇦🇺 | rare | **deep** |
+| Calivil | Calivil | 50 | 🇦🇺 | rare | **deep** |
+| Fernbank | Fernbank, Victoria | 50 | 🇦🇺 | rare | **deep** |
+| Glenmore | Glenmore, Victoria | 50 | 🇦🇺 | rare | **deep** |
+| Myers Flat | Myers Flat, Victoria | 50 | 🇦🇺 | rare | **deep** |
+| Shelley | Shelley, Victoria | 50 | 🇦🇺 | rare | **deep** |
+| Walmer | Walmer, Victoria | 50 | 🇦🇺 | rare | **deep** |
+| Welshmans Reef | Welshmans Reef | 50 | 🇦🇺 | rare | **deep** |
+| Bangerang | Bangerang, Victoria | 49 | 🇦🇺 | rare | **deep** |
+| Dhurringile | Dhurringile, Victoria | 49 | 🇦🇺 | rare | **deep** |
+| East Warburton | East Warburton | 49 | 🇦🇺 | rare | **deep** |
+| Gateway Island | Gateway Island | 49 | 🇦🇺 | rare | **deep** |
+| Tambo Crossing | Tambo Crossing | 49 | 🇦🇺 | rare | **deep** |
+| Wahring | Wahring, Victoria | 49 | 🇦🇺 | rare | **deep** |
+| Yabba North | Yabba North | 49 | 🇦🇺 | rare | **deep** |
 | Separation Creek | Separation Creek | 48 | 🇦🇺 | uncommon | obvious |
+| Icy Creek | Icy Creek | 48 | 🇦🇺 | rare | **deep** |
+| Iraak | Iraak | 48 | 🇦🇺 | rare | **deep** |
+| Lake Meran | Lake Meran | 48 | 🇦🇺 | rare | **deep** |
+| Nanneella | Nanneella | 48 | 🇦🇺 | rare | **deep** |
+| Pheasant Creek | Pheasant Creek, Victoria | 48 | 🇦🇺 | rare | **deep** |
+| Purnim | Purnim | 48 | 🇦🇺 | rare | **deep** |
+| Staughton Vale | Staughton Vale | 48 | 🇦🇺 | rare | **deep** |
+| Allestree | Allestree, Victoria | 47 | 🇦🇺 | rare | **deep** |
+| Alma | Alma, Victoria | 47 | 🇦🇺 | rare | **deep** |
+| Cobaw | Cobaw | 47 | 🇦🇺 | rare | **deep** |
+| Kilmany | Kilmany, Victoria | 47 | 🇦🇺 | rare | **deep** |
+| Lance Creek | Lance Creek, Victoria | 47 | 🇦🇺 | rare | **deep** |
+| Newmerella | Newmerella | 47 | 🇦🇺 | rare | **deep** |
+| Sandon | Sandon, Victoria | 47 | 🇦🇺 | rare | **deep** |
+| Arnold | Arnold, Victoria | 46 | 🇦🇺 | rare | **deep** |
+| Barongarook | Barongarook | 46 | 🇦🇺 | rare | **deep** |
+| Boinka | Boinka | 46 | 🇦🇺 | rare | **deep** |
+| Dewhurst | Dewhurst, Victoria | 46 | 🇦🇺 | rare | **deep** |
+| Eastwood | Eastwood, Victoria | 46 | 🇦🇺 | rare | **deep** |
+| Jam Jerrup | Jam Jerrup | 46 | 🇦🇺 | rare | **deep** |
+| Laharum | Laharum | 46 | 🇦🇺 | rare | **deep** |
+| Nangana | Nangana, Victoria | 46 | 🇦🇺 | rare | **deep** |
+| Red Lion | Red Lion, Victoria | 46 | 🇦🇺 | rare | **deep** |
+| Thoona | Thoona | 46 | 🇦🇺 | rare | **deep** |
+| Torrita | Torrita, Victoria | 46 | 🇦🇺 | rare | **deep** |
+| Upper Plenty | Upper Plenty | 46 | 🇦🇺 | rare | **deep** |
+| Willowmavin | Willowmavin | 46 | 🇦🇺 | rare | **deep** |
+| Barrys Reef | Barrys Reef | 45 | 🇦🇺 | rare | **deep** |
+| Callignee | Callignee | 45 | 🇦🇺 | rare | **deep** |
+| Corindhap | Corindhap | 45 | 🇦🇺 | rare | **deep** |
+| Ercildoune | Ercildoune, Victoria | 45 | 🇦🇺 | rare | **deep** |
+| Galah | Galah, Victoria | 45 | 🇦🇺 | rare | **deep** |
+| Katandra West | Katandra West | 45 | 🇦🇺 | rare | **deep** |
+| Mininera | Mininera | 45 | 🇦🇺 | rare | **deep** |
+| Moonlight Head | Moonlight Head | 45 | 🇦🇺 | rare | **deep** |
+| North Wonthaggi | North Wonthaggi | 45 | 🇦🇺 | rare | **deep** |
+| Pakenham Upper | Pakenham Upper | 45 | 🇦🇺 | rare | **deep** |
+| Cooriemungle | Cooriemungle | 44 | 🇦🇺 | rare | **deep** |
+| Cororooke | Cororooke | 44 | 🇦🇺 | rare | **deep** |
+| Eastern View | Eastern View | 44 | 🇦🇺 | rare | **deep** |
+| Garibaldi | Garibaldi, Victoria | 44 | 🇦🇺 | rare | **deep** |
+| Heytesbury Settlement Scheme | Heytesbury Settlement Scheme | 44 | 🇦🇺 | rare | **deep** |
+| Kotupna | Kotupna | 44 | 🇦🇺 | rare | **deep** |
+| Southern Cross | Southern Cross, Victoria | 44 | 🇦🇺 | rare | **deep** |
+| Sugarloaf | Sugarloaf, Victoria | 44 | 🇦🇺 | rare | **deep** |
+| Sunderland Bay | Sunderland Bay | 44 | 🇦🇺 | rare | **deep** |
+| Yannathan | Yannathan | 44 | 🇦🇺 | rare | **deep** |
+| Boosey | Boosey, Victoria | 43 | 🇦🇺 | rare | **deep** |
+| Gundowring | Gundowring | 43 | 🇦🇺 | rare | **deep** |
+| Longlea | Longlea | 43 | 🇦🇺 | rare | **deep** |
+| Mannerim | Mannerim | 43 | 🇦🇺 | rare | **deep** |
+| Narre Warren East | Narre Warren East | 43 | 🇦🇺 | rare | **deep** |
+| Northwood | Northwood, Victoria | 43 | 🇦🇺 | rare | **deep** |
+| Springbank | Springbank, Victoria | 43 | 🇦🇺 | rare | **deep** |
+| Sunset Strip | Sunset Strip, Victoria | 43 | 🇦🇺 | rare | **deep** |
+| Argyle | Argyle, Victoria | 42 | 🇦🇺 | rare | **deep** |
+| Castle Donnington | Castle Donnington, Victoria | 42 | 🇦🇺 | rare | **deep** |
+| Cherokee | Cherokee, Victoria | 42 | 🇦🇺 | rare | **deep** |
+| Emu | Emu, Victoria | 42 | 🇦🇺 | rare | **deep** |
+| Gilderoy | Gilderoy, Victoria | 42 | 🇦🇺 | rare | **deep** |
+| Lake Rowan | Lake Rowan | 42 | 🇦🇺 | rare | **deep** |
+| Modella | Modella | 42 | 🇦🇺 | rare | **deep** |
+| Mount Mercer | Mount Mercer | 42 | 🇦🇺 | rare | **deep** |
+| Scotts Creek | Scotts Creek, Victoria | 42 | 🇦🇺 | rare | **deep** |
+| Tyntynder | Tyntynder | 42 | 🇦🇺 | rare | **deep** |
+| Westmere | Westmere, Victoria | 42 | 🇦🇺 | rare | **deep** |
 | Bridgewater | Bridgewater, Victoria | 41 | 🇦🇺 | deep | · |
-| Bendigo | Bendigo | — | 🇦🇺 | common | · |
-| Heathcote | Heathcote, Victoria | — | 🇦🇺 | uncommon | · |
+| Axe Creek | Axe Creek | 41 | 🇦🇺 | rare | **deep** |
+| Chetwynd | Chetwynd, Victoria | 41 | 🇦🇺 | rare | **deep** |
+| Donnelly's Creek | Donnelly's Creek | 41 | 🇦🇺 | rare | **deep** |
+| Pirron Yallock | Pirron Yallock | 41 | 🇦🇺 | rare | **deep** |
+| Wurdiboluc | Wurdiboluc | 41 | 🇦🇺 | rare | **deep** |
+| Boorhaman | Boorhaman | 40 | 🇦🇺 | rare | **deep** |
+| Borung | Borung | 40 | 🇦🇺 | rare | **deep** |
+| Buckland | Buckland, Victoria | 40 | 🇦🇺 | rare | **deep** |
+| Caldermeade | Caldermeade | 40 | 🇦🇺 | rare | **deep** |
+| Clydesdale | Clydesdale, Victoria | 40 | 🇦🇺 | rare | **deep** |
+| Codrington | Codrington, Victoria | 40 | 🇦🇺 | rare | **deep** |
+| Heath Hill | Heath Hill | 40 | 🇦🇺 | rare | **deep** |
+| Humevale | Humevale | 40 | 🇦🇺 | rare | **deep** |
+| Kaarimba | Kaarimba | 40 | 🇦🇺 | rare | **deep** |
+| Lah | Lah, Victoria | 40 | 🇦🇺 | rare | **deep** |
+| Lardner | Lardner, Victoria | 40 | 🇦🇺 | rare | **deep** |
+| Strathallan | Strathallan, Victoria | 40 | 🇦🇺 | rare | **deep** |
+| Woorinen South | Woorinen South | 40 | 🇦🇺 | rare | **deep** |
+| Yendon | Yendon | 40 | 🇦🇺 | rare | **deep** |
+| Buckrabanyule | Buckrabanyule | 39 | 🇦🇺 | rare | **deep** |
+| Deptford | Deptford, Victoria | 39 | 🇦🇺 | rare | **deep** |
+| Fumina South | Fumina South | 39 | 🇦🇺 | rare | **deep** |
+| Guys Hill | Guys Hill | 39 | 🇦🇺 | rare | **deep** |
+| Kernot | Kernot, Victoria | 39 | 🇦🇺 | rare | **deep** |
+| Lalbert | Lalbert | 39 | 🇦🇺 | rare | **deep** |
+| Linga | Linga, Victoria | 39 | 🇦🇺 | rare | **deep** |
+| Mywee | Mywee | 39 | 🇦🇺 | rare | **deep** |
+| Nirranda | Nirranda | 39 | 🇦🇺 | rare | **deep** |
+| Ombersley | Ombersley, Victoria | 39 | 🇦🇺 | rare | **deep** |
+| Paschendale | Paschendale, Victoria | 39 | 🇦🇺 | rare | **deep** |
+| Wongarra | Wongarra | 39 | 🇦🇺 | rare | **deep** |
+| Beremboke | Beremboke | 38 | 🇦🇺 | rare | **deep** |
+| Birdwoodton | Birdwoodton | 38 | 🇦🇺 | rare | **deep** |
+| Cudgee | Cudgee | 38 | 🇦🇺 | rare | **deep** |
+| Gerang Gerung | Gerang Gerung | 38 | 🇦🇺 | rare | **deep** |
+| Greenhill | Greenhill, Victoria | 38 | 🇦🇺 | rare | **deep** |
+| Jeeralang | Jeeralang | 38 | 🇦🇺 | rare | **deep** |
+| Kenley | Kenley, Victoria | 38 | 🇦🇺 | rare | **deep** |
+| Lake Tyrrell | Lake Tyrrell, Victoria | 38 | 🇦🇺 | rare | **deep** |
+| Lubeck | Lubeck, Victoria | 38 | 🇦🇺 | rare | **deep** |
+| Tragowel | Tragowel | 38 | 🇦🇺 | rare | **deep** |
+| Whipstick | Whipstick | 38 | 🇦🇺 | rare | **deep** |
+| Yanac | Yanac | 38 | 🇦🇺 | rare | **deep** |
+| Annuello | Annuello | 37 | 🇦🇺 | rare | **deep** |
+| Arawata | Arawata | 37 | 🇦🇺 | rare | **deep** |
+| Barfold | Barfold | 37 | 🇦🇺 | rare | **deep** |
+| Biggara | Biggara | 37 | 🇦🇺 | rare | **deep** |
+| Boonah | Boonah, Victoria | 37 | 🇦🇺 | rare | **deep** |
+| Cabarita | Cabarita, Victoria | 37 | 🇦🇺 | rare | **deep** |
+| Fernshaw | Fernshaw | 37 | 🇦🇺 | rare | **deep** |
+| Glen Forbes | Glen Forbes | 37 | 🇦🇺 | rare | **deep** |
+| Lockwood South | Lockwood South | 37 | 🇦🇺 | rare | **deep** |
+| Merricks North | Merricks North | 37 | 🇦🇺 | rare | **deep** |
+| Mount Sabine | Mount Sabine, Victoria | 37 | 🇦🇺 | rare | **deep** |
+| Wellsford | Wellsford, Victoria | 37 | 🇦🇺 | rare | **deep** |
+| Barramunga | Barramunga | 36 | 🇦🇺 | rare | **deep** |
+| Benwerrin | Benwerrin | 36 | 🇦🇺 | rare | **deep** |
+| Bolton | Bolton, Victoria | 36 | 🇦🇺 | rare | **deep** |
+| Cornella | Cornella, Victoria | 36 | 🇦🇺 | rare | **deep** |
+| Crossley | Crossley, Victoria | 36 | 🇦🇺 | rare | **deep** |
+| Koorlong | Koorlong | 36 | 🇦🇺 | rare | **deep** |
+| Kulwin | Kulwin | 36 | 🇦🇺 | rare | **deep** |
+| Ladys Pass | Ladys Pass | 36 | 🇦🇺 | rare | **deep** |
+| Leigh Creek | Leigh Creek, Victoria | 36 | 🇦🇺 | rare | **deep** |
+| Miepoll | Miepoll | 36 | 🇦🇺 | rare | **deep** |
+| Murchison East | Murchison East, Victoria | 36 | 🇦🇺 | rare | **deep** |
+| Red Hill South | Red Hill South | 36 | 🇦🇺 | rare | **deep** |
+| Rythdale | Rythdale | 36 | 🇦🇺 | rare | **deep** |
+| Tresco | Tresco, Victoria | 36 | 🇦🇺 | rare | **deep** |
+| Tutye | Tutye | 36 | 🇦🇺 | rare | **deep** |
+| Waanyarra | Waanyarra | 36 | 🇦🇺 | rare | **deep** |
+| Bannerton | Bannerton, Victoria | 35 | 🇦🇺 | rare | **deep** |
+| Bullioh | Bullioh | 35 | 🇦🇺 | rare | **deep** |
+| Goon Nure | Goon Nure | 35 | 🇦🇺 | rare | **deep** |
+| Kalkee | Kalkee | 35 | 🇦🇺 | rare | **deep** |
+| Nelse | Nelse | 35 | 🇦🇺 | rare | **deep** |
+| Sailors Gully | Sailors Gully | 35 | 🇦🇺 | rare | **deep** |
+| Shepparton North | Shepparton North | 35 | 🇦🇺 | rare | **deep** |
+| Seville East | Seville East | 35 | 🇦🇺 | rare | **deep** |
+| Shepherds Flat | Shepherds Flat | 35 | 🇦🇺 | rare | **deep** |
+| Warrenbayne | Warrenbayne | 35 | 🇦🇺 | rare | **deep** |
+| Wingan River | Wingan River, Victoria | 35 | 🇦🇺 | rare | **deep** |
+| Woodleigh | Woodleigh, Victoria | 35 | 🇦🇺 | rare | **deep** |
+| Woodvale | Woodvale, Victoria | 35 | 🇦🇺 | rare | **deep** |
+| Allans Flat | Allans Flat | 34 | 🇦🇺 | rare | **deep** |
+| Burramine | Burramine | 34 | 🇦🇺 | rare | **deep** |
+| Huon | Huon, Victoria | 34 | 🇦🇺 | rare | **deep** |
+| Kancoona | Kancoona | 34 | 🇦🇺 | rare | **deep** |
+| Kooloonong | Kooloonong | 34 | 🇦🇺 | rare | **deep** |
+| Llanelly | Llanelly, Victoria | 34 | 🇦🇺 | rare | **deep** |
+| Manns Beach | Manns Beach | 34 | 🇦🇺 | rare | **deep** |
+| Moolort | Moolort | 34 | 🇦🇺 | rare | **deep** |
+| Mount Rowan | Mount Rowan, Victoria | 34 | 🇦🇺 | rare | **deep** |
+| Vinifera | Vinifera, Victoria | 34 | 🇦🇺 | rare | **deep** |
+| Yalca | Yalca | 34 | 🇦🇺 | rare | **deep** |
+| Big Pats Creek | Big Pats Creek | 33 | 🇦🇺 | rare | **deep** |
+| Broken Creek | Broken Creek, Victoria | 33 | 🇦🇺 | rare | **deep** |
+| Bullarook | Bullarook | 33 | 🇦🇺 | rare | **deep** |
+| Curdievale | Curdievale | 33 | 🇦🇺 | rare | **deep** |
+| Harmers Haven | Harmers Haven | 33 | 🇦🇺 | rare | **deep** |
+| Koyuga | Koyuga | 33 | 🇦🇺 | rare | **deep** |
+| Mailors Flat | Mailors Flat | 33 | 🇦🇺 | rare | **deep** |
+| Mysia | Mysia, Victoria | 33 | 🇦🇺 | rare | **deep** |
+| Pine Lodge | Pine Lodge | 33 | 🇦🇺 | rare | **deep** |
+| Staghorn Flat | Staghorn Flat | 33 | 🇦🇺 | rare | **deep** |
+| Sutherlands Creek | Sutherlands Creek | 33 | 🇦🇺 | rare | **deep** |
+| Toolondo | Toolondo | 33 | 🇦🇺 | rare | **deep** |
+| Tyrrell | Tyrrell, Victoria | 33 | 🇦🇺 | rare | **deep** |
+| Beenak | Beenak | 32 | 🇦🇺 | rare | **deep** |
+| Bunbartha | Bunbartha | 32 | 🇦🇺 | rare | **deep** |
+| Emu Flat | Emu Flat, Victoria | 32 | 🇦🇺 | rare | **deep** |
+| Ferguson | Ferguson, Victoria | 32 | 🇦🇺 | rare | **deep** |
+| Hotspur | Hotspur, Victoria | 32 | 🇦🇺 | rare | **deep** |
+| Kewell | Kewell, Victoria | 32 | 🇦🇺 | rare | **deep** |
+| Lamplough | Lamplough, Victoria | 32 | 🇦🇺 | rare | **deep** |
+| Merricks Beach | Merricks Beach | 32 | 🇦🇺 | rare | **deep** |
+| Molyullah | Molyullah | 32 | 🇦🇺 | rare | **deep** |
+| Patho | Patho | 32 | 🇦🇺 | rare | **deep** |
+| Pentland Hills | Pentland Hills, Victoria | 32 | 🇦🇺 | rare | **deep** |
+| Pound Creek | Pound Creek | 32 | 🇦🇺 | rare | **deep** |
+| Ryanston | Ryanston | 32 | 🇦🇺 | rare | **deep** |
+| Swan Marsh | Swan Marsh | 32 | 🇦🇺 | rare | **deep** |
+| Tahara | Tahara, Victoria | 32 | 🇦🇺 | rare | **deep** |
+| Tandarra | Tandarra, Victoria | 32 | 🇦🇺 | rare | **deep** |
+| Wallup | Wallup | 32 | 🇦🇺 | rare | **deep** |
+| Beverford | Beverford | 31 | 🇦🇺 | rare | **deep** |
+| Breakaway Creek | Breakaway Creek | 31 | 🇦🇺 | rare | **deep** |
+| Cathkin | Cathkin, Victoria | 31 | 🇦🇺 | rare | **deep** |
+| Clifton Creek | Clifton Creek | 31 | 🇦🇺 | rare | **deep** |
+| Delegate River | Delegate River, Victoria | 31 | 🇦🇺 | rare | **deep** |
+| Eppalock | Eppalock | 31 | 🇦🇺 | rare | **deep** |
+| Gapsted | Gapsted | 31 | 🇦🇺 | rare | **deep** |
+| Homewood | Homewood, Victoria | 31 | 🇦🇺 | rare | **deep** |
+| Irrewillipe | Irrewillipe | 31 | 🇦🇺 | rare | **deep** |
+| Jarklin | Jarklin | 31 | 🇦🇺 | rare | **deep** |
+| Krowera | Krowera | 31 | 🇦🇺 | rare | **deep** |
+| Leichardt | Leichardt, Victoria | 31 | 🇦🇺 | rare | **deep** |
+| Mepunga | Mepunga | 31 | 🇦🇺 | rare | **deep** |
+| Morkalla | Morkalla | 31 | 🇦🇺 | rare | **deep** |
+| Myall | Myall, Victoria | 31 | 🇦🇺 | rare | **deep** |
+| Turriff | Turriff, Victoria | 31 | 🇦🇺 | rare | **deep** |
+| Western Tyers | Western Tyers | 31 | 🇦🇺 | rare | **deep** |
+| Buttlejorrk | Buttlejorrk | 30 | 🇦🇺 | rare | **deep** |
+| Foxhow | Foxhow | 30 | 🇦🇺 | rare | **deep** |
+| Goomalibee | Goomalibee | 30 | 🇦🇺 | rare | **deep** |
+| Jack River | Jack River, Victoria | 30 | 🇦🇺 | rare | **deep** |
+| Leonards Hill | Leonards Hill, Victoria | 30 | 🇦🇺 | rare | **deep** |
+| Mount Lonarch | Mount Lonarch | 30 | 🇦🇺 | rare | **deep** |
+| Orford | Orford, Victoria | 30 | 🇦🇺 | rare | **deep** |
+| Panitya | Panitya | 30 | 🇦🇺 | rare | **deep** |
+| Pearson | Pearson, Victoria | 30 | 🇦🇺 | rare | **deep** |
+| Prairie | Prairie, Victoria | 30 | 🇦🇺 | rare | **deep** |
+| Tol Tol | Tol Tol | 30 | 🇦🇺 | rare | **deep** |
+| Banyan | Banyan, Victoria | 29 | 🇦🇺 | rare | **deep** |
+| Barkstead | Barkstead, Victoria | 29 | 🇦🇺 | rare | **deep** |
+| Barraport | Barraport | 29 | 🇦🇺 | rare | **deep** |
+| Coghills Creek | Coghills Creek | 29 | 🇦🇺 | rare | **deep** |
+| Curyo | Curyo | 29 | 🇦🇺 | rare | **deep** |
+| Franklinford | Franklinford | 29 | 🇦🇺 | rare | **deep** |
+| Gringegalgona | Gringegalgona | 29 | 🇦🇺 | rare | **deep** |
+| Langkoop | Langkoop | 29 | 🇦🇺 | rare | **deep** |
+| Limestone | Limestone, Victoria | 29 | 🇦🇺 | rare | **deep** |
+| Merrimu | Merrimu | 29 | 🇦🇺 | rare | **deep** |
+| Mittyack | Mittyack | 29 | 🇦🇺 | rare | **deep** |
+| Mount Bolton | Mount Bolton, Victoria | 29 | 🇦🇺 | rare | **deep** |
+| Ninda | Ninda | 29 | 🇦🇺 | rare | **deep** |
+| Nowingi | Nowingi | 29 | 🇦🇺 | rare | **deep** |
+| Pine Grove | Pine Grove, Victoria | 29 | 🇦🇺 | rare | **deep** |
+| St Helens | St Helens, Victoria | 29 | 🇦🇺 | rare | **deep** |
+| Balintore | Balintore, Victoria | 28 | 🇦🇺 | rare | **deep** |
+| Broughton | Broughton, Victoria | 28 | 🇦🇺 | rare | **deep** |
+| Craigie | Craigie, Victoria | 28 | 🇦🇺 | rare | **deep** |
+| Glen Alvie | Glen Alvie | 28 | 🇦🇺 | rare | **deep** |
+| Gymbowen | Gymbowen, Victoria | 28 | 🇦🇺 | rare | **deep** |
+| Illowa | Illowa | 28 | 🇦🇺 | rare | **deep** |
+| Lake Marmal | Lake Marmal | 28 | 🇦🇺 | rare | **deep** |
+| Merrinee | Merrinee | 28 | 🇦🇺 | rare | **deep** |
+| Percydale | Percydale, Victoria | 28 | 🇦🇺 | rare | **deep** |
+| Pigeon Ponds | Pigeon Ponds | 28 | 🇦🇺 | rare | **deep** |
+| Warrandyte South | Warrandyte South | 28 | 🇦🇺 | rare | **deep** |
+| Youanmite | Youanmite | 28 | 🇦🇺 | rare | **deep** |
+| Ballangeich | Ballangeich | 27 | 🇦🇺 | rare | **deep** |
+| Balliang East | Balliang East | 27 | 🇦🇺 | rare | **deep** |
+| Coonooer Bridge | Coonooer Bridge | 27 | 🇦🇺 | rare | **deep** |
+| Cosgrove | Cosgrove, Victoria | 27 | 🇦🇺 | rare | **deep** |
+| Derby | Derby, Victoria | 27 | 🇦🇺 | rare | **deep** |
+| Glenluce | Glenluce, Victoria | 27 | 🇦🇺 | rare | **deep** |
+| Hunter | Hunter, Victoria | 27 | 🇦🇺 | rare | **deep** |
+| Lillico | Lillico, Victoria | 27 | 🇦🇺 | rare | **deep** |
+| Miga Lake | Miga Lake | 27 | 🇦🇺 | rare | **deep** |
+| Mincha | Mincha, Victoria | 27 | 🇦🇺 | rare | **deep** |
+| South Dudley | South Dudley | 27 | 🇦🇺 | rare | **deep** |
+| Avonmore | Avonmore, Victoria | 26 | 🇦🇺 | rare | **deep** |
+| Ascot, Ballarat | Ascot, Ballarat | 26 | 🇦🇺 | rare | **deep** |
+| Barwidgee | Barwidgee | 26 | 🇦🇺 | rare | **deep** |
+| Bushy Park | Bushy Park, Victoria | 26 | 🇦🇺 | rare | **deep** |
+| Carag Carag | Carag Carag | 26 | 🇦🇺 | rare | **deep** |
+| Eaglehawk North | Eaglehawk North | 26 | 🇦🇺 | rare | **deep** |
+| Fish Point | Fish Point, Victoria | 26 | 🇦🇺 | rare | **deep** |
+| Gorae West | Gorae West | 26 | 🇦🇺 | rare | **deep** |
+| Karawinna | Karawinna, Victoria | 26 | 🇦🇺 | rare | **deep** |
+| Lorquon | Lorquon | 26 | 🇦🇺 | rare | **deep** |
+| Merbein South | Merbein South | 26 | 🇦🇺 | rare | **deep** |
+| Muskerry | Muskerry, Victoria | 26 | 🇦🇺 | rare | **deep** |
+| Spargo Creek | Spargo Creek | 26 | 🇦🇺 | rare | **deep** |
+| Tourello | Tourello | 26 | 🇦🇺 | rare | **deep** |
+| Waarre | Waarre | 26 | 🇦🇺 | rare | **deep** |
+| Wareek | Wareek | 26 | 🇦🇺 | rare | **deep** |
+| Werona | Werona | 26 | 🇦🇺 | rare | **deep** |
+| Yinnar South | Yinnar South | 26 | 🇦🇺 | rare | **deep** |
+| Almonds | Almonds, Victoria | 25 | 🇦🇺 | rare | **deep** |
+| Esmond | Esmond, Victoria | 25 | 🇦🇺 | rare | **deep** |
+| Ferndale | Ferndale, Victoria | 25 | 🇦🇺 | rare | **deep** |
+| Fiskville | Fiskville, Victoria | 25 | 🇦🇺 | rare | **deep** |
+| Harcourt North | Harcourt North | 25 | 🇦🇺 | rare | **deep** |
+| Lyal | Lyal | 25 | 🇦🇺 | rare | **deep** |
+| Mossiface | Mossiface | 25 | 🇦🇺 | rare | **deep** |
+| Pira | Pira, Victoria | 25 | 🇦🇺 | rare | **deep** |
+| St Clair | St Clair, Victoria | 25 | 🇦🇺 | rare | **deep** |
+| Tongio | Tongio | 25 | 🇦🇺 | rare | **deep** |
+| Wehla | Wehla | 25 | 🇦🇺 | rare | **deep** |
+| Woodend North | Woodend North | 25 | 🇦🇺 | rare | **deep** |
+| Allambee Reserve | Allambee Reserve | 24 | 🇦🇺 | rare | **deep** |
+| Almurta | Almurta | 24 | 🇦🇺 | rare | **deep** |
+| Bahgallah | Bahgallah | 24 | 🇦🇺 | rare | **deep** |
+| Barnadown | Barnadown | 24 | 🇦🇺 | rare | **deep** |
+| Brimpaen | Brimpaen | 24 | 🇦🇺 | rare | **deep** |
+| Garfield North | Garfield North | 24 | 🇦🇺 | rare | **deep** |
+| Hansonville | Hansonville, Victoria | 24 | 🇦🇺 | rare | **deep** |
+| Heathmere | Heathmere | 24 | 🇦🇺 | rare | **deep** |
+| Jancourt East | Jancourt East | 24 | 🇦🇺 | rare | **deep** |
+| Keely | Keely, Victoria | 24 | 🇦🇺 | rare | **deep** |
+| Konongwootong | Konongwootong | 24 | 🇦🇺 | rare | **deep** |
+| Kyvalley | Kyvalley | 24 | 🇦🇺 | rare | **deep** |
+| Larpent | Larpent, Victoria | 24 | 🇦🇺 | rare | **deep** |
+| Monomeith | Monomeith | 24 | 🇦🇺 | rare | **deep** |
+| Mologa | Mologa, Victoria | 24 | 🇦🇺 | rare | **deep** |
+| Murra Warra | Murra Warra | 24 | 🇦🇺 | rare | **deep** |
+| Orrvale | Orrvale | 24 | 🇦🇺 | rare | **deep** |
+| Petticoat Creek | Petticoat Creek, Victoria | 24 | 🇦🇺 | rare | **deep** |
+| Queensferry | Queensferry, Victoria | 24 | 🇦🇺 | rare | **deep** |
+| Speewa | Speewa, Victoria | 24 | 🇦🇺 | rare | **deep** |
+| Tyaak | Tyaak | 24 | 🇦🇺 | rare | **deep** |
+| Adams Estate | Adams Estate | 23 | 🇦🇺 | rare | **deep** |
+| Albacutya | Albacutya | 23 | 🇦🇺 | rare | **deep** |
+| Berringama | Berringama | 23 | 🇦🇺 | rare | **deep** |
+| Bochara | Bochara | 23 | 🇦🇺 | rare | **deep** |
+| Brit Brit | Brit Brit | 23 | 🇦🇺 | rare | **deep** |
+| Browns Plains | Browns Plains, Victoria | 23 | 🇦🇺 | rare | **deep** |
+| Callawadda | Callawadda | 23 | 🇦🇺 | rare | **deep** |
+| Derrinal | Derrinal | 23 | 🇦🇺 | rare | **deep** |
+| Goldsborough | Goldsborough, Victoria | 23 | 🇦🇺 | rare | **deep** |
+| Green Gully | Green Gully, Victoria | 23 | 🇦🇺 | rare | **deep** |
+| Lake Moodemere | Lake Moodemere | 23 | 🇦🇺 | rare | **deep** |
+| Newlyn North | Newlyn North | 23 | 🇦🇺 | rare | **deep** |
+| Nuggetty | Nuggetty | 23 | 🇦🇺 | rare | **deep** |
+| Tarranyurk | Tarranyurk | 23 | 🇦🇺 | rare | **deep** |
+| Waitchie | Waitchie | 23 | 🇦🇺 | rare | **deep** |
+| Wargan | Wargan | 23 | 🇦🇺 | rare | **deep** |
+| Warrong | Warrong | 23 | 🇦🇺 | rare | **deep** |
+| Wiseleigh | Wiseleigh, Victoria | 23 | 🇦🇺 | rare | **deep** |
+| Cheviot | Cheviot, Victoria | 22 | 🇦🇺 | rare | **deep** |
+| Cobrico | Cobrico | 22 | 🇦🇺 | rare | **deep** |
+| Horfield | Horfield, Victoria | 22 | 🇦🇺 | rare | **deep** |
+| Karramomus | Karramomus | 22 | 🇦🇺 | rare | **deep** |
+| Mundoona | Mundoona | 22 | 🇦🇺 | rare | **deep** |
+| Pier Milan | Pier Milan | 22 | 🇦🇺 | rare | **deep** |
+| Thalia | Thalia, Victoria | 22 | 🇦🇺 | rare | **deep** |
+| Terrick Terrick | Terrick Terrick | 22 | 🇦🇺 | rare | **deep** |
+| West Bendigo | West Bendigo | 22 | 🇦🇺 | rare | **deep** |
+| Bambill | Bambill | 21 | 🇦🇺 | rare | **deep** |
+| Brimin | Brimin | 21 | 🇦🇺 | rare | **deep** |
+| Clarkes Hill | Clarkes Hill, Victoria | 21 | 🇦🇺 | rare | **deep** |
+| Durdidwarrah | Durdidwarrah | 21 | 🇦🇺 | rare | **deep** |
+| Giffard West | Giffard West | 21 | 🇦🇺 | rare | **deep** |
+| Harston | Harston, Victoria | 21 | 🇦🇺 | rare | **deep** |
+| Joyces Creek | Joyces Creek | 21 | 🇦🇺 | rare | **deep** |
+| Kanyapella | Kanyapella | 21 | 🇦🇺 | rare | **deep** |
+| Kialla West | Kialla West | 21 | 🇦🇺 | rare | **deep** |
+| Mooroopna North | Mooroopna North | 21 | 🇦🇺 | rare | **deep** |
+| Moranding | Moranding | 21 | 🇦🇺 | rare | **deep** |
+| Moorilim | Moorilim | 21 | 🇦🇺 | rare | **deep** |
+| Myola | Myola, Victoria | 21 | 🇦🇺 | rare | **deep** |
+| Shepparton East | Shepparton East | 21 | 🇦🇺 | rare | **deep** |
+| Tabor | Tabor, Victoria | 21 | 🇦🇺 | rare | **deep** |
+| Yando | Yando | 21 | 🇦🇺 | rare | **deep** |
+| Yielima | Yielima | 21 | 🇦🇺 | rare | **deep** |
+| Yundool | Yundool | 21 | 🇦🇺 | rare | **deep** |
+| Baarmutha | Baarmutha | 20 | 🇦🇺 | rare | **deep** |
+| Bael Bael | Bael Bael | 20 | 🇦🇺 | rare | **deep** |
+| Bulga | Bulga, Victoria | 20 | 🇦🇺 | rare | **deep** |
+| Charleroi | Charleroi, Victoria | 20 | 🇦🇺 | rare | **deep** |
+| Chillingollah | Chillingollah | 20 | 🇦🇺 | rare | **deep** |
+| Ecklin South | Ecklin South | 20 | 🇦🇺 | rare | **deep** |
+| Fentons Creek | Fentons Creek | 20 | 🇦🇺 | rare | **deep** |
+| Glenloth | Glenloth | 20 | 🇦🇺 | rare | **deep** |
+| Glenlee | Glenlee, Victoria | 20 | 🇦🇺 | rare | **deep** |
+| Mandurang South | Mandurang South | 20 | 🇦🇺 | rare | **deep** |
+| Wangie | Wangie | 20 | 🇦🇺 | rare | **deep** |
+| Warne | Warne, Victoria | 20 | 🇦🇺 | rare | **deep** |
+| Wilkur | Wilkur | 20 | 🇦🇺 | rare | **deep** |
+| Yangery | Yangery | 20 | 🇦🇺 | rare | **deep** |
+| Bathumi | Bathumi | 19 | 🇦🇺 | rare | **deep** |
+| Byrneside | Byrneside | 19 | 🇦🇺 | rare | **deep** |
+| Cobram East | Cobram East | 19 | 🇦🇺 | rare | **deep** |
+| Crymelon | Crymelon | 19 | 🇦🇺 | rare | **deep** |
+| Darby River | Darby River, Victoria | 19 | 🇦🇺 | rare | **deep** |
+| Diapur | Diapur | 19 | 🇦🇺 | rare | **deep** |
+| Eastville | Eastville, Victoria | 19 | 🇦🇺 | rare | **deep** |
+| Kanagulk | Kanagulk | 19 | 🇦🇺 | rare | **deep** |
+| Kenmare | Kenmare, Victoria | 19 | 🇦🇺 | rare | **deep** |
+| Kunat | Kunat | 19 | 🇦🇺 | rare | **deep** |
+| Lang Lang East | Lang Lang East | 19 | 🇦🇺 | rare | **deep** |
+| Murphys Creek | Murphys Creek, Victoria | 19 | 🇦🇺 | rare | **deep** |
+| Nowie | Nowie, Victoria | 19 | 🇦🇺 | rare | **deep** |
+| South Purrumbete | South Purrumbete, Victoria | 19 | 🇦🇺 | rare | **deep** |
+| Tanybryn | Tanybryn | 19 | 🇦🇺 | rare | **deep** |
+| Trentham East | Trentham East | 19 | 🇦🇺 | rare | **deep** |
+| Willenabrina | Willenabrina | 19 | 🇦🇺 | rare | **deep** |
+| Yarrawalla | Yarrawalla | 19 | 🇦🇺 | rare | **deep** |
+| Aire Valley | Aire Valley | 18 | 🇦🇺 | rare | **deep** |
+| Boolite | Boolite | 18 | 🇦🇺 | rare | **deep** |
+| Burkes Flat | Burkes Flat | 18 | 🇦🇺 | rare | **deep** |
+| Cocamba | Cocamba | 18 | 🇦🇺 | rare | **deep** |
+| Fernihurst | Fernihurst | 18 | 🇦🇺 | rare | **deep** |
+| Glenalbyn | Glenalbyn, Victoria | 18 | 🇦🇺 | rare | **deep** |
+| Korobeit | Korobeit | 18 | 🇦🇺 | rare | **deep** |
+| Meatian | Meatian | 18 | 🇦🇺 | rare | **deep** |
+| Sutherland | Sutherland, Victoria | 18 | 🇦🇺 | rare | **deep** |
+| Toorongo | Toorongo | 18 | 🇦🇺 | rare | **deep** |
+| Vervale | Vervale | 18 | 🇦🇺 | rare | **deep** |
+| Winchelsea South | Winchelsea South | 18 | 🇦🇺 | rare | **deep** |
+| Areegra | Areegra | 17 | 🇦🇺 | rare | **deep** |
+| Berrimal | Berrimal | 17 | 🇦🇺 | rare | **deep** |
+| Blakeville | Blakeville | 17 | 🇦🇺 | rare | **deep** |
+| Boweya North | Boweya North | 17 | 🇦🇺 | rare | **deep** |
+| Brucknell | Brucknell, Victoria | 17 | 🇦🇺 | rare | **deep** |
+| Charam | Charam, Victoria | 17 | 🇦🇺 | rare | **deep** |
+| Cochranes Creek | Cochranes Creek | 17 | 🇦🇺 | rare | **deep** |
+| Doctors Flat | Doctors Flat, Victoria | 17 | 🇦🇺 | rare | **deep** |
+| Nilma North | Nilma North | 17 | 🇦🇺 | rare | **deep** |
+| Pastoria East | Pastoria East | 17 | 🇦🇺 | rare | **deep** |
+| Powlett Plains | Powlett Plains | 17 | 🇦🇺 | rare | **deep** |
+| Tallandoon | Tallandoon | 17 | 🇦🇺 | rare | **deep** |
+| Towan | Towan, Victoria | 17 | 🇦🇺 | rare | **deep** |
+| Wilsons Hill | Wilsons Hill | 17 | 🇦🇺 | rare | **deep** |
+| Yeungroon | Yeungroon | 17 | 🇦🇺 | rare | **deep** |
+| Alberton West | Alberton West | 16 | 🇦🇺 | rare | **deep** |
+| Appin South | Appin South | 16 | 🇦🇺 | rare | **deep** |
+| Brenanah | Brenanah | 16 | 🇦🇺 | rare | **deep** |
+| Bringalbert | Bringalbert | 16 | 🇦🇺 | rare | **deep** |
+| Glenloth East | Glenloth East | 16 | 🇦🇺 | rare | **deep** |
+| Jil Jil | Jil Jil | 16 | 🇦🇺 | rare | **deep** |
+| Koroop | Koroop | 16 | 🇦🇺 | rare | **deep** |
+| Kurting | Kurting | 16 | 🇦🇺 | rare | **deep** |
+| Laen | Laen, Victoria | 16 | 🇦🇺 | rare | **deep** |
+| Liparoo | Liparoo | 16 | 🇦🇺 | rare | **deep** |
+| Painswick | Painswick, Victoria | 16 | 🇦🇺 | rare | **deep** |
+| Rathscar | Rathscar | 16 | 🇦🇺 | rare | **deep** |
+| Tarrango | Tarrango, Victoria | 16 | 🇦🇺 | rare | **deep** |
+| Towaninny | Towaninny | 16 | 🇦🇺 | rare | **deep** |
+| Waggarandall | Waggarandall | 16 | 🇦🇺 | rare | **deep** |
+| Baringhup West | Baringhup West | 15 | 🇦🇺 | rare | **deep** |
+| Boigbeat | Boigbeat | 15 | 🇦🇺 | rare | **deep** |
+| Bunguluke | Bunguluke | 15 | 🇦🇺 | rare | **deep** |
+| Danyo | Danyo | 15 | 🇦🇺 | rare | **deep** |
+| Happy Valley | Happy Valley (Rural City of Swan Hill) | 15 | 🇦🇺 | rare | **deep** |
+| Jeruk | Jeruk | 15 | 🇦🇺 | rare | **deep** |
+| Karween | Karween | 15 | 🇦🇺 | rare | **deep** |
+| Lawler | Lawler, Victoria | 15 | 🇦🇺 | rare | **deep** |
+| Lower Moira | Lower Moira | 15 | 🇦🇺 | rare | **deep** |
+| Morton Plains | Morton Plains | 15 | 🇦🇺 | rare | **deep** |
+| Murray-sunset | Murray-sunset | 15 | 🇦🇺 | rare | **deep** |
+| Murraydale | Murraydale | 15 | 🇦🇺 | rare | **deep** |
+| Nyrraby | Nyrraby | 15 | 🇦🇺 | rare | **deep** |
+| Scotchmans Lead | Scotchmans Lead | 15 | 🇦🇺 | rare | **deep** |
+| Straten | Straten | 15 | 🇦🇺 | rare | **deep** |
+| Sutton | Sutton, Victoria | 15 | 🇦🇺 | rare | **deep** |
+| Tyntynder South | Tyntynder South | 15 | 🇦🇺 | rare | **deep** |
+| West Creek | West Creek, Victoria | 15 | 🇦🇺 | rare | **deep** |
+| Yandoit Hills | Yandoit Hills | 15 | 🇦🇺 | rare | **deep** |
+| Yarraberb | Yarraberb | 15 | 🇦🇺 | rare | **deep** |
+| Yarrara | Yarrara | 15 | 🇦🇺 | rare | **deep** |
+| Ayrford | Ayrford | 14 | 🇦🇺 | rare | **deep** |
+| Bagshot North | Bagshot North | 14 | 🇦🇺 | rare | **deep** |
+| Bimbourie | Bimbourie | 14 | 🇦🇺 | rare | **deep** |
+| Bunyip North | Bunyip North | 14 | 🇦🇺 | rare | **deep** |
+| Campbells Forest | Campbells Forest | 14 | 🇦🇺 | rare | **deep** |
+| Corack East | Corack East | 14 | 🇦🇺 | rare | **deep** |
+| Jungaburra | Jungaburra | 14 | 🇦🇺 | rare | **deep** |
+| Loddon Vale | Loddon Vale | 14 | 🇦🇺 | rare | **deep** |
+| Major Plains | Major Plains | 14 | 🇦🇺 | rare | **deep** |
+| North Blackwood | North Blackwood | 14 | 🇦🇺 | rare | **deep** |
+| Strathlea | Strathlea | 14 | 🇦🇺 | rare | **deep** |
+| Tarilta | Tarilta | 14 | 🇦🇺 | rare | **deep** |
+| Wandown | Wandown | 14 | 🇦🇺 | rare | **deep** |
+| Yabba South | Yabba South | 14 | 🇦🇺 | rare | **deep** |
+| Youarang | Youarang | 14 | 🇦🇺 | rare | **deep** |
+| Allenvale | Allenvale | 13 | 🇦🇺 | rare | **deep** |
+| Auchmore | Auchmore | 13 | 🇦🇺 | rare | **deep** |
+| Barongarook West | Barongarook West | 13 | 🇦🇺 | rare | **deep** |
+| Baromi | Baromi | 13 | 🇦🇺 | rare | **deep** |
+| Bruarong | Bruarong | 13 | 🇦🇺 | rare | **deep** |
+| Chinangin | Chinangin | 13 | 🇦🇺 | rare | **deep** |
+| Cosgrove South | Cosgrove South | 13 | 🇦🇺 | rare | **deep** |
+| Huntly North | Huntly North | 13 | 🇦🇺 | rare | **deep** |
+| Licola North | Licola North | 13 | 🇦🇺 | rare | **deep** |
+| Murnungin | Murnungin | 13 | 🇦🇺 | rare | **deep** |
+| Murrabit West | Murrabit West | 13 | 🇦🇺 | rare | **deep** |
+| Nurcoung | Nurcoung | 13 | 🇦🇺 | rare | **deep** |
+| Parkers Corner | Parkers Corner | 13 | 🇦🇺 | rare | **deep** |
+| Pompapiel | Pompapiel | 13 | 🇦🇺 | rare | **deep** |
+| Upper Gundowring | Upper Gundowring | 13 | 🇦🇺 | rare | **deep** |
+| Whirily | Whirily | 13 | 🇦🇺 | rare | **deep** |
+| Winlaton | Winlaton, Victoria | 13 | 🇦🇺 | rare | **deep** |
+| Winnamboo | Winnamboo | 13 | 🇦🇺 | rare | **deep** |
+| Woolshed Flat | Woolshed Flat, Victoria | 13 | 🇦🇺 | rare | **deep** |
+| Arnold West | Arnold West | 12 | 🇦🇺 | rare | **deep** |
+| Berrook | Berrook | 12 | 🇦🇺 | rare | **deep** |
+| Bridgewater North | Bridgewater North | 12 | 🇦🇺 | rare | **deep** |
+| Catumnal | Catumnal | 12 | 🇦🇺 | rare | **deep** |
+| Cokum | Cokum | 12 | 🇦🇺 | rare | **deep** |
+| Fiery Flat | Fiery Flat | 12 | 🇦🇺 | rare | **deep** |
+| Kellalac | Kellalac | 12 | 🇦🇺 | rare | **deep** |
+| Kurraca | Kurraca | 12 | 🇦🇺 | rare | **deep** |
+| Maffra West Upper | Maffra West Upper | 12 | 🇦🇺 | rare | **deep** |
+| Murrawee | Murrawee | 12 | 🇦🇺 | rare | **deep** |
+| Ngallo | Ngallo | 12 | 🇦🇺 | rare | **deep** |
+| Nyarrin | Nyarrin | 12 | 🇦🇺 | rare | **deep** |
+| Swan Hill West | Swan Hill West | 12 | 🇦🇺 | rare | **deep** |
+| Traynors Lagoon | Traynors Lagoon | 12 | 🇦🇺 | rare | **deep** |
+| Willangie | Willangie | 12 | 🇦🇺 | rare | **deep** |
+| Woodstock West | Woodstock West, Victoria | 12 | 🇦🇺 | rare | **deep** |
+| Woodstock On Loddon | Woodstock On Loddon | 12 | 🇦🇺 | rare | **deep** |
+| Wychitella | Wychitella | 12 | 🇦🇺 | rare | **deep** |
+| Ballapur | Ballapur | 11 | 🇦🇺 | rare | **deep** |
+| Bundalong South | Bundalong South | 11 | 🇦🇺 | rare | **deep** |
+| Heathcote South | Heathcote South | 11 | 🇦🇺 | rare | **deep** |
+| Kalpienung | Kalpienung | 11 | 🇦🇺 | rare | **deep** |
+| Kooreh | Kooreh | 11 | 🇦🇺 | rare | **deep** |
+| Leaghur | Leaghur | 11 | 🇦🇺 | rare | **deep** |
+| Merbein West | Merbein West | 11 | 🇦🇺 | rare | **deep** |
+| Meering West | Meering West | 11 | 🇦🇺 | rare | **deep** |
+| Nareewillock | Nareewillock | 11 | 🇦🇺 | rare | **deep** |
+| Pelluebla | Pelluebla | 11 | 🇦🇺 | rare | **deep** |
+| Picola West | Picola West | 11 | 🇦🇺 | rare | **deep** |
+| Pirlta | Pirlta | 11 | 🇦🇺 | rare | **deep** |
+| Ravenswood South | Ravenswood South | 11 | 🇦🇺 | rare | **deep** |
+| Salisbury West | Salisbury West | 11 | 🇦🇺 | rare | **deep** |
+| Skenes Creek North | Skenes Creek North | 11 | 🇦🇺 | rare | **deep** |
+| Towong Upper | Towong Upper | 11 | 🇦🇺 | rare | **deep** |
+| Tyrrell Downs | Tyrrell Downs | 11 | 🇦🇺 | rare | **deep** |
+| Warmur | Warmur | 11 | 🇦🇺 | rare | **deep** |
+| Bambill South | Bambill South | 10 | 🇦🇺 | rare | **deep** |
+| Brimboal | Brimboal | 10 | 🇦🇺 | rare | **deep** |
+| Burramine South | Burramine South | 10 | 🇦🇺 | rare | **deep** |
+| Chewton Bushlands | Chewton Bushlands | 10 | 🇦🇺 | rare | **deep** |
+| Chirrip | Chirrip | 10 | 🇦🇺 | rare | **deep** |
+| Gil Gil | Gil Gil | 10 | 🇦🇺 | rare | **deep** |
+| Karyrie | Karyrie | 10 | 🇦🇺 | rare | **deep** |
+| Katamatite East | Katamatite East | 10 | 🇦🇺 | rare | **deep** |
+| Kerang East | Kerang East | 10 | 🇦🇺 | rare | **deep** |
+| Kurnwill | Kurnwill | 10 | 🇦🇺 | rare | **deep** |
+| Mulcra | Mulcra | 10 | 🇦🇺 | rare | **deep** |
+| Polisbet | Polisbet | 10 | 🇦🇺 | rare | **deep** |
+| Reedy Dam | Reedy Dam | 10 | 🇦🇺 | rare | **deep** |
+| Sunnycliffs | Sunnycliffs | 10 | 🇦🇺 | rare | **deep** |
+| Sylvaterre | Sylvaterre | 10 | 🇦🇺 | rare | **deep** |
+| Tresco West | Tresco West | 10 | 🇦🇺 | rare | **deep** |
+| Tyenna | Tyenna, Victoria | 10 | 🇦🇺 | rare | **deep** |
+| Woosang | Woosang | 10 | 🇦🇺 | rare | **deep** |
+| Woorinen North | Woorinen North | 10 | 🇦🇺 | rare | **deep** |
+| Wychitella North | Wychitella North | 10 | 🇦🇺 | rare | **deep** |
+| Barraport West | Barraport West | 9 | 🇦🇺 | rare | **deep** |
+| Birchip West | Birchip West | 9 | 🇦🇺 | rare | **deep** |
+| Gladfield | Gladfield, Victoria | 9 | 🇦🇺 | rare | **deep** |
+| Langi Logan | Langi Logan | 9 | 🇦🇺 | rare | **deep** |
+| Milloo | Milloo | 9 | 🇦🇺 | rare | **deep** |
+| Miralie | Miralie | 9 | 🇦🇺 | rare | **deep** |
+| Minmindie | Minmindie | 9 | 🇦🇺 | rare | **deep** |
+| Mooroopna North West | Mooroopna North West | 9 | 🇦🇺 | rare | **deep** |
+| Muckleford South | Muckleford South | 9 | 🇦🇺 | rare | **deep** |
+| Nine Mile | Nine Mile, Victoria | 9 | 🇦🇺 | rare | **deep** |
+| Skinners Flat | Skinners Flat | 9 | 🇦🇺 | rare | **deep** |
+| St Arnaud East | St Arnaud East | 9 | 🇦🇺 | rare | **deep** |
+| Towaninny South | Towaninny South | 9 | 🇦🇺 | rare | **deep** |
+| Turoar | Turoar | 9 | 🇦🇺 | rare | **deep** |
+| Buln Buln East | Buln Buln East | 8 | 🇦🇺 | rare | **deep** |
+| Gerahmin | Gerahmin | 8 | 🇦🇺 | rare | **deep** |
+| Metcalfe East | Metcalfe East | 8 | 🇦🇺 | rare | **deep** |
+| Slaty Creek | Slaty Creek | 8 | 🇦🇺 | rare | **deep** |
+| Tunart | Tunart | 8 | 🇦🇺 | rare | **deep** |
+| Ultima East | Ultima East | 8 | 🇦🇺 | rare | **deep** |
+| Wycheproof South | Wycheproof South | 8 | 🇦🇺 | rare | **deep** |
+| Wymlet | Wymlet | 8 | 🇦🇺 | rare | **deep** |
+| Kamarooka North | Kamarooka North | 7 | 🇦🇺 | rare | **deep** |
+| Kurraca West | Kurraca West | 7 | 🇦🇺 | rare | **deep** |
+| Turriff East | Turriff East | 7 | 🇦🇺 | rare | **deep** |
+| Yarrawonga South | Yarrawonga South | 6 | 🇦🇺 | rare | **deep** |
+| Yeungroon East | Yeungroon East | 6 | 🇦🇺 | rare | **deep** |
+| Cornishtown | Cornishtown | 4 | 🇦🇺 | rare | **deep** |
+| Dandongadale | Dandongadale | 2 | 🇦🇺 | rare | **deep** |
+| Bolwarrah | Bolwarrah, Victoria | 1 | 🇦🇺 | rare | **deep** |
+| Sandy Creek | Sandy Creek, Victoria | 1 | 🇦🇺 | rare | **deep** |
 | Romsey | Romsey, Victoria | — | 🇦🇺 | uncommon | · |
+| Bendigo | Bendigo | — | 🇦🇺 | common | · |
 | Eaglehawk | Eaglehawk, Victoria | — | 🇦🇺 | uncommon | · |
+| Heathcote | Heathcote, Victoria | — | 🇦🇺 | uncommon | · |
 | Axedale | — | — |  | deep | no data — kept |
 | Elmore | — | — |  | uncommon | no data — kept |
 | Rochester | — | — |  | uncommon | no data — kept |
@@ -434,11 +1464,11 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Gunbower | — | — |  | deep | no data — kept |
 | Cohuna | — | — |  | uncommon | no data — kept |
 | Mount Hotham | — | — |  | rare | no data — kept |
+| Yea | Yea, Victoria | — | 🇦🇺 | uncommon | · |
 | Puckapunyal | Puckapunyal | — | 🇦🇺 | uncommon | · |
 | Kilmore | Kilmore, Victoria | — | 🇦🇺 | common | · |
-| Yea | Yea, Victoria | — | 🇦🇺 | uncommon | · |
-| Nathalia | — | — |  | uncommon | no data — kept |
 | Wallan | — | — |  | uncommon | no data — kept |
+| Nathalia | — | — |  | uncommon | no data — kept |
 | Numurkah | — | — |  | uncommon | no data — kept |
 | Strathmerton | — | — |  | deep | no data — kept |
 | Cobram | — | — |  | common | no data — kept |
@@ -450,848 +1480,244 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Devenish | — | — |  | deep | no data — kept |
 | Goorambat | — | — |  | deep | no data — kept |
 | Orbost | Orbost | — | 🇦🇺 | uncommon | · |
-| Mallacoota | Mallacoota | — | 🇦🇺 | common | · |
 | Marlo | Marlo, Victoria | — | 🇦🇺 | uncommon | · |
 | Cann River | Cann River, Victoria | — | 🇦🇺 | uncommon | · |
-
-## s3-aussie-biscuit
-
-| answer | article | views/mo | AU | tier | → |
-|---|---|---:|:-:|---|---|
-| Tim Tam | Tim Tam | 10004 | 🇦🇺 | common | · |
-| Anzac Biscuit | Anzac biscuit | 6306 | 🇦🇺 | common | · |
-| Wagon Wheel | Wagon Wheels | 4945 | 🇦🇺 | uncommon | **common** |
-| Yo-Yo | Arnott's Group | 3856 | 🇦🇺 | uncommon | **common** |
-| Digestive | Digestive biscuit | 13019 |  | rare | **common** |
-| Marie | Marie biscuit | 7340 |  | uncommon | **common** |
-| Brandy Snap | Brandy snaps | 1400 | 🇦🇺 | rare | **common** |
-| Shapes | Arnott's Shapes | 1236 | 🇦🇺 | common | · |
-| Iced VoVo | Iced VoVo | 1203 | 🇦🇺 | common | · |
-| Monte Carlo | Monte Carlo (biscuit) | 910 | 🇦🇺 | common | · |
-| SAO | SAO (biscuit) | 847 | 🇦🇺 | uncommon | **common** |
-| Nice | Nice biscuit | 2668 |  | uncommon | · |
-| Ginger Nut | Ginger snap | 2076 |  | uncommon | · |
-| Tiny Teddy | Tiny Teddy | 509 | 🇦🇺 | common | **uncommon** |
-| Jatz | Jatz | 472 | 🇦🇺 | common | **uncommon** |
-| Kingston | Kingston (biscuit) | 404 | 🇦🇺 | common | **uncommon** |
-| Chicken In A Biskit | In a Biskit | 1435 |  | rare | **uncommon** |
-| Milk Arrowroot | Milk arrowroot biscuits | 271 | 🇦🇺 | uncommon | · |
-| Scotch Finger | — | — |  | common | no data — kept |
-| Mint Slice | — | — |  | common | no data — kept |
-| Choc Ripple | — | — |  | uncommon | no data — kept |
-| Chocolate Royals | — | — |  | uncommon | no data — kept |
-| Shortbread Cream | — | — |  | uncommon | no data — kept |
-| Butternut Snap | — | — |  | uncommon | no data — kept |
-| Salada | — | — |  | uncommon | no data — kept |
-| Savoy | — | — |  | uncommon | no data — kept |
-| TeeVee Snacks | — | — |  | uncommon | no data — kept |
-| Hundreds & Thousands | — | — |  | uncommon | no data — kept |
-| Orange Slice | — | — |  | uncommon | no data — kept |
-| Chocolate Wheaten | — | — |  | uncommon | no data — kept |
-| Caramel Crown | — | — |  | uncommon | no data — kept |
-| Melting Moment | — | — |  | uncommon | no data — kept |
-| Jam Drop | — | — |  | uncommon | no data — kept |
-| Vita-Weat | — | — |  | uncommon | no data — kept |
-| Choc Chip Cookie | — | — |  | uncommon | no data — kept |
-| Teddy Bear | — | — |  | uncommon | no data — kept |
-| Tic Toc | — | — |  | uncommon | no data — kept |
-| Delta Cream | — | — |  | rare | no data — kept |
-| Raspberry Shortcake | — | — |  | rare | no data — kept |
-| Venetian | — | — |  | rare | no data — kept |
-| Lemon Crisp | — | — |  | rare | no data — kept |
-| Full O' Fruit | — | — |  | rare | no data — kept |
-| Spicy Fruit Roll | — | — |  | rare | no data — kept |
-| Milk Coffee | — | — |  | rare | no data — kept |
-| Granita | — | — |  | rare | no data — kept |
-| Honey Jumble | — | — |  | rare | no data — kept |
-| Gaiety | — | — |  | rare | no data — kept |
-| Chocolate Monte | — | — |  | rare | no data — kept |
-| Lattice | — | — |  | rare | no data — kept |
-| Jam Fancies | — | — |  | rare | no data — kept |
-| Cheds | — | — |  | rare | no data — kept |
-| Clix | — | — |  | rare | no data — kept |
-| Country Cheese | — | — |  | rare | no data — kept |
-| Water Cracker | — | — |  | rare | no data — kept |
-| Cruskits | — | — |  | rare | no data — kept |
-| Farmbake | — | — |  | rare | no data — kept |
-| Snack Right | — | — |  | rare | no data — kept |
-| Cornflake Cookie | — | — |  | rare | no data — kept |
-| Iced Marie | — | — |  | rare | no data — kept |
-| Adora Cream Wafer | — | — |  | rare | no data — kept |
-| Scotch Mallow | — | — |  | rare | no data — kept |
-| Burnt Butter Biscuit | — | — |  | rare | no data — kept |
-| Sakata | — | — |  | rare | no data — kept |
-| Shredded Wheatmeal | — | — |  | deep | no data — kept |
-| Bush Biscuit | — | — |  | deep | no data — kept |
-| Byron Bay Cookie | — | — |  | deep | no data — kept |
-| Paradise Cottage Cookies | — | — |  | deep | no data — kept |
-| Arnott's Obsession | — | — |  | deep | no data — kept |
-| Malt 'O' Milk | — | — |  | deep | no data — kept |
-| Glengarry | — | — |  | deep | no data — kept |
-| Thin Captain | — | — |  | deep | no data — kept |
-| Scalliwag | — | — |  | deep | no data — kept |
-| Kiss Biscuit | — | — |  | deep | no data — kept |
-
-## s6-afl-player
-
-| answer | article | views/mo | AU | tier | → |
-|---|---|---:|:-:|---|---|
-| Lachie Neale | Lachie Neale | 11970 | 🇦🇺 | common | · |
-| Scott Pendlebury | Scott Pendlebury | 9774 | 🇦🇺 | common | · |
-| Marcus Bontempelli | Marcus Bontempelli | 8476 | 🇦🇺 | common | · |
-| Ben Cousins | Ben Cousins | 8333 | 🇦🇺 | common | · |
-| Patrick Cripps | Patrick Cripps | 7929 | 🇦🇺 | common | · |
-| Nick Daicos | Nick Daicos | 7895 | 🇦🇺 | common | · |
-| Toby Greene | Toby Greene | 5950 | 🇦🇺 | uncommon | **common** |
-| Josh Treacy | Josh Treacy | 5686 | 🇦🇺 | uncommon | **common** |
-| Max Gawn | Max Gawn | 5547 | 🇦🇺 | common | · |
-| Jeremy Cameron | Jeremy Cameron | 5427 | 🇦🇺 | common | · |
-| Isaac Heeney | Isaac Heeney | 5411 | 🇦🇺 | uncommon | **common** |
-| Nathan Buckley | Nathan Buckley | 5410 | 🇦🇺 | common | · |
-| Adam Goodes | Adam Goodes | 5365 | 🇦🇺 | common | · |
-| Taylor Walker | Taylor Walker (footballer) | 5289 | 🇦🇺 | uncommon | **common** |
-| Nasiah Wanganeen-Milera | Nasiah Wanganeen-Milera | 5124 | 🇦🇺 | uncommon | **common** |
-| Kysaiah Pickett | Kysaiah Pickett | 5031 | 🇦🇺 | uncommon | **common** |
-| Charlie Curnow | Charlie Curnow | 4992 | 🇦🇺 | common | · |
-| Nick Watson | Nick Watson | 4970 | 🇦🇺 | uncommon | **common** |
-| James Hird | James Hird | 4968 | 🇦🇺 | common | · |
-| Tony Lockett | Tony Lockett | 4902 | 🇦🇺 | common | · |
-| Jason Dunstall | Jason Dunstall | 4730 | 🇦🇺 | common | · |
-| Jack Gunston | Jack Gunston | 4719 | 🇦🇺 | uncommon | **common** |
-| Damien Hardwick | Damien Hardwick | 4581 | 🇦🇺 | uncommon | **common** |
-| Bailey Smith | Bailey Smith | 4553 | 🇦🇺 | common | · |
-| Dean Cox | Dean Cox | 4449 | 🇦🇺 | uncommon | **common** |
-| Leigh Matthews | Leigh Matthews | 4399 | 🇦🇺 | common | · |
-| Brendan Fevola | Brendan Fevola | 4387 | 🇦🇺 | common | · |
-| Ross Lyon | Ross Lyon | 4382 | 🇦🇺 | rare | **common** |
-| Michael Voss | Michael Voss | 4369 | 🇦🇺 | common | · |
-| Harley Reid | Harley Reid | 4363 | 🇦🇺 | uncommon | **common** |
-| Chris Scott | Chris Scott (Australian footballer) | 4346 | 🇦🇺 | uncommon | **common** |
-| Logan Morris | Logan Morris (footballer) | 4192 | 🇦🇺 | rare | **common** |
-| Kane Cornes | Kane Cornes | 4144 | 🇦🇺 | uncommon | **common** |
-| Chris Judd | Chris Judd | 4103 | 🇦🇺 | common | · |
-| Caleb Serong | Caleb Serong | 3958 | 🇦🇺 | uncommon | **common** |
-| Christian Petracca | Christian Petracca | 3955 | 🇦🇺 | common | · |
-| Jake Stringer | Jake Stringer | 3916 | 🇦🇺 | uncommon | **common** |
-| Sam Newman | Sam Newman | 3896 | 🇦🇺 | uncommon | **common** |
-| Nat Fyfe | Nat Fyfe | 3885 | 🇦🇺 | common | · |
-| Barry Hall | Barry Hall | 3820 | 🇦🇺 | uncommon | **common** |
-| Zac Bailey | Zac Bailey | 3789 | 🇦🇺 | uncommon | **common** |
-| Matthew Nicks | Matthew Nicks | 3690 | 🇦🇺 | deep | **common** |
-| Sam Mitchell | Sam Mitchell (footballer) | 3679 | 🇦🇺 | common | · |
-| Eddie Betts | Eddie Betts | 3638 | 🇦🇺 | common | · |
-| Neale Daniher | Neale Daniher | 3595 | 🇦🇺 | uncommon | **common** |
-| Alastair Clarkson | Alastair Clarkson | 3570 | 🇦🇺 | rare | **common** |
-| Dermott Brereton | Dermott Brereton | 3512 | 🇦🇺 | common | · |
-| Charlie Cameron | Charlie Cameron (footballer, born 1994) | 3416 | 🇦🇺 | uncommon | **common** |
-| Shai Bolton | Shai Bolton | 3403 | 🇦🇺 | uncommon | **common** |
-| Nic Naitanui | Nic Naitanui | 3381 | 🇦🇺 | uncommon | **common** |
-| Jim Stynes | Jim Stynes | 3295 | 🇦🇺 | common | · |
-| Jordan Dawson | Jordan Dawson | 3293 | 🇦🇺 | uncommon | **common** |
-| Zach Merrett | Zach Merrett | 3265 | 🇦🇺 | uncommon | **common** |
-| Alex Pearce | Alex Pearce (Australian footballer) | 3231 | 🇦🇺 | rare | **common** |
-| Matthew Lloyd | Matthew Lloyd | 3203 | 🇦🇺 | common | · |
-| Ken Hinkley | Ken Hinkley | 3191 | 🇦🇺 | rare | **common** |
-| Ben King | Ben King (footballer) | 3189 | 🇦🇺 | uncommon | **common** |
-| Luke Hodge | Luke Hodge | 3135 | 🇦🇺 | common | · |
-| Will Ashcroft | Will Ashcroft | 3130 | 🇦🇺 | uncommon | **common** |
-| Jesse Hogan | Jesse Hogan | 3110 | 🇦🇺 | uncommon | **common** |
-| Jack Silvagni | Jack Silvagni | 3103 | 🇦🇺 | rare | **common** |
-| Brad Scott | Brad Scott (Australian footballer) | 3097 | 🇦🇺 | rare | **common** |
-| Adam Kingsley | Adam Kingsley | 3073 | 🇦🇺 | deep | **common** |
-| Matthew Pavlich | Matthew Pavlich | 3064 | 🇦🇺 | common | · |
-| Jack Riewoldt | Jack Riewoldt | 3048 | 🇦🇺 | common | · |
-| Luke Beveridge | Luke Beveridge | 3043 | 🇦🇺 | rare | **common** |
-| Craig McRae | Craig McRae | 3013 | 🇦🇺 | rare | **common** |
-| Dayne Zorko | Dayne Zorko | 2959 | 🇦🇺 | uncommon | **common** |
-| Luke Jackson | Luke Jackson (footballer) | 2953 | 🇦🇺 | uncommon | **common** |
-| Shane Crawford | Shane Crawford | 2945 | 🇦🇺 | common | · |
-| Joel Selwood | Joel Selwood | 2912 | 🇦🇺 | common | · |
-| Dale Thomas | Dale Thomas (footballer) | 2907 | 🇦🇺 | uncommon | **common** |
-| Jonathan Brown | Jonathan Brown (Australian footballer) | 2849 | 🇦🇺 | common | · |
-| Peter Daicos | Peter Daicos | 2826 | 🇦🇺 | uncommon | **common** |
-| Murphy Reid | Murphy Reid | 2804 | 🇦🇺 | uncommon | **common** |
-| Stephen Silvagni | Stephen Silvagni | 2787 | 🇦🇺 | uncommon | **common** |
-| Bobby Hill | Bobby Hill (Australian footballer) | 2778 | 🇦🇺 | uncommon | **common** |
-| Garry Lyon | Garry Lyon | 2701 | 🇦🇺 | common | · |
-| John Longmire | John Longmire | 2700 | 🇦🇺 | uncommon | **common** |
-| Justin Longmuir | Justin Longmuir | 2688 | 🇦🇺 | rare | **common** |
-| Riley Thilthorpe | Riley Thilthorpe | 2671 | 🇦🇺 | uncommon | **common** |
-| Adem Yze | Adem Yze | 2662 | 🇦🇺 | rare | **common** |
-| Jack Ginnivan | Jack Ginnivan | 2661 | 🇦🇺 | uncommon | **common** |
-| Jordan De Goey | Jordan De Goey | 2595 | 🇦🇺 | uncommon | **common** |
-| Dyson Heppell | Dyson Heppell | 2557 | 🇦🇺 | uncommon | **common** |
-| Cam Rayner | Cam Rayner | 2489 | 🇦🇺 | rare | **common** |
-| Harry Sheezel | Harry Sheezel | 2472 | 🇦🇺 | uncommon | **common** |
-| Warwick Capper | Warwick Capper | 2446 | 🇦🇺 | uncommon | **common** |
-| Mark Jackson | Mark Jackson (Australian footballer) | 2416 | 🇦🇺 | uncommon | **common** |
-| Daniel Kerr | Daniel Kerr | 2368 | 🇦🇺 | uncommon | **common** |
-| Mick Malthouse | Mick Malthouse | 2357 | 🇦🇺 | rare | **common** |
-| Josh Dunkley | Josh Dunkley | 2343 | 🇦🇺 | uncommon | **common** |
-| Darcy Moore | Darcy Moore | 2329 | 🇦🇺 | uncommon | **common** |
-| Ollie Wines | Ollie Wines | 2300 | 🇦🇺 | uncommon | **common** |
-| Joe Daniher | Joe Daniher | 2278 | 🇦🇺 | uncommon | **common** |
-| Jason Akermanis | Jason Akermanis | 2275 | 🇦🇺 | uncommon | **common** |
-| Josh Rachele | Josh Rachele | 2262 | 🇦🇺 | rare | **common** |
-| Andrew Brayshaw | Andrew Brayshaw | 2251 | 🇦🇺 | uncommon | **common** |
-| Harris Andrews | Harris Andrews | 2221 | 🇦🇺 | uncommon | **common** |
-| Chad Warner | Chad Warner | 2220 | 🇦🇺 | uncommon | **common** |
-| Brent Harvey | Brent Harvey | 2161 | 🇦🇺 | uncommon | **common** |
-| Jagga Smith | Jagga Smith | 2141 | 🇦🇺 | uncommon | **common** |
-| Josh Daicos | Josh Daicos | 2091 | 🇦🇺 | uncommon | **common** |
-| Matt Rowell | Matt Rowell | 2053 | 🇦🇺 | uncommon | **common** |
-| Wayne Milera | Wayne Milera | 2052 | 🇦🇺 | rare | **common** |
-| Max King | Max King (footballer) | 2033 | 🇦🇺 | uncommon | **common** |
-| Dan Houston | Dan Houston | 2026 | 🇦🇺 | rare | **common** |
-| Sam Walsh | Sam Walsh (footballer) | 2010 | 🇦🇺 | uncommon | **common** |
-| Josh Kennedy (West Coast) | Josh Kennedy (footballer, born 1987) | 1972 | 🇦🇺 | uncommon | **common** |
-| Clayton Oliver | Clayton Oliver | 1952 | 🇦🇺 | uncommon | **common** |
-| Dane Swan | Dane Swan | 1934 | 🇦🇺 | common | · |
-| Tom De Koning | Tom De Koning | 1912 | 🇦🇺 | rare | **common** |
-| Robert Harvey | Robert Harvey (footballer) | 1910 | 🇦🇺 | common | · |
-| Adam Treloar | Adam Treloar | 1909 | 🇦🇺 | uncommon | **common** |
-| Errol Gulden | Errol Gulden | 1904 | 🇦🇺 | uncommon | **common** |
-| James Sicily | James Sicily | 1892 | 🇦🇺 | uncommon | **common** |
-| Anthony Koutoufides | Anthony Koutoufides | 1876 | 🇦🇺 | uncommon | **common** |
-| Hugh McCluggage | Hugh McCluggage | 1873 | 🇦🇺 | uncommon | **common** |
-| Alastair Lynch | Alastair Lynch | 1869 | 🇦🇺 | uncommon | **common** |
-| Adam Simpson | Adam Simpson | 1867 | 🇦🇺 | rare | **common** |
-| Willem Duursma | Willem Duursma | 1858 | 🇦🇺 | uncommon | **common** |
-| Simon Goodwin | Simon Goodwin | 1852 | 🇦🇺 | uncommon | **common** |
-| Izak Rankine | Izak Rankine | 1834 | 🇦🇺 | uncommon | **common** |
-| Cyril Rioli | Cyril Rioli | 1833 | 🇦🇺 | common | · |
-| Mark Thompson | Mark Thompson (footballer) | 1810 | 🇦🇺 | uncommon | **common** |
-| Nathan Brown | Nathan Brown (Australian footballer, born 1978) | 1804 | 🇦🇺 | rare | **common** |
-| Ben Keays | Ben Keays | 1785 | 🇦🇺 | rare | **common** |
-| Jordan Clark | Jordan Clark (Australian footballer) | 1783 | 🇦🇺 | rare | **common** |
-| Jordan Lewis | Jordan Lewis | 1780 | 🇦🇺 | uncommon | **common** |
-| Ed Richards | Ed Richards (footballer) | 1779 | 🇦🇺 | rare | **common** |
-| Tom Stewart | Tom Stewart (Australian footballer) | 1768 | 🇦🇺 | uncommon | **common** |
-| Brett Deledio | Brett Deledio | 1750 | 🇦🇺 | uncommon | **common** |
-| Tom Liberatore | Tom Liberatore | 1750 | 🇦🇺 | rare | **common** |
-| Jack Steele | Jack Steele | 1746 | 🇦🇺 | uncommon | **common** |
-| Michael Tuck | Michael Tuck | 1732 | 🇦🇺 | uncommon | **common** |
-| Nicky Winmar | Nicky Winmar | 1724 | 🇦🇺 | common | · |
-| Tim Taranto | Tim Taranto | 1715 | 🇦🇺 | rare | **common** |
-| Jeremy Howe | Jeremy Howe | 1712 | 🇦🇺 | rare | **common** |
-| Luke Parker | Luke Parker (footballer) | 1706 | 🇦🇺 | uncommon | **common** |
-| Fraser Gehrig | Fraser Gehrig | 1696 | 🇦🇺 | uncommon | **common** |
-| Mark Blicavs | Mark Blicavs | 1671 | 🇦🇺 | rare | **common** |
-| Adam Saad | Adam Saad | 1668 | 🇦🇺 | rare | **common** |
-| Greg Williams | Greg Williams (Australian footballer) | 1666 | 🇦🇺 | uncommon | **common** |
-| Angus Brayshaw | Angus Brayshaw | 1664 | 🇦🇺 | uncommon | **common** |
-| Trent Cotchin | Trent Cotchin | 1647 | 🇦🇺 | uncommon | **common** |
-| Elliot Yeo | Elliot Yeo | 1641 | 🇦🇺 | uncommon | **common** |
-| Liam Ryan | Liam Ryan (footballer) | 1632 | 🇦🇺 | rare | **common** |
-| Tim English | Tim English | 1629 | 🇦🇺 | uncommon | **common** |
-| Simon Black | Simon Black | 1609 | 🇦🇺 | uncommon | **common** |
-| Tim Watson | Tim Watson | 1599 | 🇦🇺 | common | · |
-| Chris Mainwaring | Chris Mainwaring | 1592 | 🇦🇺 | rare | **common** |
-| Daniel Rioli | Daniel Rioli | 1590 | 🇦🇺 | rare | **common** |
-| Tom Boyd | Tom Boyd (Australian footballer) | 1589 | 🇦🇺 | uncommon | **common** |
-| Harry McKay | Harry McKay | 1585 | 🇦🇺 | uncommon | **common** |
-| Dustin Fletcher | Dustin Fletcher | 1582 | 🇦🇺 | uncommon | **common** |
-| Darcy Fogarty | Darcy Fogarty | 1568 | 🇦🇺 | rare | **common** |
-| Caleb Daniel | Caleb Daniel | 1563 | 🇦🇺 | rare | **common** |
-| Isaac Smith | Isaac Smith (footballer) | 1562 | 🇦🇺 | uncommon | **common** |
-| Billy Brownless | Billy Brownless | 1561 | 🇦🇺 | uncommon | **common** |
-| Erin Phillips | Erin Phillips | 1552 | 🇦🇺 | uncommon | **common** |
-| Andrew McLeod | Andrew McLeod | 1539 | 🇦🇺 | uncommon | **common** |
-| Liam Baker | Liam Baker | 1531 | 🇦🇺 | rare | **common** |
-| Nick Dal Santo | Nick Dal Santo | 1527 | 🇦🇺 | rare | **common** |
-| Jai Newcombe | Jai Newcombe | 1526 | 🇦🇺 | uncommon | **common** |
-| Aaron Naughton | Aaron Naughton | 1525 | 🇦🇺 | uncommon | **common** |
-| Andrew McGrath | Andrew McGrath | 1521 | 🇦🇺 | rare | **common** |
-| Jason McCartney | Jason McCartney (footballer) | 1519 | 🇦🇺 | rare | **common** |
-| Jarryd Roughead | Jarryd Roughead | 1497 | 🇦🇺 | uncommon | **common** |
-| Alex Jesaulenko | Alex Jesaulenko | 1496 | 🇦🇺 | uncommon | **common** |
-| Danny Frawley | Danny Frawley | 1495 | 🇦🇺 | uncommon | **common** |
-| Oscar Allen | Oscar Allen (footballer) | 1493 | 🇦🇺 | rare | **common** |
-| Marlion Pickett | Marlion Pickett | 1491 | 🇦🇺 | uncommon | **common** |
-| Jack Viney | Jack Viney | 1490 | 🇦🇺 | uncommon | **common** |
-| Chad Cornes | Chad Cornes | 1482 | 🇦🇺 | rare | **common** |
-| Daisy Pearce | Daisy Pearce | 1478 | 🇦🇺 | uncommon | **common** |
-| Zach Tuohy | Zach Tuohy | 1477 | 🇦🇺 | rare | **common** |
-| Aaron Sandilands | Aaron Sandilands | 1474 | 🇦🇺 | uncommon | **common** |
-| Toby Nankervis | Toby Nankervis | 1465 | 🇦🇺 | rare | **common** |
-| Ollie Dempsey | Ollie Dempsey | 1454 | 🇦🇺 | uncommon | **common** |
-| Jarman Impey | Jarman Impey | 1444 | 🇦🇺 | rare | **common** |
-| Cameron Mooney | Cameron Mooney | 1442 | 🇦🇺 | rare | **common** |
-| Paul Roos | Paul Roos (Australian rules footballer) | 1437 | 🇦🇺 | uncommon | **common** |
-| John Worsfold | John Worsfold | 1434 | 🇦🇺 | uncommon | **common** |
-| Sam Lalor | Sam Lalor | 1430 | 🇦🇺 | uncommon | **common** |
-| Will Day | Will Day | 1424 | 🇦🇺 | uncommon | **common** |
-| Rory Sloane | Rory Sloane | 1408 | 🇦🇺 | uncommon | **common** |
-| Peter Hudson | Peter Hudson | 1406 | 🇦🇺 | uncommon | **common** |
-| Tim Kelly | Tim Kelly (footballer) | 1405 | 🇦🇺 | uncommon | **common** |
-| Jack Darling | Jack Darling | 1402 | 🇦🇺 | rare | **common** |
-| Moana Hope | Moana Hope | 1394 | 🇦🇺 | uncommon | **common** |
-| John Coleman | John Coleman (Australian footballer) | 1393 | 🇦🇺 | uncommon | **common** |
-| Dane Rampe | Dane Rampe | 1387 | 🇦🇺 | rare | **common** |
-| Max Holmes | Max Holmes | 1385 | 🇦🇺 | uncommon | **common** |
-| Travis Boak | Travis Boak | 1383 | 🇦🇺 | uncommon | **common** |
-| Jeremy McGovern | Jeremy McGovern | 1381 | 🇦🇺 | uncommon | **common** |
-| Stephen Coniglio | Stephen Coniglio | 1370 | 🇦🇺 | uncommon | **common** |
-| Callum Wilkie | Callum Wilkie | 1364 | 🇦🇺 | uncommon | **common** |
-| Ben Brown | Ben Brown (footballer) | 1354 | 🇦🇺 | uncommon | **common** |
-| Dayne Beams | Dayne Beams | 1349 | 🇦🇺 | uncommon | **common** |
-| Kevin Bartlett | Kevin Bartlett (Australian rules footballer) | 1344 | 🇦🇺 | uncommon | **common** |
-| Nick Blakey | Nick Blakey | 1327 | 🇦🇺 | rare | **common** |
-| Connor Rozee | Connor Rozee | 1322 | 🇦🇺 | uncommon | **common** |
-| Gerard Healy | Gerard Healy | 1310 | 🇦🇺 | uncommon | **common** |
-| Tyson Stengle | Tyson Stengle | 1272 | 🇦🇺 | rare | **common** |
-| Robert DiPierdomenico | Robert DiPierdomenico | 1269 | 🇦🇺 | uncommon | **common** |
-| Levi Ashcroft | Levi Ashcroft | 1266 | 🇦🇺 | rare | **common** |
-| Robert Walls | Robert Walls | 1254 | 🇦🇺 | rare | **common** |
-| Luke Ball | Luke Ball | 1254 | 🇦🇺 | rare | **common** |
-| Bachar Houli | Bachar Houli | 1252 | 🇦🇺 | uncommon | **common** |
-| Eric Hipwood | Eric Hipwood | 1247 | 🇦🇺 | rare | **common** |
-| Steve Johnson | Steve Johnson (Australian footballer) | 1242 | 🇦🇺 | uncommon | **common** |
-| Jy Simpkin | Jy Simpkin | 1242 | 🇦🇺 | rare | **common** |
-| Byron Pickett | Byron Pickett | 1224 | 🇦🇺 | uncommon | **common** |
-| Sam Darcy | Sam Darcy (footballer) | 1217 | 🇦🇺 | uncommon | **common** |
-| Alex Rance | Alex Rance | 1214 | 🇦🇺 | uncommon | **common** |
-| Lou Richards | Lou Richards | 1213 | 🇦🇺 | uncommon | **common** |
-| Brian Lake | Brian Lake | 1203 | 🇦🇺 | uncommon | **common** |
-| Polly Farmer | Polly Farmer | 1197 | 🇦🇺 | uncommon | **common** |
-| Marcus Ashcroft | Marcus Ashcroft | 1189 | 🇦🇺 | rare | **common** |
-| Anthony Stevens | Anthony Stevens | 1189 | 🇦🇺 | uncommon | **common** |
-| Tom Scully | Tom Scully | 1181 | 🇦🇺 | rare | **common** |
-| Brendon Goddard | Brendon Goddard | 1160 | 🇦🇺 | uncommon | **common** |
-| Tadhg Kennelly | Tadhg Kennelly | 1159 | 🇦🇺 | rare | **common** |
-| Paul Salmon | Paul Salmon | 1157 | 🇦🇺 | uncommon | **common** |
-| Jacob Weitering | Jacob Weitering | 1152 | 🇦🇺 | uncommon | **common** |
-| Darren Millane | Darren Millane | 1143 | 🇦🇺 | rare | **common** |
-| Josh Kennedy (Sydney) | Josh Kennedy (footballer, born 1988) | 1140 | 🇦🇺 | uncommon | **common** |
-| Stephen Milne | Stephen Milne | 1140 | 🇦🇺 | uncommon | **common** |
-| Todd Goldstein | Todd Goldstein | 1138 | 🇦🇺 | rare | **common** |
-| Maurice Rioli | Maurice Rioli | 1129 | 🇦🇺 | rare | **common** |
-| Andrew Walker | Andrew Walker (footballer) | 1114 | 🇦🇺 | rare | **common** |
-| Rory Laird | Rory Laird | 1113 | 🇦🇺 | rare | **common** |
-| Brett Ratten | Brett Ratten | 1113 | 🇦🇺 | rare | **common** |
-| Rodney Eade | Rodney Eade | 1113 | 🇦🇺 | rare | **common** |
-| Leigh Montagna | Leigh Montagna | 1110 | 🇦🇺 | rare | **common** |
-| Jarrod Berry | Jarrod Berry | 1105 | 🇦🇺 | rare | **common** |
-| Sam Docherty | Sam Docherty | 1105 | 🇦🇺 | rare | **common** |
-| Paddy McCartin | Paddy McCartin | 1104 | 🇦🇺 | rare | **common** |
-| Callum Mills | Callum Mills | 1103 | 🇦🇺 | rare | **common** |
-| Lenny Hayes | Lenny Hayes | 1099 | 🇦🇺 | uncommon | **common** |
-| Aaron Cadman | Aaron Cadman | 1079 | 🇦🇺 | rare | **common** |
-| Shannon Hurn | Shannon Hurn | 1076 | 🇦🇺 | uncommon | **common** |
-| Jason Johannisen | Jason Johannisen | 1076 | 🇦🇺 | uncommon | **common** |
-| Jack Macrae | Jack Macrae | 1069 | 🇦🇺 | rare | **common** |
-| Nick Larkey | Nick Larkey | 1067 | 🇦🇺 | uncommon | **common** |
-| Cameron Ling | Cameron Ling | 1064 | 🇦🇺 | uncommon | **common** |
-| Luke Breust | Luke Breust | 1064 | 🇦🇺 | rare | **common** |
-| Darcy Parish | Darcy Parish | 1047 | 🇦🇺 | uncommon | **common** |
-| Peter Matera | Peter Matera | 1041 | 🇦🇺 | uncommon | **common** |
-| Peter Everitt | Peter Everitt | 1040 | 🇦🇺 | uncommon | **common** |
-| Lachie Whitfield | Lachie Whitfield | 1038 | 🇦🇺 | uncommon | **common** |
-| David Parkin | David Parkin | 1032 | 🇦🇺 | rare | **common** |
-| Monique Conti | Monique Conti | 1029 | 🇦🇺 | uncommon | **common** |
-| Gordon Coventry | Gordon Coventry | 1027 | 🇦🇺 | rare | **common** |
-| Callan Ward | Callan Ward | 1026 | 🇦🇺 | uncommon | **common** |
-| Justin Leppitsch | Justin Leppitsch | 1023 | 🇦🇺 | rare | **common** |
-| Michael Long | Michael Long (footballer) | 1022 | 🇦🇺 | common | · |
-| Marc Murphy | Marc Murphy (footballer) | 1022 | 🇦🇺 | uncommon | **common** |
-| Stephen Kernahan | Stephen Kernahan | 1011 | 🇦🇺 | common | · |
-| Bob Skilton | Bob Skilton | 1010 | 🇦🇺 | uncommon | **common** |
-| Haydn Bunton Sr | Haydn Bunton Sr. | 1007 | 🇦🇺 | uncommon | **common** |
-| Heath Shaw | Heath Shaw | 1004 | 🇦🇺 | rare | **common** |
-| Oscar McInerney | Oscar McInerney | 1001 | 🇦🇺 | rare | **common** |
-| Josh Battle | Josh Battle | 999 | 🇦🇺 | rare | **common** |
-| Luke Davies-Uniacke | Luke Davies-Uniacke | 985 | 🇦🇺 | uncommon | **common** |
-| Tom Papley | Tom Papley | 983 | 🇦🇺 | uncommon | **common** |
-| Bruce Doull | Bruce Doull | 979 | 🇦🇺 | uncommon | **common** |
-| Michael Walters | Michael Walters | 971 | 🇦🇺 | uncommon | **common** |
-| Craig Bradley | Craig Bradley | 970 | 🇦🇺 | uncommon | **common** |
-| Jake Lever | Jake Lever | 970 | 🇦🇺 | rare | **common** |
-| Daniel Giansiracusa | Daniel Giansiracusa | 969 | 🇦🇺 | rare | **common** |
-| Matthew Scarlett | Matthew Scarlett | 966 | 🇦🇺 | uncommon | **common** |
-| Peter Bell | Peter Bell (footballer, born 1976) | 963 | 🇦🇺 | rare | **common** |
-| Rhys Stanley | Rhys Stanley | 960 | 🇦🇺 | rare | **common** |
-| Corey Enright | Corey Enright | 957 | 🇦🇺 | uncommon | **common** |
-| Mark LeCras | Mark LeCras | 948 | 🇦🇺 | rare | **common** |
-| Don Pyke | Don Pyke | 945 | 🇦🇺 | rare | **common** |
-| Tom Green | Tom Green (footballer, born 2001) | 942 | 🇦🇺 | uncommon | **common** |
-| Jack Dyer | Jack Dyer | 939 | 🇦🇺 | uncommon | **common** |
-| Tayla Harris | Tayla Harris | 937 | 🇦🇺 | uncommon | **common** |
-| David Mundy | David Mundy | 935 | 🇦🇺 | rare | **common** |
-| Darren Jarman | Darren Jarman | 931 | 🇦🇺 | uncommon | **common** |
-| Barry Cable | Barry Cable | 929 | 🇦🇺 | deep | **common** |
-| Mark Williams | Mark Williams (Australian footballer, born 1958) | 926 | 🇦🇺 | rare | **common** |
-| Ian Stewart | Ian Stewart (Australian rules footballer) | 924 | 🇦🇺 | uncommon | **common** |
-| Jonathon Patton | Jonathon Patton | 924 | 🇦🇺 | rare | **common** |
-| Warren Tredrea | Warren Tredrea | 924 | 🇦🇺 | uncommon | **common** |
-| Jack Billings | Jack Billings | 919 | 🇦🇺 | rare | **common** |
-| Alex Neal-Bullen | Alex Neal-Bullen | 916 | 🇦🇺 | rare | **common** |
-| John Nicholls | John Nicholls (footballer) | 913 | 🇦🇺 | uncommon | **common** |
-| Dean Solomon | Dean Solomon | 911 | 🇦🇺 | rare | **common** |
-| Chad Wingard | Chad Wingard | 910 | 🇦🇺 | uncommon | **common** |
-| Sam Kekovich | Sam Kekovich | 910 | 🇦🇺 | uncommon | **common** |
-| Michael O'Loughlin | Michael O'Loughlin | 906 | 🇦🇺 | uncommon | **common** |
-| Jack Watts | Jack Watts (footballer) | 903 | 🇦🇺 | rare | **common** |
-| Dylan Shiel | Dylan Shiel | 900 | 🇦🇺 | rare | **common** |
-| Gary Ayres | Gary Ayres | 897 | 🇦🇺 | uncommon | **common** |
-| Bob Murphy | Bob Murphy (footballer) | 896 | 🇦🇺 | uncommon | **common** |
-| Josh Kelly | Josh Kelly (Australian footballer) | 889 | 🇦🇺 | uncommon | **common** |
-| Nigel Lappin | Nigel Lappin | 888 | 🇦🇺 | rare | **common** |
-| Shane Mumford | Shane Mumford | 880 | 🇦🇺 | rare | **common** |
-| Willie Rioli | Willie Rioli | 878 | 🇦🇺 | rare | **common** |
-| Anthony Rocca | Anthony Rocca | 876 | 🇦🇺 | uncommon | **common** |
-| Roy Cazaly | Roy Cazaly | 870 | 🇦🇺 | uncommon | **common** |
-| Terry Wallace | Terry Wallace | 869 | 🇦🇺 | rare | **common** |
-| Sergio Silvagni | Sergio Silvagni | 861 | 🇦🇺 | deep | **common** |
-| Bryce Gibbs | Bryce Gibbs (Australian rules footballer) | 861 | 🇦🇺 | rare | **common** |
-| Mark Harvey | Mark Harvey | 856 | 🇦🇺 | rare | **common** |
-| Brad Ottens | Brad Ottens | 856 | 🇦🇺 | rare | **common** |
-| Denis Pagan | Denis Pagan | 853 | 🇦🇺 | rare | **common** |
-| Luke Shuey | Luke Shuey | 850 | 🇦🇺 | uncommon | **common** |
-| Matt Priddis | Matt Priddis | 849 | 🇦🇺 | uncommon | **common** |
-| Robbie Flower | Robert Flower | 838 | 🇦🇺 | uncommon | **common** |
-| Jack Sinclair | Jack Sinclair (footballer) | 834 | 🇦🇺 | uncommon | **common** |
-| Hayden Ballantyne | Hayden Ballantyne | 832 | 🇦🇺 | rare | **common** |
-| Paul Dear | Paul Dear | 832 | 🇦🇺 | rare | **common** |
-| Bailey Dale | Bailey Dale | 829 | 🇦🇺 | rare | **common** |
-| Gryan Miers | Gryan Miers | 828 | 🇦🇺 | rare | **common** |
-| Lachie Ash | Lachie Ash | 821 | 🇦🇺 | rare | **common** |
-| Cora Staunton | Cora Staunton | 818 | 🇦🇺 | rare | **common** |
-| Simon Madden | Simon Madden | 813 | 🇦🇺 | uncommon | **common** |
-| Dick Reynolds | Dick Reynolds | 811 | 🇦🇺 | uncommon | **common** |
-| Norm Smith | Norm Smith | 810 | 🇦🇺 | rare | **common** |
-| Josh Gibson | Josh Gibson (footballer) | 808 | 🇦🇺 | rare | **common** |
-| Paul Chapman | Paul Chapman (Australian footballer) | 803 | 🇦🇺 | uncommon | **common** |
-| Jock McHale | Jock McHale | 801 | 🇦🇺 | deep | **common** |
-| Tom Hafey | Tom Hafey | 793 | 🇦🇺 | deep | **common** |
-| Jade Gresham | Jade Gresham | 792 | 🇦🇺 | rare | **common** |
-| John Platten | John Platten | 788 | 🇦🇺 | uncommon | **common** |
-| Cooper Duff-Tytler | Cooper Duff-Tytler | 788 | 🇦🇺 | rare | **common** |
-| Glen Jakovich | Glen Jakovich | 785 | 🇦🇺 | uncommon | **common** |
-| Jude Bolton | Jude Bolton | 781 | 🇦🇺 | uncommon | **common** |
-| Mick Martyn | Mick Martyn (Australian footballer) | 778 | 🇦🇺 | rare | **common** |
-| Ben McEvoy | Ben McEvoy | 768 | 🇦🇺 | rare | **common** |
-| Finn Callaghan | Finn Callaghan | 759 | 🇦🇺 | rare | **common** |
-| Daniel Rich | Daniel Rich | 750 | 🇦🇺 | rare | **common** |
-| Andrew Gaff | Andrew Gaff | 747 | 🇦🇺 | uncommon | · |
-| Heritier Lumumba | Héritier Lumumba | 737 | 🇦🇺 | rare | **uncommon** |
-| Mark McVeigh | Mark McVeigh | 736 | 🇦🇺 | rare | **uncommon** |
-| Glenn Archer | Glenn Archer | 733 | 🇦🇺 | uncommon | · |
-| Dan Hannebery | Dan Hannebery | 727 | 🇦🇺 | rare | **uncommon** |
-| Kane Lambert | Kane Lambert | 725 | 🇦🇺 | rare | **uncommon** |
-| Lachie Hunter | Lachie Hunter | 722 | 🇦🇺 | rare | **uncommon** |
-| Roger Merrett | Roger Merrett | 708 | 🇦🇺 | deep | **uncommon** |
-| Matthew Kreuzer | Matthew Kreuzer | 706 | 🇦🇺 | rare | **uncommon** |
-| Paul Kelly | Paul Kelly (Australian rules footballer) | 703 | 🇦🇺 | uncommon | · |
-| Jayden Short | Jayden Short | 698 | 🇦🇺 | rare | **uncommon** |
-| Doug Wade | Doug Wade | 696 | 🇦🇺 | rare | **uncommon** |
-| Matthew Boyd | Matthew Boyd (Australian footballer) | 685 | 🇦🇺 | rare | **uncommon** |
-| Doug Hawkins | Doug Hawkins | 683 | 🇦🇺 | uncommon | · |
-| Andrew Embley | Andrew Embley | 683 | 🇦🇺 | rare | **uncommon** |
-| Adam Hunter | Adam Hunter (footballer) | 681 | 🇦🇺 | rare | **uncommon** |
-| Corey McKernan | Corey McKernan | 679 | 🇦🇺 | rare | **uncommon** |
-| Daniel Talia | Daniel Talia | 671 | 🇦🇺 | rare | **uncommon** |
-| Nick Vlastuin | Nick Vlastuin | 664 | 🇦🇺 | rare | **uncommon** |
-| Bayley Fritsch | Bayley Fritsch | 662 | 🇦🇺 | rare | **uncommon** |
-| Allan Jeans | Allan Jeans | 658 | 🇦🇺 | rare | **uncommon** |
-| Jarrad McVeigh | Jarrad McVeigh | 657 | 🇦🇺 | rare | **uncommon** |
-| Daniel Bradshaw | Daniel Bradshaw | 656 | 🇦🇺 | rare | **uncommon** |
-| Sam Taylor | Sam Taylor (Australian footballer) | 656 | 🇦🇺 | rare | **uncommon** |
-| Kieren Jack | Kieren Jack | 655 | 🇦🇺 | uncommon | · |
-| Tom Rockliff | Tom Rockliff | 652 | 🇦🇺 | rare | **uncommon** |
-| Scott Cummings | Scott Cummings (footballer) | 650 | 🇦🇺 | rare | **uncommon** |
-| Dom Sheed | Dom Sheed | 649 | 🇦🇺 | uncommon | · |
-| Liam Picken | Liam Picken | 647 | 🇦🇺 | rare | **uncommon** |
-| Darren Jolly | Darren Jolly | 646 | 🇦🇺 | rare | **uncommon** |
-| Guy McKenna | Guy McKenna | 645 | 🇦🇺 | rare | **uncommon** |
-| Shane Woewodin | Shane Woewodin | 642 | 🇦🇺 | uncommon | · |
-| Wayne Johnston | Wayne Johnston (footballer) | 639 | 🇦🇺 | rare | **uncommon** |
-| Jack Steven | Jack Steven | 639 | 🇦🇺 | rare | **uncommon** |
-| David Zaharakis | David Zaharakis | 636 | 🇦🇺 | rare | **uncommon** |
-| Brett Kirk | Brett Kirk | 634 | 🇦🇺 | uncommon | · |
-| Royce Hart | Royce Hart | 632 | 🇦🇺 | uncommon | · |
-| David Neitz | David Neitz | 631 | 🇦🇺 | uncommon | · |
-| Jeff White | Jeff White (Australian footballer) | 623 | 🇦🇺 | deep | **uncommon** |
-| Drew Banfield | Drew Banfield | 621 | 🇦🇺 | deep | **uncommon** |
-| Ryan O'Keefe | Ryan O'Keefe | 619 | 🇦🇺 | rare | **uncommon** |
-| Nathan Jones | Nathan Jones (Australian footballer) | 617 | 🇦🇺 | uncommon | · |
-| Russell Ebert | Russell Ebert | 615 | 🇦🇺 | rare | **uncommon** |
-| Garry Hocking | Garry Hocking | 615 | 🇦🇺 | uncommon | · |
-| Kevin Murray | Kevin Murray (Australian footballer) | 607 | 🇦🇺 | uncommon | · |
-| Luke Power | Luke Power | 606 | 🇦🇺 | rare | **uncommon** |
-| Don Scott | Don Scott (footballer, born 1947) | 604 | 🇦🇺 | rare | **uncommon** |
-| Trevor Barker | Trevor Barker | 604 | 🇦🇺 | uncommon | · |
-| Ted Richards | Ted Richards | 601 | 🇦🇺 | rare | **uncommon** |
-| Terry Daniher | Terry Daniher | 596 | 🇦🇺 | uncommon | · |
-| Sam Jacobs | Sam Jacobs (footballer) | 589 | 🇦🇺 | rare | **uncommon** |
-| Chris Yarran | Chris Yarran | 587 | 🇦🇺 | rare | **uncommon** |
-| Dylan Grimes | Dylan Grimes | 586 | 🇦🇺 | rare | **uncommon** |
-| Neil Balme | Neil Balme | 584 | 🇦🇺 | rare | **uncommon** |
-| John Kennedy Sr | John Kennedy Sr. (footballer) | 582 | 🇦🇺 | rare | **uncommon** |
-| Des Headland | Des Headland | 581 | 🇦🇺 | rare | **uncommon** |
-| Libby Birch | Libby Birch | 581 | 🇦🇺 | rare | **uncommon** |
-| David Schwarz | David Schwarz (footballer) | 579 | 🇦🇺 | uncommon | · |
-| Rene Kink | Rene Kink | 572 | 🇦🇺 | deep | **uncommon** |
-| Easton Wood | Easton Wood | 570 | 🇦🇺 | rare | **uncommon** |
-| Justin Koschitzke | Justin Koschitzke | 568 | 🇦🇺 | rare | **uncommon** |
-| Luke McPharlin | Luke McPharlin | 567 | 🇦🇺 | rare | **uncommon** |
-| Ryan Griffen | Ryan Griffen | 564 | 🇦🇺 | rare | **uncommon** |
-| Mal Michael | Mal Michael | 561 | 🇦🇺 | rare | **uncommon** |
-| Shane Edwards | Shane Edwards | 561 | 🇦🇺 | rare | **uncommon** |
-| Nick Davis | Nick Davis (footballer) | 561 | 🇦🇺 | rare | **uncommon** |
-| Joel Corey | Joel Corey | 557 | 🇦🇺 | rare | **uncommon** |
-| Harry Himmelberg | Harry Himmelberg | 549 | 🇦🇺 | rare | **uncommon** |
-| Brendon Lade | Brendon Lade | 548 | 🇦🇺 | rare | **uncommon** |
-| Maurice Rioli Jr | Maurice Rioli Jr. | 546 | 🇦🇺 | deep | **uncommon** |
-| Liam Jurrah | Liam Jurrah | 546 | 🇦🇺 | rare | **uncommon** |
-| Peter Sumich | Peter Sumich | 546 | 🇦🇺 | rare | **uncommon** |
-| Gary Dempsey | Gary Dempsey (Australian footballer) | 531 | 🇦🇺 | uncommon | · |
-| David Rhys-Jones | David Rhys-Jones | 530 | 🇦🇺 | rare | **uncommon** |
-| Phil Carman | Phil Carman | 530 | 🇦🇺 | rare | **uncommon** |
-| Jacob Hopper | Jacob Hopper | 529 | 🇦🇺 | rare | **uncommon** |
-| Colin Sylvia | Colin Sylvia | 528 | 🇦🇺 | rare | **uncommon** |
-| Darrel Baldock | Darrel Baldock | 526 | 🇦🇺 | rare | **uncommon** |
-| Nick Maxwell | Nick Maxwell | 521 | 🇦🇺 | rare | **uncommon** |
-| Scott Lucas | Scott Lucas (footballer) | 519 | 🇦🇺 | rare | **uncommon** |
-| Darren Bewick | Darren Bewick | 509 | 🇦🇺 | rare | **uncommon** |
-| Ebony Marinoff | Ebony Marinoff | 509 | 🇦🇺 | uncommon | · |
-| Michael Hurley | Michael Hurley (Australian footballer) | 507 | 🇦🇺 | rare | **uncommon** |
-| Clive Waterhouse | Clive Waterhouse | 507 | 🇦🇺 | deep | **uncommon** |
-| Darren Glass | Darren Glass | 507 | 🇦🇺 | rare | **uncommon** |
-| Paul Couch | Paul Couch | 505 | 🇦🇺 | uncommon | · |
-| Andrew Jarman | Andrew Jarman | 500 | 🇦🇺 | rare | **uncommon** |
-| Nic Martin | Nic Martin | 500 | 🇦🇺 | rare | **uncommon** |
-| Gary Moorcroft | Gary Moorcroft | 493 | 🇦🇺 | rare | **uncommon** |
-| Lewis Roberts-Thomson | Lewis Roberts-Thomson | 490 | 🇦🇺 | rare | **uncommon** |
-| Chloe Molloy | Chloe Molloy | 490 | 🇦🇺 | rare | **uncommon** |
-| Mike Fitzpatrick | Mike Fitzpatrick (footballer) | 489 | 🇦🇺 | rare | **uncommon** |
-| Phil Davis | Phil Davis (Australian footballer) | 488 | 🇦🇺 | rare | **uncommon** |
-| Jack Ziebell | Jack Ziebell | 487 | 🇦🇺 | uncommon | · |
-| Russell Robertson | Russell Robertson | 486 | 🇦🇺 | rare | **uncommon** |
-| Sam Fisher | Sam Fisher (Australian footballer) | 478 | 🇦🇺 | rare | **uncommon** |
-| Wayne Schwass | Wayne Schwass | 475 | 🇦🇺 | rare | **uncommon** |
-| Adam Ramanauskas | Adam Ramanauskas | 472 | 🇦🇺 | rare | **uncommon** |
-| Dale Weightman | Dale Weightman | 471 | 🇦🇺 | rare | **uncommon** |
-| Ivan Maric | Ivan Maric | 467 | 🇦🇺 | rare | **uncommon** |
-| Stewart Loewe | Stewart Loewe | 467 | 🇦🇺 | rare | **uncommon** |
-| Mark Bickley | Mark Bickley | 465 | 🇦🇺 | rare | **uncommon** |
-| Chris Langford | Chris Langford | 465 | 🇦🇺 | rare | **uncommon** |
-| Madison Prespakis | Maddy Prespakis | 461 | 🇦🇺 | uncommon | · |
-| Kade Simpson | Kade Simpson | 455 | 🇦🇺 | rare | **uncommon** |
-| Brianna Davey | Brianna Davey | 455 | 🇦🇺 | uncommon | · |
-| Darren Gaspar | Darren Gaspar | 455 | 🇦🇺 | deep | **uncommon** |
-| David Cloke | David Cloke | 452 | 🇦🇺 | rare | **uncommon** |
-| Chris McDermott | Chris McDermott | 450 | 🇦🇺 | deep | **uncommon** |
-| Francis Bourke | Francis Bourke | 440 | 🇦🇺 | rare | **uncommon** |
-| Brodie Smith | Brodie Smith (footballer) | 439 | 🇦🇺 | rare | **uncommon** |
-| Cameron Bruce | Cameron Bruce | 432 | 🇦🇺 | rare | **uncommon** |
-| Leo Barry | Leo Barry | 427 | 🇦🇺 | uncommon | · |
-| Grant Birchall | Grant Birchall | 421 | 🇦🇺 | rare | **uncommon** |
-| Ben Hart | Ben Hart (Australian footballer) | 419 | 🇦🇺 | rare | **uncommon** |
-| Peter Knights | Peter Knights | 418 | 🇦🇺 | uncommon | · |
-| Bob Pratt | Bob Pratt | 411 | 🇦🇺 | rare | **uncommon** |
-| Carl Ditterich | Carl Ditterich | 411 | 🇦🇺 | rare | **uncommon** |
-| Shaun Rehn | Shaun Rehn | 406 | 🇦🇺 | rare | **uncommon** |
-| Anthony Daniher | Anthony Daniher | 405 | 🇦🇺 | rare | **uncommon** |
-| Michael Roach | Michael Roach (footballer) | 402 | 🇦🇺 | rare | **uncommon** |
-| Lance Whitnall | Lance Whitnall | 393 | 🇦🇺 | uncommon | · |
-| Dale Morris | Dale Morris | 393 | 🇦🇺 | rare | **uncommon** |
-| Andrew Swallow | Andrew Swallow | 391 | 🇦🇺 | rare | **uncommon** |
-| Keith Greig | Keith Greig | 382 | 🇦🇺 | uncommon | · |
-| Dean Kemp | Dean Kemp | 376 | 🇦🇺 | rare | **uncommon** |
-| Mark Mercuri | Mark Mercuri | 374 | 🇦🇺 | rare | **uncommon** |
-| Bob Rose | Bob Rose (footballer) | 369 | 🇦🇺 | rare | **uncommon** |
-| Brad Green | Brad Green (footballer) | 359 | 🇦🇺 | rare | **uncommon** |
-| Gary Buckenara | Gary Buckenara | 354 | 🇦🇺 | rare | **uncommon** |
-| Travis Johnstone | Travis Johnstone | 353 | 🇦🇺 | deep | **uncommon** |
-| Simon Beasley | Simon Beasley | 346 | 🇦🇺 | rare | **uncommon** |
-| Nigel Smart | Nigel Smart | 344 | 🇦🇺 | rare | **uncommon** |
-| Katie Brennan | Katie Brennan | 342 | 🇦🇺 | uncommon | · |
-| Len Thompson | Len Thompson | 336 | 🇦🇺 | rare | **uncommon** |
-| Nathan Burke | Nathan Burke | 335 | 🇦🇺 | rare | **uncommon** |
-| Graham Moss | Graham Moss | 330 | 🇦🇺 | deep | **uncommon** |
-| Aaron Davey | Aaron Davey | 330 | 🇦🇺 | rare | **uncommon** |
-| Jasmine Garner | Jasmine Garner | 320 | 🇦🇺 | uncommon | · |
-| Brett Burton | Brett Burton | 314 | 🇦🇺 | rare | **uncommon** |
-| Chris Lewis | Chris Lewis (footballer) | 311 | 🇦🇺 | rare | **uncommon** |
-| Peter Bedford | Peter Bedford (sportsman) | 302 | 🇦🇺 | deep | **uncommon** |
-| Laurie Nash | Laurie Nash | 302 | 🇦🇺 | deep | **uncommon** |
-| Mark Maclure | Mark Maclure | 302 | 🇦🇺 | rare | **uncommon** |
-| Clark Keating | Clark Keating | 300 | 🇦🇺 | rare | **uncommon** |
-| Shaun Hart | Shaun Hart | 299 | 🇦🇺 | rare | **uncommon** |
-| Emma Kearney | Emma Kearney (footballer) | 297 | 🇦🇺 | uncommon | · |
-| Heath Grundy | Heath Grundy | 296 | 🇦🇺 | rare | **uncommon** |
-| Paul Vander Haar | Paul Vander Haar | 294 | 🇦🇺 | rare | **uncommon** |
-| Neil Roberts | Neil Roberts (Australian footballer) | 292 | 🇦🇺 | deep | **uncommon** |
-| Ben Cunnington | Ben Cunnington (footballer) | 291 | 🇦🇺 | rare | **uncommon** |
-| Tyson Edwards | Tyson Edwards | 286 | 🇦🇺 | rare | **uncommon** |
-| Seb Ross | Sebastian Ross | 286 | 🇦🇺 | rare | **uncommon** |
-| Wayne Schimmelbusch | Wayne Schimmelbusch | 283 | 🇦🇺 | uncommon | · |
-| Peter Bosustow | Peter Bosustow | 276 | 🇦🇺 | deep | **uncommon** |
-| Jason Johnson | Jason Johnson (Australian footballer) | 273 | 🇦🇺 | rare | **uncommon** |
-| Ash Riddell | Ash Riddell | 268 | 🇦🇺 | rare | **uncommon** |
-| Chelsea Randall | Chelsea Randall | 266 | 🇦🇺 | rare | **uncommon** |
-| Sabrina Frederick | Sabrina Frederick | 266 | 🇦🇺 | rare | **uncommon** |
-| Geoff Raines | Geoff Raines | 257 | 🇦🇺 | rare | **uncommon** |
-| Wayne Harmes | Wayne Harmes | 249 | 🇦🇺 | rare | · |
-| Chris Newman | Chris Newman (footballer) | 246 | 🇦🇺 | rare | · |
-| Darcy Vescio | Darcy Vescio | 245 | 🇦🇺 | uncommon | **rare** |
-| Marcus Whelan | Marcus Whelan | 241 | 🇦🇺 | deep | **rare** |
-| Barry Breen | Barry Breen | 241 | 🇦🇺 | rare | · |
-| Syd Coventry | Syd Coventry | 238 | 🇦🇺 | deep | **rare** |
-| Alistair Lord | Alistair Lord | 236 | 🇦🇺 | deep | **rare** |
-| Anne Hatchard | Anne Hatchard | 227 | 🇦🇺 | rare | · |
-| Bill Duckworth | Billy Duckworth | 220 | 🇦🇺 | rare | · |
-| Ally Anderson | Ally Anderson | 215 | 🇦🇺 | rare | · |
-| Kate Hore | Kate Hore | 214 | 🇦🇺 | rare | · |
-| Fraser Brown | Fraser Brown (Australian footballer) | 206 | 🇦🇺 | rare | · |
-| Bill Hutchison | Bill Hutchison | 200 | 🇦🇺 | uncommon | **rare** |
-| Jim Jess | Jim Jess | 194 | 🇦🇺 | rare | · |
-| Georgie Prespakis | Georgie Prespakis | 194 | 🇦🇺 | rare | · |
-| Dean Wallis | Dean Wallis | 193 | 🇦🇺 | rare | · |
-| Charlie Sutton | Charlie Sutton | 187 | 🇦🇺 | rare | · |
-| Bonnie Toogood | Bonnie Toogood | 187 | 🇦🇺 | rare | · |
-| Ellie Blackburn | Ellie Blackburn | 184 | 🇦🇺 | uncommon | **rare** |
-| Ken Fraser | Ken Fraser | 182 | 🇦🇺 | rare | · |
-| Albert Collier | Albert Collier | 181 | 🇦🇺 | deep | **rare** |
-| Don Cordner | Don Cordner | 177 | 🇦🇺 | deep | **rare** |
-| Harry Collier | Harry Collier | 171 | 🇦🇺 | deep | **rare** |
-| Roy Wright | Roy Wright (footballer) | 170 | 🇦🇺 | deep | **rare** |
-| Verdun Howell | Verdun Howell | 169 | 🇦🇺 | deep | **rare** |
-| Kiara Bowers | Kiara Bowers | 164 | 🇦🇺 | rare | · |
-| Shaun Smith | Shaun Smith (Australian footballer) | 164 | 🇦🇺 | rare | · |
-| Dakota Davidson | Dakota Davidson | 154 | 🇦🇺 | rare | · |
-| Des Fothergill | Des Fothergill | 153 | 🇦🇺 | deep | **rare** |
-| Ivor Warne-Smith | Ivor Warne-Smith | 149 | 🇦🇺 | deep | **rare** |
-| Bernie Smith | Bernie Smith | 146 | 🇦🇺 | deep | **rare** |
-| Noel Teasdale | Noel Teasdale | 141 | 🇦🇺 | deep | **rare** |
-| John Schultz | John Schultz (footballer, born 1938) | 134 | 🇦🇺 | deep | **rare** |
-| Edward Greeves | Carji Greeves | 128 | 🇦🇺 | deep | **rare** |
-| Peter Box | Peter Box | 114 | 🇦🇺 | deep | **rare** |
-| Courtney Hodder | Courtney Hodder | 111 | 🇦🇺 | rare | · |
-| Ron Clegg | Ron Clegg | 107 | 🇦🇺 | deep | **rare** |
-| Martin Leslie | Martin Leslie (Australian footballer) | 106 | 🇦🇺 | deep | **rare** |
-| Richard Lounder | Richard Lounder | 104 | 🇦🇺 | deep | **rare** |
-| Wilfred Smallhorn | Chicken Smallhorn | 103 | 🇦🇺 | deep | **rare** |
-| Ellie McKenzie | Ellie McKenzie | 103 | 🇦🇺 | rare | · |
-| Col Austen | Col Austen | 97 | 🇦🇺 | deep | **rare** |
-| Herbie Matthews | Herbie Matthews | 95 | 🇦🇺 | deep | **rare** |
-| Bert Deacon | Bert Deacon | 94 | 🇦🇺 | deep | **rare** |
-| Fred Goldsmith | Fred Goldsmith (Australian footballer) | 93 | 🇦🇺 | deep | **rare** |
-| Gordon Collis | Gordon Collis | 92 | 🇦🇺 | deep | **rare** |
-| Allan Ruthven | Allan Ruthven | 92 | 🇦🇺 | deep | **rare** |
-| Brian Gleeson | Brian Gleeson (footballer) | 91 | 🇦🇺 | deep | **rare** |
-| Alyce Parker | Alyce Parker | 83 | 🇦🇺 | rare | · |
-| Tyla Hanks | Tyla Hanks | 79 | 🇦🇺 | rare | · |
-| Colin Watson | Colin Watson (footballer) | 71 | 🇦🇺 | deep | · |
-| Norman Ware | Norman Ware | 69 | 🇦🇺 | deep | · |
-| Allan Hopkins | Allan Hopkins | 69 | 🇦🇺 | deep | · |
-| Denis Ryan | Denis Ryan (footballer) | 61 | 🇦🇺 | deep | · |
-| Stan Judkins | Stan Judkins | 60 | 🇦🇺 | deep | · |
-| Lauren Pearce | Lauren Pearce | 56 | 🇦🇺 | rare | **deep** |
-| Tom Hawkins | Tom Hawkins (footballer) | 9 | 🇦🇺 | common | **deep** |
-| Wayne Carey | Wayne Carey | — | 🇦🇺 | common | · |
-| Gary Ablett Jr | Gary Ablett Jr. | — | 🇦🇺 | common | · |
-| Gary Ablett Sr | Gary Ablett Sr. | — | 🇦🇺 | common | · |
-| Dustin Martin | Dustin Martin | — | 🇦🇺 | common | · |
-| Nick Riewoldt | Nick Riewoldt | — | 🇦🇺 | common | · |
-| Ron Barassi | — | — |  | common | no data — kept |
-| Kevin Sheedy | — | — |  | common | no data — kept |
-| Ted Whitten | — | — |  | common | no data — kept |
-| Lance Franklin | — | — |  | common | no data — kept |
-| Patrick Dangerfield | — | — |  | common | no data — kept |
-| Jimmy Bartel | Jimmy Bartel | — | 🇦🇺 | uncommon | · |
-| Tom Mitchell | Tom Mitchell (Australian footballer) | — | 🇦🇺 | uncommon | · |
-| Adam Cooney | Adam Cooney | — | 🇦🇺 | uncommon | · |
-| Mark Ricciuto | Mark Ricciuto | — | 🇦🇺 | uncommon | · |
-| Jobe Watson | Jobe Watson | — | 🇦🇺 | uncommon | · |
-| Gavin Wanganeen | Gavin Wanganeen | — | 🇦🇺 | uncommon | · |
-| Peter Moore | — | — |  | uncommon | no data — kept |
-| Scott Wynd | Scott Wynd | — | 🇦🇺 | uncommon | · |
-| Ross Glendinning | Ross Glendinning | — | 🇦🇺 | uncommon | · |
-| Tony Liberatore | Tony Liberatore | — | 🇦🇺 | uncommon | · |
-| Brad Hardie | Brad Hardie | — | 🇦🇺 | uncommon | · |
-| Brian Wilson | — | — |  | deep | no data — kept |
-| Bernie Quinlan | — | — |  | uncommon | no data — kept |
-| Barry Round | — | — |  | rare | no data — kept |
-| Kelvin Templeton | — | — |  | uncommon | no data — kept |
-| Malcolm Blight | — | — |  | uncommon | no data — kept |
-| Graham Teasdale | — | — |  | deep | no data — kept |
-| Ross Smith | — | — |  | deep | no data — kept |
-| John James | — | — |  | deep | no data — kept |
-| Bill Morris | — | — |  | deep | no data — kept |
-| Syd Jackson | — | — |  | deep | no data — kept |
-| Phil Krakouer | Phil Krakouer | — | 🇦🇺 | deep | · |
-| Darryl White | Darryl White | — | 🇦🇺 | rare | · |
-| Jim Krakouer | Jim Krakouer | — | 🇦🇺 | rare | · |
-| Derek Kickett | Derek Kickett | — | 🇦🇺 | rare | · |
-| Chris Johnson | — | — |  | rare | no data — kept |
-| Jeff Farmer | — | — |  | uncommon | no data — kept |
-| Peter Burgoyne | — | — |  | deep | no data — kept |
-| Shaun Burgoyne | — | — |  | uncommon | no data — kept |
-| Daniel Wells | — | — |  | rare | no data — kept |
-| Paddy Ryder | — | — |  | uncommon | no data — kept |
-| Tony Modra | — | — |  | uncommon | no data — kept |
-| Jarrad Waite | Jarrad Waite | — | 🇦🇺 | rare | · |
-| Tony Shaw | — | — |  | uncommon | no data — kept |
-| Mick McGuane | Mick McGuane | — | 🇦🇺 | rare | · |
-| Gavin Brown | Gavin Brown (footballer) | — | 🇦🇺 | rare | · |
-| Peter McKenna | — | — |  | rare | no data — kept |
-| Josh Fraser | — | — |  | rare | no data — kept |
-| Saverio Rocca | — | — |  | rare | no data — kept |
-| Alan Didak | Alan Didak | — | 🇦🇺 | uncommon | · |
-| Chris Tarrant | Chris Tarrant (footballer) | — | 🇦🇺 | rare | · |
-| Travis Cloke | Travis Cloke | — | 🇦🇺 | uncommon | · |
-| Steele Sidebottom | — | — |  | uncommon | no data — kept |
-| Jamie Elliott | — | — |  | uncommon | no data — kept |
-| Brodie Grundy | — | — |  | uncommon | no data — kept |
-| Mason Cox | — | — |  | rare | no data — kept |
-| Jack Crisp | — | — |  | rare | no data — kept |
-| Brayden Maynard | — | — |  | rare | no data — kept |
-| Harry Taylor | Harry Taylor (Australian rules footballer) | — | 🇦🇺 | rare | · |
-| Tom Lonergan | Tom Lonergan (footballer) | — | 🇦🇺 | rare | · |
-| Leigh Colbert | Leigh Colbert | — | 🇦🇺 | rare | · |
-| Jarrod Witts | — | — |  | rare | no data — kept |
-| Jack Lukosius | Jack Lukosius | — | 🇦🇺 | rare | · |
-| Touk Miller | Touk Miller | — | 🇦🇺 | uncommon | · |
-| David Swallow | David Swallow | — | 🇦🇺 | rare | · |
-| Noah Anderson | Noah Anderson | — | 🇦🇺 | uncommon | · |
-| Ben Graham | Ben Graham (footballer) | — | 🇦🇺 | rare | · |
-| Jamarra Ugle-Hagan | Jamarra Ugle-Hagan | — | 🇦🇺 | uncommon | · |
-| Karmichael Hunt | — | — |  | rare | no data — kept |
-| Steven May | — | — |  | uncommon | no data — kept |
-| Jaeger O'Meara | — | — |  | rare | no data — kept |
-| Tom Lynch | — | — |  | uncommon | no data — kept |
-| Dion Prestia | — | — |  | rare | no data — kept |
-| David King | — | — |  | rare | no data — kept |
-| Shannon Grant | Shannon Grant | — | 🇦🇺 | rare | · |
-| Drew Petrie | Drew Petrie | — | 🇦🇺 | rare | · |
-| Dean Laidley | — | — |  | rare | no data — kept |
-| Zak Butters | Zak Butters | — | 🇦🇺 | uncommon | · |
-| Robbie Gray | Robbie Gray | — | 🇦🇺 | uncommon | · |
-| Matthew Primus | Matthew Primus | — | 🇦🇺 | rare | · |
-| Charlie Dixon | — | — |  | rare | no data — kept |
-| Jason Horne-Francis | — | — |  | uncommon | no data — kept |
-| Aliir Aliir | — | — |  | rare | no data — kept |
-| Mitch Georgiades | — | — |  | rare | no data — kept |
-| Hamish Hartlett | — | — |  | rare | no data — kept |
-| Tom Jonas | — | — |  | rare | no data — kept |
-| Matthew Richardson | — | — |  | uncommon | no data — kept |
-| Jack Graham | — | — |  | rare | no data — kept |
-| Adam Selwood | Adam Selwood | — | 🇦🇺 | rare | · |
-| Scott Selwood | Scott Selwood | — | 🇦🇺 | rare | · |
-| Troy Selwood | — | — |  | deep | no data — kept |
-| Brad Johnson | — | — |  | uncommon | no data — kept |
-| David Wirrpanda | — | — |  | rare | no data — kept |
-| Chris Grant | — | — |  | uncommon | no data — kept |
-| Scott West | — | — |  | uncommon | no data — kept |
-| Luke Darcy | — | — |  | rare | no data — kept |
+| Mallacoota | Mallacoota | — | 🇦🇺 | common | · |
+| Bellbridge | Bellbridge | — | 🇦🇺 | rare | · |
+| Beauchamp | Beauchamp, Victoria | — | 🇦🇺 | rare | · |
+| Bellarine | Bellarine, Victoria | — | 🇦🇺 | rare | · |
+| Bemm River | — | — |  | rare | no data — kept |
+| Bena | — | — |  | rare | no data — kept |
+| Benambra | — | — |  | rare | no data — kept |
+| Benayeo | — | — |  | rare | no data — kept |
+| Bendoc | — | — |  | rare | no data — kept |
+| Benetook | — | — |  | rare | no data — kept |
+| Big Hill | — | — |  | rare | no data — kept |
+| Carapook | Carapook | — | 🇦🇺 | rare | · |
+| Cape Clear | Cape Clear, Victoria | — | 🇦🇺 | rare | · |
+| Cannum | Cannum | — | 🇦🇺 | rare | · |
+| Carrajung | Carrajung | — | 🇦🇺 | rare | · |
+| Cardross | — | — |  | rare | no data — kept |
+| Carina | — | — |  | rare | no data — kept |
+| Carlsruhe | — | — |  | rare | no data — kept |
+| Carlyle | — | — |  | rare | no data — kept |
+| Carngham | — | — |  | rare | no data — kept |
+| Carwarp | — | — |  | rare | no data — kept |
+| Cashmore | — | — |  | rare | no data — kept |
+| Castella | — | — |  | rare | no data — kept |
+| Cassilis | — | — |  | rare | no data — kept |
+| Docker | Docker, Victoria | — | 🇦🇺 | rare | · |
+| Dooboobetic | Dooboobetic | — | 🇦🇺 | rare | · |
+| Drumanure | — | — |  | rare | no data — kept |
+| Drumborg | — | — |  | rare | no data — kept |
+| Double Bridges | — | — |  | rare | no data — kept |
+| Drummartin | — | — |  | rare | no data — kept |
+| Drummond North | — | — |  | rare | no data — kept |
+| Drummond | — | — |  | rare | no data — kept |
+| Dumbalk | — | — |  | rare | no data — kept |
+| Dunneworthy | — | — |  | rare | no data — kept |
+| Dumosa | — | — |  | rare | no data — kept |
+| Dunnstown | — | — |  | rare | no data — kept |
+| Gooramadda | Gooramadda | — | 🇦🇺 | rare | · |
+| Goschen | Goschen, Victoria | — | 🇦🇺 | rare | · |
+| Gowar East | Gowar East | — | 🇦🇺 | rare | · |
+| Gower | Gower, Victoria | — | 🇦🇺 | rare | · |
+| Gowanford | Gowanford | — | 🇦🇺 | rare | · |
+| Grahamvale | — | — |  | rare | no data — kept |
+| Granite Flat | — | — |  | rare | no data — kept |
+| Grantville | — | — |  | rare | no data — kept |
+| Granya | — | — |  | rare | no data — kept |
+| Grassmere | — | — |  | rare | no data — kept |
+| Graytown | — | — |  | rare | no data — kept |
+| Gredgwin | — | — |  | rare | no data — kept |
+| Grey River | — | — |  | rare | no data — kept |
+| Hume's Pass | — | — |  | rare | no data — kept |
+| Kimbolton | Kimbolton, Victoria | — | 🇦🇺 | rare | · |
+| Kialla East | Kialla East | — | 🇦🇺 | rare | · |
+| Kingston | — | — |  | rare | no data — kept |
+| Kingower | — | — |  | rare | no data — kept |
+| Kinnabulla | — | — |  | rare | no data — kept |
+| Kinypanial | — | — |  | rare | no data — kept |
+| Kirkstall | — | — |  | rare | no data — kept |
+| Kirwans Bridge | — | — |  | rare | no data — kept |
+| Knowsley | — | — |  | rare | no data — kept |
+| Koetong | — | — |  | rare | no data — kept |
+| Kofan, Mali | — | — |  | rare | no data — kept |
+| Kongwak | — | — |  | rare | no data — kept |
+| Lake Mountain | — | — |  | rare | no data — kept |
+| Marlbed | Marlbed | — | 🇦🇺 | rare | · |
+| Marnoo | Marnoo | — | 🇦🇺 | rare | · |
+| Manya | Manya, Victoria | — | 🇦🇺 | rare | · |
+| Marcus Hill | Marcus Hill, Victoria | — | 🇦🇺 | rare | · |
+| Marong | — | — |  | rare | no data — kept |
+| Maroona | — | — |  | rare | no data — kept |
+| Marungi | — | — |  | rare | no data — kept |
+| Maryknoll | — | — |  | rare | no data — kept |
+| Matlock | — | — |  | rare | no data — kept |
+| Maude | — | — |  | rare | no data — kept |
+| McIntyre | — | — |  | rare | no data — kept |
+| McKenzie Hill | — | — |  | rare | no data — kept |
+| Moora Moora | — | — |  | rare | no data — kept |
+| Mount Baw Baw | — | — |  | rare | no data — kept |
+| Naring | Naring | — | 🇦🇺 | rare | · |
+| Narraport | Narraport | — | 🇦🇺 | rare | · |
+| Narrawong | Narrawong | — | 🇦🇺 | rare | · |
+| Narrung | Narrung, Victoria | — | 🇦🇺 | rare | · |
+| Natte Yallock | — | — |  | rare | no data — kept |
+| Natya | — | — |  | rare | no data — kept |
+| Navigators | — | — |  | rare | no data — kept |
+| Neds Corner | — | — |  | rare | no data — kept |
+| Neereman | — | — |  | rare | no data — kept |
+| Neerim Junction | — | — |  | rare | no data — kept |
+| Neerim North | — | — |  | rare | no data — kept |
+| Neilborough | — | — |  | rare | no data — kept |
+| Reedy Creek | Reedy Creek, Victoria | — | 🇦🇺 | rare | · |
+| Reefton | Reefton, Victoria | — | 🇦🇺 | rare | · |
+| Rich Avon West | Rich Avon West | — | 🇦🇺 | rare | · |
+| Rheola | Rheola, Victoria | — | 🇦🇺 | rare | · |
+| Richmond Plains | Richmond Plains | — | 🇦🇺 | rare | · |
+| Ripplebrook | — | — |  | rare | no data — kept |
+| Rochford | — | — |  | rare | no data — kept |
+| Rokeby | — | — |  | rare | no data — kept |
+| Rokewood Junction | — | — |  | rare | no data — kept |
+| Rosebrook | — | — |  | rare | no data — kept |
+| Rosewhite | — | — |  | rare | no data — kept |
+| Ross Creek | — | — |  | rare | no data — kept |
+| Rubicon | — | — |  | rare | no data — kept |
+| Rossbridge | — | — |  | rare | no data — kept |
+| Springfield | — | — |  | rare | no data — kept |
+| Tatyoon | Tatyoon | — | 🇦🇺 | rare | · |
+| Tarraville | Tarraville | — | 🇦🇺 | rare | · |
+| Tarrington | Tarrington, Victoria | — | 🇦🇺 | rare | · |
+| Tarrengower | Tarrengower | — | 🇦🇺 | rare | · |
+| Tatura East | Tatura East | — | 🇦🇺 | rare | · |
+| Teddywaddy | — | — |  | rare | no data — kept |
+| Teddywaddy West | — | — |  | rare | no data — kept |
+| Telford | — | — |  | rare | no data — kept |
+| Tempy | — | — |  | rare | no data — kept |
+| Tenby Point | — | — |  | rare | no data — kept |
+| Tennyson | — | — |  | rare | no data — kept |
+| Terrappee | — | — |  | rare | no data — kept |
+| The Sisters | — | — |  | rare | no data — kept |
+| Watchem West | Watchem West | — | 🇦🇺 | rare | · |
+| Warrion | Warrion | — | 🇦🇺 | rare | · |
+| Valencia Creek | Valencia Creek, Victoria | — | 🇦🇺 | rare | · |
+| Waterford Park | Waterford Park, Victoria | — | 🇦🇺 | rare | · |
+| Watchupga | Watchupga | — | 🇦🇺 | rare | · |
+| Waterloo | — | — |  | rare | no data — kept |
+| Wattle Bank | — | — |  | rare | no data — kept |
+| Watsons Creek | — | — |  | rare | no data — kept |
+| Waubra | — | — |  | rare | no data — kept |
+| Wattle Flat | — | — |  | rare | no data — kept |
+| Weatherboard | — | — |  | rare | no data — kept |
+| Wedderburn Junction | — | — |  | rare | no data — kept |
 
 ## s7-melbourne-suburb
 
 | answer | article | views/mo | AU | tier | → |
 |---|---|---:|:-:|---|---|
-| Melbourne | Melbourne | 92197 | 🇦🇺 | uncommon | **common** |
-| Melbourne Airport | Melbourne Airport | 15097 | 🇦🇺 | rare | **common** |
+| Melbourne | Melbourne | 92197 | 🇦🇺 | common | · |
+| Melbourne Airport | Melbourne Airport | 15097 | 🇦🇺 | common | · |
 | Dandenong | Dandenong | 2215 | 🇦🇺 | common | · |
 | Fitzroy | Fitzroy, Victoria | 2169 | 🇦🇺 | common | · |
 | Box Hill | Box Hill, Victoria | 2007 | 🇦🇺 | common | · |
 | Richmond | Richmond, Victoria | 1988 | 🇦🇺 | common | · |
 | Kew | Kew, Victoria | 1939 | 🇦🇺 | common | · |
 | Brighton | Brighton, Victoria | 1916 | 🇦🇺 | common | · |
-| Sunbury | Sunbury, Victoria | 1818 | 🇦🇺 | uncommon | **common** |
+| Sunbury | Sunbury, Victoria | 1818 | 🇦🇺 | common | · |
 | Docklands | Docklands, Victoria | 1755 | 🇦🇺 | common | · |
-| Melton | Melton, Victoria | 1731 | 🇦🇺 | uncommon | **common** |
+| Melton | Melton, Victoria | 1731 | 🇦🇺 | common | · |
 | Glen Waverley | Glen Waverley | 1661 | 🇦🇺 | common | · |
 | Preston | Preston, Victoria | 1642 | 🇦🇺 | common | · |
 | Werribee | Werribee | 1631 | 🇦🇺 | common | · |
-| Craigieburn | Craigieburn, Victoria | 1615 | 🇦🇺 | uncommon | **common** |
+| Craigieburn | Craigieburn, Victoria | 1615 | 🇦🇺 | common | · |
 | Collingwood | Collingwood, Victoria | 1585 | 🇦🇺 | common | · |
 | Coburg | Coburg, Victoria | 1569 | 🇦🇺 | common | · |
-| Pakenham | Pakenham, Victoria | 1569 | 🇦🇺 | uncommon | **common** |
-| Beveridge | Beveridge, Victoria | 1504 | 🇦🇺 | deep | **common** |
-| Berwick | Berwick, Victoria | 1495 | 🇦🇺 | uncommon | **common** |
-| Truganina | Truganina | 1436 | 🇦🇺 | uncommon | **common** |
-| Clayton | Clayton, Victoria | 1435 | 🇦🇺 | uncommon | **common** |
+| Pakenham | Pakenham, Victoria | 1569 | 🇦🇺 | common | · |
+| Beveridge | Beveridge, Victoria | 1504 | 🇦🇺 | common | · |
+| Berwick | Berwick, Victoria | 1495 | 🇦🇺 | common | · |
+| Truganina | Truganina | 1436 | 🇦🇺 | common | · |
+| Clayton | Clayton, Victoria | 1435 | 🇦🇺 | common | · |
 | Southbank | Southbank, Victoria | 1424 | 🇦🇺 | common | · |
-| Tarneit | Tarneit | 1395 | 🇦🇺 | uncommon | **common** |
+| Tarneit | Tarneit | 1395 | 🇦🇺 | common | · |
 | Carlton | Carlton, Victoria | 1383 | 🇦🇺 | common | · |
-| Narre Warren | Narre Warren | 1372 | 🇦🇺 | uncommon | **common** |
+| Narre Warren | Narre Warren | 1372 | 🇦🇺 | common | · |
 | Reservoir | Reservoir, Victoria | 1332 | 🇦🇺 | common | · |
 | Heidelberg | Heidelberg, Victoria | 1323 | 🇦🇺 | common | · |
-| Warburton | Warburton, Victoria | 1321 | 🇦🇺 | rare | **common** |
-| Parkville | Parkville, Victoria | 1299 | 🇦🇺 | uncommon | **common** |
-| Mount Eliza | Mount Eliza, Victoria | 1283 | 🇦🇺 | uncommon | **common** |
+| Warburton | Warburton, Victoria | 1321 | 🇦🇺 | common | · |
+| Parkville | Parkville, Victoria | 1299 | 🇦🇺 | common | · |
+| Mount Eliza | Mount Eliza, Victoria | 1283 | 🇦🇺 | common | · |
 | Camberwell | Camberwell, Victoria | 1279 | 🇦🇺 | common | · |
 | Sunshine | Sunshine, Victoria | 1268 | 🇦🇺 | common | · |
 | Hawthorn | Hawthorn, Victoria | 1237 | 🇦🇺 | common | · |
-| Point Cook | Point Cook | 1232 | 🇦🇺 | uncommon | **common** |
-| Beaumaris | Beaumaris, Victoria | 1229 | 🇦🇺 | uncommon | **common** |
+| Point Cook | Point Cook | 1232 | 🇦🇺 | common | · |
+| Beaumaris | Beaumaris, Victoria | 1229 | 🇦🇺 | common | · |
 | Ringwood | Ringwood, Victoria | 1177 | 🇦🇺 | common | · |
-| Mount Martha | Mount Martha, Victoria | 1159 | 🇦🇺 | rare | **common** |
-| Mornington | Mornington, Victoria | 1156 | 🇦🇺 | uncommon | **common** |
-| Springvale | Springvale, Victoria | 1149 | 🇦🇺 | uncommon | **common** |
-| Hallam | Hallam, Victoria | 1145 | 🇦🇺 | uncommon | **common** |
+| Mount Martha | Mount Martha, Victoria | 1159 | 🇦🇺 | common | · |
+| Mornington | Mornington, Victoria | 1156 | 🇦🇺 | common | · |
+| Springvale | Springvale, Victoria | 1149 | 🇦🇺 | common | · |
+| Hallam | Hallam, Victoria | 1145 | 🇦🇺 | common | · |
 | Ivanhoe | Ivanhoe, Victoria | 1142 | 🇦🇺 | common | · |
 | Cranbourne | Cranbourne, Victoria | 1130 | 🇦🇺 | common | · |
 | Essendon | Essendon, Victoria | 1091 | 🇦🇺 | common | · |
-| Epping | Epping, Victoria | 1078 | 🇦🇺 | uncommon | **common** |
-| Cheltenham | Cheltenham, Victoria | 1076 | 🇦🇺 | uncommon | **common** |
+| Epping | Epping, Victoria | 1078 | 🇦🇺 | common | · |
+| Cheltenham | Cheltenham, Victoria | 1076 | 🇦🇺 | common | · |
 | Doncaster | Doncaster, Victoria | 1072 | 🇦🇺 | common | · |
-| St Albans | St Albans, Victoria | 1057 | 🇦🇺 | uncommon | **common** |
-| Lilydale | Lilydale, Victoria | 1040 | 🇦🇺 | uncommon | **common** |
-| Sorrento | Sorrento, Victoria | 1030 | 🇦🇺 | rare | **common** |
-| Healesville | Healesville | 986 | 🇦🇺 | rare | **common** |
-| Mulgrave | Mulgrave, Victoria | 983 | 🇦🇺 | uncommon | **common** |
-| Oakleigh | Oakleigh, Victoria | 975 | 🇦🇺 | uncommon | **common** |
-| HMAS Cerberus | HMAS Cerberus (naval base) | 974 | 🇦🇺 | deep | **common** |
+| St Albans | St Albans, Victoria | 1057 | 🇦🇺 | common | · |
+| Lilydale | Lilydale, Victoria | 1040 | 🇦🇺 | common | · |
+| Sorrento | Sorrento, Victoria | 1030 | 🇦🇺 | common | · |
+| Healesville | Healesville | 986 | 🇦🇺 | common | · |
+| Mulgrave | Mulgrave, Victoria | 983 | 🇦🇺 | common | · |
+| Oakleigh | Oakleigh, Victoria | 975 | 🇦🇺 | common | · |
+| HMAS Cerberus | HMAS Cerberus (naval base) | 974 | 🇦🇺 | common | · |
 | Caulfield | Caulfield, Victoria | 968 | 🇦🇺 | common | · |
 | Broadmeadows | Broadmeadows | 952 | 🇦🇺 | common | · |
 | Kensington | Kensington, Victoria | 917 | 🇦🇺 | common | · |
-| Moorabbin Airport | Moorabbin Airport | 906 | 🇦🇺 | deep | **common** |
-| Croydon | Croydon, Victoria | 897 | 🇦🇺 | uncommon | **common** |
+| Moorabbin Airport | Moorabbin Airport | 906 | 🇦🇺 | common | · |
+| Croydon | Croydon, Victoria | 897 | 🇦🇺 | common | · |
 | Altona | Altona, Victoria | 894 | 🇦🇺 | common | · |
-| Moorabbin | Moorabbin, Victoria | 890 | 🇦🇺 | uncommon | **common** |
-| Mickleham | Mickleham, Victoria | 889 | 🇦🇺 | rare | **common** |
-| Burwood | Burwood, Victoria | 883 | 🇦🇺 | uncommon | **common** |
-| Bayswater | Bayswater, Victoria | 870 | 🇦🇺 | uncommon | **common** |
-| Boronia | Boronia, Victoria | 870 | 🇦🇺 | uncommon | **common** |
-| Canterbury | Canterbury, Victoria | 860 | 🇦🇺 | uncommon | **common** |
-| Ferntree Gully | Ferntree Gully | 857 | 🇦🇺 | uncommon | **common** |
-| Hastings | Hastings, Victoria | 849 | 🇦🇺 | rare | **common** |
-| Carnegie | Carnegie, Victoria | 841 | 🇦🇺 | uncommon | **common** |
-| Thomastown | Thomastown, Victoria | 840 | 🇦🇺 | uncommon | **common** |
-| Arthurs Seat | Arthurs Seat, Victoria | 836 | 🇦🇺 | rare | **common** |
-| Surrey Hills | Surrey Hills, Victoria | 834 | 🇦🇺 | uncommon | **common** |
-| Donnybrook | Donnybrook, Victoria | 831 | 🇦🇺 | rare | **common** |
-| Officer | Officer, Victoria | 817 | 🇦🇺 | uncommon | **common** |
+| Moorabbin | Moorabbin, Victoria | 890 | 🇦🇺 | common | · |
+| Mickleham | Mickleham, Victoria | 889 | 🇦🇺 | common | · |
+| Burwood | Burwood, Victoria | 883 | 🇦🇺 | common | · |
+| Bayswater | Bayswater, Victoria | 870 | 🇦🇺 | common | · |
+| Boronia | Boronia, Victoria | 870 | 🇦🇺 | common | · |
+| Canterbury | Canterbury, Victoria | 860 | 🇦🇺 | common | · |
+| Ferntree Gully | Ferntree Gully | 857 | 🇦🇺 | common | · |
+| Hastings | Hastings, Victoria | 849 | 🇦🇺 | common | · |
+| Carnegie | Carnegie, Victoria | 841 | 🇦🇺 | common | · |
+| Thomastown | Thomastown, Victoria | 840 | 🇦🇺 | common | · |
+| Arthurs Seat | Arthurs Seat, Victoria | 836 | 🇦🇺 | common | · |
+| Surrey Hills | Surrey Hills, Victoria | 834 | 🇦🇺 | common | · |
+| Donnybrook | Donnybrook, Victoria | 831 | 🇦🇺 | common | · |
+| Officer | Officer, Victoria | 817 | 🇦🇺 | common | · |
 | Sandringham | Sandringham, Victoria | 812 | 🇦🇺 | common | · |
-| Cape Schanck | Cape Schanck | 812 | 🇦🇺 | rare | **common** |
-| Greensborough | Greensborough, Victoria | 810 | 🇦🇺 | uncommon | **common** |
-| Portsea | Portsea, Victoria | 808 | 🇦🇺 | rare | **common** |
-| Dingley Village | Dingley Village | 804 | 🇦🇺 | uncommon | **common** |
-| Glenroy | Glenroy, Victoria | 792 | 🇦🇺 | uncommon | **common** |
-| Bentleigh | Bentleigh, Victoria | 790 | 🇦🇺 | uncommon | **common** |
-| Nunawading | Nunawading, Victoria | 781 | 🇦🇺 | uncommon | **common** |
+| Cape Schanck | Cape Schanck | 812 | 🇦🇺 | common | · |
+| Greensborough | Greensborough, Victoria | 810 | 🇦🇺 | common | · |
+| Portsea | Portsea, Victoria | 808 | 🇦🇺 | common | · |
+| Dingley Village | Dingley Village | 804 | 🇦🇺 | common | · |
+| Glenroy | Glenroy, Victoria | 792 | 🇦🇺 | common | · |
+| Bentleigh | Bentleigh, Victoria | 790 | 🇦🇺 | common | · |
+| Nunawading | Nunawading, Victoria | 781 | 🇦🇺 | common | · |
 | North Melbourne | North Melbourne | 767 | 🇦🇺 | common | · |
-| Rosebud | Rosebud, Victoria | 764 | 🇦🇺 | rare | **common** |
-| Clifton Hill | Clifton Hill, Victoria | 761 | 🇦🇺 | uncommon | **common** |
-| Abbotsford | Abbotsford, Victoria | 753 | 🇦🇺 | uncommon | **common** |
-| East Melbourne | East Melbourne | 750 | 🇦🇺 | uncommon | **common** |
+| Rosebud | Rosebud, Victoria | 764 | 🇦🇺 | common | · |
+| Clifton Hill | Clifton Hill, Victoria | 761 | 🇦🇺 | common | · |
+| Abbotsford | Abbotsford, Victoria | 753 | 🇦🇺 | common | · |
+| East Melbourne | East Melbourne | 750 | 🇦🇺 | common | · |
 | Caroline Springs | Caroline Springs | 747 | 🇦🇺 | uncommon | · |
 | Noble Park | Noble Park, Victoria | 747 | 🇦🇺 | uncommon | · |
 | Tullamarine | Tullamarine | 746 | 🇦🇺 | uncommon | · |
-| Mount Waverley | Mount Waverley, Victoria | 740 | 🇦🇺 | common | **uncommon** |
+| Mount Waverley | Mount Waverley, Victoria | 740 | 🇦🇺 | uncommon | · |
 | Warrandyte | Warrandyte | 738 | 🇦🇺 | uncommon | · |
 | Cremorne | Cremorne, New South Wales | 735 | 🇦🇺 | uncommon | · |
 | Deer Park | Deer Park, Victoria | 725 | 🇦🇺 | uncommon | · |
-| Mentone | Mentone, Victoria | 722 | 🇦🇺 | common | **uncommon** |
+| Mentone | Mentone, Victoria | 722 | 🇦🇺 | uncommon | · |
 | Murrumbeena | Murrumbeena, Victoria | 716 | 🇦🇺 | uncommon | · |
 | Montmorency | Montmorency, Victoria | 713 | 🇦🇺 | uncommon | · |
-| Moonee Ponds | Moonee Ponds | 709 | 🇦🇺 | common | **uncommon** |
+| Moonee Ponds | Moonee Ponds | 709 | 🇦🇺 | uncommon | · |
 | Laverton | Laverton, Victoria | 708 | 🇦🇺 | uncommon | · |
 | Hampton | Hampton, Victoria | 706 | 🇦🇺 | uncommon | · |
 | Black Rock | Black Rock, Victoria | 698 | 🇦🇺 | uncommon | · |
-| Somerton | Somerton, Victoria | 698 | 🇦🇺 | rare | **uncommon** |
+| Somerton | Somerton, Victoria | 698 | 🇦🇺 | uncommon | · |
 | Mernda | Mernda | 693 | 🇦🇺 | uncommon | · |
 | Blackburn | Blackburn, Victoria | 686 | 🇦🇺 | uncommon | · |
 | Hoppers Crossing | Hoppers Crossing | 686 | 🇦🇺 | uncommon | · |
@@ -1299,58 +1725,58 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Clyde | Clyde, Victoria | 659 | 🇦🇺 | uncommon | · |
 | Greenvale | Greenvale, Victoria | 652 | 🇦🇺 | uncommon | · |
 | Mooroolbark | Mooroolbark, Victoria | 652 | 🇦🇺 | uncommon | · |
-| Somerville | Somerville, Victoria | 651 | 🇦🇺 | rare | **uncommon** |
+| Somerville | Somerville, Victoria | 651 | 🇦🇺 | uncommon | · |
 | Rowville | Rowville | 640 | 🇦🇺 | uncommon | · |
 | Mill Park | Mill Park, Victoria | 633 | 🇦🇺 | uncommon | · |
 | Wyndham Vale | Wyndham Vale | 632 | 🇦🇺 | uncommon | · |
 | Keysborough | Keysborough | 630 | 🇦🇺 | uncommon | · |
 | West Melbourne | West Melbourne, Victoria | 607 | 🇦🇺 | uncommon | · |
 | Elsternwick | Elsternwick | 601 | 🇦🇺 | uncommon | · |
-| Rye | Rye, Victoria | 601 | 🇦🇺 | rare | **uncommon** |
+| Rye | Rye, Victoria | 601 | 🇦🇺 | uncommon | · |
 | Ashburton | Ashburton, Victoria | 599 | 🇦🇺 | uncommon | · |
 | Mitcham | Mitcham, Victoria | 597 | 🇦🇺 | uncommon | · |
 | Newport | Newport, Victoria | 596 | 🇦🇺 | uncommon | · |
 | Alphington | Alphington, Victoria | 586 | 🇦🇺 | uncommon | · |
-| Whittlesea | Whittlesea, Victoria | 581 | 🇦🇺 | rare | **uncommon** |
+| Whittlesea | Whittlesea, Victoria | 581 | 🇦🇺 | uncommon | · |
 | Rosanna | Rosanna, Victoria | 566 | 🇦🇺 | uncommon | · |
-| Flemington | Flemington, Victoria | 562 | 🇦🇺 | common | **uncommon** |
+| Flemington | Flemington, Victoria | 562 | 🇦🇺 | uncommon | · |
 | South Morang | South Morang | 562 | 🇦🇺 | uncommon | · |
 | Balwyn | Balwyn | 561 | 🇦🇺 | uncommon | · |
-| Wonga Park | Wonga Park | 561 | 🇦🇺 | rare | **uncommon** |
+| Wonga Park | Wonga Park | 561 | 🇦🇺 | uncommon | · |
 | Emerald | Emerald, Victoria | 561 | 🇦🇺 | uncommon | · |
 | Derrimut | Derrimut | 558 | 🇦🇺 | uncommon | · |
 | Spotswood | Spotswood, Victoria | 557 | 🇦🇺 | uncommon | · |
-| Braeside | Braeside, Victoria | 556 | 🇦🇺 | rare | **uncommon** |
-| Koo Wee Rup | Koo Wee Rup | 550 | 🇦🇺 | rare | **uncommon** |
+| Braeside | Braeside, Victoria | 556 | 🇦🇺 | uncommon | · |
+| Koo Wee Rup | Koo Wee Rup | 550 | 🇦🇺 | uncommon | · |
 | Vermont | Vermont, Victoria | 547 | 🇦🇺 | uncommon | · |
-| Nar Nar Goon | Nar Nar Goon | 544 | 🇦🇺 | rare | **uncommon** |
+| Nar Nar Goon | Nar Nar Goon | 544 | 🇦🇺 | uncommon | · |
 | Fairfield | Fairfield, Victoria | 537 | 🇦🇺 | uncommon | · |
 | Endeavour Hills | Endeavour Hills | 527 | 🇦🇺 | uncommon | · |
-| Chadstone | Chadstone | 522 | 🇦🇺 | common | **uncommon** |
+| Chadstone | Chadstone | 522 | 🇦🇺 | uncommon | · |
 | Templestowe | Templestowe | 519 | 🇦🇺 | uncommon | · |
-| Fraser Rise | Fraser Rise | 514 | 🇦🇺 | deep | **uncommon** |
+| Fraser Rise | Fraser Rise | 514 | 🇦🇺 | uncommon | · |
 | Roxburgh Park | Roxburgh Park | 512 | 🇦🇺 | uncommon | · |
-| Little River | Little River, Victoria | 511 | 🇦🇺 | rare | **uncommon** |
-| Kalkallo | Kalkallo | 507 | 🇦🇺 | rare | **uncommon** |
+| Little River | Little River, Victoria | 511 | 🇦🇺 | uncommon | · |
+| Kalkallo | Kalkallo | 507 | 🇦🇺 | uncommon | · |
 | Olinda | Olinda, Victoria | 507 | 🇦🇺 | uncommon | · |
 | Gladstone Park | Gladstone Park, Victoria | 505 | 🇦🇺 | uncommon | · |
 | Braybrook | Braybrook, Victoria | 502 | 🇦🇺 | uncommon | · |
-| Coolaroo | Coolaroo | 499 | 🇦🇺 | rare | **uncommon** |
+| Coolaroo | Coolaroo | 499 | 🇦🇺 | uncommon | · |
 | Scoresby | Scoresby, Victoria | 496 | 🇦🇺 | uncommon | · |
-| Diggers Rest | Diggers Rest | 495 | 🇦🇺 | rare | **uncommon** |
-| Ravenhall | Ravenhall, Victoria | 495 | 🇦🇺 | deep | **uncommon** |
+| Diggers Rest | Diggers Rest | 495 | 🇦🇺 | uncommon | · |
+| Ravenhall | Ravenhall, Victoria | 495 | 🇦🇺 | uncommon | · |
 | Beaconsfield | Beaconsfield, Victoria | 494 | 🇦🇺 | uncommon | · |
 | Kilsyth | Kilsyth, Victoria | 493 | 🇦🇺 | uncommon | · |
-| Eynesbury | Eynesbury, Victoria | 491 | 🇦🇺 | deep | **uncommon** |
+| Eynesbury | Eynesbury, Victoria | 491 | 🇦🇺 | uncommon | · |
 | Williams Landing | Williams Landing | 491 | 🇦🇺 | uncommon | · |
-| Bunyip | Bunyip, Victoria | 491 | 🇦🇺 | rare | **uncommon** |
+| Bunyip | Bunyip, Victoria | 491 | 🇦🇺 | uncommon | · |
 | Highett | Highett, Victoria | 486 | 🇦🇺 | uncommon | · |
 | Ascot Vale | Ascot Vale | 485 | 🇦🇺 | uncommon | · |
 | Forest Hill | Forest Hill, Victoria | 481 | 🇦🇺 | uncommon | · |
 | Mont Albert | Mont Albert, Victoria | 478 | 🇦🇺 | uncommon | · |
 | Macleod | Macleod, Victoria | 478 | 🇦🇺 | uncommon | · |
 | Patterson Lakes | Patterson Lakes | 473 | 🇦🇺 | uncommon | · |
-| Aintree | Aintree, Victoria | 468 | 🇦🇺 | deep | **uncommon** |
+| Aintree | Aintree, Victoria | 468 | 🇦🇺 | uncommon | · |
 | Maidstone | Maidstone, Victoria | 464 | 🇦🇺 | uncommon | · |
 | Hillside | Hillside, Victoria | 462 | 🇦🇺 | uncommon | · |
 | Hampton Park | Hampton Park, Victoria | 460 | 🇦🇺 | uncommon | · |
@@ -1363,29 +1789,29 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Knoxfield | Knoxfield, Victoria | 427 | 🇦🇺 | uncommon | · |
 | Brooklyn | Brooklyn, Victoria | 426 | 🇦🇺 | uncommon | · |
 | Sydenham | Sydenham, Victoria | 426 | 🇦🇺 | uncommon | · |
-| Kings Park | Kings Park, Victoria | 423 | 🇦🇺 | deep | **uncommon** |
-| Notting Hill | Notting Hill, Victoria | 422 | 🇦🇺 | rare | **uncommon** |
+| Kings Park | Kings Park, Victoria | 423 | 🇦🇺 | uncommon | · |
+| Notting Hill | Notting Hill, Victoria | 422 | 🇦🇺 | uncommon | · |
 | Sassafras | Sassafras, Victoria | 422 | 🇦🇺 | uncommon | · |
-| Mambourin | Mambourin | 420 | 🇦🇺 | deep | **uncommon** |
+| Mambourin | Mambourin | 420 | 🇦🇺 | uncommon | · |
 | Upwey | Upwey, Victoria | 413 | 🇦🇺 | uncommon | · |
-| Manor Lakes | Manor Lakes, Victoria | 410 | 🇦🇺 | rare | **uncommon** |
-| Flinders | Flinders, Victoria | 408 | 🇦🇺 | rare | **uncommon** |
-| Clarinda | Clarinda, Victoria | 405 | 🇦🇺 | rare | **uncommon** |
+| Manor Lakes | Manor Lakes, Victoria | 410 | 🇦🇺 | uncommon | · |
+| Flinders | Flinders, Victoria | 408 | 🇦🇺 | uncommon | · |
+| Clarinda | Clarinda, Victoria | 405 | 🇦🇺 | uncommon | · |
 | Wheelers Hill | Wheelers Hill | 396 | 🇦🇺 | uncommon | · |
 | Watsonia | Watsonia, Victoria | 391 | 🇦🇺 | uncommon | · |
-| Oak Park | Oak Park, Victoria | 389 | 🇦🇺 | rare | **uncommon** |
-| Coldstream | Coldstream, Victoria | 389 | 🇦🇺 | rare | **uncommon** |
-| Carlton North | Carlton North | 386 | 🇦🇺 | common | **uncommon** |
-| St Andrews | St Andrews, Victoria | 386 | 🇦🇺 | rare | **uncommon** |
+| Oak Park | Oak Park, Victoria | 389 | 🇦🇺 | uncommon | · |
+| Coldstream | Coldstream, Victoria | 389 | 🇦🇺 | uncommon | · |
+| Carlton North | Carlton North | 386 | 🇦🇺 | uncommon | · |
+| St Andrews | St Andrews, Victoria | 386 | 🇦🇺 | uncommon | · |
 | Mount Dandenong | Mount Dandenong | 379 | 🇦🇺 | uncommon | · |
-| Lang Lang | Lang Lang, Victoria | 379 | 🇦🇺 | rare | **uncommon** |
-| Deanside | Deanside | 377 | 🇦🇺 | deep | **uncommon** |
-| Dromana | Dromana | 377 | 🇦🇺 | rare | **uncommon** |
+| Lang Lang | Lang Lang, Victoria | 379 | 🇦🇺 | uncommon | · |
+| Deanside | Deanside | 377 | 🇦🇺 | uncommon | · |
+| Dromana | Dromana | 377 | 🇦🇺 | uncommon | · |
 | Parkdale | Parkdale, Victoria | 375 | 🇦🇺 | uncommon | · |
 | Ormond | Ormond, Victoria | 374 | 🇦🇺 | uncommon | · |
 | Burnley | Burnley, Victoria | 369 | 🇦🇺 | uncommon | · |
-| Cockatoo | Cockatoo, Victoria | 365 | 🇦🇺 | rare | **uncommon** |
-| Safety Beach | Safety Beach | 364 | 🇦🇺 | rare | **uncommon** |
+| Cockatoo | Cockatoo, Victoria | 365 | 🇦🇺 | uncommon | · |
+| Safety Beach | Safety Beach | 364 | 🇦🇺 | uncommon | · |
 | Taylors Lakes | Taylors Lakes | 361 | 🇦🇺 | uncommon | · |
 | Bulleen | Bulleen | 355 | 🇦🇺 | uncommon | · |
 | Albion | Albion, Victoria | 355 | 🇦🇺 | uncommon | · |
@@ -1393,72 +1819,72 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Lynbrook | Lynbrook, Victoria | 355 | 🇦🇺 | uncommon | · |
 | Aspendale | Aspendale, Victoria | 352 | 🇦🇺 | uncommon | · |
 | Lower Plenty | Lower Plenty, Victoria | 351 | 🇦🇺 | uncommon | · |
-| Plenty | Lower Plenty, Victoria | 351 | 🇦🇺 | rare | **uncommon** |
+| Plenty | Lower Plenty, Victoria | 351 | 🇦🇺 | uncommon | · |
 | Chirnside Park | Chirnside Park | 347 | 🇦🇺 | uncommon | · |
-| Heatherton | Heatherton, Victoria | 347 | 🇦🇺 | rare | **uncommon** |
+| Heatherton | Heatherton, Victoria | 347 | 🇦🇺 | uncommon | · |
 | Meadow Heights | Meadow Heights, Victoria | 345 | 🇦🇺 | uncommon | · |
-| Blairgowrie | Blairgowrie, Victoria | 344 | 🇦🇺 | rare | **uncommon** |
-| Hadfield | Hadfield, Victoria | 343 | 🇦🇺 | rare | **uncommon** |
+| Blairgowrie | Blairgowrie, Victoria | 344 | 🇦🇺 | uncommon | · |
+| Hadfield | Hadfield, Victoria | 343 | 🇦🇺 | uncommon | · |
 | Doveton | Doveton | 339 | 🇦🇺 | uncommon | · |
-| Red Hill | Red Hill, Victoria | 336 | 🇦🇺 | rare | **uncommon** |
+| Red Hill | Red Hill, Victoria | 336 | 🇦🇺 | uncommon | · |
 | McKinnon | McKinnon, Victoria | 335 | 🇦🇺 | uncommon | · |
-| Rockbank | Rockbank | 331 | 🇦🇺 | rare | **uncommon** |
-| Thornhill Park | Thornhill Park | 330 | 🇦🇺 | deep | **uncommon** |
-| The Basin | The Basin, Victoria | 322 | 🇦🇺 | rare | **uncommon** |
-| Bulla | Bulla, Victoria | 320 | 🇦🇺 | rare | **uncommon** |
+| Rockbank | Rockbank | 331 | 🇦🇺 | uncommon | · |
+| Thornhill Park | Thornhill Park | 330 | 🇦🇺 | uncommon | · |
+| The Basin | The Basin, Victoria | 322 | 🇦🇺 | uncommon | · |
+| Bulla | Bulla, Victoria | 320 | 🇦🇺 | uncommon | · |
 | Hughesdale | Hughesdale, Victoria | 317 | 🇦🇺 | uncommon | · |
 | Viewbank | Viewbank | 309 | 🇦🇺 | uncommon | · |
-| Garfield | Garfield, Victoria | 306 | 🇦🇺 | rare | **uncommon** |
-| Yarra Glen | Yarra Glen | 305 | 🇦🇺 | rare | **uncommon** |
-| Waterways | Waterways, Victoria | 305 | 🇦🇺 | rare | **uncommon** |
-| Deepdene | Deepdene, Victoria | 304 | 🇦🇺 | rare | **uncommon** |
-| Aberfeldie | Aberfeldie | 303 | 🇦🇺 | rare | **uncommon** |
-| Lysterfield | Lysterfield, Victoria | 301 | 🇦🇺 | rare | **uncommon** |
+| Garfield | Garfield, Victoria | 306 | 🇦🇺 | uncommon | · |
+| Yarra Glen | Yarra Glen | 305 | 🇦🇺 | uncommon | · |
+| Waterways | Waterways, Victoria | 305 | 🇦🇺 | uncommon | · |
+| Deepdene | Deepdene, Victoria | 304 | 🇦🇺 | uncommon | · |
+| Aberfeldie | Aberfeldie | 303 | 🇦🇺 | uncommon | · |
+| Lysterfield | Lysterfield, Victoria | 301 | 🇦🇺 | uncommon | · |
 | Monbulk | Monbulk | 301 | 🇦🇺 | uncommon | · |
 | Lyndhurst | Lyndhurst, Victoria | 296 | 🇦🇺 | uncommon | · |
 | Taylors Hill | Taylors Hill, Victoria | 295 | 🇦🇺 | uncommon | · |
 | Tecoma | Tecoma, Victoria | 294 | 🇦🇺 | uncommon | · |
-| Plumpton | Plumpton, Victoria | 291 | 🇦🇺 | rare | **uncommon** |
+| Plumpton | Plumpton, Victoria | 291 | 🇦🇺 | uncommon | · |
 | Heathmont | Heathmont | 281 | 🇦🇺 | uncommon | · |
 | Eaglemont | Eaglemont | 279 | 🇦🇺 | uncommon | · |
-| Bittern | Bittern, Victoria | 278 | 🇦🇺 | rare | **uncommon** |
+| Bittern | Bittern, Victoria | 278 | 🇦🇺 | uncommon | · |
 | Glen Huntly | Glen Huntly | 277 | 🇦🇺 | uncommon | · |
-| South Wharf | South Wharf | 268 | 🇦🇺 | deep | **uncommon** |
-| Gembrook | Gembrook | 261 | 🇦🇺 | rare | **uncommon** |
-| Somers | Somers, Victoria | 260 | 🇦🇺 | rare | **uncommon** |
-| Burnside | Burnside, Victoria | 257 | 🇦🇺 | rare | **uncommon** |
-| Cobblebank | Cobblebank | 255 | 🇦🇺 | rare | **uncommon** |
-| Tottenham | Tottenham, Victoria | 254 | 🇦🇺 | rare | **uncommon** |
+| South Wharf | South Wharf | 268 | 🇦🇺 | uncommon | · |
+| Gembrook | Gembrook | 261 | 🇦🇺 | uncommon | · |
+| Somers | Somers, Victoria | 260 | 🇦🇺 | uncommon | · |
+| Burnside | Burnside, Victoria | 257 | 🇦🇺 | uncommon | · |
+| Cobblebank | Cobblebank | 255 | 🇦🇺 | uncommon | · |
+| Tottenham | Tottenham, Victoria | 254 | 🇦🇺 | uncommon | · |
 | Donvale | Donvale | 252 | 🇦🇺 | uncommon | · |
-| Strathtulloh | Strathtulloh | 249 | 🇦🇺 | deep | **rare** |
+| Strathtulloh | Strathtulloh | 249 | 🇦🇺 | rare | · |
 | Baxter | Baxter, Victoria | 246 | 🇦🇺 | rare | · |
 | Huntingdale | Huntingdale, Victoria | 242 | 🇦🇺 | rare | · |
 | Kingsbury | Kingsbury, Victoria | 242 | 🇦🇺 | rare | · |
 | Ardeer | Ardeer, Victoria | 242 | 🇦🇺 | rare | · |
 | Park Orchards | Park Orchards | 239 | 🇦🇺 | rare | · |
-| Keilor Downs | Keilor Downs | 238 | 🇦🇺 | uncommon | **rare** |
-| Christmas Hills | Christmas Hills, Victoria | 234 | 🇦🇺 | deep | **rare** |
+| Keilor Downs | Keilor Downs | 238 | 🇦🇺 | rare | · |
+| Christmas Hills | Christmas Hills, Victoria | 234 | 🇦🇺 | rare | · |
 | Silvan | Silvan, Victoria | 231 | 🇦🇺 | rare | · |
 | Kallista | Kallista | 228 | 🇦🇺 | rare | · |
 | Gardenvale | Gardenvale | 222 | 🇦🇺 | rare | · |
 | Balnarring | Balnarring | 222 | 🇦🇺 | rare | · |
-| Bonbeach | Bonbeach | 221 | 🇦🇺 | uncommon | **rare** |
+| Bonbeach | Bonbeach | 221 | 🇦🇺 | rare | · |
 | Crib Point | Crib Point | 220 | 🇦🇺 | rare | · |
-| Altona Meadows | Altona Meadows | 218 | 🇦🇺 | uncommon | **rare** |
+| Altona Meadows | Altona Meadows | 218 | 🇦🇺 | rare | · |
 | Briar Hill | Briar Hill, Victoria | 217 | 🇦🇺 | rare | · |
 | Attwood | Attwood, Victoria | 217 | 🇦🇺 | rare | · |
 | Seville | Seville, Victoria | 217 | 🇦🇺 | rare | · |
 | Kangaroo Ground | Kangaroo Ground | 215 | 🇦🇺 | rare | · |
 | Seabrook | Seabrook, Victoria | 212 | 🇦🇺 | rare | · |
 | Yallambie | Yallambie | 210 | 🇦🇺 | rare | · |
-| Harkness | Harkness, Victoria | 210 | 🇦🇺 | deep | **rare** |
-| Capel Sound | Capel Sound | 210 | 🇦🇺 | deep | **rare** |
-| Mount Cottrell | Mount Cottrell | 209 | 🇦🇺 | deep | **rare** |
+| Harkness | Harkness, Victoria | 210 | 🇦🇺 | rare | · |
+| Capel Sound | Capel Sound | 210 | 🇦🇺 | rare | · |
+| Mount Cottrell | Mount Cottrell | 209 | 🇦🇺 | rare | · |
 | Tyabb | Tyabb | 208 | 🇦🇺 | rare | · |
 | Woori Yallock | Woori Yallock | 207 | 🇦🇺 | rare | · |
-| Brunswick | Brunswick West | 205 | 🇦🇺 | common | **rare** |
+| Brunswick | Brunswick West | 205 | 🇦🇺 | rare | · |
 | St Helena | St Helena, Victoria | 203 | 🇦🇺 | rare | · |
-| Bonnie Brook | Bonnie Brook | 203 | 🇦🇺 | deep | **rare** |
+| Bonnie Brook | Bonnie Brook | 203 | 🇦🇺 | rare | · |
 | Selby | Selby, Victoria | 201 | 🇦🇺 | rare | · |
 | Delahey | Delahey | 200 | 🇦🇺 | rare | · |
 | Botanic Ridge | Botanic Ridge | 200 | 🇦🇺 | rare | · |
@@ -1467,83 +1893,85 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Ferny Creek | Ferny Creek | 193 | 🇦🇺 | rare | · |
 | Chelsea Heights | Chelsea Heights, Victoria | 185 | 🇦🇺 | rare | · |
 | Yarrambat | Yarrambat | 180 | 🇦🇺 | rare | · |
-| Eumemmerring | Eumemmerring | 179 | 🇦🇺 | deep | **rare** |
-| Macclesfield | Macclesfield, Victoria | 178 | 🇦🇺 | deep | **rare** |
+| Eumemmerring | Eumemmerring | 179 | 🇦🇺 | rare | · |
+| Macclesfield | Macclesfield, Victoria | 178 | 🇦🇺 | rare | · |
 | Tootgarook | Tootgarook | 178 | 🇦🇺 | rare | · |
 | Panton Hill | Panton Hill | 177 | 🇦🇺 | rare | · |
 | McCrae | McCrae, Victoria | 177 | 🇦🇺 | rare | · |
-| Cardinia | Cardinia, Victoria | 176 | 🇦🇺 | deep | **rare** |
-| Carrum | Carrum | 176 | 🇦🇺 | uncommon | **rare** |
-| Launching Place | Launching Place | 174 | 🇦🇺 | deep | **rare** |
-| Weir Views | Weir Views | 171 | 🇦🇺 | deep | **rare** |
+| Cardinia | Cardinia, Victoria | 176 | 🇦🇺 | rare | · |
+| Carrum | Carrum | 176 | 🇦🇺 | rare | · |
+| Launching Place | Launching Place | 174 | 🇦🇺 | rare | · |
+| Mount Atkinson | Mount Atkinson, Victoria | 173 | 🇦🇺 | rare | · |
+| Weir Views | Weir Views | 171 | 🇦🇺 | rare | · |
 | Yarra Junction | Yarra Junction | 171 | 🇦🇺 | rare | · |
-| Edithvale | Edithvale | 170 | 🇦🇺 | uncommon | **rare** |
+| Edithvale | Edithvale | 170 | 🇦🇺 | rare | · |
 | Calder Park | Calder Park, Victoria | 166 | 🇦🇺 | rare | · |
-| Powelltown | Powelltown | 166 | 🇦🇺 | deep | **rare** |
+| Powelltown | Powelltown | 166 | 🇦🇺 | rare | · |
 | The Patch | The Patch, Victoria | 165 | 🇦🇺 | rare | · |
-| Gowanbrae | Gowanbrae | 164 | 🇦🇺 | deep | **rare** |
+| Gowanbrae | Gowanbrae | 164 | 🇦🇺 | rare | · |
 | Brookfield | Brookfield, Victoria | 163 | 🇦🇺 | rare | · |
 | Princes Hill | Princes Hill | 162 | 🇦🇺 | rare | · |
-| Fingal | Fingal, Victoria | 162 | 🇦🇺 | deep | **rare** |
-| Gruyere | Gruyere, Victoria | 158 | 🇦🇺 | deep | **rare** |
+| Fingal | Fingal, Victoria | 162 | 🇦🇺 | rare | · |
+| Gruyere | Gruyere, Victoria | 158 | 🇦🇺 | rare | · |
 | Shoreham | Shoreham, Victoria | 157 | 🇦🇺 | rare | · |
-| Bangholme | Bangholme | 154 | 🇦🇺 | deep | **rare** |
+| Bangholme | Bangholme | 154 | 🇦🇺 | rare | · |
 | Keilor Park | Keilor Park | 153 | 🇦🇺 | rare | · |
-| Kealba | Kealba | 152 | 🇦🇺 | deep | **rare** |
-| Cocoroc | Cocoroc | 152 | 🇦🇺 | deep | **rare** |
-| Quandong | Quandong, Victoria | 152 | 🇦🇺 | deep | **rare** |
-| Bend of Islands | Bend of Islands | 148 | 🇦🇺 | deep | **rare** |
-| Hoddles Creek | Hoddles Creek, Victoria | 147 | 🇦🇺 | deep | **rare** |
+| Kealba | Kealba | 152 | 🇦🇺 | rare | · |
+| Quandong | Quandong, Victoria | 152 | 🇦🇺 | rare | · |
+| Cocoroc | Cocoroc | 152 | 🇦🇺 | rare | · |
+| Bend of Islands | Bend of Islands | 148 | 🇦🇺 | rare | · |
+| Hoddles Creek | Hoddles Creek, Victoria | 147 | 🇦🇺 | rare | · |
 | Kalorama | Kalorama, Victoria | 145 | 🇦🇺 | rare | · |
 | Wattle Glen | Wattle Glen | 144 | 🇦🇺 | rare | · |
-| St Andrews Beach | St Andrews Beach | 144 | 🇦🇺 | deep | **rare** |
+| St Andrews Beach | St Andrews Beach | 144 | 🇦🇺 | rare | · |
 | Heidelberg Heights | Heidelberg Heights | 140 | 🇦🇺 | rare | · |
 | Main Ridge | Main Ridge, Victoria | 139 | 🇦🇺 | rare | · |
-| Millgrove | Millgrove, Victoria | 138 | 🇦🇺 | deep | **rare** |
+| Millgrove | Millgrove, Victoria | 138 | 🇦🇺 | rare | · |
 | Essendon Fields | Essendon Fields | 137 | 🇦🇺 | rare | · |
 | Seaholme | Seaholme | 133 | 🇦🇺 | rare | · |
 | Point Leo | Point Leo | 131 | 🇦🇺 | rare | · |
 | Badger Creek | Badger Creek, Victoria | 129 | 🇦🇺 | rare | · |
 | Tynong | Tynong | 128 | 🇦🇺 | rare | · |
 | Aspendale Gardens | Aspendale Gardens | 120 | 🇦🇺 | rare | · |
-| Maryknoll | Maryknoll, Victoria | 118 | 🇦🇺 | deep | **rare** |
-| Toolern Vale | Toolern Vale | 116 | 🇦🇺 | deep | **rare** |
+| Maryknoll | Maryknoll, Victoria | 118 | 🇦🇺 | rare | · |
+| Toolern Vale | Toolern Vale | 116 | 🇦🇺 | rare | · |
 | Sherbrooke | Sherbrooke, Victoria | 116 | 🇦🇺 | rare | · |
 | Wandin North | Wandin North | 113 | 🇦🇺 | rare | · |
-| Wildwood | Wildwood, Victoria | 111 | 🇦🇺 | deep | **rare** |
+| Wildwood | Wildwood, Victoria | 111 | 🇦🇺 | rare | · |
 | Albanvale | Albanvale | 108 | 🇦🇺 | rare | · |
-| Arthurs Creek | Arthurs Creek | 107 | 🇦🇺 | deep | **rare** |
+| Arthurs Creek | Arthurs Creek | 107 | 🇦🇺 | rare | · |
 | Burnside Heights | Burnside Heights | 106 | 🇦🇺 | rare | · |
 | Croydon Hills | Croydon Hills | 100 | 🇦🇺 | rare | · |
 | Boneo | Boneo | 100 | 🇦🇺 | rare | · |
-| Menzies Creek | Menzies Creek | 99 | 🇦🇺 | deep | **rare** |
-| Oaklands Junction | Oaklands Junction | 96 | 🇦🇺 | deep | **rare** |
-| Don Valley | Don Valley, Victoria | 95 | 🇦🇺 | deep | **rare** |
+| Menzies Creek | Menzies Creek | 99 | 🇦🇺 | rare | · |
+| Oaklands Junction | Oaklands Junction | 96 | 🇦🇺 | rare | · |
+| Don Valley | Don Valley, Victoria | 95 | 🇦🇺 | rare | · |
 | Merricks | Merricks | 94 | 🇦🇺 | rare | · |
-| Yellingbo | Yellingbo | 94 | 🇦🇺 | deep | **rare** |
-| Junction Village | Junction Village | 90 | 🇦🇺 | deep | **rare** |
+| Yellingbo | Yellingbo | 94 | 🇦🇺 | rare | · |
+| Junction Village | Junction Village | 90 | 🇦🇺 | rare | · |
 | Moorooduc | Moorooduc | 89 | 🇦🇺 | rare | · |
 | Tarrawarra | Tarrawarra | 87 | 🇦🇺 | rare | · |
-| Dixons Creek | Dixons Creek | 87 | 🇦🇺 | deep | **rare** |
-| Three Bridges | Three Bridges, Victoria | 86 | 🇦🇺 | deep | **rare** |
-| Clematis | Clematis, Victoria | 85 | 🇦🇺 | deep | **rare** |
-| Bayles | Bayles, Victoria | 83 | 🇦🇺 | deep | **rare** |
-| Steels Creek | Steels Creek, Victoria | 81 | 🇦🇺 | deep | **rare** |
-| Yering | Yering | 78 | 🇦🇺 | deep | **rare** |
-| Wesburn | Wesburn | 77 | 🇦🇺 | deep | **rare** |
+| Dixons Creek | Dixons Creek | 87 | 🇦🇺 | rare | · |
+| Three Bridges | Three Bridges, Victoria | 86 | 🇦🇺 | rare | · |
+| Clematis | Clematis, Victoria | 85 | 🇦🇺 | rare | · |
+| Bayles | Bayles, Victoria | 83 | 🇦🇺 | rare | · |
+| Steels Creek | Steels Creek, Victoria | 81 | 🇦🇺 | rare | · |
+| Yering | Yering | 78 | 🇦🇺 | rare | · |
+| Upfield | Upfield, Victoria | 78 | 🇦🇺 | rare | · |
+| Wesburn | Wesburn | 77 | 🇦🇺 | rare | · |
 | Warranwood | Warranwood | 76 | 🇦🇺 | rare | · |
-| Catani | Catani | 76 | 🇦🇺 | deep | **rare** |
+| Catani | Catani | 76 | 🇦🇺 | rare | · |
 | Tremont | Tremont, Victoria | 74 | 🇦🇺 | deep | · |
 | Cottles Bridge | Cottles Bridge | 71 | 🇦🇺 | deep | · |
 | Chum Creek | Chum Creek | 71 | 🇦🇺 | deep | · |
 | Gladysdale | Gladysdale | 68 | 🇦🇺 | deep | · |
 | Smiths Gully | Smiths Gully | 66 | 🇦🇺 | deep | · |
-| Williamstown | Williamstown North | 65 | 🇦🇺 | common | **deep** |
+| Williamstown | Williamstown North | 65 | 🇦🇺 | deep | · |
 | Strathewen | Strathewen | 62 | 🇦🇺 | deep | · |
 | Nutfield | Nutfield, Victoria | 62 | 🇦🇺 | deep | · |
 | Exford | Exford, Victoria | 61 | 🇦🇺 | deep | · |
 | Tuerong | Tuerong | 61 | 🇦🇺 | deep | · |
-| Belgrave Heights | Belgrave Heights | 58 | 🇦🇺 | rare | **deep** |
+| Belgrave Heights | Belgrave Heights | 58 | 🇦🇺 | deep | · |
 | Avonsleigh | Avonsleigh | 58 | 🇦🇺 | deep | · |
 | Yuroke | Yuroke | 57 | 🇦🇺 | deep | · |
 | Mount Burnett | Mount Burnett, Victoria | 55 | 🇦🇺 | deep | · |
@@ -1557,31 +1985,32 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Guys Hill | Guys Hill | 39 | 🇦🇺 | deep | · |
 | Rythdale | Rythdale | 36 | 🇦🇺 | deep | · |
 | Grangefields | Grangefields | 35 | 🇦🇺 | deep | · |
+| Riverside Estate | Riverside Estate, Victoria | 28 | 🇦🇺 | rare | **deep** |
 | Monomeith | Monomeith | 24 | 🇦🇺 | deep | · |
-| Albert Park | Albert Park, Victoria | — | 🇦🇺 | common | · |
 | Port Melbourne | Port Melbourne | — | 🇦🇺 | common | · |
 | South Melbourne | South Melbourne | — | 🇦🇺 | common | · |
+| Albert Park | Albert Park, Victoria | — | 🇦🇺 | common | · |
 | Middle Park | Middle Park, Victoria | — | 🇦🇺 | uncommon | · |
 | St Kilda | — | — |  | common | no data — kept |
 | Balaclava | — | — |  | uncommon | no data — kept |
-| Elwood | — | — |  | common | no data — kept |
 | Ripponlea | — | — |  | uncommon | no data — kept |
+| Elwood | — | — |  | common | no data — kept |
 | Windsor | — | — |  | uncommon | no data — kept |
 | Prahran | — | — |  | common | no data — kept |
-| Toorak | — | — |  | common | no data — kept |
 | South Yarra | — | — |  | common | no data — kept |
-| Malvern | — | — |  | common | no data — kept |
+| Toorak | — | — |  | common | no data — kept |
 | Armadale | — | — |  | uncommon | no data — kept |
+| Malvern | — | — |  | common | no data — kept |
 | Kooyong | — | — |  | uncommon | no data — kept |
 | Glen Iris | — | — |  | uncommon | no data — kept |
-| Bundoora | Bundoora | — | 🇦🇺 | uncommon | · |
 | Bellfield | Bellfield, Victoria | — | 🇦🇺 | rare | · |
+| Bundoora | Bundoora | — | 🇦🇺 | uncommon | · |
 | Northcote | Northcote, Victoria | — | 🇦🇺 | common | · |
 | Thornbury | Thornbury, Victoria | — | 🇦🇺 | common | · |
-| Avondale Heights | Avondale Heights | — | 🇦🇺 | uncommon | · |
 | Pascoe Vale | Pascoe Vale | — | 🇦🇺 | uncommon | · |
-| Airport West | Airport West | — | 🇦🇺 | uncommon | · |
+| Avondale Heights | Avondale Heights | — | 🇦🇺 | uncommon | · |
 | Niddrie | Niddrie, Victoria | — | 🇦🇺 | uncommon | · |
+| Airport West | Airport West | — | 🇦🇺 | uncommon | · |
 | Strathmore | — | — |  | uncommon | no data — kept |
 | Strathmore Heights | — | — |  | rare | no data — kept |
 | Travancore | — | — |  | rare | no data — kept |
@@ -1590,13 +2019,13 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Seddon | — | — |  | uncommon | no data — kept |
 | Kingsville | — | — |  | uncommon | no data — kept |
 | Maribyrnong | — | — |  | uncommon | no data — kept |
-| Dallas | Dallas, Victoria | — | 🇦🇺 | rare | · |
 | Westmeadows | Westmeadows | — | 🇦🇺 | rare | · |
-| Campbellfield | Campbellfield | — | 🇦🇺 | uncommon | · |
+| Dallas | Dallas, Victoria | — | 🇦🇺 | rare | · |
 | Jacana | Jacana, Victoria | — | 🇦🇺 | rare | · |
-| Wollert | Wollert, Victoria | — | 🇦🇺 | rare | · |
-| Doreen | Doreen, Victoria | — | 🇦🇺 | uncommon | · |
+| Campbellfield | Campbellfield | — | 🇦🇺 | uncommon | · |
 | Lalor | Lalor, Victoria | — | 🇦🇺 | uncommon | · |
+| Doreen | Doreen, Victoria | — | 🇦🇺 | uncommon | · |
+| Wollert | Wollert, Victoria | — | 🇦🇺 | rare | · |
 | Yan Yean | — | — |  | rare | no data — kept |
 | Woodstock | — | — |  | deep | no data — kept |
 | Eden Park | — | — |  | deep | no data — kept |
@@ -1605,102 +2034,19 @@ Entries with no on-topic article keep their editorial tier (marked). `obvious`-p
 | Diamond Creek | — | — |  | uncommon | no data — kept |
 | Research | — | — |  | uncommon | no data — kept |
 | Hurstbridge | — | — |  | uncommon | no data — kept |
+| Harkaway | Harkaway, Victoria | — | 🇦🇺 | rare | · |
 | Devon Meadows | Devon Meadows | — | 🇦🇺 | deep | · |
 | Pearcedale | Pearcedale | — | 🇦🇺 | rare | · |
-| Harkaway | Harkaway, Victoria | — | 🇦🇺 | rare | · |
 | Tooradin | — | — |  | rare | no data — kept |
-| Blind Bight | — | — |  | deep | no data — kept |
 | Warneet | — | — |  | deep | no data — kept |
+| Blind Bight | — | — |  | deep | no data — kept |
 | Cannons Creek | — | — |  | deep | no data — kept |
 | Five Ways | — | — |  | deep | no data — kept |
 | Frankston | — | — |  | common | no data — kept |
 | Carrum Downs | — | — |  | uncommon | no data — kept |
 | Langwarrin | — | — |  | uncommon | no data — kept |
 | Seaford | — | — |  | uncommon | no data — kept |
-| Sandhurst | — | — |  | rare | no data — kept |
 | Skye | — | — |  | rare | no data — kept |
+| Sandhurst | — | — |  | rare | no data — kept |
 | Mordialloc | — | — |  | common | no data — kept |
 | Long Forest | — | — |  | deep | no data — kept |
-
-## s8-gor-town
-
-| answer | article | views/mo | AU | tier | → |
-|---|---|---:|:-:|---|---|
-| Geelong | Geelong | 9964 | 🇦🇺 | rare | **common** |
-| Warrnambool | Warrnambool | 3429 | 🇦🇺 | common | · |
-| Portland | Portland, Victoria | 2562 | 🇦🇺 | rare | **common** |
-| Colac | Colac, Victoria | 2012 | 🇦🇺 | rare | **common** |
-| Port Fairy | Port Fairy | 1896 | 🇦🇺 | rare | **common** |
-| Torquay | Torquay, Victoria | 1870 | 🇦🇺 | common | · |
-| Bells Beach | Bells Beach | 1856 | 🇦🇺 | uncommon | **common** |
-| Camperdown | Camperdown, Victoria | 1182 | 🇦🇺 | rare | **common** |
-| Queenscliff | Queenscliff, Victoria | 991 | 🇦🇺 | rare | **common** |
-| Lorne | Lorne, Victoria | 979 | 🇦🇺 | common | obvious |
-| Apollo Bay | Apollo Bay | 916 | 🇦🇺 | common | · |
-| Anglesea | Anglesea, Victoria | 849 | 🇦🇺 | common | · |
-| Port Campbell | Port Campbell | 783 | 🇦🇺 | common | · |
-| Ocean Grove | Ocean Grove, Victoria | 729 | 🇦🇺 | rare | **uncommon** |
-| Aireys Inlet | Aireys Inlet | 649 | 🇦🇺 | common | **uncommon** |
-| Cobden | Cobden, Victoria | 569 | 🇦🇺 | rare | **uncommon** |
-| Winchelsea | Winchelsea, Victoria | 558 | 🇦🇺 | rare | **uncommon** |
-| Point Lonsdale | Point Lonsdale | 500 | 🇦🇺 | rare | **uncommon** |
-| Cape Otway | Cape Otway | 475 | 🇦🇺 | rare | **uncommon** |
-| Barwon Heads | Barwon Heads | 470 | 🇦🇺 | rare | **uncommon** |
-| Birregurra | Birregurra | 426 | 🇦🇺 | rare | **uncommon** |
-| Wye River | Wye River, Victoria | 379 | 🇦🇺 | common | obvious |
-| Timboon | Timboon | 334 | 🇦🇺 | rare | **uncommon** |
-| Jan Juc | Jan Juc | 300 | 🇦🇺 | common | **uncommon** |
-| Beech Forest | Beech Forest, Victoria | 289 | 🇦🇺 | rare | **uncommon** |
-| Peterborough | Peterborough, Victoria | 253 | 🇦🇺 | uncommon | · |
-| Forrest | Forrest, Victoria | 189 | 🇦🇺 | rare | · |
-| Gellibrand | Gellibrand, Victoria | 174 | 🇦🇺 | rare | · |
-| Fairhaven | Fairhaven, Victoria | 169 | 🇦🇺 | uncommon | **rare** |
-| Simpson | Simpson, Victoria | 166 | 🇦🇺 | rare | · |
-| Kennett River | Kennett River, Victoria | 163 | 🇦🇺 | common | obvious |
-| Allansford | Allansford | 159 | 🇦🇺 | rare | · |
-| Princetown | Princetown, Victoria | 158 | 🇦🇺 | uncommon | **rare** |
-| Bellbrae | Bellbrae | 153 | 🇦🇺 | rare | · |
-| Lavers Hill | Lavers Hill | 146 | 🇦🇺 | uncommon | **rare** |
-| Moggs Creek | Moggs Creek | 139 | 🇦🇺 | rare | · |
-| Breamlea | Breamlea | 121 | 🇦🇺 | rare | · |
-| Johanna | Johanna, Victoria | 115 | 🇦🇺 | rare | · |
-| Freshwater Creek | Freshwater Creek, Victoria | 111 | 🇦🇺 | rare | · |
-| Deans Marsh | Deans Marsh | 89 | 🇦🇺 | rare | · |
-| Marengo | Marengo, Victoria | 71 | 🇦🇺 | rare | **deep** |
-| Skenes Creek | Skenes Creek | 70 | 🇦🇺 | uncommon | **deep** |
-| Barwon Downs | Barwon Downs | 63 | 🇦🇺 | rare | **deep** |
-| Pennyroyal | Pennyroyal, Victoria | 62 | 🇦🇺 | rare | **deep** |
-| Carlisle River | Carlisle River | 54 | 🇦🇺 | rare | **deep** |
-| Nullawarre | Nullawarre | 52 | 🇦🇺 | deep | · |
-| Separation Creek | Separation Creek | 48 | 🇦🇺 | uncommon | obvious |
-| Moonlight Head | Moonlight Head | 45 | 🇦🇺 | deep | · |
-| Eastern View | Eastern View | 44 | 🇦🇺 | rare | **deep** |
-| Sugarloaf | Sugarloaf, Victoria | 44 | 🇦🇺 | deep | · |
-| Cooriemungle | Cooriemungle | 44 | 🇦🇺 | rare | **deep** |
-| Scotts Creek | Scotts Creek, Victoria | 42 | 🇦🇺 | rare | **deep** |
-| Wongarra | Wongarra | 39 | 🇦🇺 | deep | · |
-| Nirranda | Nirranda | 39 | 🇦🇺 | deep | · |
-| Mount Sabine | Mount Sabine, Victoria | 37 | 🇦🇺 | rare | **deep** |
-| Boonah | Boonah, Victoria | 37 | 🇦🇺 | deep | · |
-| Benwerrin | Benwerrin | 36 | 🇦🇺 | rare | **deep** |
-| Curdievale | Curdievale | 33 | 🇦🇺 | rare | **deep** |
-| Grey River | Grey River, Victoria | 32 | 🇦🇺 | rare | **deep** |
-| Ferguson | Ferguson, Victoria | 32 | 🇦🇺 | deep | · |
-| Mepunga | Mepunga | 31 | 🇦🇺 | deep | · |
-| Glenaire | Glenaire Beach | 28 | 🇦🇺 | rare | **deep** |
-| Waarre | Waarre | 26 | 🇦🇺 | rare | **deep** |
-| Petticoat Creek | Petticoat Creek, Victoria | 24 | 🇦🇺 | deep | · |
-| Tanybryn | Tanybryn | 19 | 🇦🇺 | rare | **deep** |
-| Big Hill | — | — |  | deep | no data — kept |
-| Cumberland River | — | — |  | rare | no data — kept |
-| Hordern Vale | — | — |  | rare | no data — kept |
-| Wattle Hill | — | — |  | deep | no data — kept |
-| Yuulong | — | — |  | deep | no data — kept |
-| Twelve Apostles | — | — |  | rare | no data — kept |
-| Loch Ard Gorge | — | — |  | rare | no data — kept |
-| London Bridge | — | — |  | rare | no data — kept |
-| Newfield | — | — |  | rare | no data — kept |
-| Kennedys Creek | — | — |  | rare | no data — kept |
-| Wyelangta | — | — |  | deep | no data — kept |
-| Weeaproinah | — | — |  | deep | no data — kept |
-| Chapple Vale | — | — |  | rare | no data — kept |

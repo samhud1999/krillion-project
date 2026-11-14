@@ -3472,6 +3472,6306 @@
       ],
       "tier": "rare",
       "note": "Tiny Pyrenees locality near St Arnaud."
+    },
+    {
+      "canonical": "A1 Mine Settlement",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Abbeyard",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Aberfeldy",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Acheron",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Adams Estate",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Addington",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Adelaide Lead",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Agnes",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Aire Valley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Albacutya",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Alberton West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Alberton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Allambee Reserve",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Allans Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Allendale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Allenvale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Allestree",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Alma",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Almonds",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Almurta",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Altona",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Alvie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Amherst",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Amphitheatre",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ancona",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Anderson",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Anglers Rest",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Annuello",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Antwerp",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Appin South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Apsley",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Arawata",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Arcadia",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Archies Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ardmona",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Areegra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Argyle",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Armstrong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Arnold West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Arnold",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Arthurs Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Arthurs Seat",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Ascot, Ballarat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ascot, Bendigo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ashbourne",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Athlone",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Aubrey",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Auchmore",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Avonmore",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Avonsleigh",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Axe Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ayrford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Baarmutha",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Baddaginnie",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Badger Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bael Bael",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bagshot North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bagshot",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bahgallah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bald Hills",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Balintore",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ballangeich",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ballapur",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Balliang",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Balliang East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Balnarring",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Balnarring Beach",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bamawm",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bambill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bambill South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bambra",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bandiana",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bangerang",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bangholme",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bannerton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Banyan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barfold",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Baringhup",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Baringhup West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barkers Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barkly",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barkstead",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barnadown",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barnawartha",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Baromi",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barongarook",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barongarook West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barrabool",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Barramunga",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barraport",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barraport West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barrys Reef",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barwidgee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Barwon Downs",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Batesford",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bathumi",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Baxter",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bayles",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Baynton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Beaconsfield Upper",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bealiba",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bearii",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bears Lagoon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Beauchamp",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Beenak",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bellarine",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bellbridge",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bells Beach",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Bemm River",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bena",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Benambra",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Benayeo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bend of Islands",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bendoc",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Benetook",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Benwerrin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Beremboke",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Berrimal",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Berringa",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Berringama",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Berriwillock",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Berrook",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bessiebelle",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bethanga",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Beverford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Beveridge",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Big Desert",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Big Hill",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Big Pats Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Biggara",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bimbourie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Birchip West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Birdwoodton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bittern",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Black Hill",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Blairgowrie",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Blakeville",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Blampied",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Blind Bight",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Blowhard",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bochara",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bogong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Boigbeat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Boinka",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Boisdale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bolinda",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bolton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bolwarra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bolwarrah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bonegilla",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Boneo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Boolite",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Boomahnoomoonah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Boonah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Boorhaman",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Boosey",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Borung",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Boundary Bend",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Boweya North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Branxholme",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Breakaway Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Breamlea",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Brenanah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bridgewater North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Brimboal",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Brimin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Brimpaen",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bringalbert",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Brit Brit",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Broken Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Broughton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Browns Plains",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bruarong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Brucknell",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Buangor",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Buckland",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Buckley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Buckrabanyule",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Buffalo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bulga",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bulla",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Bullarook",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bullarto",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bullengarook",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bullioh",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Buln Buln East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Buln Buln",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bunbartha",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bundalong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bundalong South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bung Bong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bungaree",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Bunguluke",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bunyip North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Burkes Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Burramine",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Burramine South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Burrumbeet",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bushfield",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Bushy Park",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Buttlejorrk",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Buxton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Byaduk",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Byrneside",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cabarita",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Caldermeade",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Calivil",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Callawadda",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Callignee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cambarville",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Campbells Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Campbells Forest",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Campbelltown",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Canary Island",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cannons Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cannum",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cape Clear",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cape Conran",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cape Schanck",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Carag Carag",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Caramut",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Carapook",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cardinia",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cardross",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Carina",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Carlsruhe",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Carlyle",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Carngham",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Carrajung",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Carwarp",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cashmore",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cassilis",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Castella",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Castle Donnington",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Catani",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cathkin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Catumnal",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ceres",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Charam",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Charleroi",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cherokee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cheshunt",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Chetwynd",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cheviot",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Chewton Bushlands",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Chillingollah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Chinangin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Chinkapook",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Chirrip",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Christmas Hills",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Chum Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Chute",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Clarendon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Clarkefield",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Clarkes Hill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Clematis",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Clifton Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Clifton Springs",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Clonbinane",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Clydesdale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Coal Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cobaw",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cobram East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cobrico",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cocamba",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cochranes Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cockatoo",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Cocoroc",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Codrington",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Coghills Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Coimadai",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cokum",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Colac Colac",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Coldstream",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Condah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Congupna",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Connewarre",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cooma",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Coongulla",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Coonooer Bridge",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Coopers Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cooriemungle",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cora Lynn",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Corack East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Corindhap",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Corinella",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cornella",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cornishtown",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Coronet Bay",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Corop",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cororooke",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cosgrove South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cosgrove",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Costerfield",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cottles Bridge",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cowangie",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cowwarr",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Craigie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cranbourne South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Crib Point",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Crossley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Crowlands",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Crymelon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cudgee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Cudgewa",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Culgoa",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Cullulleraine",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Curdievale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Curlewis",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Curyo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Daisy Hill",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dalmore",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Dalyston",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dandongadale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Danyo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Darby River",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Darley",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Darnum",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Darraweit Guim",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dartmoor",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Dartmouth",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dean",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dederang",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Delegate River",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Dennington",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Denver",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Deptford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Derby",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Dereel",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Derrinal",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Devon Meadows",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dewhurst",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Dhurringile",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Diapur",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Digby",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Diggers Rest",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Dingee",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dixons Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Docker",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Doctors Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Don Valley",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Donnelly's Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Donnybrook",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Dooboobetic",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dooen",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Double Bridges",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Drumanure",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Drumborg",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Drummartin",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Drummond North",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Drummond",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dumbalk",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dumosa",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dunneworthy",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Dunnstown",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Durdidwarrah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Durham Ox",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eagle Point",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Eaglehawk North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "East Bendigo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "East Warburton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eastern View",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eastville",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eastwood",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ebden",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ecklin South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eddington",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Eden Park",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Eganstown",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Elaine",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ellerslie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Elliminyt",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Elmhurst",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Elphinstone",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Emu Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Emu Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Emu",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Enfield",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ensay",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Eppalock",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ercildoune",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eskdale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Esmond",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eurobin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Everton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Exford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Eynesbury",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Eyres House, Soldiers Hill, Ballarat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Falls Creek Alpine Resort",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Faraday",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Fentons Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ferguson",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Fernbank",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ferndale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Fernihurst",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Fernshaw",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Fiery Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Fingal",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Fish Point",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Fiskville",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Flagstaff",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Flinders",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Flora Hill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Flynn",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Fosterville",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Foxhow",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Franklinford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "French Island",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Freshwater Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Fryerstown",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Fumina South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gaffneys Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Galah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gapsted",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Garfield North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Garibaldi",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Garvoc",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gateway Island",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gelantipy",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Genoa",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gerahmin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gerang Gerung",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gherang",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gheringhap",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Giffard West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gil Gil",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gilderoy",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Girgarre",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gisborne South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gladfield",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gladysdale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glen Alvie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glen Forbes",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glenalbyn",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glenaroua",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glenburn",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Glengarry",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Glenlee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glenloth",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glenloth East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glenluce",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glenmaggie",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Glenmore",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Glenorchy",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gnarwarre",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Golden Beach",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Golden Gully",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Goldsborough",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Goomalibee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Goon Nure",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Goongerah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gooramadda",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Goornong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gorae West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gormandale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Goschen",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gowanford",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gowar East",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gower",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Grahamvale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Granite Flat",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Grantville",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Granya",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Grassmere",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Graytown",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gredgwin",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Green Gully",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Greendale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Greenhill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Greta West",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Grey River",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gringegalgona",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gruyere",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Gundowring",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Guys Hill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Gymbowen",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "HMAS Cerberus",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Haddon",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Hansonville",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Happy Valley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Harcourt North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Harmers Haven",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Harston",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hastings",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Hattah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Haven",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hawkesdale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Hazelwood North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hazelwood",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Heath Hill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Heathcote Junction",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Heathcote South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Heathmere",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Henty",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hesket",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hesse",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Hexham",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Heytesbury Settlement Scheme",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hill End",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Hoddles Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Hollands Landing",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Homebush",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Homewood",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Horfield",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hotspur",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hume's Pass",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Humevale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Hunter",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Huntly North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Huntly",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Huon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Icy Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Illowa",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Indigo Valley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Invergordon",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Iona",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Iraak",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Irishtown",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ironbark",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Irrewarra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Irrewillipe",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jack River",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jam Jerrup",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jancourt East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jarklin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jeeralang",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jeruk",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jil Jil",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jindivick",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Joel Joel",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Johnsonville",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Joyces Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Jumbunna",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Junction Village",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Jung",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Jungaburra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kaarimba",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kalkallo",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Kalkee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kallista",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kalpienung",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kamarooka North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kanagulk",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kancoona",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kangaroo Ground",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kanyapella",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Karawinna",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Karramomus",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Karween",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Karyrie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Katamatite East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Katandra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Katandra West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Katunga",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Keely",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kellalac",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kenley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kenmare",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kerang East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kergunyah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kernot",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kerrie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kevington",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kewell",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kialla",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kialla East",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kialla West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kiata",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kiewa",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kilmany",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kilmore East",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kimbolton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kingower",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kingston",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kinnabulla",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kinypanial",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kirkstall",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kirwans Bridge",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Knowsley",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Koetong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kofan, Mali",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kongwak",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Konongwootong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Koo Wee Rup North",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Kooloonong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Koonoomoo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Kooreh",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Koorlong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Korobeit",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Korong Vale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Koroop",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kotupna",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Koyuga",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Krowera",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kulwin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kunat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kurnwill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kurraca",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kurraca West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kurting",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Kyvalley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Laanecoorie",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Labertouche",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ladys Pass",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Laen",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Laharum",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lake Charm",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lake Marmal",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lake Meran",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lake Moodemere",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lake Mountain",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lake Powell",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lake Rowan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lake Tyers Mission",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lake Tyrrell",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lal Lal",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lalbert",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lamplough",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lancaster",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lance Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lang Lang East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Langi Logan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Langkoop",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Langley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Langwarrin South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lardner",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Larpent",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Launching Place",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lauriston",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lawler",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Leaghur",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Leichardt",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Leigh Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Leitchville",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lemnos",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Leonards Hill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Leopold",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lethbridge",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Lexton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Licola North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lillico",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Limestone",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lindenow",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lindsay Point",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Linga",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Liparoo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Little Desert",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Llanelly",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lockington",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Locksley",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lockwood South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lockwood",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Loddon Vale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Logan",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Longerenong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Longford",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Longlea",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Longwood",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lorquon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lower Moira",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lubeck",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Lucknow",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Lyal",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Macclesfield",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Macorna",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mafeking",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Maffra West Upper",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mailors Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Main Ridge",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Maindample",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Major Plains",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Majorca",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mambourin",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mandurang",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mandurang South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mangalore",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mannerim",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Manns Beach",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Manya",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Marcus Hill",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Marlbed",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Marnoo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Marong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Maroona",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Marungi",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Maryknoll",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Matlock",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Maude",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "McIntyre",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "McKenzie Hill",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "McLoughlins Beach",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "McMahons Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Meatian",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Meering West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Menzies Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mepunga",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Merbein South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Merbein West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Meringur",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Merino",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Merricks",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Merricks Beach",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Merricks North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Merrigum",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Merrimu",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Merrinee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Merton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Metcalfe East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Metcalfe",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mia Mia",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mickleham",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Miepoll",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Miga Lake",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Millbrook",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Millgrove",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Milloo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mincha",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Minimay",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mininera",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Minmindie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Miralie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mitchellstown",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mitiamo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mittyack",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Modella",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Modewarre",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Moggs Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Molesworth",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mologa",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Molyullah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Monbulk",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Monegeetta",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Monomeith",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Moolort",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Moonlight Head",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Moora Moora",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Moorabool",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Moorilim",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Moorooduc",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mooroopna North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mooroopna North West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Moranding",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Moriac",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Morkalla",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Morrisons",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Morton Plains",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mossiface",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mount Baw Baw",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mount Bolton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mount Buller Alpine Resort",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Mount Burnett",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mount Cottrell",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mount Dandenong",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Mount Egerton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mount Lonarch",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mount Mercer",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mount Moriac",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mount Rothwell",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mount Rowan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mount Sabine",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mount Stirling",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mount Toolebewong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Moyhu",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Muckatah",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Muckleford South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Muckleford",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mudgegonga",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mulcra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mundoona",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Munro",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Murchison East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Murnungin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Murphys Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Murra Warra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Murrabit",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Murrabit West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Murrawee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Murray-sunset",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Murraydale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Murrindindi",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Musk",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Muskerry",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Myall",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Myers Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Myola",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Myrniong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mysia",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Mystic Park",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Mywee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nandaly",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Nangana",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nanneella",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Napoleons",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nareewillock",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Naring",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Narraport",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Narrawong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Narre Warren East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Narrung",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Natte Yallock",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Natya",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Navigators",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Neds Corner",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Neereman",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Neerim Junction",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Neerim North",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Neilborough",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Nelse",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Netherby",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "New Gisborne",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Newborough",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Newbridge",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Newbury",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Newham",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Newlyn North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Newlyn",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Newmerella",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Newry",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Newtown",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Ngallo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nichols Point",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nicholson",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Nilma",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nilma North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ninda",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nine Mile",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nirranda",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "North Blackwood",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "North Wonthaggi",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Northwood",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nowie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nowingi",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nuggetty",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nurcoung",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nutfield",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nyarrin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Nyora",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Nyrraby",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Oaklands Junction",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Old Tallangatta",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Olinda",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Ombersley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Orford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Orrvale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Outtrim",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ovens",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Oxley",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Painswick",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pakenham Upper",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pakenham",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Panitya",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Panmure",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Panton Hill",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Paradise Beach",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Paraparap",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Parkers Corner",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Parwan",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Paschendale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pastoria East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Patho",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pearcedale",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Pearson",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Peechelba",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pelluebla",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pennyroyal",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pental Island",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Pentland Hills",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Percydale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Petticoat Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pheasant Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Piangil",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Picola",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Picola West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pier Milan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pigeon Ponds",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pimpinio",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pine Grove",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pine Lodge",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pioneer Bay",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pira",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pirlta",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pirron Yallock",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Plenty",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Point Leo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Point Wilson",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Polisbet",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pompapiel",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Port Franklin",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Portsea",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "Pound Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Powlett Plains",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Prairie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Purnim",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Pyalong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Quambatook",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Quandong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Quarry Hill",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Queensferry",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Raglan",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rathscar",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ravenswood South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ravenswood",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Raywood",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Red Hill South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Red Hill",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Red Lion",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Redan",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Redbank",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Redcastle",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Redesdale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Reedy Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Reedy Dam",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Reefton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rheola",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rich Avon West",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Richmond Plains",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ripplebrook",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rochford",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rokeby",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rokewood Junction",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rosebrook",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rosewhite",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ross Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rossbridge",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Rowsley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Rubicon",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ruffy",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ryanston",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Rythdale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sailors Falls",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sailors Gully",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Salisbury West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sandford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sandon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sandy Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sassafras",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Scarsdale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Scotchmans Lead",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Scotsburn",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Scotts Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Seaton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sebastian",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sebastopol",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Sedgwick",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Serpentine",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Seville East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Seville",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "She Oaks",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Shelbourne",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Shelford",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Shelley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Shepherds Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Shepparton East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Shepparton North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sherbrooke",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Shoreham",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Silvan",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Silverleaves",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Skenes Creek North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Skinners Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Slaty Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Smeaton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Smiths Beach",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Smiths Gully",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Smoko",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Smythes Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Somers",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Somerville",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Sorrento",
+      "aliases": [],
+      "tier": "common"
+    },
+    {
+      "canonical": "South Dudley",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "South Purrumbete",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Southern Cross",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Spargo Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Speed",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Speewa",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Spring Gully",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Springbank",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Springfield",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Springhurst",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "St Andrews Beach",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "St Andrews",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "St Arnaud East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "St Clair",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "St Helens",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "St James",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Staghorn Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Stanhope",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Staughton Vale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Steels Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Stonehaven",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Stony Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Strangways",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Straten",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Strath Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Strathallan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Strathbogie",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Strathewen",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Strathlea",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Streatham",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Stuart Mill",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sugarloaf",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Suggan Buggan",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Summerlands",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sunday Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sunderland Bay",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sunnycliffs",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sunset Strip",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Surf Beach",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sutherland",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sutherlands Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sutton Grange",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Sutton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Swan Bay",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Swan Hill West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Swan Island",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Swan Marsh",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Swan Reach",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Swanpool",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Sylvaterre",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tabor",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tahara",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tallandoon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tallygaroopna",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tambo Crossing",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tandarra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tangambalanga",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tanjil Bren",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tanybryn",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tarilta",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tarnagulla",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tarrango",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tarranyurk",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tarraville",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tarrawarra",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tarrawingee",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tarrengower",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tarrington",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tatong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tatura East",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tatyoon",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Teddywaddy",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Teddywaddy West",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Telford",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tempy",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tenby Point",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tennyson",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Terrappee",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Terrick Terrick",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Thalia",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "The Gurdies",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "The Sisters",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Thologolong",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Thoona",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Thornton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Three Bridges",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tidal River",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Timor",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tinamba",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tintaldra",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tittybong",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Tol Tol",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tolmie",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tom Groggin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tongio",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tonimbuk",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tooborac",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Toolamba",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Toolern Vale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Toolleen",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Toolondo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tooradin",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Toorongo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Torrita",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Torrumbarry",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tourello",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Towan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Towaninny",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Towaninny South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tower Hill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Towong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Towong Upper",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tragowel",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Trawalla",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Trawool",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Traynors Lagoon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Trentham East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tresco West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tresco",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tuerong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tunart",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Turoar",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Turriff East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Turriff",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tutye",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tyaak",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tyabb",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tyenna",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tyers",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tylden",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tynong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tynong North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tyntynder",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tyntynder South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tyrendarra",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Tyrrell Downs",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Tyrrell",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ultima East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ultima",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Ulupna",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Undera",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Underbool",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Upotipotpon",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Upper Gundowring",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Upper Plenty",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Valencia Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Vaughan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Ventnor",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Vervale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Vinifera",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "W Tree",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Waaia",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Waanyarra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Waarre",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Waggarandall",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wahring",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Waitchie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Walkerville",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wallace",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wallington",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wallup",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Walmer",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Walpeup",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Walwa",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Wandin East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wandin North",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wandong",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wandown",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wangie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wangoom",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Waratah Bay",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wareek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wargan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Warmur",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Warne",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Warneet",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Warrandyte",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Warrandyte South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Warrenbayne",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Warrion",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Warrong",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Watchem",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Watchem West",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Watchupga",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Waterford Park",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Waterloo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Watsons Creek",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wattle Bank",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wattle Flat",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Waubra",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Weatherboard",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wedderburn Junction",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wehla",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wellsford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Welshmans Reef",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wemen",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wensleydale",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Werona",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Werribee South",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Werrimull",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wesburn",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "West Bendigo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "West Creek",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Western Tyers",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Westmere",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Whipstick",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Whirily",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "White Hills",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Whorouly",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Whroo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wilby",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wildwood",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wilkur",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Willangie",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Willenabrina",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Willow Grove",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Willowmavin",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wilsons Hill",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wimbledon Heights",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Winchelsea South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Windermere",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wingan River",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Winlaton",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Winnamboo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Winslow",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Winton",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wiseleigh",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wonga Park",
+      "aliases": [],
+      "tier": "uncommon"
+    },
+    {
+      "canonical": "Wongarra",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wonnangatta",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wood Wood",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woodend North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woodford",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woodleigh",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woodside Beach",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Woodside",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Woodstock On Loddon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woodstock West",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woodstock",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Woodvale",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woolshed Flat",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woolsthorpe",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Woomelang",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wooragee",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woorinen",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woorinen North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woorinen South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woorndoo",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Woosang",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wunghnu",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wurdiboluc",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wurruk",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wy Yung",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Wycheproof South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wychitella",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wychitella North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wymlet",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Wyuna",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yaapeet",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yabba North",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yabba South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yalca",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yan Yean",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yanac",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yanakie",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yando",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yandoit",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yandoit Hills",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yangery",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yannathan",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yapeen",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yarraberb",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yarrambat",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yarrara",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yarrawalla",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yarrawonga South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yarroweyah",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yellingbo",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yelta",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yendon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yering",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Yeungroon",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yeungroon East",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yielima",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yinnar South",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Youanmite",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Youarang",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yundool",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Yuroke",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Zumsteins",
+      "aliases": [],
+      "tier": "rare"
     }
   ],
   "hostNotes": "Accept any gazetted town or locality in regional Victoria, including regional cities (Geelong, Ballarat, Bendigo) and alpine resort villages (Mount Buller, Falls Creek, Mount Hotham); spelling is forgiving, so match phonetically, and a town not in this bank is still correct if it exists (verify quickly and treat it as a deep cut). Yarra Valley and fringe townships (Healesville, Warburton, Gembrook, Koo Wee Rup, Whittlesea) sit inside the Greater Melbourne boundary but are universally treated as country towns, so accept them; Mornington Peninsula towns (Sorrento, Rye, Flinders) and outer suburbs (Sunbury, Melton, Pakenham, Werribee, Cranbourne) are the host's call, lean reject. Traps: Albury, Moama, Corowa, Mulwala, Barooga, Tocumwal and Deniliquin are NSW and Mount Gambier is SA, so reject them; 'Phillip Island', 'the Grampians', 'the Otways' and 'Wilsons Prom' are regions, not towns, so ask for a town (Cowes, Halls Gap, Apollo Bay, Foster)."

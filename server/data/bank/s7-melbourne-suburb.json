@@ -5548,6 +5548,21 @@
       ],
       "tier": "deep",
       "note": "Melton LGA locality around the mallee nature reserve"
+    },
+    {
+      "canonical": "Mount Atkinson",
+      "aliases": [],
+      "tier": "rare"
+    },
+    {
+      "canonical": "Riverside Estate",
+      "aliases": [],
+      "tier": "deep"
+    },
+    {
+      "canonical": "Upfield",
+      "aliases": [],
+      "tier": "rare"
     }
   ],
   "hostNotes": "Accept any gazetted suburb or locality in the 31 metropolitan LGAs; spelling is forgiving, so match phonetically, and a real suburb missing here is still correct (verify quickly, treat as deep). Directional variants (Brunswick East, Caulfield South, Box Hill North, Upper Ferntree Gully) are merged with the parent and score as the same answer, except Carlton North, Lower Plenty and North/South/East/West/Port Melbourne, which stand alone; Mornington Peninsula, Yarra Valley and Cardinia townships (Sorrento, Healesville, Koo Wee Rup) are technically metropolitan, so accept unless the room agreed otherwise. Traps: streets, shopping centres and landmarks (Chapel Street, Highpoint, Fountain Gate, the MCG) and council or region names with no suburb of that name (Knox, Monash, Hume, Wyndham, Casey, Bayside, the Dandenongs, the Peninsula) are not suburbs, so ask which suburb they mean; Geelong, Ballarat, Torquay, Lorne, Phillip Island and Bacchus Marsh are outside Melbourne, so reject."
